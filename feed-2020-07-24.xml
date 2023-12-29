@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 24, 2020</date>
+  <entry>
+    <title>How Harvard’s Star Computer-Science Professor Built a Distance-Learning Empire</title>
+    <quote>David Malan, who films CS50’s lectures in 4K high resolution, has written that the course’s high production value is “part of its pedagogy,” allowing students who tune in remotely to “feel no less a part of the classroom than students on campus.”</quote>
+    <link>https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire</link>
+  </entry>
+
+  <entry>
+    <title>OpenAI’s new language generator GPT-3 is shockingly good—and completely mindless</title>
+    <quote>The AI is the largest language model ever created and can generate amazing human-like text on demand but won't bring us closer to true intelligence.</quote>
+    <link>https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/?</link>
+  </entry>
+  
+  <entry>
+    <title>How Is COVID-19 Case Data Collected?</title>
+    <quote>The journey from a test swab to a record in a database</quote>
+    <link>https://medium.com/nightingale/how-is-covid-19-case-data-collected-9afd50630c08</link>
+  </entry>
+  
+  <entry>
+    <title>At Magazzino, Social Distancing Devices Vibrate. So Does the Art.</title>
+    <quote>A Hudson Valley oasis of Italian art debuts eight up-and-coming artists — and new wearable safety tech — upon its reopening.</quote>
+    <link>https://www.nytimes.com/2020/07/22/arts/design/magazzino-art-social-distancing-virus.html</link>
+  </entry>
+
+  <entry>
+    <title>Design Docs at Google</title>
+    <quote>One of the key elements of Google's software engineering culture is the use of defining software designs through design docs. These are relatively informal documents that the primary author or authors of a software system or application create before they embark on the coding project.</quote>
+    <link>https://www.industrialempathy.com/posts/design-docs-at-google/</link>
+  </entry>
+</feed>

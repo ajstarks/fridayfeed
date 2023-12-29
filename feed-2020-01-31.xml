@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 31, 2020</date>
+
+  <entry>
+    <title>Why Cancer-Spotting AI Needs To Be Handled With Care</title>
+    <quote>But for many in health care, what studies like these demonstrate is not just the promise of AI, but also its potential threat. They say that for all of the obvious abilities of algorithms to crunch data, the subtle, judgment-based skills of nurses and doctors are not so easily digitized. And in some areas where tech companies are pushing medical AI, this technology could exacerbate existing problems.</quote>
+    <link>https://www.theverge.com/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy</link>
+  </entry>
+  
+  <entry>
+    <title>Twelve Million Phones, One Dataset, Zero Privacy — An Interview with the New York Times’ Stuart A. Thompson</title>
+    <quote>His recent series with journalist Charlie Warzel, “One Nation, Tracked,” has gained significant attention in the data and privacy communities as the series breaks down 50 billion location ‘pings’ and 12 million unique IDs into being able to track the President of the United States’ every movement.</quote>
+    <link>https://medium.com/nightingale/twelve-million-phones-one-dataset-zero-privacy-an-interview-with-the-new-york-times-stuart-a-e2988d398ba3</link>
+  </entry>
+  
+  <entry>
+    <title>Remembering the LAN</title>
+    <quote>You can set up your environment so you can focus on being creative. Writing a web service for use by your friends should not be a form of combat</quote>
+    <link>https://crawshaw.io/blog/remembering-the-lan</link>
+  </entry>
+
+  <entry>
+    <title>The tools and tricks that let Ars Technica function without a physical office</title>
+    <quote>Looking at the “future of work” with a team that’s been living it for two decades.</quote>
+    <link>https://arstechnica.com/information-technology/2020/01/no-office-no-problem-how-ars-technicas-remote-workers-work/</link>
+  </entry>
+  
+  <entry>
+    <title>The iPad Awkwardly Turns 10</title>
+    <quote>Ten years ago today, Steve Jobs introduced the iPad on stage at the Yerba Buena theater in San Francisco. It surprised everyone, in several ways.</quote>
+    <link>https://daringfireball.net/2020/01/the_ipad_awkwardly_turns_10</link>
+  </entry>
+</feed>

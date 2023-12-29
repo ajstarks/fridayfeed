@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 21, 2020</date>
+  
+  <entry>
+    <title>Explorable Explanations</title>
+    <quote>Lion cubs play-fight to learn social skills. Rats play to learn emotional skills. Monkeys play to learn cognitive skills. And yet, in the last century, we humans have convinced ourselves that play is useless, and learning is supposed to be boring.</quote>
+    <link>https://explorabl.es/</link>
+  </entry>
+  
+  <entry>
+    <title>Hacker Laws: Laws, Theories, Principles and Patterns that developers will find useful.</title>
+    <quote>There are lots of laws which people discuss when talking about development. This repository is a reference and overview of some of the most common ones. </quote>
+    <link>https://github.com/dwmkerr/hacker-laws</link>
+  </entry>
+
+  <entry>
+    <title>Exploring Isotype Charts: “Only An Ocean Between”</title>
+    <quote>What better way to learn more about Isotype and gain inspiration from their designs than to view and discuss the work itself? This article — one of a series on Isotype — seeks to explain and celebrate the work by the Isotype Institute while revealing the process and design concepts used to create them.</quote>
+    <link>https://medium.com/nightingale/exploring-isotype-charts-only-an-ocean-between-part-1-399f227e1c69</link>
+  </entry>
+  
+  <entry>
+    <title>Working In Science Was A Brutal Education. That’s Why I Left.</title>
+    <quote>Science was being the only black person in the program for four years. Science was saying nothing because I was tired of being corrected about the particulars of my own experience. Science was being told that I should consider moving to the other side of town where more black people live.</quote>
+    <link>https://www.buzzfeednews.com/article/brandontaylor/i-dont-miss-being-a-scientist-except-when-i-do</link>
+  </entry>
+  
+  <entry>
+    <title>Iconic Icons: Designing the World of Windows</title>
+    <quote>This design choreography becomes more critical as technology advances. That’s why we’ve embarked on a multi-year effort across Microsoft’s design teams to redesign our icons: a system within a system.</quote>
+    <link>https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416</link>
+  </entry>
+</feed>

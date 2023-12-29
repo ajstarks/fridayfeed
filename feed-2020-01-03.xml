@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 3, 2020</date>
+
+  <entry>
+    <title>Using AI to improve breast cancer screening</title>
+    <quote>Over the last two years, we’ve been working with leading clinical research partners in the U.K. and U.S. to see if artificial intelligence could improve the detection of breast cancer. Today, we’re sharing our initial findings, which have been published in Nature. These findings show that our AI model spotted breast cancer in de-identified screening mammograms (where identifiable information has been removed) with greater accuracy, fewer false positives, and fewer false negatives than experts. </quote>
+    <link>https://blog.google/technology/health/improving-breast-cancer-screening/</link>
+  </entry>
+  
+  <entry>
+    <title>'Man on the Moon' moment - the year's big breakthroughs</title>
+    <quote>It has been a remarkable year of promise in medical science - from inventing ways of treating the untreatable to reversing paralysis and keeping the brain alive after death.</quote>
+    <link>https://www.bbc.com/news/health-50813226</link>
+  </entry>
+  
+  <entry>
+    <title>What Happened In The 2010s</title>
+    <quote>Here are the big things that happened in tech, startups, business, and more in the decade that is ending today, in no particular order of importance.</quote>
+    <link>https://avc.com/2019/12/what-happened-in-the-2010s/</link>
+  </entry>
+  
+  <entry>
+    <title>What Will Happen In The 2020s</title>
+    <quote>It’s 2020. Time to look forward to the decade that is upon us.</quote>
+    <link>https://avc.com/2020/01/what-will-happen-in-the-2020s/</link>
+  </entry>
+  
+  <entry>
+    <title>The Tech That Will Invade Our Lives in 2020</title>
+    <quote>From smart homes to ultrafast wireless speeds, here’s what to watch.</quote>
+    <link>https://www.nytimes.com/2020/01/01/technology/personaltech/tech-trends-2020.html</link>
+  </entry>
+
+  <entry>
+    <title>2019 Was the Year Data Visualization Hit the Mainstream</title>
+    <quote>From our president to our clothes to our books, this year showed that Dataviz has become an integral part of modern culture</quote>
+    <link>https://medium.com/nightingale/2019-was-the-year-data-visualization-hit-the-mainstream-d97685856ec</link>
+  </entry>
+</feed>
+$ 

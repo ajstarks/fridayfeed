@@ -1,0 +1,28 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 9, 2020</date>
+  
+  <entry>
+    <title>I Want to show you something</title>
+    <quote>Prowling around the empty nighttime suburbs with headphones on, trying to figure out if this tree in someone’s yard is a chestnut (no, chinquapin), I hear a man’s voice across the street behind me: M’AM. M’AM. M’AM!!!</quote>
+    <link>https://twitter.com/annasproul/status/1313992583136325632</link>
+  </entry>
+  
+  <entry>
+    <title>Good Intentions, Bad Inventions:The Four Myths of Healthy Tech</title>
+    <quote>The tech companies that design and build so many of the devices, platforms, and software we use for hours each day have embraced myths that push a flawed understanding of digital well-being. </quote>
+    <link>https://datasociety.net/wp-content/uploads/2020/10/Healthy-Tech-Myths-DataSociety-20201007.pdf</link>
+  </entry>
+
+  <entry>
+    <title>How The URL Was Built</title>
+    <quote>The Web was invented as a solution to the problem of passing around information between computers. Although this was possible before the Web, the absence of a uniform format and protocol made the whole process cumbersome.</quote>
+    <link>https://www.welcometothejungle.com/en/articles/btc-url-internet</link>
+  </entry>
+  
+  <entry>
+    <title>When Data visualization and Art Collide With the Humble Org Chart</title>
+    <quote>There’s a widespread belief that companies which are successful in digital achieve their goals because they have the right internal structures in place. I am intrigued by how you can visualize these structures beyond simple org charts, and whether or not a tangible representation of them reveals insights into the way a company is managed.</quote>
+    <link>https://medium.com/nightingale/when-data-visualization-and-art-collide-with-the-humble-org-chart-647a2df46c5c</link>
+  </entry>
+</feed>

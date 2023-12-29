@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 10, 2020</date>
+
+   <entry>
+    <title>U.S. cancer death rate drops by largest annual margin ever, report says</title>
+    <quote>The overall cancer death rate has been falling about 1.5% a year since 1991. It fell 2.2% from 2016 to 2017, according to the new American Cancer Society report. That’s the largest drop ever seen in national cancer statistics going back to 1930,</quote>
+    <link>https://www.statnews.com/2020/01/08/u-s-cancer-death-rate-drops-by-largest-annual-margin-ever-report-says/</link>
+  </entry>
+  
+  <entry>
+    <title>A Glimpse of Our Connected Tech Future, Courtesy of CES 2020</title>
+    <quote>Paying for gas with Amazon’s Alexa or playing table tennis with a robot: Whether the latest tech trends will become fixtures in our lives is an open question.</quote>
+    <link>https://www.nytimes.com/2020/01/10/technology/ces-2020.html</link>
+  </entry>
+  
+  <entry>
+    <title>Mastodon Makes The Internet Feel Like Home Again</title>
+    <quote>Having been on the service for nine months myself, I can confirm Mastodon is not a replacement for Twitter. It’s much better. It is the first place on the internet where I have felt comfortable in a long time.</quote>
+    <link>https://theoutline.com/post/2689/mastodon-makes-the-internet-feel-like-home-again</link>
+  </entry>
+  
+  <entry>
+    <title>How Library Science Helped Me Understand Databases</title>
+    <quote>I finally understood relational database design in a class that had nothing to do with databases and everything to do with library science. The class was called “Knowledge Organization Structures”.</quote>
+    <link>https://www.stephaniemorillo.co/post/how-library-science-helped-me-understand-databases</link>
+  </entry>
+
+  <entry>
+    <title>AMD’s 7nm Ryzen 4000 CPUs are here to take on Intel’s 10nm Ice Lake laptop chips</title>
+    <quote>Ryzen 7 4800U benchmarks 4 percent better in single-thread performance, 90 percent better in multithread cases, and 28 percent better for graphics compared to Intel’s closest competitor, the comparably specced Core i7-1065G7 from the company’s latest 10nm Ice Lake lineup.</quote>
+    <link>https://www.theverge.com/2020/1/6/21054007/amd-7nm-ryzen-4000-cpu-ces-2020-intel-competition-laptop-processors-zen-2</link>
+  </entry>
+  
+  <entry>
+    <title>A lazy fix 20 years ago means the Y2K bug is taking down computers now</title>
+    <quote>Those systems that used the quick fix have now reached the end of that window, and have rolled back to 1920. Utility company bills have reportedly been produced with the erroneous date 1920, while tens of thousands of parking meters in New York City have declined credit card transactions because of the date glitch.</quote>
+    <link>https://www.newscientist.com/article/2229238-a-lazy-fix-20-years-ago-means-the-y2k-bug-is-taking-down-computers-now/</link>
+  </entry>
+</feed>

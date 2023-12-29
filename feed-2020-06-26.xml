@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 26, 2020</date>
+  
+  <entry>
+    <title>What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias</title>
+    <quote>It’s a startling image that illustrates the deep-rooted biases of AI research. Input a low-resolution picture of Barack Obama, the first black president of the United States, into an algorithm designed to generate depixelated faces, and the output is a white man.</quote>
+    <link>https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias</link>
+  </entry>
+
+  <entry>
+    <title>'The Computer Got It Wrong': How Facial Recognition Led To False Arrest Of Black Man</title>
+    <quote>In January, police pulled up to Williams' home and arrested him while he stood on his front lawn in front of his wife and two daughters, ages 2 and 5, who cried as they watched their father being placed in the patrol car. His wife, Melissa Williams, wanted to know where police were taking her husband. 'Google it,'she recalls an officer telling her.</quote>
+    <link>https://www.npr.org/2020/06/24/882683463/the-computer-got-it-wrong-how-facial-recognition-led-to-a-false-arrest-in-michig</link>
+  </entry>
+  
+  <entry>
+    <title>WWDC 2020 Special Event Keynote — Apple</title>
+    <quote>Apple WWDC 2020 kicked off with big announcements, exciting reveals, inspiration, and new opportunities to create the most innovative apps in the world.</quote>
+    <link>https://www.youtube.com/watch?v=GEZhD3J89ZE</link>
+  </entry>
+  
+   <entry>
+    <title>Introducing Amazon Honeycode – Build Web and Mobile Apps Without Writing Code</title>
+    <quote>Today we are launching Amazon Honeycode in beta form. This new fully-managed AWS service gives you the power to build powerful mobile and web applications without writing any code. It uses the familiar spreadsheet model and lets you get started in minutes. If you or your teammates are already familiar with spreadsheets and formulas, you’ll be happy to hear that just about everything you know about sheets, tables, values, and formulas still applies.</quote>
+    <link>https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/</link>
+  </entry>
+  
+  <entry>
+    <title>Filtered for hallway tracks and spreadsheet parties</title>
+    <quote>When I’ve been posting about rethinking conferences in the Age of Zoom it’s all been about the talks. But conferences aren’t just talks…</quote>
+    <link>http://interconnected.org/home/2020/06/15/hallway_track</link>
+  </entry>
+</feed>

@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 24, 2020</date>
+
+   <entry>
+    <title>It’s Time To Build</title>
+    <quote>The problem is desire. We need to *want* these things. The problem is inertia. We need to want these things more than we want to prevent these things. The problem is regulatory capture. We need to want new companies to build these things, even if incumbents don’t like it, even if only to force the incumbents to build these things. And the problem is will. We need to build these things.</quote>
+    <link>https://a16z.com/2020/04/18/its-time-to-build/</link>
+  </entry>
+  
+  <entry>
+    <title>It’s Time To Learn</title>
+    <quote>Yesterday my feed had many references to a new Marc Andressen essay titled It’s Time to Build. I understand it’s popularity as it has an enthusiasm that’s in short supply in the tech world today. But what he has to say floats about the fray in a disturbing way</quote>
+    <link>https://scottberkun.com/2020/its-time-to-learn/</link>
+  </entry>
+  
+  <entry>
+    <title>Apple Aims to Sell Macs With Its Own Chips Starting in 2021</title>
+    <quote>Apple Inc. is planning to start selling Mac computers with its own main processors by next year, relying on designs that helped popularize the iPhone and iPad, according to people familiar with the matter.</quote>
+    <link>https://www.bloomberg.com/news/articles/2020-04-23/apple-aims-to-sell-macs-with-its-own-chips-starting-in-2021</link>
+  </entry>
+
+  <entry>
+    <title>Making macOS run well on ARM processors isn’t the hard part</title>
+    <quote>The hard part is clearly communicating to users and developers what the change will mean to them — and providing them with tools to deal with it. What software will work, won’t work, and will work slowly via emulation? What will developers need to do in order to port their apps over? Will porting an app to ARM even be worth the effort and cost?</quote>
+    <link>https://www.theverge.com/2020/4/24/21233661/macos-arm-processor-transition-apps-developers-catalyst-wwdc</link>
+  </entry>
+  
+  <entry>
+    <title>Things I Wished More Developers Knew About Databases</title>
+    <quote>In this series, I’m sharing a few insights I specifically found useful for developers who are not specialized in this domain.</quote>
+    <link>https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78</link>
+  </entry>
+  
+  <entry>
+    <title>3D photos on images from instagram profile pages</title>
+    <quote>A chrome extension that adds depth parallax (an effect similar to Facebook 3D photos) on images from instagram profile pages.</quote>
+    <link>https://github.com/cyrildiagne/instagram-3d-photo</link>
+  </entry>
+</feed>

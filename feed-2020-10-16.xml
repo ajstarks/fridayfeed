@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 16, 2020</date>
+  
+  <entry>
+    <title>How Speech-Recognition Software Discriminates against Minority Voices</title>
+    <quote>On average, the authors found, all five programs from leading technology companies, including Apple and Microsoft, showed significant race disparities; they were roughly twice as likely to incorrectly transcribe audio from Black speakers compared with white speakers.</quote>
+    <link>https://www.scientificamerican.com/article/how-speech-recognition-software-discriminates-against-minority-voices/</link>
+  </entry>
+  
+  <entry>
+    <title>Stations: Visualizing the Mechanics of Music </title>
+    <quote>Music is liquid architecture; Architecture is frozen music.</quote>
+    <link>https://medium.com/nightingale/stations-visualizing-the-mechanics-of-music-27341df498fd</link>
+  </entry>
+
+  <entry>
+    <title>Data Organization in Spreadsheets</title>
+    <quote>The basic principles are: be consistent, write dates like YYYY-MM-DD, do not leave any cells empty, put just one thing in a cell, organize the data as a single rectangle (with subjects as rows and variables as columns, and with a single header row), create a data dictionary, do not include calculations in the raw data files, do not use font color or highlighting as data, choose good names for things, make backups, use data validation to avoid data entry errors, and save the data in plain text files.</quote>
+    <link>https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989</link>
+  </entry>
+  
+  <entry>
+    <title>A Quarter Century of Hype - 25 Years of the Gartner Hype Cycle</title>
+    <quote>A presentation of several novel ways to visualize 25 years of the Gartner Hype Cycle. The goal is to demonstrate how one's understanding of complex information can benefit greatly from viewing the data from a fresh perspective.</quote>
+    <link>https://vimeo.com/464835556</link>
+  </entry>
+  
+  <entry>
+    <title>The way we run meetings now is hell for working moms</title>
+    <quote>Already time-strapped and stretched to their limits, working parents minding kids at home simply cannot afford to put up with meandering check-ins, inconvenient call times, and back-to-back Zoom tête-à-têtes, they say.</quote>
+    <link>https://qz.com/work/1917949/zoom-meetings-are-hell-for-working-moms/</link>
+  </entry>
+</feed>

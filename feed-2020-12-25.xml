@@ -1,0 +1,27 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 25, 2020</date>
+  <entry>
+    <title>Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine</title>
+    <quote>The BNT162b mRNA vaccine has this digital code at its heart. It is 4284 characters long, so it would fit in a bunch of tweets. At the very beginning of the vaccine production process, someone uploaded this code to a DNA printer (yes), which then converted the bytes on disk to actual DNA molecules.</quote>
+    <link>https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/</link>
+  </entry>
+  
+  <entry>
+    <title>How the US government hack happened, and what it means, explained by an expert</title>
+    <quote>It’s one of the largest and most brazen hacks in American history — and it may just be the beginning of a much larger global espionage effort.</quote>
+    <link>https://www.vox.com/22187866/usa-cyber-hack-solar-winds-microsoft</link>
+  </entry>
+
+  <entry>
+    <title>Why @Google fired me</title>
+    <quote>I'm finna tell yall why @Google fired me- their MOST successful diversity recruiter in the history of their company- with the receipts to support that statement.</quote>
+    <link>https://twitter.com/RealAbril/status/1341135819487100928</link>
+  </entry>
+  
+  <entry>
+    <title>New Yorker Photography in a Year of Crisis</title>
+    <quote>Among the many extraordinary challenges posed by 2020 were a few that were peculiar to photographers. When the pandemic hit, journalists who write for a living could conduct much of their reporting remotely, by phone or over Zoom, but photographers documenting the ravages of covid-19 had to go to the action—or at least within six feet of it.</quote>
+    <link>https://www.newyorker.com/culture/2020-in-review/new-yorker-photography-in-a-year-of-crisis</link>
+  </entry>
+</feed>

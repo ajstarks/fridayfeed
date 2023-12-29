@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 18, 2020</date>
+
+  <entry>
+    <title>I Have Blood on My Hands”: A Whistleblower Says Facebook Ignored Global Political Manipulation</title>
+    <quote> It’s the story of Facebook abdicating responsibility for malign activities on its platform that could affect the political fate of nations outside the United States or Western Europe. It's also the story of a junior employee wielding extraordinary moderation powers that affected millions of people without any real institutional support, and the personal torment that followed.</quote>
+    <link>https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo</link>
+  </entry>
+  
+  <entry>
+    <title>IBM has built a new drug-making lab entirely in the cloud</title>
+    <quote>On a blank canvas, they draw the skeletal structure of the molecular compounds they want to make, and the platform uses machine learning to predict the ingredients required and the order in which they should be mixed. It then sends the instructions to a robot in a remote lab to execute.</quote>
+    <link>https://www.technologyreview.com/2020/08/28/1007737/ibm-ai-robot-drug-making-lab-in-the-cloud/</link>
+  </entry>
+
+  <entry>
+    <title>Major pharma companies, including Novartis and Merck, build federated learning platform for drug discovery</title>
+    <quote>Today, contributors to the three-year MELLODDY project announced they have reached their first-year objective: successfully deploying the platform. Marking a larger milestone, they say they have also completed the platform’s first federated learning runs.</quote>
+    <link>https://venturebeat.com/2020/09/17/major-pharma-companies-including-novartis-and-merck-build-federated-learning-platform-for-drug-discovery/</link>
+  </entry>
+  
+  <entry>
+    <title>Zoom Fatigue and the New Ways to Party</title>
+    <quote>Virtual-reality coffee shops and party-simulation apps are aiming to help you gossip and mingle more realistically online.</quote>
+    <link>https://www.newyorker.com/culture/culture-desk/zoom-fatigue-and-the-new-ways-to-party</link>
+  </entry>
+
+  <entry>
+    <title>Viz What You Love</title>
+    <quote>Data visualization is a great way to celebrate our favorite pieces of art as well as reveal connections and ideas that were previously invisible. More importantly, it’s a fun way to connect things we love</quote>
+    <link>https://medium.com/nightingale/viz-what-you-love-4db256435456</link>
+  </entry>
+  
+</feed>

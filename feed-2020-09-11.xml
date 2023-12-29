@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 11, 2020</date>
+  
+  <entry>
+    <title>An AI-Run World Needs to Better Reflect People of Color</title>
+    <quote>uch of the data being used to train machine learning algorithms, which power the AI movement, doesn’t take ethnicity or race into consideration.</quote>
+    <link>https://www.wired.com/story/an-ai-run-world-needs-to-better-reflect-people-of-color/</link>
+  </entry>
+  
+  <entry>
+    <title>Give everybody the internet</title>
+    <quote>We need to get the internet to everyone in America. Here’s what it would take to do it.</quote>
+    <link>https://www.vox.com/recode/2020/9/10/21426810/internet-access-covid-19-chattanooga-municipal-broadband-fcc</link>
+  </entry>
+
+  <entry>
+    <title>Inside TikTok's killer algorithm</title>
+    <quote>The algorithm identifies similar videos to those that have engaged a user based on video information, which could include details like captions, hashtags or sounds. Recommendations also take into account user device and account settings, which include data like language preference, country setting, and device type.</quote>
+    <link>https://www.axios.com/inside-tiktoks-killer-algorithm-52454fb2-6bab-405d-a407-31954ac1cf16.html</link>
+  </entry>
+  
+  <entry>
+    <title>Applying Racial Equity Awareness in Data Visualization</title>
+    <quote>In the process of revising and expanding the style guide, we are taking a more diverse, equitable, and inclusive (DEI) perspective to our research, data, and visualizations.</quote>
+    <link>https://medium.com/@urban_institute/applying-racial-equity-awareness-in-data-visualization-bd359bf7a7ff</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

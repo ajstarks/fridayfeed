@@ -1,0 +1,39 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 19, 2020</date>
+
+   <entry>
+    <title>MakeSpace</title>
+    <quote>A whole new way to be together, apart.
+A browser for you, your friends, and your community.
+A place to co-create, co-work, or just hang out.
+MakeSpace for all of the above.</quote>
+    <link>https://makespace.fun/</link>
+  </entry>
+   
+  <entry>
+    <title>Apple, ARM, and Intel</title>
+    <quote>The most obvious implication of Apple’s shift — again, assuming the reporting is accurate — is that ARM Macs will have superior performance to Intel Macs on both a per-watt basis and a per-dollar basis. That means that the next version of the MacBook Air, for example, could be cheaper even as it has better battery life and far better performance (</quote>
+    <link>https://stratechery.com/2020/apple-arm-and-intel/</link>
+  </entry>
+
+  <entry>
+    <title>EarBuddy: Enabling On-Face Interaction via Wireless Earbuds</title>
+    <quote> We propose EarBuddy, a real-time system that leverages the microphone in commercial wireless earbuds to detect tapping and sliding gestures near the face and ears. We develop a design space to generate 27 valid gestures and conducted a user study (N=16) to select the eight gestures that were optimal for both human preference and microphone detectability</quote>
+    <link>https://dl.acm.org/doi/10.1145/3313831.3376836</link>
+  </entry>
+  
+  <entry>
+    <title>Sketching the World: An Icebreaker to Working With Data</title>
+    <quote>Map the world from memory and learn data visualisation fundamentals in five simple steps</quote>
+    <link>https://medium.com/nightingale/sketching-the-world-an-icebreaker-to-working-with-data-de8df5e0c21a</link>
+  </entry>
+  
+  <entry>
+    <title>How the Coronavirus Will Reshape Architecture</title>
+    <quote>In recent months, we have arrived at a new juncture of disease and architecture, where fear of contamination again controls what kinds of spaces we want to be in. As tuberculosis shaped modernism, so covid-19 and our collective experience of staying inside for months on end will influence architecture’s near future.</quote>
+    <link>https://www.newyorker.com/culture/dept-of-design/how-the-coronavirus-will-reshape-architecture</link>
+  </entry>
+  
+ 
+</feed>

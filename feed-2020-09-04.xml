@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 4, 2020</date>
+  
+  <entry>
+    <title>Unpopular Opinion - Data Scientists Should Be More End-to-End</title>
+    <quote> I believe data scientists can be more effective by being end-to-end. Here, I’ll discuss the benefits and counter-arguments, how to become end-to-end, and the experiences of Stitch Fix and Netflix.</quote>
+    <link>https://eugeneyan.com/writing/end-to-end-data-science/</link>
+  </entry>
+  
+  <entry>
+    <title>The birth of the IBM PC</title>
+    <quote>One analyst was quoted as saying that "IBM bringing out a personal computer would be like teaching an elephant to tap dance." During a meeting with top executives in New York, Lowe claimed his group could develop a small, new computer within a year. The response: "You're on. Come back in two weeks with a proposal."</quote>
+    <link>https://www.ibm.com/ibm/history/exhibits/pc25/pc25_birth.html</link>
+  </entry>
+
+  <entry>
+    <title>Digital pregnancy tests are almost as powerful as the original IBM PC</title>
+    <quote>Each test, which costs less than $5, includes a processor, RAM, a button cell battery, and a tiny LCD screen to display the result. The processor is an 8-bit Holtek microcontroller with 64 bytes of RAM, capable of running at either 4Mhz or 8Mhz depending on the battery configuration.</quote>
+    <link>https://www.theverge.com/tldr/2020/9/4/21422628/digital-pregnancy-test-teardown-processor-ram-ibm-pc</link>
+  </entry>
+
+  <entry>
+    <title>Gentle medicine could radically transform medical practice</title>
+    <quote>In short, as a response to the many problems in medicine today, gentle medicine suggests changes to clinical practice, the medical research agenda, and policies pertaining to regulation and intellectual property.</quote>
+    <link>https://aeon.co/ideas/how-gentle-medicine-could-radically-transform-medical-practice</link>
+  </entry>
+  
+  <entry>
+    <title>Three things digital ethics can learn from medical ethics</title>
+    <quote>Ethical codes, ethics committees, and respect for autonomy have been key to the development of medical ethics — elements that digital ethics would be advised to emulate.</quote>
+    <link>https://philpapers.org/archive/VLITTD.pdf</link>
+  </entry>
+  
+  
+</feed>

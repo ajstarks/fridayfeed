@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 3, 2020</date>
+
+   <entry>
+    <title>What Does It Mean to Decolonize Design?</title>
+    <quote>In everyday design work, to “shatter the familiar” might start by rethinking the needs of the audience you’re designing for. For example, have you considered how people of different ethnicities may identify with what you’re creating? An aspect of decoloniality is questioning how solutions might be experienced in someone else’s shoes.</quote>
+    <link>https://medium.com/aiga-eye-on-design/what-does-it-mean-to-decolonize-design-8fdc6b521c00</link>
+  </entry>
+  
+  <entry>
+    <title>Inside the Invasive, Secretive “Bossware” Tracking Workers</title>
+    <quote>While aimed at helping employers, bossware puts workers’ privacy and security at risk by logging every click and keystroke, covertly gathering information for lawsuits, and using other spying features that go far beyond what is necessary and proportionate to manage a workforce.</quote>
+    <link>https://www.eff.org/deeplinks/2020/06/inside-invasive-secretive-bossware-tracking-workers</link>
+  </entry>
+
+    <entry>
+    <title>MIT apologizes, permanently pulls offline huge dataset that taught AI systems to use racist, misogynistic slurs</title>
+    <quote>MIT has taken offline its highly cited dataset that trained AI systems to potentially describe people using racist, misogynistic, and other problematic terms.</quote>
+    <link>https://www.theregister.com/2020/07/01/mit_dataset_removed</link>
+  </entry>
+  
+  <entry>
+    <title>Unlocking value with durable teams</title>
+    <quote>Over the past six months, my group at the Financial Times has moved from project-based teams to durable teams. In this post I’ll explain why we made that move and how this is helping us deliver bigger and better things for our customers.</quote>
+    <link>https://medium.com/ft-product-technology/unlocking-value-with-durable-teams-a70efb435a19</link>
+  </entry>
+  
+  <entry>
+    <title>Socializing in a World of Social Distance: A COVID-19 Data Journey</title>
+    <quote>Using data visualization to tell the story of one author’s daily communication habits in quarantine</quote>
+    <link>https://medium.com/nightingale/socializing-in-a-world-of-social-distance-a-covid-19-data-journey-a40141ec831d</link>
+  </entry>
+
+  <entry>
+    <title>Apple Silicon At WWDC</title>
+    <quote>his week, we’ll look at the most important announcement: Apple’s move from Intel, the historic Santa Clara giant that’s only interested in cookie-cutter chips, to a homegrown System On a Chip (or SOC) known as Apple Silicon.</quote>
+    <link>https://mondaynote.com/apple-silicon-at-wwdc-b37264343971</link>
+  </entry>
+</feed>

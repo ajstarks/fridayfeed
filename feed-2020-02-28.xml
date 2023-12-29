@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 28, 2020</date>
+  <entry>
+    <title>10 Breakthrough Technologies 2020</title>
+    <quote>Unhackable internet, Hyper-personalized medicine, Digital money, Anti-aging drugs, AI-discovered molecules, Satellite mega-constellations, Quantum supremacy, Tiny AI, Differential privacy, Climate change attribution</quote>
+    <link>https://www.technologyreview.com/lists/technologies/2020</link>
+  </entry>
+  
+  <entry>
+    <title>Big Tech Is Testing You</title>
+    <quote>Large-scale social experiments are now ubiquitous, and conducted without public scrutiny. Has this new era of experimentation remembered the lessons of the old?</quote>
+    <link>https://www.newyorker.com/magazine/2020/03/02/big-tech-is-testing-you</link>
+  </entry>
+
+  <entry>
+    <title>Musicians Algorithmically Generate Every Possible Melody, Release Them to Public Domain</title>
+    <quote>Two programmer-musicians wrote every possible MIDI melody in existence to a hard drive, copyrighted the whole thing, and then released it all to the public in an attempt to stop musicians from getting sued.</quote>
+    <link>https://www.vice.com/en_us/article/wxepzw/musicians-algorithmically-generate-every-possible-melody-release-them-to-public-domain</link>
+  </entry>
+  
+  <entry>
+    <title>Let's Encrypt Has Issued a Billion Certificates</title>
+    <quote>One thing that’s different now is that the Web is much more encrypted than it was. In June of 2017 approximately 58% of page loads used HTTPS globally, 64% in the United States. Today 81% of page loads use HTTPS globally, and we’re at 91% in the United States! This is an incredible achievement. That’s a lot more privacy and security for everybody.</quote>
+    <link>https://letsencrypt.org/2020/02/27/one-billion-certs</link>
+  </entry>
+  
+  <entry>
+    <title>Smithsonian Releases 2.8 Million Images Into Public Domain</title>
+    <quote>For the first time in its 174-year history, the Smithsonian has released 2.8 million high-resolution two- and three-dimensional images from across its collections onto an open access online platform for patrons to peruse and download free of charge. Featuring data and material from all 19 Smithsonian museums, nine research centers, libraries, archives and the National Zoo, the new digital depot encourages the public to not just view its contents, but use, reuse and transform them into just about anything they choose</quote>
+    <link>https://www.smithsonianmag.com/smithsonian-institution/smithsonian-releases-28-million-images-public-domain-180974263/</link>
+  </entry>
+</feed>

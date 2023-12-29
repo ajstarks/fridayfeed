@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 5, 2020</date>
+  <entry>
+    <title>Data for Black Lives</title>
+    <quote>We are a movement of scientists and activists. Data as protest. Data as accountability. Data as collective action.</quote>
+    <link>https://twitter.com/Data4BlackLives</link>
+  </entry>
+  
+  <entry>
+    <title>Watch NASA astronauts fly SpaceX’s Crew Dragon using touchscreens</title>
+    <quote>SpaceX’s Crew Dragon eschews the famous maze of manual controls and switches found on retired spacecraft like the Space Shuttle or the Apollo command modules. Instead, Crew Dragon pilots have just three large touchscreen panels in front of them and a few spare buttons below. So during the few times that they have to manually control the spacecraft, they do so using a video game-style interface on those screens.</quote>
+    <link>//www.theverge.com/2020/5/30/21275753/nasa-spacex-astronauts-fly-crew-dragon-touchscreen-controls</link>
+  </entry>
+  
+  <entry>
+    <title>Disinformation Strategies and Tactics</title>
+    <quote>Across the world more and more communities are being manipulated by fake news and misinformation. However, most people don't really understand how this is implemented. Join Gabrielle Lim, Researcher at Harvard's Shorenstein Center who will share with us common tactics and strategies used.</quote>
+    <link>https://internetfreedomfestival.org/wiki/index.php/Disinformation_Strategies_and_Tactics</link>
+  </entry>
+
+  <entry>
+    <title>Four User-Centered Strategies for Designing Useful Data Visualizations</title>
+    <quote>Without appropriate user involvement throughout the entire design cycle, the data viz tool might answer irrelevant questions, be too complex or too simple, and misalign with workflows or decision-making processes. These issues can all put the usability, utility, and experience of using the tool at risk. Your work may go unused or misused, and an opportunity for system awareness and improvement is lost.</quote>
+    <link>https://medium.com/nightingale/four-user-centred-strategies-for-designing-useful-data-visualizations-5c6daeb91c8f</link>
+  </entry>
+  
+  <entry>
+    <title>COVID-19 Data Literacy is for Everyone</title>
+    <quote>We created this webcomic to share some of their work and help empower audiences to better understand the COVID-19 data visualisations that now fill our everyday lives.</quote>
+    <link>https://medium.com/nightingale/covid-19-data-literacy-is-for-everyone-46120b58cec9</link>
+  </entry>
+</feed>

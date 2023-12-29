@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 14, 2020</date>
+  
+<entry>
+    <title>How a Popular Medical Device Encodes Racial Bias</title>
+    <quote>Pulse oximeters give biased results for people with darker skin. The consequences could be serious.</quote>
+    <link>http://bostonreview.net/science-nature-race/amy-moran-thomas-how-popular-medical-device-encodes-racial-bias</link>
+  </entry>
+
+  <entry>
+    <title>Developers, Choose Wisely: a Guide for Responsible Use of Machine Learning APIs</title>
+    <quote> I wondered whether the positive sentiment of the phrase “Fair &amp; Lovely” might trick the emotion analysis tool and lead to the misclassification of a sentence’s sentiment, even if the overall sentiment of the sentence may not be positive.</quote>
+    <link>https://medium.com/taraaz/developers-choose-wisely-a-guide-for-responsible-use-of-machine-learning-apis-e006e4263cae</link>
+  </entry>
+  
+  <entry>
+    <title>Taming the Tail: Adventures in Improving AI Economics</title>
+    <quote>As the CTO of one late-stage data startup put it, AI development often feels “closer to molecule discovery in pharma” than software engineering. This is because AI development is a process of experimenting, much like chemistry or physics. The job of an AI developer is to fit a statistical model to a dataset, test how well the model performs on new data, and repeat. This is essentially an attempt to reign in the complexity of the real world.</quote>
+    <link>https://a16z.com/2020/08/12/taming-the-tail-adventures-in-improving-ai-economics/</link>
+  </entry>
+
+  <entry>
+    <title>When Data Renders Invisible Illnesses Visible</title>
+    <quote>How ‘small’ data visualization helps complex patients be heard, seen, and believed</quote>
+    <link>https://medium.com/nightingale/when-data-renders-invisible-illnesses-visible-e585dfb5863b</link>
+  </entry>
+  
+  <entry>
+    <title>What a Doctor Learns From Watching You on Video Chat</title>
+    <quote>Patients and doctors are rediscovering the unexpected virtues and hidden pitfalls of homebound care.</quote>
+    <link>https://www.theatlantic.com/health/archive/2020/08/telemedicine-has-resurrected-house-call/614992/</link>
+  </entry>
+  
+  
+</feed>

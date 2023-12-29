@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 11, 2020</date>
+  
+  <entry>
+    <title>How our data encodes systematic racism</title>
+    <quote>Technologists must take responsibility for the toxic ideologies that our data sets and algorithms reflect.</quote>
+    <link>https://www.technologyreview.com/2020/12/10/1013617/racism-data-science-artificial-intelligence-ai-opinion/</link>
+  </entry>
+
+  <entry>
+    <title>How the Vaccine Will Get From the Lab to You</title>
+    <quote>For months, the country has faced down the massive logistical challenge of getting the vaccine to the right places at the right time.</quote>
+    <link>https://www.nytimes.com/interactive/2020/12/10/us/covid-vaccine-distribution.html</link>
+  </entry>
+  
+  <entry>
+    <title>AlphaFold: a solution to a 50-year-old grand challenge in biology</title>
+    <quote>We have been stuck on this one problem – how do proteins fold up – for nearly 50 years. To see DeepMind produce a solution for this, having worked personally on this problem for so long and after so many stops and starts, wondering if we’d ever get there, is a very special moment.</quote>
+    <link>https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology</link>
+  </entry>
+
+  <entry>
+    <title>Does AI Transform Data Visualization?</title>
+    <quote>It might be tempting to say that when AI can find patterns and outliers in a dataset faster and more accurately than people can, data visualization will become irrelevant and dashboards will become obsolete. If users can reliably ask a computer for whatever information they need, when they need it, would they still need to analyze charts to extract information and insights? We set out to find an answer.</quote>
+    <link>https://medium.com/nightingale/does-artificial-intelligence-mean-data-visualization-is-dead-ade70b7638cd</link>
+  </entry>
+  
+  <entry>
+    <title>Delivery companies are bringing holiday gifts — and vaccines</title>
+    <quote>This year, delivery companies are facing two heavy lifts at once: meeting unprecedented demand for holiday shipping while orchestrating complex logistics for coronavirus vaccine distribution.</quote>
+    <link>https://www.axios.com/delivery-companies-holiday-gifts-vaccines-00ee8205-986f-4274-bc46-c68db9c23684.html</link>
+  </entry>
+  
+  
+</feed>

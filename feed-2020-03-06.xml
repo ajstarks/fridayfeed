@@ -1,0 +1,39 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 6, 2020</date>
+  <entry>
+    <title>Films that dissolve rapidly when placed under the tongue or high in the cheek will make vaccines cheaper and more reliable</title>
+    <quote>My research group has developed a novel method to stabilize live viruses and other biological medicines in a rapidly dissolving film that does not require refrigeration and can be given by mouth.</quote>
+    <link>https://theconversation.com/vaccines-without-needles-new-shelf-stable-film-could-revolutionize-how-medicines-are-distributed-worldwide-132479</link>
+  </entry>
+  
+  <entry>
+    <title>The Soul of a New Machine: Rethinking the Computer</title>
+    <quote>While our software systems have become increasingly elastic, the physical substrate available to run that software (that is, the computer!) has remained stuck in a bygone era of PC architecture. Hyperscale infrastructure providers have long since figured this out, building machines that are fit to purpose -- but those advances have been denied to the mass market. In this talk, we will talk about our vision for a new, rack-scale, server-side machine -- and how we anticipate advances like open firmware, RISC-V, and Rust will play a central role in realizing that vision.</quote>
+    <link>https://www.youtube.com/watch?v=vvZA9n3e5pc</link>
+  </entry>
+
+  <entry>
+    <title>Demonstration of the QCCD trapped-ion quantum computer architecture</title>
+    <quote>Industrial giant Honeywell says it’s built the world’s best quantum computer</quote>
+    <link>https://www.honeywell.com/content/dam/honeywell/files/Beta_10_Quantum_3_3_2020.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Alibaba’s new AI system can detect coronavirus in seconds with 96% accuracy</title>
+    <quote>Chinese technology giant Alibaba recently developed an AI system for diagnosing the COVID-19 (coronavirus). Alibaba’s like Amazon, Microsoft, a video game company, and a nation-wide healthcare network all rolled into one with every branch being fed solutions from the company’s world-class AI department.</quote>
+    <link>https://thenextweb.com/neural/2020/03/02/alibabas-new-ai-system-can-detect-coronavirus-in-seconds-with-96-accuracy/</link>
+  </entry>
+  
+  <entry>
+    <title>p5.js 1.0 is Here!</title>
+    <quote>Today we are excited to announce the 1.0 Release of p5.js! p5.js is a JavaScript library that aims to make creative expression and coding on the web accessible and inclusive for artists, designers, educators, and beginners.</quote>
+    <link>https://medium.com/processing-foundation/p5-js-1-0-is-here-b7267140753a</link>
+  </entry>
+  
+  <entry>
+    <title>Scrap the Bar Chart to Show Changes Over Time</title>
+    <quote>Introducing the slope chart, a handy alternative that does away with extra “noise”</quote>
+    <link>https://medium.com/nightingale/scrap-the-bar-chart-to-show-changes-over-time-c2d6dae621c2</link>
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 15, 2020</date>
+  
+  <entry>
+    <title>The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet</title>
+    <quote>At 22, he single-handedly put a stop to the worst cyberattack the world had ever seen. Then he was arrested by the FBI. This is his untold story.</quote>
+    <link>https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/</link>
+  </entry>
+  
+  <entry>
+    <title>Our weird behavior during the pandemic is messing with AI models</title>
+    <quote>Machine-learning models trained on normal behavior are showing cracks —forcing humans to step in to set them straight.</quote>
+    <link>https://www.technologyreview.com/2020/05/11/1001563/covid-pandemic-broken-ai-machine-learning-amazon-retail-fraud-humans-in-the-loop/</link>
+  </entry>
+
+  <entry>
+    <title>Ethical Recommendations for COVID-19 Visualizations</title>
+    <quote>The stakes are high, and the data is complex. A practical guide to doing no harm for data designers working on COVID-19 visualizations</quote>
+    <link>https://medium.com/nightingale/ethical-design-recommendations-for-covid-19-visualizations-cb4a2677ae40</link>
+  </entry>
+  
+  <entry>
+    <title>WebAssembly COBOL Pong</title>
+    <quote>Pong written in COBOL, compiled to WebAssembly.</quote>
+    <link>https://moxon6.github.io/cobol-js-emscripten/</link>
+  </entry>
+  
+  <entry>
+    <title>Nvidia launches Clara Guardian to power smart hospitals with surveillance, sensors, and edge AI</title>
+    <quote>Nvidia insists smart hospitals can ensure cleaner environments and reduce the risk of spreading infectious diseases, including COVID-19. “If we can employ technologies like video and voice and use artificial intelligence to have a real-time active engagement to create actions and efficiencies for nurses, that’s a huge gain for health care professionals,</quote>
+    <link>https://venturebeat.com/2020/05/14/nvidia-launches-clara-guardian-to-power-smart-hospitals-with-surveillance-sensors-and-edge-ai/</link>
+  </entry>
+</feed>

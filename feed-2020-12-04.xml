@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 4, 2020</date>
+  
+ 
+  
+  <entry>
+    <title>We read the paper that forced Timnit Gebru out of Google. Here’s what it says</title>
+    <quote>The company's star ethics researcher highlighted the risks of large language models, which are key to Google's business.</quote>
+    <link>https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru</link>
+  </entry>
+
+  <entry>
+    <title>Five Lessons From Dave Chappelle</title>
+    <quote>one best not compete with Chappelle when it comes to story-telling; the way in which the comedian weaves together multiple stories from his childhood on up to the present to make his argument about why he should be paid for the rights to stream Chappelle’s Show is truly extraordinary.</quote>
+    <link>https://stratechery.com/2020/five-lessons-from-dave-chappelle/</link>
+  </entry>
+
+   <entry>
+    <title>Paving the Way for Electronic Organs-on-a-Chip</title>
+    <quote>It may sound like science fiction, but “organ on a chip” systems — devices capable of imitating the interaction of cells in a specific organ such as the lungs or liver — have begun to be used to test the effectiveness of drugs in the past few years.</quote>
+    <link>https://www.nist.gov/blogs/taking-measure/paving-way-electronic-organs-chip</link>
+  </entry>
+  
+  <entry>
+    <title>The coming war on the hidden algorithms that trap people in poverty</title>
+    <quote>A growing group of lawyers are uncovering, navigating, and fighting the automated systems that deny the poor housing, jobs, and basic services.</quote>
+    <link>https://www.technologyreview.com/2020/12/04/1013068/algorithms-create-a-poverty-trap-lawyers-fight-back/</link>
+  </entry>
+  
+  <entry>
+    <title>M1 Macs: Truth and Truthiness</title>
+    <quote>We knew this to be true because that was the way things were. But now, with the M1 Macs, it’s not. M1 Macs run very fast and do so while remaining very cool and lasting mind-bogglingly long on battery. It was a fundamental trade-off inherent to PC computing, and now we don’t have to make it.</quote>
+    <link>https://daringfireball.net/2020/12/m1_macs_truth_and_truthiness</link>
+  </entry>
+</feed>

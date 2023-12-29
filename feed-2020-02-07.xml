@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 7, 2020</date>
+
+  <entry>
+    <title>Google Maps Hacks</title>
+    <quote>99 second hand smartphones are transported in a handcart to generate virtual traffic jam in Google Maps.Through this activity, it is possible to turn a green street red which has an impact in the physical world by navigating cars on another route to avoid being stuck in traffic.</quote>
+    <link>http://www.simonweckert.com/googlemapshacks.html</link>
+  </entry>
+  
+  <entry>
+    <title>Landmark study to transform cancer treatment</title>
+    <quote>More than a thousand scientists have built the most detailed picture of cancer ever in a landmark study.</quote>
+    <link>https://www.bbc.com/news/health-51391151</link>
+  </entry>
+  
+  <entry>
+    <title>Expert programmers have fine-tuned cortical representations of source code</title>
+    <quote>Expertise enables humans to achieve outstanding performance on domain-specific tasks, and programming is no exception. Many have shown that expert programmers exhibit remarkable differences from novices in behavioral performance, knowledge structure, and selective attention.</quote>
+    <link>https://www.biorxiv.org/content/10.1101/2020.01.28.923953v1</link>
+  </entry>
+
+  <entry>
+    <title>Six Hats of Data Visualization</title>
+    <quote>User, Researcher, Analyst, Storyteller, Data Geek, and Techie</quote>
+    <link>https://medium.com/nightingale/six-hats-of-data-visualization-82d73af1a765</link>
+  </entry>
+
+  <entry>
+    <title>The Missing Semester of Your CS Education</title>
+    <quote>Classes teach you all about advanced topics within CS, from operating systems to machine learning, but there’s one critical subject that’s rarely covered, and is instead left to students to figure out on their own: proficiency with their tools. We’ll teach you how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!</quote>
+    <link>https://missing.csail.mit.edu/</link>
+  </entry>
+</feed>

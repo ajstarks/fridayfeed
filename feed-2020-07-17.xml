@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 17, 2020</date>
+  
+ <entry>
+    <title>Predictive policing algorithms are racist. They need to be dismantled.</title>
+    <quote>“There’s a long history of data being weaponized against Black communities” </quote>
+    <link>https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/</link>
+  </entry>
+  
+  <entry>
+    <title>“Outright Lies”: Voting Misinformation Flourishes on Facebook</title>
+    <quote>While the social media giant says it opposes voter suppression, the data shows a stark picture: Nearly half of all top-performing posts that mentioned voting by mail were false or misleading.</quote>
+    <link>https://www.propublica.org/article/outright-lies-voting-misinformation-flourishes-on-facebook</link>
+  </entry>
+
+  <entry>
+    <title>Who’s Behind Wednesday’s Epic Twitter Hack?</title>
+    <quote>Twitter was thrown into chaos on Wednesday after accounts for some of the world’s most recognizable public figures, executives and celebrities starting tweeting out links to bitcoin scams. Twitter says the attack happened because someone tricked or coerced an employee into providing access to internal Twitter administrative tools.</quote>
+    <link>https://krebsonsecurity.com/2020/07/whos-behind-wednesdays-epic-twitter-hack/</link>
+  </entry>
+  
+   <entry>
+    <title>What Am I Reading?</title>
+    <quote>Following a legacy of turning everyday activities into data art</quote>
+    <link>https://medium.com/nightingale/what-am-i-reading-1ccb4a08c74b</link>
+  </entry>
+  
+  <entry>
+    <title>Coronavirus Drug and Treatment Tracker</title>
+    <quote>Below is an updated list of 19 of the most-talked-about treatments for the coronavirus. While some are accumulating evidence that they’re effective, most are still at early stages of research. We also included a warning about a few that are just bunk.</quote>
+    <link>https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html</link>
+  </entry>
+  
+</feed>

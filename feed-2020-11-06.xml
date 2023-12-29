@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 6, 2020</date>
+  
+  <entry>
+    <title>How the Coronavirus Hacks the Immune System</title>
+    <quote>At a laboratory in Manhattan, researchers have discovered how SARS-CoV-2 uses our defenses against us.</quote>
+    <link>https://www.newyorker.com/magazine/2020/11/09/how-the-coronavirus-hacks-the-immune-system</link>
+  </entry>
+
+   <entry>
+    <title>Masks Work. Really. We'll Show How</title>
+    <quote>In this animation, you will see just how effective a swath of fabric can be at fighting the pandemic</quote>
+    <link>https://www.nytimes.com/interactive/2020/10/30/science/wear-mask-covid-particles-ul.html</link>
+  </entry>
+  
+  <entry>
+    <title>Ten simple rules to colorize biological data visualization</title>
+    <quote>Visual representation of biological data should not overwhelm, obscure, or bias the findings, but rather make them more understandable. This is often due to the challenge of how to use color effectively in creating visualizations. The recent global adoption of data vis has helped address this challenge in some fields, but it remains open in the biological domain. </quote>
+    <link>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259</link>
+  </entry>
+
+  <entry>
+    <title>Muddy America : Color Balancing The Election Map - Infographic</title>
+    <quote>The Trouble with the County Winner Map, and why this Muddy Map is better for determining vote populations and vote margins in the US election.</quote>
+    <link>https://stemlounge.com/muddy-america-color-balancing-trumps-election-map-infographic/</link>
+  </entry>
+  
+  <entry>
+    <title>The AI Who Mistook a Bald Head for a Soccer Ball</title>
+    <quote>the club uses an AI-controlled camera that’s programmed to follow the ball for their broadcasts. But in a recent match against Ayr United, the AI controller kept moving the camera off the ball to focus on the bald head of the linesman, making the match all but unwatchable. No fans allowed in the stadium either, so the broadcast was the only way to watch.</quote>
+    <link>https://kottke.org/20/11/the-ai-who-mistook-a-bald-head-for-a-soccer-ball</link>
+  </entry>
+</feed>

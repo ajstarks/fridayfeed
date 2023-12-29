@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 27, 2020</date>
+  
+  <entry>
+    <title>I should have loved biology</title>
+    <quote>Imagine a flashy spaceship lands in your backyard. The door opens and you are invited to investigate everything to see what you can learn. The technology is clearly millions of years beyond what we can make. This is biology</quote>
+    <link>https://jsomers.net/i-should-have-loved-biology/</link>
+  </entry>
+  
+  <entry>
+    <title>Information Design Round-Up: COVID-19 Edition</title>
+    <quote>A curation of information design and dataviz that aids in the public understanding of COVID-19</quote>
+    <link>https://medium.com/nightingale/information-design-round-up-covid-19-edition-edc117af32e8</link>
+  </entry>
+  
+  <entry>
+    <title>How Venture Capitalists Are Deforming Capitalism</title>
+    <quote>Even the worst-run startup can beat competitors if investors prop it up. The V.C. firm Benchmark helped enable WeWork to make one wild mistake after another—hoping that its gamble would pay off before disaster struck.</quote>
+    <link>https://www.newyorker.com/magazine/2020/11/30/how-venture-capitalists-are-deforming-capitalism</link>
+  </entry>
+  
+  <entry>
+    <title>Physicist creates N95-type respirators using cotton candy machine</title>
+    <quote>The technique involves heating ordinary plastics such as bottles or shopping bags and then putting them into an ordinary cotton candy machine (also known as a candy floss machine). The machine spins the plastic into a material that is similar to cotton candy (a mesh), which is also electrocharged by the spinning. </quote>
+    <link>https://phys.org/news/2020-11-physicist-n95-type-respirators-cotton-candy.html</link>
+  </entry>
+
+  <entry>
+	<title>Reasoning about colors</title>
+	<quote>This article will be a whirlwind tour of things you can do to individual colors, and at the end how I put these blocks together.</quote>
+	<link>https://notes.neeasade.net/color-spaces.html</link>
+  </entry>
+</feed>

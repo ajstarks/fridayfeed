@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 18, 2020</date>
+  
+  <entry>
+    <title>Original Dartmouth College BASIC manual (1964) </title>
+    <quote>Typing is no substitute for thinking,</quote>
+    <link>http://www.bitsavers.org/pdf/dartmouth/BASIC_Oct64.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Six Chart Design Lessons from Visualizations of COVID-19</title>
+    <quote>Important reminders for social scientists when creating visualizations</quote>
+    <link>https://medium.com/nightingale/six-chart-design-lessons-for-evaluators-to-consider-from-visualizations-of-covid-19-336bd732e6f4</link>
+  </entry>
+
+  <entry>
+    <title>Experiments On A $50 Diy Air Purifier You Can Make In 30s</title>
+    <quote>If you’re in a hurry, this post says that if you strap two HEPA filters to a box fan, it will clear the air of basically all the particles we can measure, and it will do it faster than a commercial filter that costs twice as much.</quote>
+    <link>https://dyno-might.github.io/2020/12/15/some-real-data-on-a-DIY-box-fan-air-purifier/</link>
+  </entry>
+  
+  <entry>
+    <title>In 2021, We Need To Fix America’s Internet</title>
+    <quote>We pay twice as much as Europe for high speeds, assuming we can even get them</quote>
+    <link>https://www.theverge.com/22177154/us-internet-speed-maps-competition-availability-fcc</link>
+  </entry>
+  
+  <entry>
+    <title>Cloudflare and Apple design a new privacy-friendly internet protocol</title>
+    <quote>Dubbed Oblivious DNS-over-HTTPS, or ODoH for short, the new protocol makes it far more difficult for internet providers to know which websites you visit.</quote>
+    <link>https://techcrunch.com/2020/12/08/cloudflare-and-apple-design-a-new-privacy-friendly-internet-protocol</link>
+  </entry>
+</feed>

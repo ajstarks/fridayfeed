@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 27, 2020</date>
+
+   <entry>
+    <title>Apple releases new COVID-19 app and website based on CDC guidance</title>
+    <quote>Apple today released a new screening tool and set of resources to help people stay informed and take the proper steps to protect their health during the spread of COVID-19, based on the latest CDC guidance. The new COVID-19 website, and COVID-19 app available on the App Store, were created in partnership with the CDC,1 the White House Coronavirus Task Force and FEMA to make it easy for people across the country to get trusted information and guidance </quote>
+    <link>https://www.apple.com/covid19/</link>
+  </entry>
+
+  <entry>
+    <title>We’re Sharing Coronavirus Case Data for Every U.S. County</title>
+    <quote>With no detailed government database on where the thousands of coronavirus cases have been reported, a team of New York Times journalists is attempting to track every case.</quote>
+    <link>https://www.nytimes.com/article/coronavirus-county-data-us.html</link>
+  </entry>
+  
+  <entry>
+    <title>Using Zoom to host a community call</title>
+    <quote>It’s great but unfortunately it can be abused by bad actors - so here’s how to make sure you keep control over it well!</quote>
+    <link>https://twitter.com/alexlmiller/status/1240073789586714626</link>
+  </entry>
+
+  <entry>
+    <title>Compaq and Coronavirus</title>
+    <quote>To put it another way, the West feels like Compaq in the 1990s, relying on its brand name and partnerships with other entities to do the actual work, forgetting that it was hard work and determination that made it great in the first place.</quote>
+    <link>https://stratechery.com/2020/compaq-and-coronavirus/</link>
+  </entry>
+  
+  <entry>
+    <title>Software Engineering at Google</title>
+    <quote>How can software engineers manage a living codebase that evolves and responds to changing requirements and demands over the length of its life? Based on their experience at Google, software engineers Titus Winters and Hyrum Wright, along with technical writer Tom Manshreck, present a candid and insightful look at how some of the world’s leading practitioners construct and maintain software.</quote>
+    <link>http://shop.oreilly.com/product/0636920296423.do</link>
+  </entry>
+</feed>

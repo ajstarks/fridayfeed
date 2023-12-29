@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 10, 2020</date>
+
+  <entry>
+    <title>“It’s Data, Not Reality”: On Situated Data with Jill Walker Rettberg</title>
+    <quote>A professor of digital culture discusses the myth of objectivity in data visualization and much more</quote>
+    <link>https://medium.com/nightingale/its-data-not-reality-on-situated-data-with-jill-walker-rettberg-d27c71b0b451</link>
+  </entry>
+  
+  <entry>
+    <title>Scientists make precise gene edits to mitochondrial DNA for first time</title>
+    <quote>A peculiar bacterial enzyme has allowed researchers to achieve what even the popular CRISPR–Cas9 genome-editing system couldn’t manage: targeted changes to the genomes of mitochondria, cells’ crucial energy-producing structures.</quote>
+    <link>https://www.nature.com/articles/d41586-020-02054-5</link>
+  </entry>
+  
+  <entry>
+    <title>When data is messy</title>
+    <quote>A huge reason for ImageNet’s messiness is that it was automatically scraped from images on the internet.  The images were supposed to have been filtered by the crowdsourced workers who labeled them, but plenty of weirdness slipped through. And horribleness - many images and labels that definitely shouldn’t have appeared in a general-purpose research dataset, and images that looked like they had gotten there without the consent of the people pictured. </quote>
+    <link>https://aiweirdness.com/post/622648824384602112/when-data-is-messy</link>
+  </entry>
+
+  <entry>
+    <title>La Télévision, œil de demain (1947)</title>
+    <quote>Inspired by an essay by Barjavel, this documentary proposes the evolution of television in transportable pocket format, and the way in which humans will interact with the object -- compare with smartphone use today.</quote>
+    <link>https://youtu.be/ZKfOcR7Qbu4</link>
+  </entry>
+  
+  
+  <entry>
+    <title>These Scientists Raced to Find a Covid-19 Drug. Then the Virus Found Them.</title>
+    <quote>This spring, researchers at Regeneron’s Westchester headquarters found themselves in one of the country’s first coronavirus hot spots.</quote>
+    <link>https://www.nytimes.com/2020/07/09/health/regeneron-monoclonal-antibodies.html</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 17, 2020</date>
+
+   <entry>
+    <title>A one-take journey through Russia’s iconic Hermitage museum</title>
+    <quote>Experience a 5 hr 19 min 28 sec cinematic journey through one of the world’s biggest museums in St. Petersburg, Russia. Take in 45 galleries, 588 masterpieces, and live performances, shot in 4K on iPhone 11 Pro in one continuous take.</quote>
+    <link>https://www.youtube.com/watch?v=49YeFsx1rIw</link>
+  </entry>
+
+  <entry>
+    <title>50 years after Apollo 13, Commander James Lovell sees the mission's failure as a triumph</title>
+    <quote>When a Saturn rocket lifted off from Kennedy Space Center half a century ago, it carried three astronauts and a lunar lander to take two of them to the moon's surface.  On board with them was a bomb.</quote>
+    <link>https://www.usatoday.com/story/news/nation/2020/04/12/apollo-13-50th-anniversary-commander-james-lovell-reflects-mission/5124891002/</link>
+  </entry>
+
+  <entry>
+    <title>Group Chat: The Best Way to Totally Stress Out Your Team</title>
+    <quote>Group chat is like being in an all-day meeting, with random participants, and no agenda.</quote>
+    <link>https://basecamp.com/guides/group-chat-problems</link>
+  </entry>
+
+  <entry>
+    <title>How John Burn-Murdoch’s Influential Dataviz Helped The World Understand Coronavirus</title>
+    <quote>Many have noted the importance of data visualization in helping people attempt to make sense of it all with a few data journalists contributing significant impact. One of them is John Burn-Murdoch of the Financial Times (FT), whose breakout moment came on March 11 when his first log scale chart comparing the trajectory of infection rates between countries helped millions of people around the world understand that the pandemic was a trend just beginning in England and the USA.</quote>
+    <link>https://medium.com/nightingale/how-john-burn-murdochs-influential-dataviz-helped-the-world-understand-coronavirus-6cb4a09795ae</link>
+  </entry>
+  
+  <entry>
+    <title>Radar trends to watch: April 2020</title>
+    <quote>Coronavirus, real time transcription, quantum computing, and regulating cryptography.</quote>
+    <link>https://www.oreilly.com/radar/radar-trends-to-watch-april-2020/</link>
+  </entry>
+  
+  <entry>
+    <title>Principles for Technology-Assisted Contact-Tracing</title>
+    <quote>The current COVID-19 pandemic is a deadly crisis, but also an opportunity to pull together as a society. Regrettably, it’s also an opportunity for would-be authoritarians and powerful corporations to expand their power. One way they may try to do so is through the use of technology and data to address the pandemic.</quote>
+    <link>https://www.aclu.org/sites/default/files/field_document/aclu_white_paper_-_contact_tracing_principles.pdf</link>
+  </entry>
+</feed>

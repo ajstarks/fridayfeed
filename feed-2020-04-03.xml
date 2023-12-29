@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 3, 2020</date>
+
+  <entry>
+    <title>The National Emergency Library is a Gift to Readers Everywhere</title>
+    <quote>This week the Internet Archive, in San Francisco, announced—and, in the blink of an eye, opened—the National Emergency Library, a digital collection of 1.4 million books. Until June 30th, or the end of the national emergency in the United States (“whichever is later”), anyone, anywhere in the world, can check books out of this library—for free.</quote>
+    <link>https://www.newyorker.com/books/page-turner/the-national-emergency-library-is-a-gift-to-readers-everywhere</link>
+  </entry>
+  
+  <entry>
+    <title>The best alternatives to Zoom for videoconferencing</title>
+    <quote>We recently ran a roundup of some of the free videoconferencing apps available, including Zoom. Since so many questions have come up about Zoom’s security, we’ve decided to run the roundup again, this time excluding Zoom and adding other apps that you can use instead.</quote>
+    <link>https://www.theverge.com/2020/4/1/21202945/zoom-alternative-conference-video-free-app-skype-slack-hangouts-jitsi</link>
+  </entry>
+
+  <entry>
+    <title>How Tailscale Works</title>
+    <quote>People often ask us for an overview of how Tailscale works. We’ve been putting off answering that, because we kept changing it! But now things have started to settle down. </quote>
+    <link>https://tailscale.com/blog/how-tailscale-works/</link>
+  </entry>
+
+  <entry>
+    <title>We Tested the Five Best TikTok Algorithm Theories to See Which Ones Work</title>
+    <quote>The TikTok algorithm is mysterious, powerful, and frustrating. It finds and promotes quality content with superhuman accuracy. TikTok philosophers have long tried to decode its brain and share “hacks” to guarantee views, making it seem like everyone has a different theory about how the algorithm chooses who to make famous.</quote>
+    <link>https://www.kapwing.com/resources/we-tested-the-five-best-tiktok-algorithm-theories/</link>
+  </entry>
+
+  <entry>
+    <title>Cambridge Core Textbooks</title>
+    <quote>We are pleased to announce that free access to HTML textbooks is now available again and is being offered direct to Higher Education institutions. Access will be automatically arranged if you already have access to the current free reference collection, which includes Cambridge Histories, Cambridge Companions, and Cambridge Elements.</quote>
+    <link>https://www.cambridge.org/core/what-we-publish/textbooks#</link>
+  </entry>
+
+  <entry>
+    <title>ACM Prize in Computing Awarded to AlphaGo Developer</title>
+    <quote>ACM, the Association for Computing Machinery, today announced that David Silver is the recipient of the 2019 ACM Prize in Computing for breakthrough advances in computer game-playing. Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized as a central figure in the growing and impactful area of deep reinforcement learning.</quote>
+    <link>https://www.acm.org/media-center/2020/april/acm-prize-2019</link>
+  </entry>
+</feed>

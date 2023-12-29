@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 24, 2020</date>
+  
+  <entry>
+    <title>Augmented Reality in a Contact Lens: It’s the Real Deal</title>
+    <quote>Augmented reality in a contact lens? Science fiction writers envisioned the technology decades ago, and startups have been working on developing an actual product for at least 10 years. Today, Mojo Vision announced that it has done just that—put 14K pixels-per-inch microdisplays, wireless radios, image sensors, and motion sensors into contact lenses that fit comfortably in the eyes.</quote>
+    <link>https://spectrum.ieee.org/view-from-the-valley/consumer-electronics/portable-devices/ar-in-a-contact-lens-its-the-real-deal</link>
+  </entry>
+  
+  <entry>
+    <title>Advent of Computing</title>
+    <quote>Welcome to Advent of Computing, the show that talks about the shocking, intriguing, and all too often relevant history of computing. A lot of little things we take for granted today have rich stories behind their creation, in each episode we will learn how older tech has lead to our modern world.</quote>
+    <link>http://adventofcomputing.com/</link>
+  </entry>
+
+  <entry>
+    <title>There's a new obstacle to landing a job after college: Getting approved by AI</title>
+    <quote>College career centers used to prepare students for job interviews by helping them learn how to dress appropriately or write a standout cover letter. These days, they're also trying to brace students for a stark new reality: They may be vetted for jobs in part by artificial intelligence.</quote>
+    <link>https://www.cnn.com/2020/01/15/tech/ai-job-interview/index.html</link>
+  </entry>
+  
+  <entry>
+    <title>Wikipedia now has more than 6 million articles in English</title>
+    <quote>Wikipedia  has surpassed a notable milestone today: The English version of the world’s largest online encyclopedia now has more than six million articles. The feat, which comes roughly 19 years after the website was founded, is a testament of “what humans can do together,” said Ryan Merkley, chief of staff at Wikimedia, the nonprofit organization that operates the omnipresent online encyclopedia.</quote>
+    <link>https://techcrunch.com/2020/01/23/wikipedia-english-six-million-articles/</link>
+  </entry>
+  
+  <entry>
+    <title>Kids are swapping AirPods and using text-to-speech to "talk" in class without being caught</title>
+    <quote>https://www.imore.com/kids-are-swapping-airpods-and-using-text-speech-talk-class-without-being-caught</quote>
+    <link>The theory is actually one that is ingenious if you think about it. You swap an AirPod with your friend and then use text-to-speech to communicate with them.</link>
+  </entry>
+</feed>

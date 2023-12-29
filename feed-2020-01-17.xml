@@ -1,0 +1,28 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 17, 2020</date>
+  
+  <entry>
+    <title>The Mechanical Muse</title>
+    <quote>Machines are learning to write poetry. How should artificial intelligence alter our appreciation of art?</quote>
+    <link>https://www.newyorker.com/culture/annals-of-inquiry/the-mechanical-muse</link>
+  </entry>
+  
+  <entry>
+    <title>Temperature Change by Country</title>
+    <quote>Temperature change 1880–2019. Based on NASA GISTEMP data.</quote>
+    <link>https://www.flickr.com/photos/150411108@N06/49390797526/</link>
+  </entry>
+
+  <entry>
+    <title>Adding a Semantic Touch to Your Data Visualization</title>
+    <quote>I don’t know how many of you are familiar with the Semantic Typography concept. It sounds abstract, and for a certain degree it is, but when we look at it, well, things become clearer. It happens when we overlap the visual and verbal communication, creating a sort of recursive image in which words behave in the same way as the meaning they drive (see above). Words that visualize meanings.</quote>
+    <link>https://medium.com/nightingale/adding-a-semantic-touch-to-your-data-visualization-8bfd00d000c0</link>
+  </entry>
+  
+  <entry>
+    <title>Why we’re writing machine learning infrastructure in Go, not Python</title>
+    <quote>Production machine learning is about more than just algorithms</quote>
+    <link>https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76</link>
+  </entry>
+</feed>

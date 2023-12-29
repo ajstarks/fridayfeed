@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 22, 2020</date>
+  
+  <entry>
+    <title>Rethinking conference talks for video calls</title>
+    <quote>I find the idea of Zoom talks fascinating. What does it means to do something: which is live, where everyone in the audience is potentially multitasking, that includes a text chat backchannel which is visible to everyone?</quote>
+    <link>http://interconnected.org/home/2020/05/15/video_talks</link>
+  </entry>
+
+  <entry>
+    <title>The Dawn of a Philosophy of Visualization</title>
+    <quote>I often joke — although I’m inclined to believe — that a field X reaches maturity when a parallel field of “philosophy of X” springs into existence. </quote>
+    <link>https://medium.com/nightingale/the-dawn-of-a-philosophy-of-visualization-7c09a20f40b3</link>
+  </entry>
+
+  <entry>
+    <title>Apple and Google's COVID-19 contact tracing tech is ready</title>
+    <quote>Today, Apple and Google are releasing their COVID-19 contact tracing technology to public health agencies (PHAs) around the world. So far, 22 countries on five continents have requested the API, which will allow PHAs to develop their own contact tracing apps.</quote>
+    <link>https://www.engadget.com/apple-google-covid-19-contact-tracing-api-170057362.html</link>
+  </entry>
+
+  <entry>
+    <title>2020 CX Report</title>
+    <quote>The CX Report gathers trends related to how business now happens in the computational era. This is a departure from my annual SXSW presentation on Design in Tech in two dimensions: 1/ SXSW didn't happen so I'm going to broadcast live on YT for a change, and 2/ I'm retiring #DesignInTech to broaden my sphere of curiosity to touch all business levers of the digital transformation industry. If you've read my book How To Speak Machine then the CX Report will make more sense to you; and if you haven't read it, no worries as I'll review the basics of how to speak machine throughout the CX Report.</quote>
+    <link>https://www.youtube.com/watch?v=Vd_ZBp3LUw4</link>
+  </entry>
+  
+  
+  <entry>
+    <title>Microsoft Solitaire turns 30 years old today and still has 35 million monthly players</title>
+    <quote>Microsoft’s Solitaire game is turning 30 years old today. Microsoft is celebrating the occasion with a world record attempt of the most games of Microsoft Solitaire completed in one day. 35 million people still play Solitaire monthly, according to Microsoft, with more than 100 million hands played daily around the world.</quote>
+    <link>https://www.theverge.com/2020/5/22/21266718/microsoft-solitaire-30-years-old-history-birthday-record-attempt</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft Build 2020: Everything announced at the company's all-digital event</title>
+    <quote>Microsoft's event, being held during the coronavirus pandemic, includes announcements of new health care apps, changes to the company's Edge browser and updates to Windows.</quote>
+    <link>https://www.cnet.com/how-to/microsoft-build-2020-everything-announced-at-the-companys-all-digital-event/</link>
+  </entry>
+</feed>

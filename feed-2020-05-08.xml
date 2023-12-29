@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 8, 2020</date>
+  
+  <entry>
+    <title>Death of the office</title>
+    <quote>The coronavirus pandemic has sped up a revolution in home working, leaving offices around the world empty. But what was the point of them anyway?</quote>
+    <link>https://www.1843magazine.com/features/death-of-the-office</link>
+  </entry>
+  
+  <entry>
+    <title>Take on hard projects</title>
+    <quote>Let's talk about one last wizard skill: confidence</quote>
+    <link>https://twitter.com/b0rk/status/1249024380874752001</link>
+  </entry>
+
+<entry>
+    <title>Bye, Amazon</title>
+    <quote>May 1st was my last day as a VP and Distinguished Engineer at Amazon Web Services, after five years and five months of rewarding fun. I quit in dismay at Amazon firing whistleblowers who were making noise about warehouse employees frightened of Covid-19.</quote>
+    <link>https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon</link>
+  </entry>
+
+  <entry>
+    <title>On responses to “Bye, Amazon” </title>
+    <quote>Boy, when your I’m-outta-here essay goes viral, do you ever get a lot of input. A few responses came up often enough to be worth sharing. </quote>
+    <link>https://www.tbray.org/ongoing/When/202x/2020/05/06/Answers</link>
+  </entry>
+  
+  <entry>
+    <title>SIGGRAPH 2020 Technical Paper: N-Dimensional Rigid Body Dynamics</title>
+    <quote>I present a formulation for Rigid Body Dynamics that is independent of the dimension of the space. I describe the state and equations of motion of rigid bodies using geometric algebra. Using collision detection algorithms extended to nD I resolve collisions and contact between bodies. My implementation is 4D, but the techniques described here apply to any number of dimensions. I display these four-dimensional rigid bodies by taking a three-dimensional slice through them. I allow the user to manipulate these bodies in real-time.</quote>
+    <link>https://marctenbosch.com/ndphysics/</link>
+    <link>https://youtu.be/0t4aKJuKP0Q</link>
+  </entry>
+  
+  <entry>
+    <title>Radar trends to watch: May 2020</title>
+    <quote>Trends in technology and Coronavirus, robotics, AI, programming, and the New Workplace.</quote>
+    <link>https://www.oreilly.com/radar/radar-trends-to-watch-may-2020/</link>
+  </entry>
+</feed>

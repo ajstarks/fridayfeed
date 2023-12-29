@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 13, 2020</date>
+  
+  <entry>
+    <title>Pfizer’s Early Data Shows Vaccine Is More Than 90% Effective</title>
+    <quote>Pfizer announced positive early results from its coronavirus vaccine trial, cementing the lead in a frenzied global race that has unfolded at record-breaking speed.</quote>
+    <link>https://www.nytimes.com/2020/11/09/health/covid-vaccine-pfizer.html</link>
+  </entry>
+
+  <entry>
+    <title>Election Data Storytelling on US News Networks: Could They Do Better?</title>
+    <quote>A critique of the 2020 election night data storytelling</quote>
+    <link>https://medium.com/nightingale/election-data-storytelling-on-us-news-networks-could-they-do-better-f8a494706f2</link>
+  </entry>
+  
+  <entry>
+    <title>Apple M1 Chip: Let's Talk!</title>
+    <quote>MKBHD: Apple M1 chip is here, and there's 3 new Macs to launch it</quote>
+    <link>https://www.youtube.com/watch?v=b6g6rDDt9x8</link>
+  </entry>
+
+   <entry>
+    <title>CS294: Building User-Centered Programming Tools</title>
+    <quote>This hands-on course explores a selection of techniques from Programming Languages and Human-Computer Interaction that can help us create useful, usable programming languages and programming tools. We will cover strategies for designing programming systems—e.g., need finding, formative studies, user-centered design broadly. We will also cover tools and techniques that help us build user-friendly programming systems</quote>
+    <link>http://schasins.com/cs294-usable-programming-2020/</link>
+  </entry>
+  
+  <entry>
+    <title>DOSY Logos</title>
+    <quote>A 1000 auto-generated hexagonal SVG logos</quote>
+    <link>https://dosycorp.gitlab.io/dosylogo/?v923418754891239875624v1</link>
+  </entry>
+</feed>

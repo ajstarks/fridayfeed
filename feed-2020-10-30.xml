@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 29, 2020</date>
+  
+  <entry>
+    <title>A room, a bar and a classroom: how the coronavirus is spread through the air</title>
+    <quote>The risk of contagion is highest in indoor spaces but can be reduced by applying all available measures to combat infection via aerosols. Here is an overview of the likelihood of infection in three everyday scenarios, based on the safety measures used and the length of exposure</quote>
+    <link>https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html</link>
+  </entry>
+
+  <entry>
+    <title>The (Not Failing) New York Times</title>
+    <quote>A decade ago, the NYT was a dying buisness like every other newspaper, ten years, later they've completely turned things around. They accomplished this by cleaning up their balance sheet so they could invest in their core product; which enabled them to flip their business model from ad-first to subscription-first</quote>
+    <link>https://minesafetydisclosures.com/blog/newyorktimes</link>
+  </entry>
+  
+  <entry>
+    <title>A clean start for the web</title>
+    <quote>e idea is that we could choose a new lightweight markdown format to replace HTML &amp; CSS, split the web into documents and applications, and find performance, accessibility, and fun again.</quote>
+    <link>https://macwright.com/2020/08/22/clean-starts-for-the-web.html</link>
+  </entry>
+
+  <entry>
+    <title>Designing with Data | Giorgia Lupi</title>
+    <quote>Learn about Giorgia’s stunning data visualizations and why you should create your own personal data diary.</quote>
+    <link>https://cms.megaphone.fm/channel/bonku?selected=CUE1915309609</link>
+  </entry>
+
+   <entry>
+    <title>Dennis Ritchie Day</title>
+    <quote>When Steve Jobs died there was a wide lament — and well-deserved it was — but it’s worth noting that the resurgence of Apple depended a great deal on Dennis’ work with C and Unix.</quote>
+    <link>https://www.oreilly.com/content/dennis-ritchie-day/</link>
+  </entry>
+</feed>

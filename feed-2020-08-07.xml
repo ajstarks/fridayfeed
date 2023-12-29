@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 7, 2020</date>
+  
+  <entry>
+    <title>Microsoft Analyzed Data On Its Newly Remote Workforce</title>
+    <quote>When driven by employees, entrenched norms can change quickly. Measuring collaboration patterns across our 350-person team, we looked at how meetings had changed beyond remote-only attendance. One data point stunned us: the rise of the 30-minute meeting</quote>
+    <link>https://hbr.org/2020/07/microsoft-analyzed-data-on-its-newly-remote-workforce</link>
+  </entry>
+
+ <entry>
+    <title>The Gilded Age Map That Shines a Light on America’s Past and Present</title>
+    <quote>What makes “Historical Geography” so unusual is that it conflates biblical virtues with the history of Slavery in the United States. The map shows the “two trees” of slavery vs. liberty with Jamestown representing money, slavery (and everything bad) while Plymouth is the source of the Bible, intelligence, sobriety, and light itself.</quote>
+    <link>https://medium.com/nightingale/the-gilded-age-map-that-shines-a-light-on-americas-past-and-present-9d4e927db6ba</link>
+  </entry>
+
+   <entry>
+    <title>As We May Code</title>
+    <quote>What if, instead of lowering source code down for the purpose of execution, we raised source code for the purpose of understanding?</quote>
+    <link>https://nshipster.com/as-we-may-code/</link>
+  </entry>
+  
+  <entry>
+    <title>How Taiwan’s Unlikely Digital Minister Hacked the Pandemic</title>
+    <quote>Taiwan and Audrey Tang occupy a unique spot in a world, where the ascendance of the internet and digital technology is marked by the twin dystopias of “post-truth” information chaos in the United States and China’s totalitarian, technologically mediated surveillance-and-censorship regime. With Audrey Tang as the symbolic figurehead, the island nation is making the radical argument that digital tools can be effectively used to build stronger, more open, more accountable democracies. </quote>
+    <link>https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/</link>
+  </entry>
+
+  <entry>
+    <title>Scientists rename human genes to stop Microsoft Excel from misreading them as dates</title>
+    <quote>Excel is a behemoth in the spreadsheet world and is regularly used by scientists to track their work and even conduct clinical trials. But its default settings were designed with more mundane applications in mind, so when a user inputs a gene’s alphanumeric symbol into a spreadsheet, like MARCH1 — short for “Membrane Associated Ring-CH-Type Finger 1” — Excel converts that into a date: 1-Mar.</quote>
+    <link>https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates</link>
+  </entry>
+</feed>

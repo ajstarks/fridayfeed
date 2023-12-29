@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 25, 2020</date>
+
+   <entry>
+    <title>The Elusive Peril of Space Junk</title>
+    <quote>Millions of human artifacts circle the Earth. Can we clean them up before they cause a disaster?</quote>
+    <link>https://www.newyorker.com/magazine/2020/09/28/the-elusive-peril-of-space-junk</link>
+  </entry>
+
+  <entry>
+    <title>CS349 - Contemporary Issues in Computer Science</title>
+    <quote>Topics we will explore include policy vaccuums created by new technology, copyright and patent, software bugs and liability, freedom of speech, privacy, security, employment and job markets, warfare and state-building, wealth discrepency and consumerism, environmental impact, and changing cultural norms and social contracts.</quote>
+    <link>https://www.cs.utexas.edu/~theshark/courses/cs349/</link>
+  </entry>
+
+  <entry>
+    <title>How Work Became an Inescapable Hellhole</title>
+    <quote>I go on a walk. I get interrupted once, twice, 15 times by one of my group texts. I get home and go to the bathroom, where I have just enough time to look at my phone again. I drive to the grocery store and get stuck at a long stoplight. I pick up my phone, which says, “It looks like you are driving.” I lie to my phone.</quote>
+    <link>https://www.wired.com/story/how-work-became-an-inescapable-hellhole/</link>
+  </entry>
+
+  <entry>
+    <title>Ring’s latest security camera is a drone that flies around inside your house</title>
+    <quote>Ring latest home security camera is taking flight — literally. The new Always Home Cam is an autonomous drone that can fly around inside your home to give you a perspective of any room you want when you’re not home.</quote>
+    <link>https://www.theverge.com/2020/9/24/21453709/ring-always-home-cam-indoor-drone-security-camera-price-specs-features-amazon</link>
+  </entry>
+  
+  <entry>
+    <title>Former Facebook manager: “We took a page from Big Tobacco’s playbook”</title>
+    <quote>https://arstechnica.com/tech-policy/2020/09/former-facebook-manager-we-took-a-page-from-big-tobaccos-playbook/</quote>
+    <link>“The social media services that I and others have built over the past 15 years have served to tear people apart with alarming speed and intensity”, Kendall said in his opening testimony (PDF). “At the very least, we have eroded our collective understanding—at worst, I fear we are pushing ourselves to the brink of a civil war.”</link>
+  </entry>
+</feed>

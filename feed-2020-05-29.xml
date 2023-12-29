@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 29, 2020</date>
+  
+  <entry>
+    <title>Why is Artificial Intelligence So Useless for Business?</title>
+    <quote>AI research has structural problems that limit how much it can impact business. But understanding why gives a way to determine what will work and what won't, as well as reveal new business opportunities.</quote>
+    <link>https://mebassett.info/ai-useless-for-business</link>
+  </entry>
+  
+  <entry>
+    <title>Glamorous Toolkit</title>
+    <quote>Glamorous Toolkit is the moldable development environment. It is a live notebook. It is a flexible search interface. It is a fancy code editor. It is a software analysis platform. It is a data visualization engine. All in one.</quote>
+    <link>https://gtoolkit.com/</link>
+  </entry>
+
+  <entry>
+    <title>The largest collection of startup pitch decks</title>
+    <quote>600+ decks from the world's best startups.</quote>
+    <link>https://starthouse.xyz/</link>
+  </entry>
+  
+  <entry>
+    <title>Wish You Were Here: Context-Aware Human Generation</title>
+    <quote>We present a novel method for inserting objects, specifically humans, into existing images, such that they blend
+in a photorealistic manner, while respecting the semantic
+context of the scene.</quote>
+    <link>https://arxiv.org/pdf/2005.10663.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>How I would put voice control in everything</title>
+    <quote>Why can’t I point at a lamp and say “on”“ and the light come on? Or point at my stove and say “5 minutes”? Or just look at it and talk, if my hands are full.</quote>
+    <link>http://interconnected.org/home/2020/05/26/voice</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

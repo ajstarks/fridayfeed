@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 23, 2020</date>
+  
+  <entry>
+    <title>United States v. Google</title>
+    <quote>I believe the particulars of the Justice Department’s complaint have been foreshadowed for a long time, and make for a case stronger than most of Europe’s; if the lawsuit fails in court — as it very well may — it also points to where Congress should act to restrain the largest companies in the world.</quote>
+    <link>https://stratechery.com/2020/united-states-v-google/</link>
+  </entry>
+  
+  <entry>
+    <title>Powers of Ten and the Power of Wonder in Data Visualisation</title>
+    <quote>We’ve never had more tools at our disposal to help people understand the scale of things. So why not try to blow a few minds and see what happens?</quote>
+    <link>https://medium.com/nightingale/powers-of-ten-and-the-power-of-wonder-in-data-visualisation-c434f8e4e689</link>
+  </entry>
+  
+  <entry>
+    <title>IBM and Pfizer claim AI can predict Alzheimer’s onset with 71% accuracy</title>
+    <quote>Pfizer and IBM researchers claim to have developed a machine learning technique that can predict Alzheimer’s disease years before symptoms develop. By analyzing small samples of language data obtained from clinical verbal tests, the team says their approach achieved 71% accuracy when tested against a group of cognitively healthy people.</quote>
+    <link>https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/</link>
+  </entry>
+  
+  <entry>
+    <title>‘Zoom towns’ are exploding in the West</title>
+    <quote>The coronavirus pandemic is leading to a new phenomenon: a migration to “gateway communities,” or small towns near major public lands and ski resorts as people’s jobs increasingly become remote-friendly. This is straining the towns’ resources and putting pressure on them to adapt.</quote>
+    <link>https://www.fastcompany.com/90564796/zoom-towns-are-exploding-in-the-west</link>
+  </entry>
+
+  <entry>
+    <title>Cryo–electron microscopy breaks the atomic resolution barrier at last</title>
+    <quote>Now, for the first time, scientists have sharpened cryo-EM’s resolution to the atomic level, allowing them to pinpoint the positions of individual atoms in a variety of proteins at a resolution that rivals x-ray crystallography’s.</quote>
+    <link>https://www.sciencemag.org/news/2020/10/cryo-electron-microscopy-breaks-atomic-resolution-barrier-last</link>
+  </entry>
+</feed>

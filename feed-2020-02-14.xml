@@ -1,0 +1,28 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 14, 2020</date>
+  
+  <entry>
+    <title>What Does Diversity Look Like for the Academy — Now That We Have Parasite? An Oscars ‘Best Picture’ Visualisation</title>
+    <quote>What does diversity look like in film, and other content that we consume? There isn’t any one full, clear answer, but this visualisation has helped me put things into perspective somewhat, a bird’s-eye view if you will.</quote>
+    <link>https://medium.com/nightingale/what-does-diversity-look-like-for-the-academy-an-oscars-best-picture-visualisation-bab9b252b09</link>
+  </entry>
+  
+  <entry>
+    <title>Tech in 2020: Standing on the shoulders of giants</title>
+    <quote>Every year, I produce a big presentation digging into macro and strategic trends in the tech industry. This year, ‘Standing on the shoulders of giants’ looks at what it means that 4bn people have a smartphone; we connected everyone, and now we wonder what the Next Big Thing is, but meanwhile, connecting everyone means we connected all the problems. Tech is becoming a regulated industry, but we don’t really know what that will mean.  </quote>
+    <link>https://www.ben-evans.com/presentations</link>
+  </entry>
+  
+  <entry>
+    <title>Flip phones deserve a shot because phones all look the same now</title>
+    <quote>Phones don’t have to just be featureless glass slabs</quote>
+    <link>https://www.theverge.com/tech/2020/2/14/21137184/folding-phone-flip-form-factor-razr-galazy-z-fold</link>
+  </entry>
+
+  <entry>
+    <title>The US says the Chinese military hacked Equifax. Here’s how.</title>
+    <quote>The hackers “ran approximately 9,000 [SQL] queries on Equifax’s system,” says the indictment, and “created an archive containing 49 directories. Once created ... split it into 600MB segments which were then downloaded from the Equifax network to a Dutch server via HTTP.”</quote>
+    <link>https://www.technologyreview.com/f/615166/the-us-says-the-chinese-military-hacked-equifax-heres-how</link>
+  </entry>
+</feed>

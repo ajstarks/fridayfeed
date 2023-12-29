@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 2, 2020</date>
+
+   <entry>
+    <title>How to Hack a Painting</title>
+    <quote>This is my recent work, but when I got started, I created the kind of work that you might expect somebody with a programming and computer science background to create. It was very geometric, very obviously mathematically inspired. I felt like it needed something else. I felt like I could take it a little bit further by introducing more organic and natural elements to the artwork.</quote>
+    <link>https://tylerxhobbs.com/essays/2020/how-to-hack-a-painting</link>
+  </entry>
+  
+  <entry>
+    <title>Data Visualization and the Modern Imagination</title>
+    <quote>he sections in this exhibition examine information graphics that show space, time, nature, and society. Many are beautiful. Each is a unique way of seeing still worth our attention.</quote>
+    <link>https://exhibits.stanford.edu/dataviz</link>
+  </entry>
+
+  <entry>
+    <title>New Project: ‘the Seinfeld Chronicles’</title>
+    <quote>This project is a compilation of visual analysis I’ve been working on for a couple of years to pursue a curiosity I had about the rhythm and texture of Seinfeld, looking into how it was written and how it was produced.</quote>
+    <link>https://www.visualisingdata.com/2020/09/new-project-the-seinfeld-chronicles/</link>
+  </entry>
+ 
+  <entry>
+    <title>Data art posters about music (streaming) data for Sony Music</title>
+    <quote>When a single or album sells more than a certain amount of units they become a gold or platinum record. The artist generally receives a framed vinyl or CD. But in these days of data being tracked everywhere and listening to music online, could I develop a more data art inspired version of a gold record using data from the actual streams, charts and the song itself. Well, that sounded like an amazingly fun project to sink my teeth into so I enthusiastically agreed!</quote>
+    <link>https://www.visualcinnamon.com/2020/06/sony-music-data-art#final-result-animated-poster</link>
+  </entry>
+
+  <entry>
+    <title>How Civil Society Can Combat Misinformation and Hate Speech Without Making It Worse</title>
+    <quote>In this document, I explore a set of potential strategies to be used specifically by civil society organizations (CSOs) to mitigate misinformation.</quote>
+    <link>https://medium.com/political-pandemonium-2020/how-civil-society-can-combat-misinformation-and-hate-speech-without-making-it-worse-887a16b8b9b6</link>
+  </entry>
+</feed>

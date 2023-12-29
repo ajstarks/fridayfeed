@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 20, 2020</date>
+  
+  <entry>
+    <title>Ready for changes with Hexagonal Architecture</title>
+    <quote>The idea of Hexagonal Architecture is to put inputs and outputs at the edges of our design. Business logic should not depend on whether we expose a REST or a GraphQL API, and it should not depend on where we get data from — a database, a microservice API exposed via gRPC or REST, or just a simple CSV file.</quote>
+    <link>https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749</link>
+  </entry>
+  
+  <entry>
+    <title>Thirteen Things to Visualize About COVID-19 Besides Case Loads</title>
+    <quote>Whether it’s showing us the importance of flattening the curve or keeping us informed about our communities, data visualization has played a crucial role in messaging about COVID-19. The Data Visualization Society’s 13,000 members have been discussing how to best communicate information related to the coronavirus, as well as how to improve the use of these data to inform our collective response. Catch up on all of Nightingale’s coverage of COVID-19 here.</quote>
+    <link>https://medium.com/nightingale/thirteen-things-to-visualize-about-covid-19-besides-case-loads-581fa90348dd</link>
+  </entry>
+
+  <entry>
+    <title>AI for 3D Generative Design</title>
+    <quote>Making the design process faster and more efficient by generating 3D objects from natural language descriptions. See the live demo here: datanexus.xyz</quote>
+    <link>https://blog.insightdatascience.com/ai-for-3d-generative-design-17503d0b3943</link>
+  </entry>
+  
+  <entry>
+    <title>20 Seconds...</title>
+    <quote>During the Vergecast, did I challenge @reckless to try to describe how the new iPad Magic Keyboard works in 20 seconds so that you could use it as a handwashing guide? You bet I did.</quote>
+    <link>https://twitter.com/backlon/status/1241083085216567302</link>
+  </entry>
+  
+  <entry>
+    <title>NanoHack, an open-source 3D printed mask against COVID-19</title>
+    <quote>The manufacturer of 3D printing materials Copper3D has just put online an open-source STL file of a N95 mask, which can be 3D printed and used against the COVID-19 virus. Its Hack The Pandemic initiative is global and aims to mobilize all manufacturers of machines, fablabs, printing services, etc. to create these masks quickly – the lack of which is a burden for hospitals and healthcare professionals. </quote>
+    <link>https://www.3dnatives.com/en/mask-against-covid-19-180320205/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 13, 2020</date>
+  
+  <entry>
+    <title>5 Principles for Making Digital Healthcare More Human-Centered</title>
+    <quote>Digital interfaces can empower people to take control of their own health, but these systems can also amplify the sterile interactions for which the industry is all too well known.</quote>
+    <link>https://www.ideo.com/blog/5-principles-for-making-digital-healthcare-more-human-centered</link>
+  </entry>
+  
+  <entry>
+    <title>The comprehensive Ars Technica guide to the coronavirus</title>
+    <quote>Our comprehensive guide for understanding and navigating this global public health threat is below. This is a rapidly developing epidemic, and we will update this guide every day at 3pm EDT to keep you as prepared and informed as possible.</quote>
+    <link>https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/</link>
+  </entry>
+
+  <entry>
+    <title>How to "encourage" your children to use the internet more for learning using Pi-hole 5.0 beta</title>
+    <quote>I keep hearing about school closings and wonder how I can "encourage" my son and daughter to spend a little less time on social media and more time learning during school hours if their middle school closes. With the awesome per client features of Pi-hole 5.0 beta it will now be possible to add the ability to periodically block sites and unlock them after points are earned on khan academy, typing club or any site that has a web scrapable point system.</quote>
+    <link>https://www.reddit.com/r/pihole/comments/fg5fht/how_to_encourage_your_children_to_use_the/</link>
+  </entry>
+  
+  <entry>
+    <title>Zero Trust Information</title>
+    <quote>A far more interesting story, to my mind, is about the other side of that distribution. Sure, the implication of the Internet making everyone a publisher is that there is far more misinformation on an absolute basis, but that also suggests there is far more valuable information that was not previously available:</quote>
+    <link>https://stratechery.com/2020/zero-trust-information/</link>
+  </entry>
+  
+  <entry>
+    <title>Is the Word ‘Dashboard’ Losing Its Value?</title>
+    <quote>Does the term that once represented the hip and new elements of data viz carry the same significance today?</quote>
+    <link>https://medium.com/nightingale/is-the-word-dashboard-losing-its-value-8cdfbff32c14</link>
+  </entry>
+</feed>
