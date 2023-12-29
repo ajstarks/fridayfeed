@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 4, 2015</date>
+  
+  <entry>
+    <title>New Diabetes Cases, at Long Last, Begin to Fall in the United States</title>
+    <quote>The drop has been gradual and for a number of years was not big enough to be statistically meaningful. But new data for 2014 released on Tuesday serves as a robust confirmation that the decline is real, officials said. There were 1.4 million new cases of diabetes in 2014, down from 1.7 million in 2008.</quote>
+    <link>http://nyti.ms/1MSyyMO</link>
+  </entry>
+  
+  <entry>
+    <title>The Doctor on a Quest to Save Our Medical Devices From Hackers</title>
+    <quote>Now a California medical doctor is teaming up with technologists and patients to develop a new technical standard to secure insulin pumps used by diabetics. The standard, expected to be completed by July, could become a model to help secure other medical equipment in the future—especially because, in an unconventional move, the doctor is collaborating with patients who tinker with their own medical devices.</quote>
+    <link>http://www.wired.com/2015/11/the-doctor-on-a-quest-to-save-our-medical-devices-from-hackers/</link>
+  </entry>
+  
+  <entry>
+    <title>RASPBERRY PI ZERO: THE $5 COMPUTER</title>
+    <quote>Today, I’m pleased to be able to announce the immediate availability of Raspberry Pi Zero, made in Wales and priced at just $5.</quote>
+    <link>https://www.raspberrypi.org/blog/raspberry-pi-zero/</link>
+  </entry>
+  
+  <entry>
+    <title>Swift is now open source</title>
+    <quote>We are excited by this new chapter in the story of Swift. After Apple unveiled the Swift programming language, it quickly became one of the fastest growing languages in history. Swift makes it easy to write software that is incredibly fast and safe by design. Now that Swift is open source, you can help make the best general purpose programming language available everywhere.</quote>
+    <link>https://swift.org/</link>
+  </entry>
+  
+  <entry>
+    <title>Hadoop creator Doug Cutting on evolving and succeeding in open source</title>
+    <quote>People in industry are really, seriously investing in Spark. It has been amazing to me the degree to which people really follow what’s going on in open source and experiment with the bleeding-edge stuff at pretty stodgy institutions. Even in banks, the people in the tech departments are really on top of all this. They follow all the open source politics and they follow all the latest technologies, and they’re experimenting with them.</quote>
+    <link>https://medium.com/s-c-a-l-e/hadoop-creator-doug-cutting-on-evolving-and-succeeding-in-open-source-3277a42e5b6e#.2dy9f1tbn</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

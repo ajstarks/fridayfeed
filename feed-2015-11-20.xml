@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 20, 2015</date>
+  
+  <entry>
+    <title>When Software Eats Bio</title>
+    <quote>The Human Genome Project was set up in 1991 and finished in 2001, for something like $3 billion. Now, it would cost $300. That’s a clear exponential decay in cost. It creates an interesting situation where so much is available to us right now. What’s left is the software to put it all together.</quote>
+    <link>http://a16z.com/2015/11/18/bio-fund/</link>
+    <link>http://a16z.com/2015/07/26/bio-cs/</link>
+  </entry>
+  
+  <entry>
+    <title>Google Aims a $50 Million Moonshot at Curing Heart Disease</title>
+    <quote>CArdiovascular Disease Kills More people on Earth than anything else—over 17 million a year, and the number keeps going up. Of those deaths, more than 40 percent is due to coronary heart disease. Medicine has drugs that can treat it and practices that can help prevent it, but nobody really knows what causes it or how to cure it. Now, Google aims to change that by dropping a $50 million funding bomb on the problem. </quote>
+    <link>http://www.wired.com/2015/11/google-aims-a-50-million-moonshot-at-curing-heart-disease/</link>
+  </entry>
+  
+  <entry>
+    <title>AMA Calls for Ban on Direct to Consumer Advertising of Prescription Drugs and Medical Devices</title>
+    <quote>Today’s vote in support of an advertising ban reflects concerns among physicians about the negative impact of commercially-driven promotions, and the role that marketing costs play in fueling escalating drug prices,” said AMA Board Chair-elect Patrice A. Harris, M.D., M.A. “Direct-to-consumer advertising also inflates demand for new and more expensive drugs, even when these drugs may not be appropriate.</quote>
+    <link>http://www.ama-assn.org/ama/pub/news/news/2015/2015-11-17-ban-consumer-prescription-drug-advertising.page</link>
+  </entry>
+    
+  <entry>
+    <title>IBM’s Design-Centered Strategy to Set Free the Squares</title>
+    <quote>Mr. Gilbert answers that question with something called design thinking. (His title is general manager of design.) Among other things, design thinking flips traditional technology product development on its head. The old way is that you come up with a new product idea and then try to sell it to customers. In the design thinking way, the idea is to identify users’ needs as a starting point.</quote>
+    <link>http://nyti.ms/1YayBsf</link>
+  </entry>
+  
+  <entry>
+    <title>A bird's eye view on API development</title>
+    <quote>Application Programming Interface, or as the cool kids call it: API, is a collection of endpoints to interact with an application. You have internal and external APIs. This post is all about external APIs (more specific, external web APIs). Some people like to think about APIs as a wrapper around a database, this is however mostly not the case. But they tend to serve (mostly) the same purpose: interacting with data.</quote>
+    <link>http://blog.madewithlove.be/post/birdseye-view-on-api/</link>
+  </entry>
+  
+  <entry>
+    <title>No UI is the New UI</title>
+    <quote>The rise in popularity of these apps recently brought me to a startling observation : advances in technology, especially in AI, are increasingly making traditional UI irrelevant. As much as I dislike it, I now believe that technology progress will eventually make UI a tool of the past, something no longer essential for Human-Computer interaction. And that is a good thing.</quote>
+    <link>https://medium.com/swlh/no-ui-is-the-new-ui-ab3f7ecec6b3#.whi4kevq6</link>
+  </entry>
+</feed>

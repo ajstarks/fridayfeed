@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 21, 2015</date>
+  
+  <entry>
+    <title>Registered clinical trials make positive findings vanish</title>
+    <quote>A 1997 US law mandated the registry’s creation, requiring researchers from 2000 to record their trial methods and outcome measures before collecting data. The study found that in a sample of 55 large trials testing heart-disease treatments, 57% of those published before 2000 reported positive effects from the treatments. But that figure plunged to just 8% in studies that were conducted after 2000.</quote>
+    <link>http://www.nature.com/news/registered-clinical-trials-make-positive-findings-vanish-1.18181</link>
+  </entry>
+  
+  <entry>
+    <title>Intel and the Oregon Health &amp; Science University have created a cloud-computing platform tailored for cancer research.</title>
+    <quote>The semiconductor company first explained its intentions to build a cloud computer system —in which organizations can access and swap data hosted on a shared data center—tailored for cancer research in 2013. At its annual developer conference, Intel  INTC -2.93%  representatives said that the platform has matured to the point that, next year, they expect two new organizations to join what’s being called the Collaborative Cancer Cloud.</quote>
+    <link>http://fortune.com/2015/08/19/intel-details-cancer-cloud/</link>
+  </entry>
+  
+  <entry>
+    <title>3-D Printed Drugs Are Here</title>
+    <quote>It’s likely that other drugs will be found that, like Spritam, are made more effective by the process. By creating a structurally sound tablet from the top, a manufacturer will be able to do something medically important that it could not do otherwise.</quote>
+    <link>http://www.theatlantic.com/technology/archive/2015/08/3d-printing-pills-spritam-drug-industry/401177/</link>
+  </entry>
+
+  <entry>
+  	<title>A Spreadsheet Tool for Creating Web Applications Using Online Data</title>
+    <quote>Gneiss is a spreadsheet programming tool for creating interactive web applications that use backend data. We extend the familiar spreadsheet mataphor to let users send and retrive structured web service data from a spreadsheet editor, and create web GUI elements whose property values can be dynamically calculated using the spreadsheet data. Our system has many novel features.</quote>
+    <link>https://www.cs.cmu.edu/~shihpinc/gneiss.html</link>
+    <link>https://www.cs.cmu.edu/~shihpinc/video/gneiss_uist14.mp4</link>
+  </entry>
+  
+  <entry>
+    <title>Rethinking forms in the age of tables and Amazon S3</title>
+    <quote>Many people have told me how the tablet gives them advances over paper when they can take photographs and then draw annotations on those photographs. This means they are starting to break out of just copying the old paper forms and instead rethinking what is needed.</quote>
+    <!-- <link>http://www.bricklin.com/tabletforms.htm</link> -->
+    <link>https://www.youtube.com/watch?v=QUpW5LXaoVU</link>
+  </entry>
+
+</feed>

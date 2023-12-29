@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 16, 2015</date>
+  
+  <entry>
+    <title>Visualizing Machine Learning Thresholds to Make Better Business Decisions</title>
+    <quote>As data scientists, when we build a machine learning model our ultimate goal is to create value: We want to leverage our model's predictions to do something better than we were doing it before, when we didn't have a model or when our model was more primitive. Focusing on outcomes means that our final measure of a model's performance is how useful it was, measured as the amount of value it created in the application for which it was used.</quote>
+    <link>http://blog.insightdatalabs.com/visualizing-classifier-thresholds/</link>
+  </entry>
+  
+  <entry>
+    <title>Dell. EMC. HP. Cisco. These Tech Giants Are the Walking Dead</title>
+    <quote>When someone asked what we should call that IBM-HP-EMC-Dell-Cisco merger, his response was wonderfully descriptive. He suggested we call the company Fucked By The Cloud.</quote>
+    <link>http://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle</link>
+  </entry>
+
+  <entry>
+    <title>The Latest Medical Breakthrough In Spinal Cord Injuries Was Made By A Computer Program</title>
+    <quote>New software sifts through the information gathered in long forgotten studies and finds new avenues for researchers to pursue—like a new advance in treating spinal injuries.</quote>
+    <link>http://www.fastcoexist.com/3052282/the-latest-medical-breakthrough-in-spinal-cord-injuries-was-made-by-a-computer-program</link>
+  </entry>
+  
+  <entry>
+    <title>The African Startup Using Phones to Spot Counterfeit Drugs</title>
+    <quote>When a person buys medicine, she can text the code to MPedigree for free and get an instant reply telling her whether the product is authentic. Today, MPedigree says it has labels on more than 500 million drug packets. Clients include the drug companies AstraZeneca, Roche, and Sanofi.</quote>
+    <link>http://www.bloomberg.com/news/features/2015-07-31/the-african-startup-using-phones-to-spot-counterfeit-drugs</link>
+  </entry>
+  
+  <entry>
+    <title>The human cloud: A new world of work</title>
+    <quote>Employers are starting to see the human cloud as a new way to get work done. White-collar jobs are chopped into hundreds of discrete projects or tasks, then scattered into a virtual “cloud” of willing workers who could be anywhere in the world, so long as they have an internet connection.</quote>
+    <link>http://www.ft.com/cms/s/2/a4b6e13e-675e-11e5-97d0-1456a776a4f5.html#axzz3ol1cMZPA</link>
+  </entry>
+
+</feed>

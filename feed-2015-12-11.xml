@@ -1,0 +1,52 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 11, 2015</date>
+  <entry>
+    <title>MACHINE LEARNING and the LIFE SCIENCES: BEYOND DATA ANALYSIS</title>
+    <quote>Machine learning is about understanding and building computational processes for adapting to data and experience – an ability that for most of natural history has only existed in living organisms. It’s also a valuable source of new tools for analyzing biological data. But does its relevance extend beyond data analysis? Adams will discuss two approaches that push the boundary: automated design of biologically relevant systems (e.g., organic molecules, DNA sequences, biomimetic robots), and the use of biomolecules to implement machine learning algorithms without the need for digital models of computation.</quote>
+    <link>https://www.youtube.com/watch?v=iHazsSvn3VA</link>
+  </entry>
+  
+  <entry>
+    <title>Battling Infectious Diseases in the 20th Century: The Impact of Vaccines</title>
+    <quote>Award-winning visualization of the impact of vaccines on infectious disease.</quote>
+    <link>http://graphics.wsj.com/infectious-diseases-and-vaccines/#b02g20t20w15</link>
+  </entry>
+  
+  <entry>
+  	<title>How one woman made a ‘tricorder’ that could change medicine</title>
+  	<link>http://www.bbc.com/future/story/20151204-how-one-woman-made-a-tricorder-that-could-change-medicine</link>
+  	<quote>Even your general practice doctor is limited by the tools they have to hand. To find out, you have to go to hospital – where complicated machinery is available, for blood tests, scans and more. Unfortunately, not everybody has that access.</quote>
+  </entry>
+  
+  <entry>
+    <title>Scientists Seek Moratorium on Edits to Human Genome That Could Be Inherited</title>
+    <quote>The call for a moratorium by China, Britain and the United States comes after the invention of a new technique that eases editing of the human genome.</quote>
+    <link>http://nyti.ms/1SAJcJz</link>
+  </entry>
+
+  <entry>
+    <title>Google Patents Needle-Free Blood Draw</title>
+    <quote>The patent, which was published today and is still pending, describes a blood draw system that works by sending a surge of gas into a barrel containing a micro-particle that pierces the skin. Once blood is released from the skin, it's sucked up into the negative pressure barrel. "Such an application might be used to draw a small amount of blood, for example, for a glucose test," Google explains. This means that the technology could end up being used to help people with diabetes. </quote>
+    <link>http://www.theverge.com/2015/12/3/9846088/google-needle-free-blood-draw-patent</link>
+  </entry>
+  
+   <entry>
+  	<title>Alphabet’s Life Sciences Business Has a New Name: Verily</title>
+  	<quote>Alphabet made the branding announcement with a video and a company website that went live on Monday. In it, Verily laid out a multidisciplinary approach to health and longevity, describing disease as a “continuum” that will be fought with experts from different fields and divisions working on hardware such as medical devices, software that might use algorithms to look for health patterns, as well as clinical studies like the Baseline Study of health and disease.</quote>
+  	<link>http://nyti.ms/1SKP2rU</link>
+  	<link>https://verily.com/</link>
+  </entry>
+  
+  <entry>
+    <title>Reinventing Cancer Surgery--By Designing A Better Hospital Experience</title>
+    <quote>Inside the nearly finished Josie Robertson Surgery Center (JRSC), the waiting room feels more like a fancy co-working space for families to camp out, play games, get work done, and grab a bite to eat. The patient rooms—all private, with private bathrooms—have floor-to-ceiling windows; the floors have unique art and poetry, central gathering places for a buffet breakfast and socializing; the figure-eight hallways double as walking paths for post-surgery exercise. Even the 550-person staff will get a well-thought out space that goes far beyond the usual hospital cafeteria. If cancer wasn't involved, it’s a place you could imagine wanting to hang out.</quote>
+    <link>http://www.fastcoexist.com/3053883/reinventing-cancer-surgery-by-designing-a-better-hospital-experience</link>
+  </entry>
+  
+  <entry>
+    <title>Can’t Put Down Your Device? That’s by Design</title>
+    <quote>The same design qualities that make an app enthralling, he said, may also make it difficult for people to put down. And the more popular such services become, the more appeal they hold for users — a phenomenon known as the network effect.</quote>
+    <link>http://nyti.ms/1IwfQf4</link>
+  </entry>
+</feed>

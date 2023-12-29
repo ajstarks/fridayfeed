@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 6, 2015</date>
+  
+  <entry>
+    <title>Open Insulin</title>
+    <quote>A team of biohackers is developing the first open source protocol to produce insulin simply and economically. Our work may serve as a basis for generic production of this life-saving drug and provide a firmer foundation for continued research into improved versions of insulin.</quote>
+    <link>https://experiment.com/projects/open-insulin</link>
+  </entry>
+  
+  <entry>
+    <title>Big data: The power of petabytes</title>
+    <quote>The US$1,000 genome, initially conceived as a price point at which sequencing could become a component of personalized medicine, has arrived. “Our capacity for data generation relative to price has increased in a way that is almost unprecedented in science — roughly six orders of magnitude in the past seven or eight years,” says Paul Flicek, a specialist in computational genomics at the European Molecular Biology Laboratory's European Bioinformatics Institute in Cambridge, UK.</quote>
+    <link>http://www.nature.com/nature/journal/v527/n7576_supp/full/527S2a.html</link>
+  </entry>
+  
+  <entry>
+    <title>"Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman</title>
+    <quote>An interactive diagram can be an effective way to communicate a mental model, because it can convey a way of seeing a problem or system. Currently, to create an interactive diagram one must write code to procedurally draw the diagram and respond appropriately to user input. Writing this code can take hours or days. Apparatus aims to reduce the time to create an interactive diagram from hours to minutes.</quote>
+    <link>https://www.youtube.com/watch?v=i3Xack9ufYk</link>
+  </entry>
+  
+  <entry>
+    <title>Stewart Butterfield, Email Killer</title>
+    <quote>Slack stands on the precipice of product mega-fame. There’s a decent chance you haven’t heard of it yet, and it sounds almost banal in description: software that helps groups of co-workers exchange instant messages and swap electronic files. Yet Slack is, by some estimates, the fastest-growing business application of all time. Slack’s customer base has expanded tenfold in the past year. Its 1.25 million users now include employee teams at Samsung, eBay, Pinterest, Deloitte, Harvard University, NASA’s Jet Propulsion Laboratory and the U.S. Department of State.</quote>
+    <link>http://www.wsj.com/articles/slack-ceo-stewart-butterfield-on-changing-the-way-we-work-1446689564</link>
+  </entry>
+  
+  <entry>
+    <title>Do one thing…</title>
+    <quote>I don't want barely distinguishable tools that are mediocre at everything; I want tools that do one thing and do it well.</quote>
+    <link>http://radar.oreilly.com/2015/10/do-one-thing.html</link>
+  </entry>
+
+</feed>

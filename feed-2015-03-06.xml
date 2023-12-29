@@ -1,0 +1,24 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 3, 2015</date>
+  <entry>
+    <title>Google, Stanford say big data is key to deep learning for drug discovery</title>
+    <quote> A team of researchers from Stanford University and Google have released a paper highlighting a deep learning approach they say shows promise in the field of drug discovery. What they found, essentially, is that that more data covering more biological processes seems like a good recipe for uncovering new drugs.</quote>
+    <link>http://googleresearch.blogspot.com/2015/03/large-scale-machine-learning-for-drug.html</link>
+  </entry>
+  <entry>
+    <title>In praise of the humble fruit fly, leading the way on cancer research</title>
+    <quote>We can breed flies with genetic alterations mimicking those in specific cancers, and then look for an organ in the fly (such as the wing – it does not have to be the “original” human organ) where these alterations lead to cancerous growth, and study how this happens.</quote>
+    <link>https://theconversation.com/in-praise-of-the-humble-fruit-fly-leading-the-way-on-cancer-research-36628</link>
+  </entry>
+  <entry>
+    <title>Email overload: Building my own email app to reach Inbox Zero.</title>
+    <quote>My inbox seemed like a library havocked by a tornado, with torn pages scattered helter-skelter across the room. I spent as much time searching for messages in that mess as reading them. Organizing them seemed like a futile fight against entropy, and by the time I was done, I barely felt like responding to them—after all, responding would just yield more email. My email felt broken. If only there were a way to fix it.</quote>
+    <link>http://www.slate.com/articles/technology/technology/2015/02/email_overload_building_my_own_email_app_to_reach_inbox_zero.html</link>
+  </entry>
+  <entry>
+    <title>The Paradox of Empathy</title>
+    <quote>Stop making lists of everything we don’t like, as I did with that product manager, and instead move up the intellectual stack and start framing our concerns as flowing, bridging, or understanding tasks</quote>
+    <link>http://jenson.org/paradox/</link>
+  </entry>
+</feed>

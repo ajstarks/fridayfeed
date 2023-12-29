@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 30, 2015</date>
+  
+  <entry>
+    <title>Many Schools Failing on Type 1 Diabetes Care</title>
+    <quote>The incidence of Type 1 diabetes among children has increased by 21 percent in recent years. In 2009, an estimated 167,000 children had the disease, according to the latest figures from the Centers for Disease Control and Prevention. In nearly 400 cases since 2011, parents have brought complaints to federal authorities about schools that decline to care for these students.</quote>
+    <link>http://nyti.ms/1R953af</link>
+  </entry>
+
+  <entry>
+    <title>Health hackers: the patients taking medical innovation into their own hands</title>
+    <quote>Tired of waiting for a monitor for his diabetes, Tim Omer made his own. He is one of a growing number of patients circumventing medical companies in favour of a homemade healthcare revolution</quote>
+    <link>http://www.theguardian.com/lifeandstyle/2015/oct/26/health-hackers-patients-taking-medical-innovation-into-own-hands</link>
+  </entry>
+  
+  <entry>
+    <title>Google Dataflow A Unified Model for Batch and Streaming Data Processing</title>
+    <quote>This talk will cover how Google has evolved its earlier work on batch and streaming systems (including MapReduce, FlumeJava, and Millwheel) into Dataflow, a new programming model that allows users to clearly trade off correctness, latency, and cost. </quote>
+    <link>https://www.youtube.com/watch?v=3UfZN59Nsk8</link>
+  </entry>
+  
+  <entry>
+    <title>The Cloud Is Here, Separating Disrupters From Disrupted</title>
+    <quote>Tech historians will look at Oct. 22, as a watershed. Cloud computing is no longer on the way, just a contender, or even a competitor to traditional enterprise technology companies. Instead, it is here, full force, and all the signs are that it is about to get a lot bigger, fast.</quote>
+    <link>http://nyti.ms/1R11bIu</link>
+  </entry>
+
+  <entry>
+    <title>Inside Apple's perfectionism machine</title>
+    <quote>Today, those teams are not only integrated and designing something together, they’re actually thinking of features that could only exist because of that integration and solving problems that could only be solved because of that unique advantage.</quote>
+    <link>http://mashable.com/2015/10/28/apple-phil-schiller-mac/#WiQzqvs3skqW</link>
+  </entry>
+</feed>

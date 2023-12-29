@@ -1,0 +1,44 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 28, 2015</date>
+  
+
+  
+  <entry>
+    <title>Vaccinations Bring Hope, Bracelets Deliver Reminders</title>
+    <quote>But vaccine schedules are increasingly complex, and young mothers often forget to take children in for shots on time.
+
+A clever solution occurred to Lauren Braun, a former Cornell pre-med student, when she spent a summer working in Peru, traveling to villages to remind mothers to take children to clinics for immunizations.
+
+Her nonprofit company, Alma Sana, makes flexible silicon bracelets — like the yellow Livestrong bands so popular a decade ago. But hers come in pink or blue, fit around a newborn’s ankle, and serve as tiny calendars.</quote>
+    <link>http://nyti.ms/1KC09Oh</link>
+  </entry>
+  
+  <entry>
+    <title>They hacked her pancreas and found love along the way</title>
+    <quote>"What people don't understand is that you're self-dosing insulin 24/7, 365 days a year until the day we get a cure or something else happens," Lewis said. "So people are constantly doing trial and error. Sometimes they're guessing. Sometimes they do tests. Sometimes they don't."
+Looking at it from an engineering perspective, Leibrand and Lewis realized it was just an algorithm. They needed the data to train it, and they could get that data from their new alarm system.</quote>
+    <link>http://www.businessinsider.com/hacked-raspberry-pi-artificial-pancreas-2015-8</link>
+  </entry>
+  
+   <entry>
+    <title>New Ways for Patients to Get a Second Opinion</title>
+    <quote>For many patients, it has become a routine part of the medical process: Get a diagnosis or treatment plan and then seek a second opinion.
+A growing number of online services are offering second opinions and some are seeing increasing patient demand for a second set of eyes.</quote>
+    <link>http://on.wsj.com/1V5fG0D</link>
+  </entry>
+  
+  <entry>
+    <title>Scientists Get One Step Closer to a Universal Flu Vaccine</title>
+    <quote>Today, independent teams reported in Science and Nature Medicine how they’ve tinkered with a piece of viral protein so it can teach immune systems—in this case, in mice, ferrets, and monkeys—to fight whole groups of viruses rather than just a single strain. “It’s a great first step in the road for generating a universal flu vaccine,” says Gary Nabel, who oversaw one of the studies as former head of the National Institutes of Health’s Vaccine Research Center. </quote>
+    <link>http://www.wired.com/2015/08/scientists-get-one-step-closer-universal-flu-vaccine/</link>
+  </entry>
+
+  <entry>
+    <title>Bridging the divide: Business users and machine learning experts</title>
+    <quote>As tools for advanced analytics become more accessible, data scientist’s roles will evolve. Most media stories emphasize a need for expertise in algorithms and quantitative techniques (machine learning, statistics, probability), and yet the reality is that expertise in advanced algorithms is just one aspect of industrial data science.</quote>
+    <link>http://radar.oreilly.com/2015/08/bridging-the-divide-business-users-and-machine-learning-experts.html</link>
+  </entry>
+  
+
+</feed>

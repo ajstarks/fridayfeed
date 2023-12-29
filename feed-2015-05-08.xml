@@ -1,0 +1,43 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 8, 2015</date>
+  
+  <entry>
+    <title>IBM's Watson supercomputer to speed up cancer care</title>
+    <quote>The technology that we're applying to this challenge brings the power of cognitive computing to bear on one of the most urgent and pressing issues of our time - the fight against cancer - in a way that has never before been possible</quote>
+    <link>http://www.bbc.com/news/technology-32607688</link>
+  </entry>
+
+  <entry>
+    <title>Apple Has Plans for Your DNA</title>
+    <quote>Apple is collaborating with U.S. researchers to launch apps that would offer some iPhone owners the chance to get their DNA tested, many of them for the first time, according to people familiar with the plans.</quote>
+    <link>http://www.technologyreview.com/news/537081/apple-has-plans-for-your-dna/</link>
+  </entry>
+  
+  <entry>
+    <title>Researcher: Drug Pump the ‘Least Secure IP Device I’ve Ever Seen’</title>
+    <quote>The warning (CVE-2015-3459), which DHS rated “10 out of 10″ for severity is just the latest involving serious software flaws in Hospira infusion pumps and could allow someone with physical access to a Hospira LifeCare PCA 3 model pump and minimal technical knowledge to gain total control over the device. The quantity and severity of the flaws prompted the researcher who discovered them, Jeremy Richards, to call the PCA 3 pump “the least secure IP enabled device” he has ever worked with.</quote>
+    <link>https://securityledger.com/2015/05/researcher-drug-pump-the-least-secure-ip-device-ive-ever-seen/</link>
+  </entry>
+  
+  <entry>
+    <title>Margaret Gould Stewart: How giant websites design for you (and a billion others, too)</title>
+    <quote>Margaret Gould Stewart has managed UX design for six of the ten most visited websites in the world. At YouTube she led the data-informed decision to change the viewer ratings system from stars to thumbs-up-or-down. At Facebook, she oversaw the painstaking redesign of the “like” button. In this Ted Talk, she explains why no detail is too small when it’s seen 22 billion times each day, and how designing at scale requires a combination of two characteristics: audacity and humility.</quote>
+    <link>https://youtu.be/quJdL9ggETI</link>
+  </entry>
+
+  
+  <entry>
+    <title>Next Thing Co. Releases “World’s First” $9 Computer</title>
+    <quote>Snuggly situated in an industrial section of Oakland, CA is Next Thing Co. a team of nine artists and engineers who are pursuing the dream of a lower cost single board computer. Today they’ve unveiled their progress on Kickstarter, offering a $9 development board called Chip.</quote>
+    <link>http://makezine.com/2015/05/07/next-thing-co-releases-worlds-first-9-computer/</link>
+  </entry>
+  
+  <entry>
+  	<title>Can a Smartwatch prevent a heart attack?</title>
+  	<quote>I hope Silicon Valley doesn’t spend millions of dollars developing devices that aren’t medically relevant. The amount of money being spent on useless metrics from a health care standpoint is stunning.</quote>
+  	<link>http://ww2.kqed.org/futureofyou/2015/05/06/can-a-smartwatch-help-prevent-a-heart-attack/</link>
+  </entry>
+  
+  
+</feed>

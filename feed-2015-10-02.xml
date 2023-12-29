@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 2, 2015</date>
+  
+  <entry>
+    <title>What it means to be great</title>
+    <quote>Paradoxically, the improvements are not usually things that users ask for. Surveys always show that consumers want “better battery life” or a “bigger screen” but delivering something else entirely which nevertheless leads to mass adoption shows an uncanny insight into what really matters.</quote>
+    <link>http://www.asymco.com/2015/09/29/what-it-means-to-be-great/</link>
+  </entry>
+  
+  <entry>
+    <title>Themes: A Small Change to Product Roadmaps with Large Effects</title>
+    <quote>It was while we were discussing roadmaps that Bruce shattered my world with a single word: Themes. Themes are an alternative for features. Instead of promising to build a specific feature, the team commits to solving a specific customer problem.</quote>
+    <link>https://medium.com/uie-brain-sparks/themes-a-small-change-to-product-roadmaps-with-large-effects-a9a9a496b800</link>
+  </entry>
+
+  <entry>
+    <title>Netflix’ Principles of Chaos Engineering</title>
+    <quote>Netflix defines Chaos Engineering as the “discipline of experimenting on a distributed system in order to build confidence in the system’s capability to withstand turbulent conditions in production.” Netflix affirms the need for finding weaknesses in a production system before they manifest in undesired ways by observing the system’s behavior in controlled experiments.</quote>
+    <link>http://www.infoq.com/news/2015/09/netflix-chaos-engineering</link>
+  </entry>
+  
+  <entry>
+    <title>5 Steps To Re-create Xerox PARC's Design Magic (From The Guy Who Helped Make It)</title>
+    <quote>But that didn't stop Kay from trying again, this time with business-intelligence software behemoth SAP. True to form, the Communications Design Group (CDG) at SAP includes uncategorizable geniuses like Bret Victor and Vi Hart as founding members. It may or may not produce the "many trillions of dollars worth of inventions" that Kay gives PARC credit for, but if SAP—or any other organization—wants to take a serious shot at it, they ought to follow Kay's recipe.</quote>
+    <link>http://www.fastcodesign.com/3046437/5-steps-to-recreate-xerox-parcs-design-magic-from-the-guy-who-helped-make-it</link>
+  </entry>
+  
+  <entry>
+    <title>Alan Kay, 2015: Power of Simplicity</title>
+    <quote>You get simplicity by finding slightly more sophisticated building blocks to prove your theories. When you go for a simple building block that anybody can understand through common sense; that is when you start screwing yourself right and left. It's this inability to fix the building blocks is one of the largest problems in computing in large organizations today.</quote>
+    <link>https://www.youtube.com/watch?v=NdSD07U5uBs</link>
+  </entry>
+  
+  <entry>
+    <title>The Emerging Field of Health Data Science in Boston</title>
+    <quote>What if you could pick out early warning signs of heart conditions out of somebody's Fitbit data? It turns out that you can. </quote>
+    <link>http://insighthealthdata.com/blog/blog1_EmergingField/blog1_emerging_field.html</link>
+  </entry>
+</feed>

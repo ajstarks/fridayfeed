@@ -1,0 +1,46 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 23, 2015</date>
+  
+  <entry>
+    <title>This startup will tell you how much experience a doctor has treating your condition</title>
+    <quote>there aren’t many resources that can help someone decide if doctor A is more experienced or runs a better practice than doctor B. That’s the problem that Amino, a new website launching today, wants to solve. By analyzing data from 3.9 billion unique health insurance claims, the company thinks it can help people figure out if a doctor is experienced enough to treat a given condition, or even if they’re any good.</quote>
+    <link>http://www.theverge.com/2015/10/20/9573937/amino-find-doctor-zocdoc-health-insurance-startup</link>
+  </entry>
+  
+  <entry>
+    <title>Our Path Forward</title>
+    <quote>Our response is that we are more confident than ever in the path The Times has chosen, and that confidence is grounded in our track record. In less than five years, The Times has succeeded in doubling its digital-only revenues to roughly $400 million last year. To put that figure in context, that was about as much as four of our highest-profile digital competitors — Huffington Post, BuzzFeed, Vox Media and Gawker Media — reportedly earned last year combined.</quote>
+    <link>http://www.nytco.com/wp-content/uploads/Our-Path-Forward.pdf</link>
+  </entry>
+
+  <entry>
+    <title>Overcomplexifying, Underdelivering</title>
+    <quote>Below, we’ve plotted the starting expectations and end results of several modernization efforts from the past few years. Nearly all exceeded their initial budget estimates, and many delivered a tiny fraction of their expected functionality (or failed to provide any functionality at all). Longer lines generally indicate greater relative failure.</quote>
+    <link>http://spectrum.ieee.org/static/overcomplexifying-underdelivering</link>
+  </entry>
+  
+  <entry>
+    <title>The collapse of the US-EU Safe Harbor: Solving the new privacy Rubik’s Cube</title>
+    <quote>Add to this the daily reality that personal data is often moved not by individuals, but by companies and governments. Typically, individuals are not even aware of where their information is being moved or stored. It is untenable to expect people to rely on a notion of privacy protection that changes every time someone else moves their information around. No fundamental right can rest on such a shaky foundation.</quote>
+    <link>http://blogs.microsoft.com/on-the-issues/2015/10/20/the-collapse-of-the-us-eu-safe-harbor-solving-the-new-privacy-rubiks-cube/</link>
+  </entry>
+  
+  <entry>
+    <title>23andme Will Resume Giving Users Health Data</title>
+    <quote>The company hopes the information, which relates to the risk of passing certain inherited diseases to one’s children, will reignite growth in its subscriptions — even as the company evolves from being just a consumer testing service into a drug developer. </quote>
+    <link>http://nyti.ms/1kotPJd</link>
+  </entry>
+  
+  <entry>
+    <title>aprt.us</title>
+    <quote>Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams.</quote>
+    <link>http://aprt.us/</link>
+  </entry>
+  
+  <entry>
+  	<title>Why biomedical superstars are signing on with Google</title>
+  	<quote>Getting stuff done was foremost in the mind of electrical engineer Brian Otis when he left his tenured position at the University of Washington in Seattle in 2012 to work for Google. He went there to work on a ‘smart’ contact lens for people with diabetes that measures the level of glucose in tears. When the project began, it faced two big questions: first, could the electronics needed to make a functional wireless glucose sensor be embedded in a wearable contact lens?</quote>
+  	<link>http://www.nature.com/news/why-biomedical-superstars-are-signing-on-with-google-1.18600</link>
+  </entry>
+</feed>

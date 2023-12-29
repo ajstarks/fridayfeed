@@ -1,0 +1,34 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>October 9, 2015</date>
+	
+	<entry>
+		<title>Express Scripts Says It Will Cover 2 New Cholesterol Drugs</title>
+		<quote>The pharmacy benefits manager, Express Scripts, and some others had expressed concern about the price of the drugs, Repatha from Amgen and Praluent from Sanofi and Regeneron Pharmaceuticals, both more than $14,000 a year. They said that with millions of Americans needing to further lower their cholesterol, the products, known as PCSK9 inhibitors, could become one of the largest drug categories, straining health care budgets.</quote>
+		<link>http://nyti.ms/1jMQFK6</link>
+	</entry>
+
+	<entry>
+		<title>Gartner Identifies the Top 10 Strategic Technology Trends for 2016</title>
+		<quote>Gartner, Inc. today highlighted the top 10 technology trends that will be strategic for most organizations in 2016. Analysts presented their findings during the sold-out Gartner Symposium/ITxpo, which is taking place here through Thursday.</quote>
+		<link>http://www.gartner.com/newsroom/id/3143521</link>
+	</entry>
+
+	<entry>
+		<title>Microsoft’s Surface Book Looks Like the Ultimate Hybrid PC</title>
+		<quote>A more-powerful version of its Surface Pro laptop/tablet hybrid, Microsoft today unveiled a brand-new addition to the Surface lineup. Microsoft’s Panos Panay described it as the “ultimate laptop,”</quote>
+		<link>http://www.wired.com/2015/10/microsofts-surface-book-looks-like-ultimate-hybrid-pc/</link>
+	</entry>
+
+	<entry>
+		<title>AWS IoT</title>
+		<quote>AWS IoT is a managed cloud platform that lets connected devices easily and securely interact with cloud applications and other devices. AWS IoT can support billions of devices and trillions of messages, and can process and route those messages to AWS endpoints and to other devices reliably and securely.</quote>
+		<link>https://aws.amazon.com/iot/</link>
+	</entry>
+
+	<entry>
+		<title>Infrastructure as Code</title>
+		<quote>At Simple, we take great care to ensure our infrastructure is easy to understand. This is so important to us that, over the past few months, we rebuilt the entire system from the ground up in order to simplify it</quote>
+		<link>https://www.simple.com/engineering/infrastructure-as-code</link>
+	</entry>
+</feed>

@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 14, 2015</date>
+  <entry>
+    <title>Real-time data for cancer therapy</title>
+    <quote>Now, researchers at MIT’s Koch Institute for Integrative Cancer Research are closing that information gap by developing a tiny biochemical sensor that can be implanted in cancerous tissue during the initial biopsy. The sensor then wirelessly sends data about telltale biomarkers to an external “reader” device, allowing doctors to better monitor a patient’s progress and adjust dosages or switch therapies accordingly. Making cancer treatments more targeted and precise would boost their efficacy while reducing patients’ exposure to serious side effects.</quote>
+    <link>http://newsoffice.mit.edu/2015/real-time-data-for-cancer-therapy-0804</link>
+  </entry>
+
+  <entry>
+    <title>There’s a simple way to reverse America’s dangerous drop in vaccination rates</title>
+    <quote>Vaccines work: they save a lot of lives and keep populations healthier. Yet, despite extraordinary evidence supporting these claims, one of the world’s most scientifically advanced countries has seen a drastic increase in the number of people opting not to get vaccinated. The result, not surprisingly, is an increase in the number of preventable infectious diseases in the US.</quote>
+    <link>http://qz.com/476700/theres-a-simple-way-to-reverse-americas-dangerous-drop-in-vaccination-rates/</link>
+  </entry>
+
+  <entry>
+    <title>Building Netflix Playback with Self-Assembling Components</title>
+    <quote> It would have been very challenging to integrate this new model into our original architecture due to poor separation of business and security logic. 
+This and other shortcomings pushed us to re-imagine our design, leading to a radically different solution with the following as our key design requirements:
+Operation at massive scale, High velocity innovation, Reusability of components</quote>
+    <link>http://techblog.netflix.com/2014/06/building-netflix-playback-with-self.html</link>
+  </entry>
+  
+  <entry>
+  	<title>Netflix: chasing 60fps</title>
+  	<quote>Tony Casparro from Netflix talking about rebuilding the netflix ui with reactjs</quote>
+  	<link>https://www.youtube.com/watch?v=g01dGsKbXOk</link>
+  </entry>
+  
+  <entry>
+    <title>Google to Reorganize as Alphabet to Keep Its Lead as an Innovator</title>
+    <quote>“For Sergey and me this is a very exciting new chapter in the life of Google — the birth of Alphabet,” Larry Page, the chief executive of Google, wrote in a blog post on Monday. “We liked the name Alphabet because it means a collection of letters that represent language, one of humanity’s most important innovations, and is the core of how we index with Google search.”</quote>
+    <link>http://nyti.ms/1P22yFr</link>
+  </entry>
+  
+  <entry>
+    <title>Buried in the Wordplay: Life Sciences Graduates From Google X</title>
+    <quote>The flagship venture at Life Sciences is a bold attempt at early disease detection that involves releasing smart nanoparticles in the bloodstream, which can identify markers of nascent heath issues, and signal the user through a wearable device. Conrad describes the system as similar to the Star Trek “Tricorder” which instantly diagnoses one’s ailments. He’s working with Stanford and MIT. (You can learn about it in this interview I did with Conrad.) Other projects include a smart contact lens (in partnership with Novartis) and the organization of a “Baseline Study” to establish the genetic parameters of what a healthy person is. (Partners include Duke and Stanford.)</quote>
+    <link>https://medium.com/backchannel/buried-in-the-wordplay-life-sciences-graduates-from-google-x-146d221c5732</link>
+  </entry>
+</feed>

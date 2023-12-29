@@ -1,0 +1,47 @@
+<feed>
+<title>Friday Feed</title>
+<date>May 15, 2015</date>
+
+<entry>
+<title>TOMORROW’S ADVANCE MAN</title>
+<quote>Andreessen is tomorrow’s advance man, routinely laying out “what will happen in the next ten, twenty, thirty years,” as if he were glancing at his Google calendar. He views his acuity as a matter of careful observation and extrapolation, and often invokes William Gibson’s observation “The future is already here—it’s just not very evenly distributed.” </quote>
+<link>http://www.newyorker.com/magazine/2015/05/18/tomorrows-advance-man</link>
+</entry>
+
+<entry>
+<title>BeyondCorp: A New Approach to Enterprise Security</title>
+<quote>As companies adopt mobile and cloud technologies,
+the perimeter is becoming increasingly difficult to enforce. Google is taking a different approach to network security. We are removing the
+requirement for a privileged intranet and moving our corporate applications
+to the Internet.</quote>
+<link>http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43231.pdf</link>
+<link>http://blogs.wsj.com/cio/2015/05/11/google-moves-its-corporate-applications-to-the-internet/</link>
+<link>https://www.usenix.org/conference/lisa13/enterprise-architecture-beyond-perimeter</link>
+</entry>
+
+<entry>
+<title>The Power Of Visual Ideas</title>
+<quote>Break out of rows and columns. Visual ideas have the power to change perspectives and bring clarity to your process. Paper helps you get your message across with speed, personality, and effortless polish.</quote>
+<link>https://youtu.be/JMAm3QkhxaU</link>
+<link>http://fiftythree.com/think</link>
+</entry>
+
+<entry>
+<title>The Future Of Web Design Is Hidden In The History Of Architecture</title>
+<quote>The history of Western architecture can teach us a lot about the evolution of web design</quote>
+<link>https://medium.com/@sall/the-future-of-web-design-is-hidden-in-the-history-of-architecture-1cc93ea854d0</link>
+</entry>
+
+<entry>
+<title>Data (v.)</title>
+<quote>Since data has already endured such a drastic grammatical shift, perhaps we can persuade the gods of common usage to shift the word’s accepted part-of-speech entirely: can we make data into a verb?</quote>
+<link>https://medium.com/@blprnt/data-v-da0e0d24777c</link>
+</entry>
+
+<entry>
+<title>The AWS IPO</title>
+<quote>This is why Amazon’s latest earnings were such a big deal: for the first time the company broke out AWS into its own line item, revealing not just its revenue (which could be teased out previously) but also its profitability. And, to many people’s surprise, and despite all the price cuts, AWS is very profitable: $265 million in profit on $1.57 billion in sales last quarter alone, for an impressive (for Amazon!) 17% net margin.</quote>
+<link>https://stratechery.com/2015/the-aws-ipo/</link>
+</entry>
+
+</feed>

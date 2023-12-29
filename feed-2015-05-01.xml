@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 1, 2015</date>
+  
+  <entry>
+  	<title>One Doctor’s Quest To Save The World With Data</title>
+  	<quote>Binagwaho was able to improve millions of lives thanks to a new kind of medical record-keeping, only possible in this era of big data. Just as Billy Beane, general manager of the Oakland Athletics, used sabermetrics to maximize wins, epidemiologists can crunch data to determine the so-called global burden of disease—information that can be used to optimize the health of a neighborhood, nation, or the entire globe. Call it Moneyball for public health.</quote>
+  	<link>http://www.wired.com/2015/04/epic-measures</link>
+  </entry>
+  
+  
+  <entry>
+    <title>Fast, Cheap and Out of Corporate Control</title>
+    <quote>Most people on Planet Earth simply do not have the money or the insurance to gain access to the high-tech equipment and specialized physicians enjoyed by the wealthier strata. The little devices Gómez-Márquez champions are low-cost alternatives designed for ubiquity. They share more of the DNA of your child’s Legos than the sleek Apple Watches that hospitals are already offering patients. </quote>
+    <link>https://medium.com/backchannel/the-next-generation-of-medical-tools-may-be-home-brewed-830a753a1c58</link>
+  </entry>
+  
+
+  <entry>
+  	<title>Admitted to Your Bedroom: Some Hospitals Try Treating Patients at Home</title>
+  	<quote>Under pressure to reduce costs while improving quality, a handful of hospital systems have embarked on an unusual experiment: They are taking the house call to the extreme, offering hospital-level treatment at home to patients like Mr. Fernandez who in the past would have been routinely placed in a hospital room.</quote>
+  	<link>http://nyti.ms/1OZqNTH</link>
+  </entry>  
+
+  <entry>
+  	<title>A Day in the Life of a Stolen Healthcare Record</title>
+  	<quote>When your credit card gets stolen because a merchant you did business with got hacked, it’s often quite easy for investigators to figure out which company was victimized. The process of divining the provenance of stolen healthcare records, however, is far trickier because these records typically are processed or handled by a gauntlet of third party firms, most of which have no direct relationship with the patient or customer ultimately harmed by the breach.</quote>
+  	<link>http://krebsonsecurity.com/2015/04/a-day-in-the-life-of-a-stolen-healthcare-record/</link>
+  </entry>
+  
+  <entry>
+  	<title>IBM is banking on design’s ROI</title>
+  	<quote>We started our first design program — and we were one of the first to really apply design holistically at scale — in 1956. In the 1950s and the 1960s and into the early 1970s, we had a constellation of designers around IBM that, quite frankly, has never been equaled.</quote>
+  	<link>http://radar.oreilly.com/2015/04/ibm-is-banking-on-designs-roi.html</link>
+  </entry>
+</feed>

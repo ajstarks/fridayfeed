@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 17, 2015</date>
+  
+  <entry>
+    <title>IBM Creates Watson Health to Analyze Medical Data</title>
+    <quote>IBM’s broad vision of combining and analyzing health data from varied sources to improve care has been around for decades. But the company and its partners say that technology, economics and policy changes are coming together to improve the odds of making the IBM venture a workable reality. They point to improvements in artificial intelligence, low-cost cloud computing and health policy that will reward keeping patients healthy instead of the fee-for-service model in which more treatments and procedures mean more revenue.</quote>
+    <link>http://nyti.ms/1CQKC91</link>
+  </entry>
+  
+  <entry>
+    <title>Apple ResearchKit on Github</title>
+    <quote>Today, we’re excited to make ResearchKit available as open source so that researchers can more easily develop their own research apps and leverage the visual consent flows, real time dynamic active tasks and surveys that are included in the framework. Now that it’s available as open source, researchers all over the world will be able to contribute new modules to the framework, like activities around cognition or mood, and share them with the global research community to further advance what we know about disease.</quote>
+    <link>http://researchkit.github.io/index.html</link>
+  </entry>
+  
+  <entry>
+    <title>e-Health Sensor Platform V2.0 for Arduino and Raspberry Pi</title>
+    <quote>The e-Health Sensor Shield V2.0 allows Arduino and Raspberry Pi users to perform biometric and medical applications where body monitoring is needed by using 10 different sensors: pulse, oxygen in blood (SPO2), airflow (breathing), body temperature, electrocardiogram (ECG), glucometer, galvanic skin response (GSR - sweating), blood pressure (sphygmomanometer), patient position (accelerometer) and muscle/eletromyography sensor (EMG).</quote>
+    <link>http://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical</link>
+  </entry>
+  
+  <entry>
+    <title>Lessons from Altoona: What Facebook's newest data center can teach us</title>
+    <quote>The fundamental takeaways from the Altoona design are the advantages of building your data center network using small open switches, in an architecture that enables you to scale to any size without changing the basic building blocks. </quote>
+    <link>http://www.networkworld.com/article/2910014/cisco-subnet/lessons-from-altoona-what-facebooks-newest-data-center-can-teach-us.html</link>
+  </entry>
+  
+  <entry>
+    <title>The Crazy-Tiny Next Generation of Computers</title>
+    <quote>What’s in the thimble is the culmination of a decade’s worth of research into microelectromechanical systems (MEMS) — the technology of very tiny computers. MEMS are also called “smart dust,” and Dutta’s dust is the smallest known to humankind. Dutta is part of the Michigan Micro Mote, or M3, project at the University of Michigan,</quote>
+    <link>https://medium.com/backchannel/the-crazy-tiny-next-generation-of-computers-17e89e472839</link>
+  </entry>
+  
+  <entry>
+  	<title>Slack, the Office Messaging App That May Finally Sink Email</title>
+  	<quote>To be effective in such an environment, workers will have to become adept at navigating complex team dynamics, and doing so will depend on the sort of nuanced, intimate communication that you can’t get from email. Collaboration also demands another factor in modern workplaces, what Mr. Butterfield calls transparency.</quote>
+  	<link>http://nyti.ms/19cPNJG</link>
+  </entry>
+  
+</feed>

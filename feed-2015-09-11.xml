@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 11, 2015</date>
+  
+  <entry>
+    <title>Anatomy of a modern production stack</title>
+    <quote>I was chatting on an Xoogler message board the other day and Dennis Ordanov (@daodennis) was asking about the basic moving parts of a production stack. I just started enumerating them from memory and thought it might be a good blog post1. So, here is a mostly stream-of-consciousness dump of the parts a modern (container based) production environment2.</quote>
+    <link>http://www.eightypercent.net/post/layers-in-the-stack.html</link>
+  </entry>
+  
+  <entry>
+    <title>What You Must Know About Big Data and Machine Learning</title>
+    <quote>I actually don’t like that definition. I think that definition is functionally correct but it focuses on the problems of big data. These are the challenges that you have to deal with when you deal with big data but the definition skips or misses the part where it says you ask the question, “Why do you want to deal with these problems?” It turns out the reason for big data is machine learning.</quote>
+    <link>https://medium.com/deep-learning-101/what-you-must-know-about-big-data-and-machine-learning-e6051a76ccd0</link>
+  </entry>
+
+  <entry>
+    <title>Jeffrey Heer on Visualization Tools</title>
+    <quote>Raise the abstraction at which we can represent and reason about visualizations</quote>
+    <link>https://www.youtube.com/watch?v=GdoDLuPe-Wg</link>
+  </entry>
+  
+  <entry>
+    <title>Startups, This Is How Design Works</title>
+    <quote>It’s so much more than that. It’s a state of mind. It’s an approach to a problem. This handy guide will help you understand design and provide resources to help you find awesome design talent.</quote>
+    <link>https://startupsthisishowdesignworks.com/</link>
+  </entry>
+  
+  <entry>
+    <title>Apple - September Event 2015</title>
+    <quote>Check out iPhone 6s and iPhone 6s Plus, learn about the powerful iPad Pro, take a look at the new features and bands for Apple Watch, and see the premiere of the all-new Apple TV.</quote>
+    <link>https://www.youtube.com/watch?v=0qwALOOvUik</link>
+  </entry>
+  
+</feed>

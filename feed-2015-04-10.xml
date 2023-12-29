@@ -1,0 +1,45 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>April 10, 2015</date>
+	
+	<entry>
+		<title>How Employee Onboarding can increase Productivity and decrease Turnover to create Profits</title>
+		<quote>Onboarding a new employee isn’t tremendously hard, but it is high-impact. Done well, it will decrease turn-over, improve team-work, and give employees a sense of belonging. Done exceptionally well, it can create a cult-like devotion to a company. This makes it one of the highest-leverage ways to increase the effectiveness of a team.</quote>
+		<link>https://medium.com/evergreen-business-weekly/why-employee-onboarding-is-holding-back-your-team-and-how-to-get-it-right-3ec5b3b36f6e</link>
+	</entry>
+		
+		
+	<entry>
+		<title>Telling your data’s story</title>
+		<quote>Visualizing complex relationships in big data often requires involved graphical displays that can be intimidating to users. As the volume and complexity of data collection and storage scale exponentially, creating clear, communicative, and approachable visual representations of that data is an increasing challenge. </quote>
+		<link>http://radar.oreilly.com/2015/03/telling-your-datas-story.html</link>
+	</entry>
+
+
+	<entry>
+		<title>Amazon Machine Learning – Make Data-Driven Decisions at Scale</title>
+		<quote>Today, it is relatively straightforward and inexpensive to observe and collect vast amounts of operational data about a system, product, or process. Not surprisingly, there can be tremendous amounts of information buried within gigabytes of customer purchase data, web site navigation trails, or responses to email campaigns. The good news is that all of this data can, when properly analyzed, lead to statistically significant results that can be used to make high-quality decisions.</quote>
+		<link>https://aws.amazon.com/blogs/aws/amazon-machine-learning-make-data-driven-decisions-at-scale/</link>
+	</entry>
+		
+	
+	<entry>
+		<title>The future of Apple Watch and Apps</title>
+		<quote>Again, this suggests that apps are not intended to be the focus of Apple Watch in the way we understand apps today. Some may think that this is worrisome, that it requires an unexpected and largely insurmountable learning curve. But I disagree. Rather, I think it’s simply a new way — and a more natural way — to think of apps. These new apps aren’t ones we interact with, but ones that hold the keys to unlocking whatever functions our merging physical and digital worlds require, quickly and effortlessly.</quote>
+		<link>http://thetechblock.com/the-future-of-apple-watch-and-apps/</link>
+	</entry>
+
+		
+	<entry>
+		<title>Apple Watch Review: A DAY IN THE LIFE</title>
+		<quote>I love my phone. Everyone loves their phone. The only real question a smartwatch like the Apple Watch needs to answer is “why would I use this instead of my phone?” The answers so far haven’t been apparent; the Watch seems like it can do a little bit of everything instead of one thing really well. So I’m putting my phone in my pocket and this Watch on my wrist, and we’re taking this trip together.</quote>
+		<link>http://www.theverge.com/a/apple-watch-review</link>
+	</entry>
+	
+	<entry>
+		<title>The Apple Watch</title>
+		<quote>This is the introduction of a new dimension in input and output, and for me, it’s central to the appeal of Apple Watch. By default, Apple Watch has sounds turned on for incoming notifications. I can see why this is the default, but in practice, I keep sounds turned off all the time, not just in contexts where I typically silence my phone. Taps are all I need for notifications. They’re strong enough that you notice them, but subtle enough that they don’t feel like an interruption.</quote>
+		<link>http://daringfireball.net/2015/04/the_apple_watch</link>
+	</entry>
+	
+</feed>

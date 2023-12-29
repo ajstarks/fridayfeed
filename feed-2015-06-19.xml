@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 19, 2015</date>
+  
+<entry>
+    <title>Peter Walter’s Voyage Into a Microscopic World</title>
+    <quote>The biochemist discusses his path to studying how proteins within cells are coordinate their work.</quote>
+    <link>http://nyti.ms/1GIqdLN</link>
+  </entry>
+  
+  <entry>
+    <title>Designing for Future Hardware</title>
+    <quote>Design for tomorrow's products today. See examples of how Apple and partners designed software for Apple Watch and other products before they even existed. </quote>
+    <link>https://developer.apple.com/videos/wwdc/2015/?id=801</link>
+  </entry>
+  
+  <entry>
+    <title>WWDC 2015: From platform polish to culture clash</title>
+    <quote>WWDC 2015 wasn't about radical redesign or functional revolution, it was about solidifying the new foundations and moving everyone forward.</quote>
+    <link>http://www.imore.com/wwdc-2015-just-breathe</link>
+  </entry>
+  
+    <entry>
+    <title>IBM Invests to Help Open-Source Big Data Software — and Itself</title>
+    <quote>On Monday, IBM is to announce a broadly similar move in big data software. The company is placing a large investment — contributing software developers, technology and education programs — behind an open-source project for real-time data analysis, called Apache Spark.</quote>
+    <link>http://nyti.ms/1GHtMlk</link>
+  </entry>
+  
+  <entry>
+    <title>Apple Versus Google</title>
+    <quote>We have become data-spewing factories, and the only way to make sense of it all is through context. Google’s approach to context is using billions of data points in its cloud and matching them to our personal usage of the Google-powered Web; </quote>
+    <link>http://www.newyorker.com/business/currency/apple-versus-google</link>
+  </entry>
+  
+  <entry>
+    <title>The Principles of UX Choreography</title>
+    <quote>The intersection of Disney and UX and why learning how to draw Mickey Mouse will change how you approach design</quote>
+    <link>https://medium.com/@becca_u/the-principles-of-ux-choreography-69c91c2cbc2a</link>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 13, 2015</date>
+  
+  <entry>
+    <title>It’s Way Too Easy to Hack the Hospital</title>
+    <quote>“Every day, it was like every device on the menu got crushed,” Rios says. “It was all bad. Really, really bad.” The teams didn’t have time to dive deeply into the vulnerabilities they found, partly because they found so many—defenseless operating systems, generic passwords that couldn’t be changed, and so on.</quote>
+    <link>http://www.bloomberg.com/features/2015-hospital-hack/</link>
+  </entry>
+  
+  <entry>
+    <title>TensorFlow: smarter machine learning, for everyone</title>
+    <quote>We've seen firsthand what TensorFlow can do, and we think it could make an even bigger impact outside Google. So today we’re also open-sourcing TensorFlow. We hope this will let the machine learning community—everyone from academic researchers, to engineers, to hobbyists—exchange ideas much more quickly, through working code rather than just research papers. And that, in turn, will accelerate research on machine learning, in the end making technology work better for everyone. Bonus: TensorFlow is for more than just machine learning. It may be useful wherever researchers are trying to make sense of very complex data—everything from protein folding to crunching astronomy data.</quote>
+    <link>https://googleblog.blogspot.com/2015/11/tensorflow-smarter-machine-learning-for.html</link>
+  </entry>
+  
+  <entry>
+    <title>The iPad Pro</title>
+    <quote>From a hardware perspective, the iPad Pro strikes me as a seminal device. It runs faster than the Intel x86-based MacBooks, gets better battery life, and costs significantly less. And it has a better display with significantly more pixels than even a 15-inch MacBook Pro.</quote>
+    <link>http://daringfireball.net/2015/11/the_ipad_pro</link>
+  </entry>
+
+  <entry>
+    <title>A 360 Degree View Of The Entire Netflix Stack</title>
+    <quote>Netflix’s infrastructure is on  Amazon EC2 with master copies of digital films from movie studios being stored on Amazon S3. Each film is encoded into over 50 different versions based on video resolution and audio quality using machines on the cloud. Over 1 petabyte of data is stored on Amazon. These data are sent to content delivery networks to feed the content to local ISPs.Netflix uses a number of open-source software at the backend, including Java, MySQL, Gluster, Apache Tomcat, Hive, Chukwa, Cassandra, and Hadoop.</quote>
+    <link>http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html</link>
+  </entry>
+  
+  <entry>
+    <title>How Apple Is Giving Design A Bad Name</title>
+    <quote>It matters. It matters when people end up thinking they are stupid because they can’t seem to use an interface that has been made to seem perfectly clear even though it isn’t. It matters that our leading products are going backward in both usability and usefulness.</quote>
+    <link>http://www.fastcodesign.com/3053406/how-apple-is-giving-design-a-bad-name</link>
+  </entry>
+
+</feed>

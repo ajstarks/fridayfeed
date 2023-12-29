@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 26, 2015</date>
+  
+  <entry>
+    <title>Handling Five Billion Sessions a Day in Real Time</title>
+    <quote>In practice, we need to design a system that receives events, archives them, performs offline and real-time computations, and merges the results of those computations into coherent information. All of this needs to happen at the scale of millions events per second.</quote>
+    <link>http://answers.io/blog/handling-five-billion-sessions-a-day-in-real-time</link>
+  </entry>
+  
+  <entry>
+    <title>Tech Companies Line Up Behind ‘Containers’ and the Cloud</title>
+    <quote>Several other companies, including Cisco Systems, Hewlett-Packard, Intel, Google and start-ups that had been perceived as Docker competitors, announced Monday that they were forming a group that would create common operational standards for containers, as Docker-type software is called.
+That means that software built specifically for mobile and cloud computing deployment will most likely move around even more easily across the networked world. This is likely to create even more demand for that kind of computing.</quote>
+    <link>http://nyti.ms/1QOMNHe</link>
+  </entry>
+
+  <entry>
+    <title>Why Bio is the New Digital - Joi Ito keynote</title>
+    <quote>Biology is being mashed togehter with electronics in a seamless way.  Biology is being reduced in cost 5-6 times Moore's Law</quote>
+    <link>https://www.youtube.com/watch?v=pnHD8gvccpI</link>
+  </entry>
+  
+  <entry>
+    <title>Beyond Tufte</title>
+    <quote>Nine Great Books about Information Visualization</quote>
+    <link>https://medium.com/@karlsluis/beyond-tufte-fd93cbcec6af</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

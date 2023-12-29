@@ -1,0 +1,46 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>March 27, 2015</date>
+	
+	<entry>
+	<title>First Prototype of a Working Tricorder Unveiled at SXSW</title>
+	<quote>Kaul was showing off the components of his entry in the Tricorder Xprize, the $10-million competition that requires teams to develop a sci-fi medical scanner worthy of Star Trek. Each device must be able to diagnose 15 different medical conditions and monitor vital signs for 72 hours.</quote>
+	<link>http://spectrum.ieee.org/tech-talk/biomedical/devices/first-prototype-of-a-working-tricorder-unveiled-at-sxsw</link>
+	</entry>
+
+	<entry>
+	<title>How Facebook Will Build the Connected World</title>
+	<quote>Our plan has three parts: planetary connectivity, artificial intelligence and virtual reality.</quote>
+	<link>https://medium.com/backchannel/how-facebook-will-build-the-connected-world-1ffe485d8352</link>
+	</entry>
+
+	<entry>
+	<title>Google’s Hybrid Approach to Research</title>
+	<quote>Because of the time-frame and effort involved, Google’s approach to research is iterative and usually involves writing production, or near-production, code from day one. Elaborate research prototypes are rarely created, since their development delays the launch of improved end-user services. Typically, a single team iteratively explores fundamental research ideas, develops and maintains the software, and helps operate the resulting Google services – all driven by real-world experience and concrete data.</quote>
+	<link>http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/38149.pdf</link>
+	</entry>
+
+	<entry>
+	<title>In Design, Empathy is Not Enough</title>
+	<quote>Empathy is hot right now. It’s being posited as one of the key characteristics that sets designers apart. (As though we have a monopoly on it.) But empathy is only a stepping stone on the way to a more important place: understanding.</quote>
+	<link>https://medium.com/@odannyboy/in-design-empathy-is-not-enough-c315b1c1ecee</link>
+	</entry>
+
+	<entry>
+	<title>Mission Control: A History of the Urban Dashboard</title>
+	<quote>We know what rocket science looks like in the movies: a windowless bunker filled with blinking consoles, swivel chairs, and shirt-sleeved men in headsets nonchalantly relaying updates from “Houston” to outer space. Lately, that vision of Mission Control has taken over City Hall. NASA meets Copacabana</quote>
+	<link>https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/</link>
+	</entry>
+
+	<entry>
+	<title>Uber: The Big Data Company</title>
+	<quote>I am no longer just a passenger or a fare. I am a big data goldmine and, in case you hadn’t noticed, Uber just broke out the pickaxes.</quote>
+	<link>http://www.forbes.com/sites/ronhirson/2015/03/23/uber-the-big-data-company/</link>
+	</entry>
+	
+	<entry>
+		<title></title>
+		<quote></quote>
+		<link></link>
+	</entry>
+</feed>

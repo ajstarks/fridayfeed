@@ -1,0 +1,46 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 24, 2015</date>
+  
+  <entry>
+  	<title>NASA'S DATA PORTAL</title>
+  	<quote>This site is a continually growing catalog of publicly Available NASA Datasets, APIs, Visualizations, and More.</quote>
+  	<link>https://data.nasa.gov/developer</link>
+  </entry>
+  
+  <entry>
+  	<title>What my Grandfather’s drill can teach us about designing business software</title>
+  	<quote>Physical tools give us extraordinary abilities. Software tools should do the same, but they often fall short of their potential, especially in the context of business software. Here’s what designers can do about it.</quote>
+  	<link>https://medium.com/elegant-tools/my-grandfather-s-drill-and-what-it-can-teach-us-about-designing-business-software-8a76f533e55c</link>
+  </entry>
+  
+  <entry>
+  	<title>When Open Access is the norm, how do scientists work together online?</title>
+  	<quote>When professional identity is muted in this way, another unexpected outcome can occur. “Social media collapses the prestige hierarchy,” Cottom says. “I’ve been surprised by some of the very senior people who have put themselves into my network, people who otherwise would never be talking with me, not in a million years.”</quote>
+  	<link>http://blogs.plos.org/scicomm/2015/04/13/hello-world/</link>
+  </entry>
+  
+  <entry>
+  	<title>Google Introduces Wireless Service Called Project Fi</title>
+  	<link>http://nyti.ms/1OHm1di</link>
+  	<quote>Google unveiled its long-awaited phone service, called Project Fi, putting the search giant in competition with Verizon, AT&amp;T and other wireless service providers. In addition to new turf, the service is an attempt to blend several communication tools and the multiplying ways of calling people — cellular calls, online calls like those offered by Skype — into a single phone number and service.</quote>
+  </entry>
+  
+  <entry>
+	<title>Data is the new middle manager</title>
+  	<quote>In the past, says Mr. Bien, companies were beset by “data bread lines,” in which managers had all the data they needed, but their staffers had to get in line to get the information they needed to make decisions. In the world of just a few years ago, in which databases were massively expensive and “business intelligence” software cost millions of dollars and could take months to install, it made sense to limit access to these services to managers. But no more.</quote>
+  	<link>http://www.wsj.com/articles/data-is-the-new-middle-manager-1429478017</link>
+  </entry>
+  
+  <entry>
+  	<title>Box, Provider of Cloud-Computing Services, Faces Make-or-Break Moment</title>
+  	<quote>At a company conference this week, Box, which has so far focused on Internet data storage and collaboration technology, will explain how it plans to help other businesses build their own cloud services. The goal is to create a so-called ecosystem that ensures continued growth just as Microsoft did with PCs and Apple did with the iPhone.</quote>
+  	<link>http://nyti.ms/1DrkhyC</link>
+  </entry>
+  
+  <entry>
+    <title>This French tech school has no teachers, no books, no tuition — and it could change everything</title>
+    <quote>Tests are essentially pass-fail: Your team either completes the project or it doesn’t. One administrator compared it to making a car: In other schools, getting a test 90 percent right means an A; but if you make a car with just three out of four wheels, it is a failure. At École 42, you don’t get points for making it part way there — you have to make a car with all four wheels.</quote>
+    <link>http://venturebeat.com/2014/06/13/this-french-tech-school-has-no-teachers-no-books-no-tuition-and-it-could-change-everything/?hn=true</link>
+  </entry>
+</feed>

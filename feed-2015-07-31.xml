@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 31, 2015</date>
+  
+  <entry>
+  	<title>Praluent Looks Cheap To Those With Extreme Cholesterol</title>
+  	<quote>The newly approved cholesterol-lowering drug, Praluent, is powerful almost beyond belief. It can drive levels of LDL cholesterol, the dangerous kind, into the 20s or even the teens, numbers almost never before seen in adults. In general, it lowers cholesterol by 50 percent to 70 percent, compared with 25 percent to 55 percent with statins.</quote>
+  	<link>http://nyti.ms/1IDcHda</link>
+  </entry>
+  
+ <entry>
+	  <title>The New Design Leader Emphasizes Leadership</title>
+	  <quote>Design for design’s sake doesn’t work. For it to truly change an organization, it has to be baked into every decision the product team makes. For this, embedded designers are key.</quote>
+	  <link>https://medium.com/ux-advantage/the-new-design-leader-emphasizes-leadership-e23fdb482b96</link>
+  </entry>
+  
+  <entry>
+  	<title>The Story Of Windows 10 From Inside Microsoft</title>
+  	<quote>Now, a new leadership team for Windows under CEO Satya Nadella and executive vice president Terry Myerson are trying it all again. But this time around, the goal is much more ambitious: if they succeed, Windows 10 will be the final iteration of Windows: The one that will be updated like a service, continuously, in perpetuity. The one that finally makes good on all the promises of a synergistic ecosystem of like-minded devices designed to work together.</quote>
+  	<link>http://www.theverge.com/2015/7/29/9060891/microsoft-windows-10-myerson-belfiore-aul-spencer-interview</link>
+  </entry>
+  
+  <entry>
+  	<title>Review: Windows 10 is the best version yet—once the bugs get fixed</title>
+  	<quote>Windows 10 is the best Windows yet. I think almost everyone upgrading from both Windows 7 and Windows 8 will be upgrading to a better operating system that is less annoying and more effective. I think that everyone who is eligible to upgrade should do so; I can see little reason to stick with those older operating systems unless one has very specific compatibility or regulatory concerns. Windows 10 is without a doubt better, and with each passing month it's going to stretch that lead and become better still.
+But I'd also wait a few weeks, maybe even a couple of months, before making the move.</quote>
+  	<link>http://arstechnica.com/gadgets/2015/07/review-windows-10-is-the-best-version-yet-once-the-bugs-get-fixed/</link>
+  </entry>
+
+  <entry>
+  	<title>Microsoft, capitulation and the end of Windows Everywhere</title>
+  	<quote>The apps that people want on smartphones are not being written for desktop Windows anyway. Uber doesn't have a desktop Windows app, and neither does Instacart, Pinterest or Instagram. The apps and services that consumers care about are either smartphone-only or address the desktop using the web, with only partial exceptions for the enterprise. You can't tempt developers to support Windows Phone by saying 'it's easy to deploy your desktop app to mobile' if there is no desktop app.</quote>
+  	<link>http://ben-evans.com/benedictevans/2015/7/8/capitulation</link>
+  </entry>
+
+
+</feed>

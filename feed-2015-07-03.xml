@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 3, 2015</date>
+
+  <entry>
+    <title>Designing Data-Driven Interfaces</title>
+    <quote>Strive to present your data in a distinctive way, but avoid over-designing and unnecessary distractions. Choose the right graphs for your data, but don’t forget to construct your page with hierarchy. Fret every tiny detail no matter how frustrating and tedious…and don't forget to ask yourself, “So what?”</quote>
+    <link>https://medium.com/truth-labs/designing-data-driven-interfaces-a75d62997631</link>
+  </entry>
+  
+  <entry>
+    <title>Meet Nava, A Startup That Wants To Fix The Government's Crappy Design</title>
+    <quote>The problem to solve becomes, "how do we reimagine solutions from the end-user perspective, build something that won't catch fire, and redefine the problem so that it's not only about how to build robust technology, but how to deliver better outcomes to people?"</quote>
+    <link>http://www.fastcodesign.com/3047856/innovation-by-design/meet-nava-a-startup-that-wants-to-fix-the-governments-crappy-design</link>
+  </entry>
+  
+  <entry>
+    <title>Facebook just taught us all how to build websites</title>
+    <quote>What do all these have in common? Companies or startups, having learned hard lessons in production, found a way forward, and have shared their breakthroughs with the world.</quote>
+    <link>https://medium.com/gyroscope-innovations/facebook-just-taught-us-all-how-to-build-websites-51f1e7e996f2</link>
+  </entry>
+    
+  <entry>
+    <title>How Google Glass v2 Could Change The Enterprise</title>
+    <quote>So, what if you’re sitting in a call-center and instead of staring at a productivity pie-chart on a screen you pop your supervisory head above the parapet and with your Enterprise Edition Glasses can see each individuals performance figures ? By calling up the person in question using the interface you can see their stats in a heads-up (HUD) display. Plus with not being tied to your desk you can floor-walk at the same time or do this anywhere, anytime, without the need to carry a tablet or phone interface with you.</quote>
+    <link>http://www.forbes.com/sites/theopriestley/2015/07/04/how-google-glass-v2-could-change-the-enterprise/</link>
+  </entry>
+  
+  <entry>
+    <title>A Death from Measles</title>
+    <quote>One of the central purposes of universal vaccination is to provide “herd immunity” to the most vulnerable segments of the population—infants, for example, and those receiving drug treatment for cancer and other diseases that compromise the immune system. If you are sick and unable to get vaccinated, the herd around you, in theory, should provide protection. Once the vaccine rate falls much below ninety per cent, however, herd immunity disappears.</quote>
+    <link>http://www.newyorker.com/news/news-desk/a-death-from-measles</link>
+  </entry>
+</feed>

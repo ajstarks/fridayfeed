@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 10, 2015</date>
+  
+  <entry>
+    <title>Design in Tech 2015</title>
+    <quote>Firms are not hiring designers to make their logo, but to design how the business works with regard to technology</quote>
+    <link>https://youtu.be/TvgVvHd0RJs</link>
+  </entry>
+  
+  <entry>
+    <title>The Apple Watch and the Rise of the Personal Cloud</title>
+    <quote>One of the most interesting things I’ve experienced while using the Apple Watch over the past two and a half months is the growing consciousness that I am now wearing several machines that are capable of talking to each other.</quote>
+    <link>http://qz.com/449223/the-apple-watch-and-the-rise-of-the-personal-cloud/</link>
+  </entry>
+  
+  <entry>
+    <title>Streams: Mail 3.0 concept</title>
+    <quote>Let’s introduce one more layer of abstraction: stream. Stream is a group of threads. Simple as that. When you start new thread, you don’t just start it by filling To: and Subject:, you also have to put it to some stream.</quote>
+    <link>http://tonsky.me/blog/streams/</link>
+  </entry>
+
+  <entry>
+    <title>Why Product Thinking is the next big thing in UX Design</title>
+    <quote>Thinking in products helps building successful features. By defining the problems the product tackles, it answers the question “why do we build this product?”. Defining the target audience “who has these problems?” and defining the solution “how are we doing this?” will give enough guidance to create a new feature. Setting up a goal will help to measure the success of this feature.</quote>
+    <link>https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe</link>
+  </entry>
+  
+  <entry>
+    <title>How Do We Explain The Unreasonable Effectiveness Of IT?</title>
+    <quote>The greatest achievements become less likely when they are made objectives. The best way to achieve greatness, the truest path to “blue sky” discovery or to fulfill boundless ambition, is to have no objective at all. To achieve our highest goals, we must be willing to abandon them. </quote>
+    <link>http://highscalability.com/blog/2015/7/6/how-do-we-explain-the-unreasonable-effectiveness-of-it.html</link>
+  </entry>
+</feed>

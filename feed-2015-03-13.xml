@@ -1,0 +1,47 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 13, 2015</date>
+  <entry>
+    <title>Now everybody can do their part to advance medical research.</title>
+    <quote>Medical researchers are doing some of the most important work in the world, and they’re committed to making life-changing discoveries that benefit us all. To help, we’ve created ResearchKit, an open source software framework that makes it easy for researchers and developers to create apps that could revolutionize medical studies, potentially transforming medicine forever.</quote>
+    <link>https://www.apple.com/researchkit/</link>
+  </entry>
+  
+  <entry>
+  	<title></title>
+  	<quote></quote>
+  	<link></link>
+  </entry>
+  
+  <entry>
+  	<title>Toward a Wikipedia model of drug discovery</title>
+  	<quote>How Apple’s ResearchKit — or something like it — can democratize our search for new medical treatments.</quote>
+  	<link>https://medium.com/plain-text/toward-a-wikipedia-model-of-drug-discovery-79a2c7bcf88c</link>
+  </entry>
+  
+  <entry>
+  	<title>23andMe to Turn DNA Data Into Drugs in Startup’s Latest Twist</title>
+  	<quote>“Part of what we’re trying to do here is drug discovery in a more efficient model,” Chief Executive Officer Anne Wojcicki said in a telephone interview. “Pharma companies don’t have a direct relationship with consumers, so they’re always subjects. By engaging them and giving it to them as a prize, saying, ‘You’ve powered this study and you’ve made this happen,’ we can do things in a different way.”</quote>
+  	<link>http://www.bloomberg.com/news/articles/2015-03-12/23andme-to-turn-dna-data-into-drugs-in-startup-s-latest-twist?hootPostID=a32a7a8d4740ee602c3cadc97c48cdc7</link>
+  </entry>
+  
+  <entry>
+  	<title>Big pharma is under threat from a whole new kind of generic drug</title>
+  	<quote>The more complex process of creating a generic version of a biologic also makes the process of evaluating and approving the drug for sale more intensive. The FDA wasn’t even allowed to consider biosimilars until the passage of the Affordable Care Act in 2010, after which basic details on the approval process took another two years. Europe approved its first biosimilar in 2006.</quote>
+  	<link>http://qz.com/357728/the-next-pharma-patent-cliff-is-getting-a-lot-steeper/</link>
+  </entry>
+  
+  
+  <entry>
+  	<title>How Product Managers Redefine the Term “CIO”</title>
+  	<quote>To successfully execute the above, instead of calling product managers “CEOs”, I liken PMs to “CIOs” — Chief Influence Officers.</quote>
+  	<link>https://medium.com/@jenchoi/how-product-managers-redefine-the-term-cio-1a516ede2c5f</link>
+  </entry>
+  
+  <entry>
+  	<title>The big-data successor of the spreadsheet</title>
+  	<quote>So what could that successor of the spreadsheet look like? The question has kept me busy for quite some time, but of course I am not the first to ponder this issue. Let’s focus on the problem of information retrieval, or querying, for now.</quote>
+  	<link>https://medium.com/@tommyvdv/rewriting-excel-for-the-era-of-big-ger-data-part-2-c13cc40f248e</link>
+  </entry>
+  
+</feed>

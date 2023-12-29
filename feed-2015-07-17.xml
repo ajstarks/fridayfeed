@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 17, 2015</date>
+  
+  <entry>
+    <title>Big Pharma Eyes iPhone For Drug R&amp;D</title>
+    <quote>Pharmaceutical giants like GlaxoSmithKline and Purdue Pharma want to use Apple’s open source ResearchKit platform for gathering medical research data via the iPhone.</quote>
+    <link>http://www.buzzfeed.com/stephaniemlee/big-pharma-eyes-apples-researchkit-for-drug-development#.sbyLZzQOa</link>
+  </entry>
+  
+  <entry>
+    <title>The Secret Startup That Saved the Worst Website in America</title>
+    <quote>How a team of young people, living in a repurposed McMansion in Maryland, helped rebuild Healthcare.gov. And Nava, indeed, hopes to keep branching out. Bhobe said the company intends to realize a larger goal, of turning some government IT services into application programming interfaces, or APIs, that can then be used either by the government or by private companies. In other words, instead of Healthcare.gov being the only way to access the federal insurance marketplace, a swath of sites could access the same database and serve competing marketplaces with different interfaces.</quote>
+    <link>http://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/</link>
+  </entry>
+  
+  <entry>
+    <title>Sick kids, desperate parents, and the battle for experimental drugs</title>
+    <quote>Grass-roots efforts to help parents acquire scarce and unproven drugs for their gravely ill children laid bare questions about fairness and equality of access. “What began during the AIDS epidemic as social protest has evolved into social media protest,” biotechnology executive Kenneth Moch recently told the audience of the MassBio Patient Advocacy Summit. Cancer patients Andrea Sloan and Nick Auden, both lawyers, famously took their pleas for experimental drugs to Twitter, Facebook, YouTube, and Change.org, amassing the support of hundreds of thousands to challenge drug companies’ denials of their petitions.</quote>
+    <link>http://www.bostonglobe.com/magazine/2015/07/15/sick-kids-desperate-parents-and-battle-for-experimental-drugs/Hle3CTwriFfTXoOvQ7TbZP/story.html#</link>
+  </entry>
+  
+  <entry>
+    <title>How to actually learn data science</title>
+    <quote>The first step to learning data science is usually asking “how do I learn data science?”. The response to this question tends to be a long list of courses to take and books to read, starting with linear algebra or statistics. I went through this myself a few years ago when I was learning. I had no programming background, but knew that I wanted to work with data.</quote>
+    <link>https://www.dataquest.io/blog/how-to-actually-learn-data-science/</link>
+  </entry>
+  
+  <entry>
+    <title>Why the Great Glitch of July 8th Should Scare You</title>
+    <quote>But that is exactly why I’m a lot more worried. The big problem we face isn’t coordinated cyber-terrorism, it’s that software sucks. Software sucks for many reasons, all of which go deep, are entangled, and expensive to fix. (Or, everything is broken, eventually). This is a major headache, and a real worry as software eats more and more of the world.</quote>
+    <link>https://medium.com/message/why-the-great-glitch-of-july-8th-should-scare-you-b791002fff03</link>
+  </entry>
+  
+</feed>
