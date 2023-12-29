@@ -1,0 +1,43 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 21, 2017</date>
+  
+ <entry>
+    <title>Why Pharma Wants to Put Sensors in This Blockbuster Drug</title>
+    <quote>This month, the Food and Drug Administration accepted an application to evaluate a new drug-sensor-app system that tracks when a pill’s been taken. The app comes connected to a Band Aid-like sensor, worn on the body, that knows when a tiny chip hidden inside a pill is swallowed—so if patients aren’t keeping up with their meds, the program can alert their doctors.</quote>
+    <link>https://www.wired.com/2015/09/pharma-wants-put-sensors-blockbuster-drug</link>
+  </entry>
+   
+  <entry>
+    <title>Google Glass 2.0 Is A Startling Second Act</title>
+    <quote>Yes, that’s Google Glass on her frames. But she’s not using it to check her Facebook, dictate messages, or capture a no-hands video while riding a roller coaster. Erickson is a 30-year-old factory worker in rural Jackson, Minnesota. For her, Glass is not a hip way to hang apps in front of her eyeballs, but a tool—as much a tool as her power wrenches. It walks her through her shifts at Station 50 on the factory floor, where she builds motors for tractors.</quote>
+    <link>https://www.wired.com/story/google-glass-2-is-here/</link>
+  </entry>
+  
+  <entry>
+    <title>Cloud Data Transfer: Move your data to Google Cloud Platform fast</title>
+    <quote>Google today announced the launch of its Transfer Appliance, a new hardware appliance and service for moving large amounts of data from corporate data centers to its cloud via FedEx.</quote>
+    <link>https://cloud.google.com/data-transfer/</link>
+  </entry>
+
+
+  <entry>
+  	<title>Google not Amazon. Make fantastic savings in a server-less world</title>
+  	<quote>Why is IT ignoring Google’s server-less cloud infrastructure? They’re playing with their toys on Amazon and it’s costing tens of millions in missed business automation opportunities.</quote>
+  	<link>https://in.3wks.com.au/google-not-amazon-make-fantastic-savings-in-a-serverless-world-b6d37710839c</link>
+  </entry>
+
+
+  <entry>
+    <title>Global analysis of protein folding using massively parallel design, synthesis, and testing</title>
+    <quote>We combined computational protein design, next-generation gene synthesis, and a high-throughput protease susceptibility assay to measure folding and stability for more than 15,000 de novo designed miniproteins, 1000 natural proteins, 10,000 point mutants, and 30,000 negative control sequences. This analysis identified more than 2500 stable designed proteins in four basic folds—a number sufficient to enable us to systematically examine how sequence determines folding and stability in uncharted protein space. Iteration between design and experiment increased the design success rate from 6% to 47%</quote>
+    <link>http://science.sciencemag.org/content/357/6347/168.full</link>
+  </entry>
+  
+  
+  <entry>
+    <title>Apple Machine Learning Journal</title>
+    <quote>Welcome to the Apple Machine Learning Journal. Here, you can read posts written by Apple engineers about their work using machine learning technologies to help build innovative products for millions of people around the world.</quote>
+    <link>https://machinelearning.apple.com/</link>
+  </entry>
+</feed>

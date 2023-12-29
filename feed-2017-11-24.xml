@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 24, 2017</date>
+  
+  
+  <entry>
+    <title>Smoke on the water, data in the DNA</title>
+    <quote>Many pundits predict it’s just a matter of time till DNA pips magnetic tape as the ultimate way to store data. It’s compact, efficient and resilient. After all, it has been tweaked over billions of years into the perfect repository for genetic information. It will never become obsolete, because as long as there is life on Earth, we will be interested in decoding DNA. “Nature has optimised the format,” says Twist Bioscience’s chief technology officer Bill Peck.</quote>
+    <link>https://cosmosmagazine.com/technology/smoke-on-the-water-data-in-the-dna</link>
+  </entry>
+  
+  <entry>
+    <title>Martonosi sketches a path for a new type of computing</title>
+    <quote>As new devices move quantum computing closer to practical use, the journal Nature recently asked Princeton computer scientist Margaret Martonosi and two colleagues to assess the state of software needed to exploit this powerful computational approach.</quote>
+    <link>https://www.princeton.edu/news/2017/11/14/martonosi-sketches-path-new-type-computing</link>
+  </entry>
+
+  <entry>
+    <title>Amazon's cloud is about to announce a huge health-care deal with Cerner, sources say</title>
+    <quote>As part of his keynote at re:Invent, AWS CEO Andy Jassy is planning to announce that Amazon is teaming up with Cerner, one of the world's largest health technology companies, to help health-care providers better use their data to make health predictions about patient populations, according to sources familiar with the matter.</quote>
+    <link>https://www.cnbc.com/2017/11/22/aws-is-partnering-with-cerner-on-cloud-deal-for-healtheintent.html</link>
+  </entry>
+  
+  <entry>
+    <title>PC vendors scramble as Intel announces vulnerability in firmware </title>
+    <quote>remote attackers could launch commands on a host of Intel-based computers, including laptops and desktops shipped with Intel Core processors since 2015. They could gain access to privileged system information, and millions of computers could essentially be taken over as a result of the bug. Most of the vulnerabilities require physical access to the targeted device, but one allows remote attacks with administrative access.</quote>
+    <link>https://arstechnica.com/information-technology/2017/11/intel-warns-of-widespread-vulnerability-in-pc-server-device-firmware/</link>
+  </entry>
+  
+  <entry>
+    <title>The UX of Storytelling</title>
+    <quote>Tools like user stories derived from research and user journey maps help teams reach an understanding of the customer experience. They define areas for improvement. When teams are on the same page about problems to be solved, user scenarios help them explore potential solutions.</quote>
+    <link>https://medium.com/adventures-in-ux-design/the-ux-of-storytelling-personas-user-stories-scenarios-b09661cd01fb</link>
+  </entry>
+</feed>

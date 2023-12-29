@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 30, 2017</date>
+  
+  <entry>
+    <title>Why France Is Taking a Lesson in Culture From Silicon Valley</title>
+    <quote>The vast project in the heart of Paris, Station F, is a symbol of France’s ambitions to be the start-up capital of Europe. Under an arc of glass and curved concrete, it aims to amass the largest group of entrepreneurs, venture capital firms, incubators and accelerators anywhere in the world.</quote>
+    <link>https://nyti.ms/2to2K0i</link>
+  </entry>
+  
+  <entry>
+    <title>Apple’s Architect Says the Future of Offices Must Be Flexible</title>
+    <quote>It’s easy to assume a strict adherence to vision would stifle flexibility. “The reverse is actually true,” Foster said. The best buildings, he contends, require a strong point of view. They must be thoughtfully designed to adapt to the ways humans and society will inevitably change, and that requires more than just building open-plan layouts.</quote>
+    <link>https://www.wired.com/2017/06/apples-architect-says-future-offices-must-flexible/</link>
+  </entry>
+  
+  <entry>
+    <title>Data Visualization Pitfalls to Avoid</title>
+    <quote>Computer-based visualization systems provide visual representations of datasets designed to help people carry out tasks more effectively.
+Visualization is suitable when there is a need to augment human capabilities rather than replace people with computational decision-making methods.</quote>
+    <link>http://www.cs.ubc.ca/~tmm/talks/minicourse14/vad17canberra-morning.pdf</link>
+  </entry>
+  
+  <entry>
+  	<title>Petya: "I want to Believe"</title>
+  	<quote>So, taking the default position of  “it does what it says on the tin”, what evidence would convince us to change our minds? (Fans of the scientific method.) We didn’t really know what evidence was needed until we started looking. And, so, over the past 48 hours, we’ve bombarded our colleagues with questions (a lot of which we’ve seen others asking). So, without further ado, let’s start.</quote>
+  	<link>https://labsblog.f-secure.com/2017/06/29/petya-i-want-to-believe/</link>
+  </entry>
+
+  <entry>
+    <title>Perfect Ten</title>
+    <quote>The iPhone changed the world. There is no way to overstate it. The iPhone was the inflection point where “personal computing” truly became personal. Apple had amazing product introductions before the iPhone, and it’s had a few good ones after. But the iPhone was the only product introduction I’ve ever experienced that felt impossible.</quote>
+    <link>https://daringfireball.net/2017/06/perfect_ten</link>
+  </entry>
+</feed>

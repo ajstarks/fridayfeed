@@ -1,0 +1,28 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 31, 2017</date>
+  
+  <entry>
+    <title>Amazon Connect</title>
+    <quote>Amazon Connect is a self-service, cloud-based contact center service that makes it easy for any business to deliver better customer service at lower cost. Amazon Connect is based on the same contact center technology used by Amazon customer service associates around the world to power millions of customer conversations. The self-service graphical interface in Amazon Connect makes it easy for non-technical users to design contact flows, manage agents, and track performance metrics – no specialized skills required.</quote>
+    <link>https://aws.amazon.com/connect/</link>
+  </entry>
+  
+  <entry>
+    <title>How Big Data Can Help Fight Cancer</title>
+    <quote>The hope is that this information will reveal a genetic smoking gun, a mutation that can be exploited with the right drug.</quote>
+    <link>http://cancer.nautil.us/article/167/how-big-data-can-help-fight-cancer</link>
+  </entry>
+
+  <entry>
+    <title>How to Push Your Team to Take Risks and Experiment</title>
+    <quote>Most managers I know want their employees to be curious and experimental, to take the initiative and develop new products and solutions. But, as it turns out, managers also like to micromanage and control outcomes through safe, predictable processes. As a result, managers end up stifling the very experimentation they want to foster....The goal is to gradually change a company’s culture from one of finding the right answer to one of exploring and testing many possible answers.</quote>
+    <link>https://hbr.org/2017/03/how-to-push-your-team-to-take-risks-and-experiment</link>
+  </entry>
+  
+  <entry>
+    <title>How Aristotle Created the Computer</title>
+    <quote>The history of computers is often told as a history of objects, from the abacus to the Babbage engine up through the code-breaking machines of World War II. In fact, it is better understood as a history of ideas, mainly ideas that emerged from mathematical logic, an obscure and cult-like discipline that first developed in the 19th century. Mathematical logic was pioneered by philosopher-mathematicians, most notably George Boole and Gottlob Frege, who were themselves inspired by Leibniz’s dream of a universal “concept language,” and the ancient logical system of Aristotle.</quote>
+    <link>https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/</link>
+  </entry>
+</feed>

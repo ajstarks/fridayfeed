@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 7, 2017</date>
+  <entry>
+    <title>Cancer Isn’t a Logic Problem</title>
+    <quote>Silicon Valley wants to solve cancer by hacking it. Here’s why its approach fails.</quote>
+    <link>http://cancer.nautil.us/article/186/cancer-isnt-a-logic-problem</link>
+  </entry>
+  
+  <entry>
+    <title>The Machines Are Getting Ready to Play Doctor</title>
+    <quote>An algorithm that spots heart arrhythmia shows how AI will revolutionize medicine—but patients must trust machines with their lives.</quote>
+    <link>https://www.technologyreview.com/s/608234/the-machines-are-getting-ready-to-play-doctor</link>
+  </entry>
+  
+  <entry>
+    <title>Supporting Responsive Cohabitation Between Virtual Interfaces and Physical Objects on Everyday Surfaces</title>
+    <quote>In this project, we use an elicitation study and interviews to synthesize a list of ten interactive behaviors that desk-bound, digital interfaces should implement to support responsive cohabitation with physical objects.</quote>
+    <link>https://www.robertxiao.ca/research/desktopography/</link>
+  </entry>
+  
+  <entry>
+    <title>When Not To Use Deep Learning</title>
+    <quote>In this post, I wanted to visit use cases in machine learning where deep learning would not really make sense to use as well as tackle preconceptions that I think prevent deep learning to be used effectively, especially for newcomers.</quote>
+    <link>http://hyperparameter.space/blog/when-not-to-use-deep-learning/</link>
+  </entry>
+  
+  
+  <entry>
+    <title>Technology has Become Water</title>
+    <quote>I have a four inch block in my pocket. Chances are, if you’re reading this, you do too. What it can do is in many respects indistinguishable from magic.</quote>
+    <link>https://medium.com/@jamesallworth/technology-has-become-water-5e9ce911f6d2</link>
+  </entry>
+</feed>

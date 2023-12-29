@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 25, 2017</date>
+  
+  <entry>
+    <title>A Cancer “Atlas” to Predict How Patients Will Fare</title>
+    <quote>Researchers use a big-data approach to find links between different genes and patient survival.</quote>
+    <link>https://www.technologyreview.com/s/608666/a-cancer-atlas-to-predict-how-patients-will-fare/</link>
+  </entry>
+  
+  <entry>
+    <title>Dear iPhone: Here’s Why We’re Still Together After 10 Years</title>
+    <quote>“People spend hours on it every day, so they can justify paying more for what they believe to be the best device,” said Toni Sacconaghi, an analyst at Sanford C. Bernstein, who has studied Apple for years and called the company’s positioning of the iPhone “unique.”</quote>
+    <link>https://nyti.ms/2vYhtA3</link>
+  </entry>
+
+  <entry>
+    <title>It's Time To Think Beyond Cloud Computing</title>
+    <quote>“It’s a foregone conclusion that giant, centralized server farms that take up 19 city blocks of power are just not going to work everywhere,” says Zachary Smith, a double-bass player and Juilliard School graduate who is the CEO and cofounder of a New York City startup called Packet. Smith is among those who believe that the solution lies in seeding the landscape with smaller server outposts—those edge networks—that would widely distribute processing power in order to speed its results to client devices, like those cars, that can’t tolerate delay.</quote>
+    <link>https://www.wired.com/story/its-time-to-think-beyond-cloud-computing/</link>
+  </entry>
+  
+  <entry>
+    <title>How to Keep Email from Ruining Your Vacation</title>
+    <quote>At Thrive Global, that was our thinking for why we created Thrive Away, our vacation email tool. The way it works is simple: While you’re away on vacation, people who email you get a message, letting them know when you’ll be back. And then — the most important part — the tool deletes the email. If the email is important, the sender can always send it again. If it’s not, then it’s not waiting for you when you get back, or, even worse, tempting you to read it while you’re away. So the key is not just that the tool is creating a wall between you and your email; it’s that it frees you from the mounting anxiety of having a mounting pile of emails waiting for you on your return — the stress of which mitigates the benefits of disconnecting in the first place.</quote>
+    <link>https://hbr.org/2017/08/how-to-keep-email-from-ruining-your-vacation</link>
+  </entry>
+  
+  <entry>
+    <title>Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis</title>
+    <quote>Siri is a personal assistant that communicates using speech synthesis. Starting in iOS 10 and continuing with new features in iOS 11, we base Siri voices on deep learning. The resulting voices are more natural, smoother, and allow Siri’s personality to shine through. This article presents more details about the deep learning based technology behind Siri’s voice. (Be sure to scroll down and compare the Siri voices in iOS 9, 10 and 11)</quote>
+    <link>https://machinelearning.apple.com/2017/08/06/siri-voices.html</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

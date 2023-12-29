@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 29, 2017</date>
+  
+  <entry>
+    <title>The Board Directors You Need for a Digital Transformation</title>
+    <quote>Although there continues to be a need for digital disruptors at the board level (think Stacy Brown-Philpot, CEO of TaskRabbit and director at HP and Nordstrom), increasingly we’re seeing and encouraging the appointment of leaders from the fourth category. As companies now look to incorporate their early digital investments into a more systematic, data-driven, end-to-end strategy, their leadership needs have evolved. Rather than placing an emphasis on disruptive forces, boards are increasingly seeking directors who bring operational capabilities and who could guide the re-engineering of the entire organization.</quote>
+    <link>https://hbr.org/2017/07/the-board-directors-you-need-for-a-digital-transformation</link>
+  </entry>
+  
+  <entry>
+    <title>Apple Watch Series 3 First Impression: Mindblown.gif</title>
+    <quote>Going phoneless. I was born in 1981, so I’ve got one foot on either side of the tech revolutions of the ‘90s and '00s. As far as I can recall, this is the first time since I first got a cellphone (let alone a smartphone) that I am deliberately leaving the house without any device in my pocket. It’s a refreshing feeling. I took a four-mile walk for exercise, drove an hour to my parents’ and back to pick up the kid, and picked up my wife from the airport. Apple Watch with cellular supports a critical slice of the features a smartphone provides, which means I get to enjoy best of both the old and new worlds: I am free from the temptation to waste quiet moments on social media and soul-crushing national news, but not at the expense of missing out on texts and phone calls from friends and family, or getting directions home, or triaging the occasional urgent email. This newfound flexibility is, simply put, mind-blowing.</quote>
+    <link>http://blog.jaredsinclair.com/post/165729874190/apple-watch-series-3-first-impression</link>
+  </entry>
+
+  <entry>
+    <title>Apple, Fitbit to Join FDA Program to Speed Health Tech</title>
+    <quote>The Food and Drug Administration, which oversees new drugs, medical devices and much of the U.S. food supply, said Tuesday that it had selected nine major tech companies for a pilot program that may let them avoid some regulations that have tied up developers working on health software and products.</quote>
+    <link>https://www.bloomberg.com/news/articles/2017-09-26/apple-fitbit-will-join-fda-program-meant-to-speed-health-tech</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft is using Excel as a gateway drug to AI</title>
+    <quote>Spreadsheet jockeys will be able to import machine learning models to analyze data within Excel, and the program will automatically recognize items such as company names and locations, and pull in additional data. The models could predict future sales numbers given different scenarios, or stand in for any number of software-as-a-service analytics tools that have become popular in sales and marketing. This also means Excel will try to understand the connections between your data as you enter it (like whether the words represent companies or people) rather than just determining if they’re numbers or text.</quote>
+    <link>https://qz.com/1087888/microsoft-is-packing-artificial-intelligence-into-excel-for-anyone-to-use/</link>
+  </entry>
+  
+  <entry>
+    <title>Slack CEO: How We’ll Use AI to Reduce Information Overload</title>
+    <quote>But new competitors—among them Microsoft Teams, Atlassian Stride, Google Hangouts Chat, and Workplace by Facebook—are pushing into the workplace-collaboration market, challenging Slack’s dominance and, in some cases, specifically marketing themselves as more productive options. During a trip to Boston, Slack CEO Stewart Butterfield spoke to MIT Technology Review about the ways the company plans to use AI to keep people from feeling overwhelmed with data.</quote>
+    <link>https://www.technologyreview.com/s/608953/slack-ceo-how-well-use-ai-to-reduce-information-overload/</link>
+  </entry>
+  
+  <entry>
+    <title>FaceID Security</title>
+    <quote>With a simple glance, Face ID securely unlocks iPhone X. It provides intuitive and secure authentication enabled by the TrueDepth camera system, which uses advanced technologies to accurately map the geometry of your face.   Face ID confirms attention by detecting the direction of your gaze, then uses neural networks for matching and anti-spoofing so you can unlock your phone with a glance. Face ID automatically adapts to changes in your appearance, and carefully safeguards the privacy and security of your biometric data.</quote>
+    <link>https://images.apple.com/business/docs/FaceID_Security_Guide.pdf</link>
+  </entry>
+</feed>

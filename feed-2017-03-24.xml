@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 24, 2017</date>
+  
+  <entry>
+    <title>Cholesterol-Slashing Drug Can Protect High-Risk Heart Patients, Study Finds</title>
+    <quote>“This is like the era of the statins coming in,” said Dr. Eugene Braunwald, a cardiologist at Harvard Medical School who was the founding chairman of the research group that conducted the study, but was not an investigator on it. Like statins, which were introduced in the 1980s, the new class of drugs has the potential to improve the health and longevity of millions of Americans with heart disease, the nation’s leading killer, accounting for one in four deaths. “It’s a new ballgame,” he said.</quote>
+    <link>https://nyti.ms/2nzbjQQ</link>
+  </entry>
+  
+  <entry>
+    <title>I’m an MIT professor who used math to help treat diabetes</title>
+    <quote>Increased access to troves of genomic information and the rising use of electronic medical records, combined with new methods of machine learning, allow researchers to process large amounts of data. This is accelerating efforts to understand genetic differences within diseases—including diabetes—and to develop treatments for them. The scientist in me feels a powerful desire to take part.</quote>
+    <link>https://qz.com/938776/how-i-used-math-to-develop-an-algorithm-to-help-treat-diabetes/</link>
+  </entry>
+
+  <entry>
+    <title>Meet The Man Whose Site Mark Zuckerberg Reads Every Day</title>
+    <quote>Google Ventures general partner and former TechCrunch writer M.G. Siegler told me most reporters he knows check the site regularly. “The same also seems to be true of many VCs I know,” he said via direct message. “It’s simply the best way to quickly get caught up on what you need to know in our industry.” Joe Brown, the editor-in-chief of Popular Science, described Techmeme as the ultimate insider enthusiast publication. “It’s a small restaurant that serves your favorite dish. And for people that are interested in technology, just knowing about Techmeme is kind of its own reward and carries its own kind of status.”</quote>
+    <link>https://www.buzzfeed.com/charliewarzel/meet-the-man-who-shapes-techs-narrative</link>
+  </entry>
+
+  <entry>
+    <title>Google Glass Didn't Disappear. You Can Find It On The Factory Floor</title>
+    <quote>Google Glass tells her what to do should she forget, for example, which part goes where. "I don't have to leave my area to go look at the computer every time I need to look up something," she says. With Google Glass, she scans the serial number on the part she's working on. This brings up manuals, photos or videos she may need. She can tap the side of headset or say "OK Glass" and use voice commands to leave notes for the next shift worker.</quote>
+    <link>http://www.npr.org/sections/alltechconsidered/2017/03/18/514299682/google-glass-didnt-disappear-you-can-find-it-on-the-factory-floor</link>
+  </entry>
+
+  <entry>
+    <title>There be dragons: dataviz in the industry</title>
+    <quote>Where is the middle ground of domain-specific, purposefully crafted user interfaces that would truly enable us to see beyond the numbers and data and actually investigate interesting phenomena? There must be a business case for better understanding your own business, right? Why don’t we see more exciting bespoke visual data work from inside tech companies?</quote>
+    <link>https://medium.com/visualizing-the-field/there-be-dragons-dataviz-in-the-industry-652e712394a0</link>
+  </entry>
+  
+</feed>

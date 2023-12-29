@@ -1,0 +1,32 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 8, 2017</date>
+  
+  <entry>
+    <title>IBM pitched its Watson supercomputer as a revolution in cancer care. It’s nowhere close</title>
+    <quote>But three years after IBM began selling Watson to recommend the best cancer treatments to doctors around the world, a STAT investigation has found that the supercomputer isn’t living up to the lofty expectations IBM created for it. It is still struggling with the basic step of learning about different forms of cancer. Only a few dozen hospitals have adopted the system, which is a long way from IBM’s goal of establishing dominance in a multibillion-dollar market. And at foreign hospitals, physicians complained its advice is biased toward American patients and methods of care.</quote>
+    <link>https://www.statnews.com/2017/09/05/watson-ibm-cancer/</link>
+  </entry>
+  
+  
+   <entry>
+    <title>Apple’s Bet On AR and The Future of UI Design</title>
+    <quote>As humans increasingly let technology into more areas of their lives, their interactions with technology will begin to evolve. It’s not too far off that we may live a life without the screens we know now. AR will become an integrated part of our environment, with the information we need placed just at the right position.</quote>
+    <link>https://medium.com/iotforall/apples-bet-on-ar-the-future-of-ui-design-f2f119033fea</link>
+  </entry>
+  
+
+  <entry>
+    <title>Why Wework Thinks It's Worth $20 Billion</title>
+    <quote>Over time, this could be a much bigger opportunity than coworking spaces, one in which everything WeWork has built so far will simply feed an algorithm that will design a perfectly efficient approach to office space. WeWork aspires to be the de facto source to which businesses will turn when they need help figuring out how to spend the least amount possible for an environment that will delight employees and entice new ones.</quote>
+    <link>https://www.wired.com/story/this-is-why-wework-thinks-its-worth-20-billion</link>
+  </entry>
+
+ 
+  <entry>
+    <title>IBM and MIT to pursue joint research in artificial intelligence, establish new MIT–IBM Watson AI Lab</title>
+    <quote>The new lab will be one of the largest long-term university-industry AI collaborations to date, mobilizing the talent of more than 100 AI scientists, professors, and students to pursue joint research at IBM's Research Lab in Cambridge, Massachusetts — co-located with the IBM Watson Health and IBM Security headquarters in Kendall Square — and on the neighboring MIT campus.</quote>
+    <link>http://news.mit.edu/2017/ibm-mit-joint-research-watson-artificial-intelligence-lab-0907</link>
+  </entry>
+  
+</feed>

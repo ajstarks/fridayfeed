@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 6, 2017</date>
+  
+  <entry>
+    <title>Machine Learning</title>
+    <quote>n machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions. Keep scrolling. Using a data set about homes, we will create a machine learning model to distinguish homes in New York from homes in San Francisco.</quote>
+    <link>http://www.r2d3.us/visual-intro-to-machine-learning-part-1/</link>
+  </entry>
+  
+  <entry>
+    <title>Now I get it!</title>
+    <quote>This article is a quick summary of a basic design course. It addresses a simple question: How do you design interactive systems that are easy to understand? Well, it all comes down to two things: structure and process.</quote>
+    <link>https://blog.prototypr.io/now-i-get-it-b97b022a380c#.jvjse9x9x</link>
+  </entry>
+
+  <entry>
+    <title>How Scientists Use Slack</title>
+    <quote>When geneticist Daniel MacArthur checks into his lab, the first thing he does is fire up Slack, a workplace messaging app. In the system, he zips through the hundreds of messages and files left in different channels by the lab's 23 scientists — some reporting on their projects, others requesting help. The lab's members have posted more than 400,000 messages on Slack since April 2014 — a rate of nearly 500 per day. For MacArthur, who works at the Broad Institute of MIT and Harvard in Cambridge, Massachusetts, the tool has rendered irrelevant many of the ways that his lab previously used to communicate about papers and projects — especially e-mail.</quote>
+    <link>http://www.nature.com/news/how-scientists-use-slack-1.21228</link>
+  </entry>
+  
+  <entry>
+    <title>12 Questions on the Future of Design</title>
+    <quote>we made a list of clever thinkers and interesting friends in the design world and sent them a short, open-ended survey about the past, present, and future of their fields</quote>
+    <link>https://medium.com/kickstarter/12-questions-on-the-future-of-design-f4ef3d69375f#.89xsxojq7</link>
+  </entry>
+  
+  <entry>
+  	<title>Rewriting the code of life</title>
+  	<quote>Through DNA editing, researchers hope to alter the genetic destiny of species and eliminate diseases. “I became fascinated with the idea that you have these complex systems that constantly evolve, and all in the language of DNA,” he said. “I decided I wanted to spend my life learning how to rewrite the genes of organisms to make some extremely useful and interesting things.”</quote>
+  	<link>http://www.newyorker.com/magazine/2017/01/02/rewriting-the-code-of-life</link>
+  </entry>
+</feed>

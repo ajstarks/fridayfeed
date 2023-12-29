@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 26, 2017</date>
+  
+  
+  <entry>
+    <title>Rare Gene Mutations Inspire New Heart Drugs</title>
+    <quote>What if you carried a genetic mutation that left you nearly impervious to heart disease? What if scientists could bottle that miracle and use it to treat everyone else?</quote>
+    <link>https://nyti.ms/2rVsEof</link>
+  </entry>
+  
+  <entry>
+    <title>Google Made A $5,000 Whiteboard — And It’s Weirdly Fun</title>
+    <quote>Working in a modern office can be pretty strange. I go hours without speaking to my co-workers, yet I'm in constant communication with them through a chat app. I know some of my colleagues only as digital avatars, and my meetings are sometimes filled with more faces on a screen than people in chairs surrounding me.
+
+This is the state of office collaboration in 2017, and in many ways it's sorely lacking.
+
+Google has been improving this space for years with tools like Docs and Drive, and it's now taking a step into the physical world with an alternative to Microsoft's digital whiteboard, the Surface Hub. Google's take is called the Jamboard. It's a digital, internet-connected “whiteboard” that looks like a blown-up children’s tablet, and we got a chance to test it out ahead of its launch today</quote>
+    <link>https://www.theverge.com/2017/5/23/15680250/google-jamboard-digital-whiteboard-hands-on-video</link>
+    <link>https://blog.google/products/g-suite/lets-jam-jamboard-now-available/</link>
+  </entry>
+
+  
+  <entry>
+    <title>GraphScape: Modeling Similarity &amp; Sequence among Charts</title>
+    <quote>While skilled designers can manually craft effective sequences, we wondered what underlying principles might help guide (and even automate) such decisions. Considering this question drew us to a more fundamental question: how might we model the relationships among charts? This led us to develop GraphScape, a model for automatic reasoning about chart similarity and sequence. GraphScape models can be used to search the space of visualization designs, suggest related alternatives, and recommend chart sequence orders that audiences can more easily interpret.</quote>
+    <link>https://medium.com/hci-design-at-uw/graphscape-modeling-similarity-sequence-among-charts-bd82cdbe866d</link>
+  </entry>
+  
+
+
+ 
+</feed>

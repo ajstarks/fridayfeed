@@ -1,0 +1,54 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 23, 2017</date>
+  
+  <entry>
+    <title>The 4 Types of Innovation and the Problems They Solve</title>
+    <quote>In researching my book, Mapping Innovation, I found that every innovation strategy fails eventually, because innovation is, at its core, about solving problems — and there are as many ways to innovate as there are types of problems to solve. There is no one “true” path to innovation.  The Innovation Matrix has these quadrants (1) Sustaining innovation. Most innovation happens here, because most of the time we are seeking to get better at what we’re already doing (2) Breakthrough innovation. Sometimes, we run into a well-defined problem that’s just devilishly hard to solve. In cases like these, we need to explore unconventional skill domains (3) Disruptive innovation: when the basis of competition changes, because of technological shifts or other changes in the marketplace, companies can find themselves getting better and better at things people want less and less. When that happens, innovating your products won’t help — you have to innovate your business model. (4) Basic Research: Pathbreaking innovations never arrive fully formed. They always begin with the discovery of some new phenomenon.</quote>
+    <link>https://hbr.org/2017/06/the-4-types-of-innovation-and-the-problems-they-solve</link>
+  </entry>
+
+  
+  <entry>
+    <title>A Cyberattack ‘the World Isn’t Ready For’</title>
+    <quote>“The world is burning about WannaCry, but this is a nuclear bomb compared to WannaCry,” Mr. Ben-Oni said. “This is different. It’s a lot worse. It steals credentials. You can’t catch it, and it’s happening right under our noses.” And, he added, “The world isn’t ready for this.”</quote>
+    <link>https://nyti.ms/2tSJAgi</link>
+  </entry>
+  
+  <entry>
+    <title>How An Entire Nation Became Russia's Test Lab For Cyberwar</title>
+    <quote>For the past 14 months, Yasinsky had found himself at the center of an enveloping crisis. A growing roster of Ukrainian companies and government agencies had come to him to analyze a plague of cyberattacks that were hitting them in rapid, remorseless succession. A single group of hackers seemed to be behind all of it.</quote>
+    <link>https://www.wired.com/story/russian-hackers-attack-ukraine</link>
+  </entry>
+  
+  <entry>
+    <title>How to use BeyondCorp to ditch your VPN, improve security and go to the cloud</title>
+    <quote>With BeyondCorp, we no longer have a binary access model, where you are either inside the whole corporate network, with all the access that allows, or outside and completely locked out of applications. Our new approach provides a better, more convenient, and less risky way: access to individual services as you need them, based on who you are and what machine you're using.  At Google, we’ve been on our BeyondCorp journey for several years, gradually shifting more of our traffic and services away from a segmented, privileged corporate network and onto the public internet and cloud.</quote>
+    <link>https://www.blog.google/topics/google-cloud/how-use-beyondcorp-ditch-your-vpn-improve-security-and-go-cloud/</link>
+  </entry>
+  
+
+  <entry>
+    <title>Tim Cook: Apple Isn’t Falling Behind, It’s Just Not Ready to Talk About the Future</title>
+    <quote>People don’t think about well-integrated machine learning. They don’t even know it’s there. The battery lasts longer in your iPhone because of machine learning. There are a ton of things in [an iPhone] today that you wouldn’t think ‘Oh, that’s machine learning’—a whole list of things. We’ve never felt a need or like the consumer really wanted us to lay out the big matrix—“Here are all the ways that we use machine learning”—because it’s not something people care about. We care because we are in the techie sphere, but the user doesn’t care. They just want it to work.</quote>
+    <link>https://www.technologyreview.com/s/608090/tim-cook-apple-isnt-falling-behind-its-just-not-ready-to-talk-about-the-future</link>
+  </entry>
+  
+  <entry>
+    <title>Design In The Era Of The Algorithm</title>
+    <quote>Machine learning lets the robots interact with all the messy stuff that humans create—pictures, speech, and text. The promise is that this allows us to create software that does its best to understand us in the language of our own creative domains, or in the course of our everyday lives.  I have ideas. Here are ten design principles for conceiving, designing, and managing data-driven products.
+(1) Favor accuracy over speed,
+(2) Allow for ambiguity,
+(3) Add human judgment,
+(4) Advocate sunshine,
+(5) Embrace multiple systems,
+(6) Make it easy to contribute (accurate) data,
+(7) Root out bias and bad assumptions,
+(8) Give people control over their data,
+(9) Be loyal to the user,
+(10) Take responsibility</quote>
+    <link>https://bigmedium.com/speaking/design-in-the-era-of-the-algorithm.html</link>
+  </entry>
+  
+
+</feed>

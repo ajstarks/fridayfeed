@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 22, 2017</date>
+  
+  <entry>
+    <title>Cloud Computing Technology, Autumn 2017</title>
+    <quote>The largest change in the computer industry over the past five years has arguably been the emergence of cloud computing: organizations are increasingly moving their workloads to managed public clouds and using new, global-scale services that were simply not possible in private datacenters. However, both building and using cloud systems remains a black art with many difficult research challenges. This research seminar will cover industry and academic work on cloud computing and survey key technical issues. Students will read and discuss a paper per class meeting and do a quarter-long project in groups of 2-3.</quote>
+    <link>https://web.stanford.edu/class/cs349d/</link>
+  </entry>
+  
+  <entry>
+    <title>This Is Magic Leap’s AR Headset, Coming 2018</title>
+    <quote>On a new version of its website unveiled Wednesday, Magic Leap showed images of an almost retro-looking pair of black, goggle-like glasses called Magic Leap One, which it says will mix digital images with reality in a way that appears extremely realistic and is comfortable to view for a long time. </quote>
+    <link>https://www.technologyreview.com/s/609821/magic-leap-says-it-will-release-its-ar-headset-next-year/</link>
+  </entry>
+
+  <entry>
+    <title>Competing with BigCo: 2018 Edition</title>
+    <quote>The opportunity exists because when big companies becomes successful is when collective leadership becomes most focused on maintaining success. Leadership tends to see more risk in downside of the current plan and than upside in taking on new things.</quote>
+    <link>https://medium.learningbyshipping.com/competing-with-bigco-2018-edition-6f475b7be86d</link>
+  </entry>
+  
+  <entry>
+    <title>Machine Teaching: A New Paradigm for Building Machine Learning Systems</title>
+    <quote>The current processes for building machine learning systems require practitioners with deep knowledge of machine learning. This significantly limits the number of machine learning systems that can be created and has led to a mismatch between the demand for machine learning systems and the ability for organizations to build them. We believe that in order to meet this growing demand for machine learning systems we must significantly increase the number of individuals that can teach machines. We postulate that we can achieve this goal by making the process of teaching machines easy, fast and above all, universally accessible.</quote>
+    <link>https://www.microsoft.com/en-us/research/publication/machine-teaching-new-paradigm-building-machine-learning-systems/</link>
+  </entry>
+  
+  <entry>
+    <title>How To Grow As A Data Scientist</title>
+    <quote>In order for a data scientist to grow, they need to be challenged beyond the technical aspects of their jobs. Data scientists have the opportunity to sway company decisions. They have a lot of responsibility on their shoulders. That means they need to take ownership of the work they do. They need to question their data sources, be concise in their insights, know their business and help guide their leaders.</quote>
+    <link>https://www.theseattledataguy.com/grow-data-scientist/</link>
+  </entry>
+  
+</feed>

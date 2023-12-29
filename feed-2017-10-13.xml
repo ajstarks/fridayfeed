@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 13, 2017</date>
+  
+ <entry>
+    <title>Our minds can be hijacked': the tech insiders who fear a smartphone dystopia</title>
+    <quote>Google, Twitter and Facebook workers who helped make technology so addictive are disconnecting themselves from the internet. Paul Lewis reports on the Silicon Valley refuseniks alarmed by a race for human attention</quote>
+    <link>https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia</link>
+  </entry>
+  
+  <entry>
+    <title>Don’t Get Too Comfortable at That Desk</title>
+    <quote>The new designs are not about looks. They are an attempt to adapt to the spread of internet-era digital technology — and its hurry-up ways — into every industry. Space drives behavior, experts say, and the goal of the new designs is to hasten the pace of sharing ideas, making decisions and creating new products. They are also meant to appeal to millennial recruits, many of whom are more comfortable working in a Starbucks than in a traditional office.</quote>
+    <link>https://nyti.ms/2yMNIRf</link>
+  </entry>
+  
+  <entry>
+    <title>Amazon and Microsoft unveil ‘Gluon’ neural network technology, teaming up on machine learning</title>
+    <quote>Amazon Web Services and Microsoft’s AI and Research Group this morning announced a new open-source deep learning interface called Gluon, jointly developed by the companies to let developers “prototype, build, train and deploy sophisticated machine learning models for the cloud, devices at the edge and mobile apps,” </quote>
+    <link>https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2017/amazon-microsoft-announce-gluon-neural-network-technology-teaming-machine-learning/amp/</link>
+  </entry>
+  
+  <entry>
+    <title>Playbook for Testing Chatbots</title>
+    <quote>Chatbottest is an open source Playbook of 120 questions (and counting) that you can use for free to test your chatbot and its UX. Similar to what you get with an Heuristic Evaluation on traditional interfaces, with this guide you will be able to find out what users will expect from their interaction.</quote>
+    <link>https://chatbotsmagazine.com/playbook-for-testing-chatbots-400918888faf</link>
+  </entry>
+  
+  <entry>
+    <title>What’s Inside Every iPhone, from Retina Displays to Cameras</title>
+    <quote>"we got our hands on each iPhone model and opened them up." -- A compelling, interactive presentation of the inner workings the iconic devices.</quote>
+    <link>https://www.bloomberg.com/features/apple-iphone-guts/</link>
+  </entry>
+  
+</feed>

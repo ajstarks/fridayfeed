@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 5, 2017</date>
+  
+  <entry>
+    <title>Oscar Is Disrupting Health Care In A Hurricane</title>
+    <quote>Oscar has built an interface to health care that, at its best, is as refreshing as other experiences transformed by tech. One might assume that Oscar might be in line for similar success as friction-reducing internet powers like Amazon or Uber.</quote>
+    <link>https://backchannel.com/oscar-is-disrupting-health-care-in-a-hurricane-65480bfed940</link>
+  </entry>
+  
+  <entry>
+    <title>Open Sourcing My Personal Medical Record</title>
+    <quote>As I dug into my research, I was shocked to learn it takes years of preclinical work and then around a decade of clinical trials for a treatment to make it to market. I’m not a scientist—I certainly will not be the one to cure Osteonecrosis. But I wanted to build something that could expedite the time between lab-work and market. And as I continued to research, I found an inefficiency in the system I could actually affect.</quote>
+    <link>https://www.hdphealth.com/open-sourcing-my-personal-medical-record-1301</link>
+  </entry>
+  
+  <entry>
+    <title>An AI-Driven Genomics Company Is Turning to Drugs</title>
+    <quote>The rush to apply AI techniques to medicine and drug development is partly driven by the emergence of powerful new algorithms, but also by cost-effective new ways of sequencing whole genomes, the entire readout of a person’s DNA. “There’s an opening of a new era of data-rich, information-based medicine,” Frey says. “There’s a lot of different kinds of data you can obtain. And the best technology we have for dealing with large amounts of data is machine learning and artificial intelligence.”</quote>
+    <link>https://www.technologyreview.com/s/604305/an-ai-driven-genomics-company-is-turning-to-drugs/</link>
+  </entry>
+
+  <entry>
+    <title>IBM uses deep learning to better detect a leading cause of blindness</title>
+    <quote>IBM on Thursday announced its latest breakthrough in combating eye disease, with new research methods that could help doctors diagnose and classify diabetic retinopathy (DR). DR is a complication of diabetes and one of the leading causes of blindness in the US. Using deep learning and visual analytics technology, IBM researchers were able to classify the severity of patients' DR with 86-percent accuracy</quote>
+    <link>http://www.zdnet.com/article/ibm-uses-deep-learning-to-better-detect-a-leading-cause-of-blindness/</link>
+  </entry>
+  
+  <entry>
+    <title>Meet your new lab assistant</title>
+    <quote>You could take off your gloves and look up the protocol in your lab notebook, but with each precious second that passes, the reaction is more likely to fail. Then you remember your lab assistant—a black cylinder sitting on a shelf across the lab. “Alexa, ask Helix for the protocol for the coupling reaction,” you say. A ring on top of the cylinder glows blue as Alexa rattles off the correct order of addition. Crisis averted.</quote>
+    <link>http://cen.acs.org/articles/95/i19/Meet-your-new-lab-assistant.html</link>
+  </entry>
+</feed>

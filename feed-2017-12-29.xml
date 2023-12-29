@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 29, 2017</date>
+  
+  <entry>
+    <title>How Big Tech Is Going After Your Health Care</title>
+    <quote>Apple, Google, Microsoft and other tech giants have transformed the way billions of us communicate, shop, socialize and work. Now, as consumers, medical centers and insurers increasingly embrace health-tracking apps, tech companies want a bigger share of the more than $3 trillion spent annually on health care in the United States, too. The Apple Heart Study reflects that intensified effort.</quote>
+    <link>https://nyti.ms/2pBiJI9</link>
+  </entry>
+  
+  <entry>
+    <title>Netflix: What Happens When You Press Play?</title>
+    <quote>Netflix seems so simple. Press play and video magically appears. Easy, right? Not so much. So if you are looking for a good introduction to the cloud or know someone who is, please take a look. </quote>
+    <link>http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html</link>
+  </entry>
+
+  <entry>
+    <title>Dynamticland</title>
+    <quote>Our mission is to incubate a humane dynamic medium whose full power is accessible to all people. (1) A communal computer, (2) Agency, not apps. (3) Thinking like a whole human.</quote>
+    <link>https://dynamicland.org</link>
+  </entry>
+  
+  <entry>
+    <title>What We Mean When We Say Evidence-Based Medicine</title>
+    <quote>Big data, gene sequencing, artificial intelligence — all of these  may provide us with lots of information on how we might be at risk for various diseases. What we lack is knowledge about what to do with what we might learn. If evidenced-based medicine is to live up to its potential, it seems the focus should be on that side of the equation as well, instead of taking best guesses and calling them evidence-based. This, probably more than anything else, has made the term so widely mistrusted.</quote>
+    <link>https://nyti.ms/2DZwT96</link>
+  </entry>
+  
+  <entry>
+    <title>Freed from the iPhone, the Apple Watch Finds a Medical Purpose</title>
+    <quote>Kevin Sayer, Dexcom’s chief executive, said that patients could opt for a monitor to communicate directly with the watch for convenience, but that the big payoff could come with combining sleep or activity data from the watch with glucose readings from its device to find correlations.</quote>
+    <link>https://nyti.ms/2pF7Y7W</link>
+  </entry>
+  
+  
+  <entry>
+  	<title>The Verge 2017 Tech Report Cards</title>
+  	<quote>how did giants like Facebook, Google, Nintendo, Uber, Tesla, Samsung, Apple, Microsoft, and more do compared to last year? Find out as we take a look back in our 2017 tech report cards, compiled by The Verge staff.</quote>
+  	<link>https://www.theverge.com/2017/12/27/16819662/2017-tech-report-cards-recap-facebook-google-uber-apple</link>
+  </entry>
+</feed>

@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 21, 2017</date>
+  
+  <entry>
+    <title>The Cost of Not Taking Your Medicine</title>
+    <quote>Former Surgeon General C. Everett Koop put it bluntly: “Drugs don’t work in patients who don’t take them.” This partly explains why new drugs that perform spectacularly well in studies, when patients are monitored to be sure they follow doctors’ orders, fail to measure up once the drug hits the commercial market.....Still, there is hope for improvement, he said. Multiple drugs for a condition could be combined into one pill or packaged together, or dosing can be simplified. Doctors and pharmacists can use digital technology to interact with patients and periodically reinforce the importance of staying on their medication.</quote>
+    <link>https://nyti.ms/2psUF6a</link>
+  </entry>
+  
+  <entry>
+    <title>Slack, an Upstart in Messaging, Now Faces Giant Tech Rivals</title>
+    <quote>One advantage Slack does have is focus, Mr. Butterfield maintains. Microsoft, for example, has numerous Slack-like products including Yammer, SharePoint, Skype for Business and now Teams. The executives who run those businesses within Microsoft must “compete for budget and mind share and attention,” he said, providing an opening for Slack to gain users while Microsoft managers wage internal wars. Microsoft said users would embrace Teams because it had strong encryption and global support and worked seamlessly with software they already used, like Excel. “We think customers value coherence,” said Bryan Goode, the general manager of Office 365 at Microsoft.</quote>
+    <link>https://nyti.ms/2oNxtC1</link>
+  </entry>
+  
+  <entry>
+    <title>meet-the-man-who-makes-facebooks-machines-think</title>
+    <quote>For these reasons and others, FAIR isn’t your typical Facebook team. Its members do not work directly on the $410 billion company’s collection of mega popular products: Instagram, WhatsApp, Messenger, and Facebook proper. Its ultimate goal is likely decades off, and may never be reached. And it’s led not by your typical polished Silicon Valley overachiever but by Yann LeCun, a 56-year-old academic who’s experienced real failure in his life and managed to come back. His once-rejected theories about artificial intelligence are today considered world-class, and his vindication is Facebook’s bounty.</quote>
+    <link>https://www.buzzfeed.com/alexkantrowitz/meet-the-man-who-makes-facebooks-machines-think</link>
+  </entry>
+
+  <entry>
+    <title>What is ‘Site Reliability Engineering’?</title>
+    <quote>So SRE is fundamentally doing work that has historically been done by an operations team, but using engineers with software expertise, and banking on the fact that these engineers are inherently both predisposed to, and have the ability to, substitute automation for human labor.</quote>
+    <link>https://landing.google.com/sre/interview/ben-treynor.html</link>
+  </entry>
+
+  
+  <entry>
+    <title>We Need a GitHub for Academic Research</title>
+    <quote>Von Muhlen’s proposal focused on using the social web to quickly reward innovative scientists, using GitHub as a model. A full GitHub for science could go even further, focusing on increasing transparency to improve reproducibility. In a GitHub for science, each “paper” that researchers produce would reflect the complete and full record of an experiment—every lab note, every statistical script, every audio file, and every bit of computer code. To the greatest extent possible, this evidence would be shared in real time. The research process is rife with trial and error, and it’s not as linear as the version of events recorded in a paper. A GitHub for science would emphasize the preliminary and evolving nature of the data, and of scientific understanding itself.</quote>
+    <link>http://www.slate.com/articles/technology/future_tense/2017/04/we_need_a_github_for_academic_research.html</link>
+  </entry>
+  
+  <entry>
+    <title>Google’s Health Study Seeks 10,000 Volunteers to Give Up Their Medical Secrets</title>
+    <quote>The project will scrutinize spit, tears, stool, heartbeats, and genomes to search for new predictors of disease.</quote>
+    <link>https://www.technologyreview.com/s/604224/googles-massive-health-study-seeks-10000-volunteers-to-give-up-their-medical-secrets/</link>
+  </entry>
+</feed>

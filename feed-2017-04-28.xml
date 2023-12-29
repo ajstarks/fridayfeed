@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 28, 2017</date>
+  
+  <entry>
+    <title>Smartphone-Controlled Cells Could Pump Insulin for Diabetics</title>
+    <quote>Scientists in China have used a smartphone and a technique called optogenetics to precisely control cells to deliver insulin to diabetic mice. The approach could be used to continuously monitor blood glucose levels in human diabetics and automatically produce necessary insulin, a hormone that converts sugar from food into energy the body can use.</quote>
+    <link>https://www.technologyreview.com/s/604262/smartphone-controlled-cells-could-pump-insulin-for-diabetics/</link>
+  </entry>
+  
+  <entry>
+    <title>A Virtual Goldmine: Why Criminals Target Patient Data</title>
+    <quote>One of the main reasons that patient information is so difficult to protect is that, within a healthcare organization, the EHR must be easily accessed and widely available, especially in the case of emergencies. In order to make records easily accessible, employees use many different systems and devices – including computers and mobile devices – to access the EHR. Moreover, third party vendors, such as equipment and drug suppliers, as well as insurance companies often have minimally necessary access to ePHI.</quote>
+    <link>https://www.protenus.com/blog/a-virtual-goldmine-why-criminals-target-patient-data-part-1</link>
+  </entry>
+
+  <entry>
+    <title>Deep Learning Is a Black Box, but Health Care Won’t Mind</title>
+    <quote>In a statement, the FDA says that over the past 20 years it has approved “a number of image analysis applications that rely on a variety of pattern recognition, machine learning, and computer vision techniques.” The agency confirmed that it’s seeing more software powered by deep learning and notes that companies are allowed to keep the details of their algorithms confidential.</quote>
+    <link>https://www.technologyreview.com/s/604271/deep-learning-is-a-black-box-but-health-care-wont-mind/</link>
+  </entry>
+  
+  <entry>
+    <title>The AI Cargo Cult: The Myth of Superhuman AI</title>
+    <quote>If the expectation of a superhuman AI takeover is built on five key assumptions that have no basis in evidence, then this idea is more akin to a religious belief — a myth. In the following paragraphs I expand my evidence for each of these five counter-assumptions, and make the case that, indeed, a superhuman AI is a kind of myth.</quote>
+    <link>https://backchannel.com/the-myth-of-a-superhuman-ai-59282b686c62</link>
+  </entry>
+  
+  <entry>
+    <title>The Race To Build An AI Chip For Everything Just Got Real</title>
+    <quote>After acquiring a startup called Nervana, Intel is now building a chip specifically for machine learning. IBM is too, creating a hardware architecture that mirrors the design of a neural network. And more recently, Qualcomm has started building chips specifically for executing neural networks, according to LeCun, who is familiar with Qualcomm’s plans because Facebook is helping the chip maker develop technologies related to machine learning.</quote>
+    <link>https://www.wired.com/2017/04/race-make-ai-chips-everything-heating-fast/</link>
+  </entry>
+  
+  <entry>
+    <title>Immunotherapy Pioneer James Allison Has Unfinished Business with Cancer</title>
+    <quote>The answers can’t come too soon for some. The pharmaceutical industry and research institutions are in the midst of a pell-mell sprint into thousands of clinical trials based on new immunotherapy agents. As of October, by one tally, more than 166,736 patients were being sought to fill slots in studies of drugs involving a single protein, called PD-1. The overall number of immunotherapy trials probably tops 3,000, says Jeff Bluestone, an immunologist at the University of California, San Francisco, who also serves as president and CEO of the Parker Institute for Cancer Immunotherapy.</quote>
+    <link>https://www.technologyreview.com/s/604086/immunotherapy-pioneer-james-allison-has-unfinished-business-with-cancer/</link>
+  </entry>
+  
+
+</feed>

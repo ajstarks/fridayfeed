@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 28, 2017</date>
+
+  <entry>
+  	<title>AI May Soon Replace Even the Most Elite Consultants</title>
+  	<quote>But the financial services industry is just the beginning. Over the next few years, artificial intelligence may exponentially change the way we all gather information, make decisions, and connect with stakeholders. Hopefully this will be for the better and we will all benefit from timely, comprehensive, and bias-free insights (given research that human beings are prone to a variety of cognitive biases). It will be particularly interesting to see how artificial intelligence affects the decisions of corporate leaders — men and women who make the many decisions that affect our everyday lives as customers, employees, partners, and investors.</quote>
+  	<link>https://hbr.org/2017/07/ai-may-soon-replace-even-the-most-elite-consultants</link>
+  </entry>
+
+  <entry>
+    <title>DNA Logic Gets Much Faster</title>
+    <quote>Microsoft has taken quite an interest in the potential of DNA in computing over the years. Last year Microsoft researchers set a record for DNA data storage. (Its record was beaten this year). Now Microsoft is turning its attention to the other half of DNA computing, the processor. Researchers at Microsoft have teamed up with scientists at the University of Washington to find a way toward creating super fast computations using DNA molecules.</quote>
+	  <link>http://spectrum.ieee.org/nanoclast/semiconductors/devices/dna-chips-get-much-faster-processing</link>
+  </entry>
+  
+  <entry>
+    <title>Making Engineering Team Communication Clearer, Faster, Better</title>
+    <quote>it’s very important to make sure you have a process that actually gets people to read the document. The write-only document fired off into the void is a common problem, and this talks about how to solve it (for design documents, but the principles translate).</quote>
+    <link>http://firstround.com/review/making-engineering-team-communication-clearer-faster-better/</link>
+  </entry>
+
+  <entry>
+    <title>Tech firms are forgetting about STEM and focusing on STEAM</title>
+    <quote>A new acronym has come to the fore, pioneered by advocates like the US’s Rhode Island School of Design, which has developed lessons on it for primary-school and high-school educators. It’s called STEAM, and though it might look and feel very much like its predecessor, the addition of the letter “A” is significant. It represents the “Arts” and tech firms are quickly realizing its importance. </quote>
+    <link>https://qz.com/1034720/tech-firms-are-forgetting-about-stem-and-focusing-on-steam/</link>
+  </entry>
+  
+  <entry>
+    <title>Amazon has a secret health tech team called 1492 working on medical records, virtual doc visits</title>
+    <quote>The new team is currently looking at opportunities that involve pushing and pulling data from legacy electronic medical record systems. If successful, Amazon could make that information available to consumers and their doctors. It is also hoping to build a platform for telemedicine, which in turn could make it easier for people to have virtual consultations with doctors, one of the people said.</quote>
+    <link>http://www.cnbc.com/2017/07/26/amazon-1492-secret-health-tech-project.html</link>
+  </entry>
+</feed>

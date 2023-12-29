@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 3, 2017</date>
+  
+  <entry>
+    <title>DNA Fountain enables a robust and efficient storage architecture</title>
+    <quote>Humanity is currently producing data at exponential rates, creating a demand for better storage devices. DNA is an excellent medium for data storage, owing to its demonstrated information density of petabytes of data per gram, high durability, and evolutionarily optimized machinery to faithfully replicate this information (1, 2). Recently, a series of proof-of-principle experiments has demonstrated the value of DNA as a storage medium (3–9).</quote>
+    <link>http://science.sciencemag.org/content/355/6328/950.full</link>
+  </entry>
+  
+  <entry>
+    <title>Next-level collaboration: the future of content and design</title>
+    <quote>Collaboration is not simply gathering a group of people to meet or brainstorm. It’s not latching on to someone else’s process or finding the next shiny tool that’ll save the day. Much like Ed Catmull found with Pixar, collaboration is about creating the environment where our own magic can emerge.</quote>
+    <link>https://medium.com/@InVisionApp/next-level-collaboration-the-future-of-content-and-design-9a7c8287ab10</link>
+  </entry>
+  
+  <entry>
+    <title>Summary of the Amazon S3 Service Disruption in the Northern Virginia (US-EAST-1) Region</title>
+    <quote>The typo heard around the world ("Unfortunately, one of the inputs to the command was entered incorrectly and a larger set of servers was removed than intended)"</quote>
+    <link>https://aws.amazon.com/message/41926/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 10, 2017</date>
+  
+   <entry>
+    <title>Renegades Join Forces for Affordable Insulin</title>
+    <quote>The global insulin market is worth $25 billion. Now a team of DIY biohackers wants to subvert the industry from its home-brew labs in Oakland. </quote>
+    <link>https://medium.com/neodotlife/open-insulin-and-fair-access-medicines-and-the-fight-for-generic-insulin-9f37b96a2eb1</link>
+  </entry>
+  
+  <entry>
+    <title>This Is How Amazon Could Invade the Pharmacy Business</title>
+    <quote>The pharmacy market is one of the biggest potential new targets for Amazon.com... Shoppers filling prescriptions frequently pick up toiletries, beauty supplies and dish soap—all retail items Amazon already sells. And the distribution chain for drugs has lots of middlemen whose markups Amazon can seek to undercut. Amazon could:
+    (1) Use its shipping power to destroy rivals (2) Become the ultimate buyer of cheap generics (3) Turn Whole Foods into Whole Drugs (4) Or buy into the pharmacy business (5) Or launch a startup of its own (6) “Alexa, refill my Lipitor”</quote>
+    <link>https://www.bloomberg.com/news/articles/2017-11-07/six-ways-amazon-could-upend-the-pharmacy-business</link>
+  </entry>
+
+ <entry>
+    <title>Low-cost, non-invasive melanoma detector wins award</title>
+    <quote>The sKan was chosen as the international winner by James Dyson who says “by using widely available and inexpensive components, the sKan allows for melanoma skin cancer detection to be readily accessible to the many.</quote>
+    <link>https://jamesdysonaward.org/news/skan-james-dyson-award-2017-international-winner/</link>
+  </entry>
+  
+  <entry>
+    <title>Google just released its internal tool to collaborate on AI</title>
+    <quote>The software works a lot like Google Docs, its document collaboration tool, but with the ability to run code and show that code’s output within the document. Colaboratory is free and built on top of the open-source Jupyter project, software often used in data science.</quote>
+    <link>https://qz.com/1113999/nerds-rejoice-google-just-released-its-internal-tool-to-collaborate-on-ai/</link>
+  </entry>
+  
+  <entry>
+    <title>Building A.I. That Can Build A.I.</title>
+    <quote>Google and others, fighting for a small pool of researchers, are looking for automated ways to deal with a shortage of artificial intelligence experts.</quote>
+    <link>https://nyti.ms/2j6kPgE</link>
+  </entry>
+</feed>

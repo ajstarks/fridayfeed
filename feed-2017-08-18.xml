@@ -1,0 +1,46 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 18, 2017</date>
+  
+  <entry>
+    <title>Multiple Perspectives On Technical Problems and Solutions</title>
+    <quote>In this post, I’d like to focus on the architecture review working group’s role in facilitating dialogue about technology decision-making. 
+    You might be thinking: “but where and when does a decision get made?”
+
+The ARWG’s role was not to make a decision.
+
+The ARWG’s role was to create and sustain the conditions where a dialogue can take place, with as many perspectives on both the problem and solution as can be had within a given period of time, and then to facilitate a discussion around a decision to be made.</quote>
+    <link>https://www.kitchensoap.com/2017/08/12/multiple-perspectives-on-technical-problems-and-solutions/</link>
+  </entry>
+  
+  <entry>
+    <title>A Start-Up Suggests a Fix to the Health Care Morass</title>
+    <quote>Aledade, which has raised about $75 million from investors, has an agenda so ambitious it sounds all but impossible: Dr. Mostashari wants to reduce the cost of health care while improving how patients are treated. He also wants to save the independent primary care doctor, whose practices have been battered by the perverse incentives of the American health care system.</quote>
+    <link>https://nyti.ms/2v0XFID</link>
+  </entry>
+
+  <entry>
+    <title>How Hardware Drives The Shape Of Databases To Come</title>
+    <quote>With OLTP, if you want to do 1 million transactions per second, it is no big deal. Your favorite cluster will do that on things like VoltDB and MemSQL. Oracle, DB2, MySQL, SQL Server and the others can’t do 1 million transactions per second no matter what. There is just too much overhead in the software...To get rid of that overhead, you have to rearchitect everything, which is what the in-memory OLTP systems have done.
+    ...The CFO at GE concluded that if these procurement systems could operate in tandem and demand most favored nation status with vendors, that would be worth about $1 billion in savings a year to the company. But they have to integrate 75 independently constructed supplier databases.</quote>
+    <link>https://www.nextplatform.com/2017/08/15/hardware-drives-shape-databases-come/</link>
+  </entry>
+  
+  <entry>
+    <title>8 Lessons from 20 Years of Hype Cycles</title>
+    <quote>(1) We're terrible at making predictions. Especially about the future. (2) An alarming number of technology trends are flashes in the pan. (3) Lots of technologies just die. Period. (4) The technical insight is often correct, but the implementation isn't there (5) We've been working on a few core technical problems for decades (6) Some technologies keep receding into the future (7) Lots of technologies make progress when no-one is looking (8) Many major technologies flew under the Hype Cycle radar</quote>
+    <link>https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

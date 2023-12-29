@@ -1,0 +1,39 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 2, 2017</date>
+  
+  <entry>
+    <title>Mary Meeker's Internet Trends 2017</title>
+    <quote>The huge (353 slide) annual review of Internet Trends has arrived: 
+    The Healthcare section (slides 288-319) outlines a "Digital Inflection Point", and discusses (1) Digital Inputs = Rapid Growth in Sources of Digital Health Data (2) Data Accumulation = Proliferation of Digitally-Native Data Sets (3) Data Insight = Generated Following Accumulation and Integration of Data (4) Translation = Impact on Therapeutics and Healthcare Delivery (5) Outcomes = Measure Outcomes and Iterate, Innovation Cycle Times Compressing</quote>
+    <link>http://dq756f9pzlyr3.cloudfront.net/file/Internet+Trends+2017+Report.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Mossberg: The Disappearing Computer</title>
+    <quote>I expect that one end result of all this work will be that the technology, the computer inside all these things, will fade into the background. In some cases, it may entirely disappear, waiting to be activated by a voice command, a person entering the room, a change in blood chemistry, a shift in temperature, a motion. Maybe even just a thought.
+
+Your whole home, office and car will be packed with these waiting computers and sensors. But they won’t be in your way, or perhaps even distinguishable as tech devices.
+
+This is ambient computing, the transformation of the environment all around us with intelligence and capabilities that don’t seem to be there at all.</quote>
+    <link>https://www.theverge.com/2017/5/25/15686870/walt-mossberg-final-column-the-disappearing-computer</link>
+  </entry>
+  
+  <entry>
+    <title>How Airbnb Democratizes Data Science With Data University</title>
+    <quote>The key ingredients needed for data informed decision making included having accessibility to data, a comprehensive set of data tools and user knowledge of how to utilize the data and tools. As we spoke to people throughout Airbnb, it became more and more apparent that the bottleneck to scaling data informed decisions was actually data education for users. Data University is data education for anyone at Airbnb that scales by role and team. Our vision is to empower every employee to make data informed decisions.</quote>
+    <link>https://medium.com/airbnb-engineering/how-airbnb-democratizes-data-science-with-data-university-3eccc71e073a</link>
+  </entry>
+  
+  <entry>
+    <title>Visualize data instantly with machine learning in Google Sheets</title>
+    <quote>Explore in Sheets, powered by machine learning, helps teams gain insights from data, instantly. Simply ask questions—in words, not formulas—to quickly analyze your data. For example, you can ask “what is the distribution of products sold?” or “what are average sales on Sundays?” and Explore will help you find the answers. </quote>
+    <link>https://www.blog.google/products/g-suite/visualize-data-instantly-machine-learning-google-sheets</link>
+  </entry>
+  
+  <entry>
+    <title>Drug Is First to Treat Cancer Based on Genetics, Not Location</title>
+    <quote>Precision medicine is the idea that medical treatments should be personalized to an individual’s genetic makeup, or other information about them. But up until now, cancer therapies have all been approved to treat cancer based on where it is located, such as in the breast or lung.</quote>
+    <link>https://www.technologyreview.com/s/607927/drug-is-first-to-treat-cancer-based-on-genetics-not-location/</link>
+  </entry>
+</feed>

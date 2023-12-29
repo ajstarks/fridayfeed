@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 10, 2017</date>
+  
+  <entry>
+    <title>This Lab-in-a-Box Could Make Gene Therapy Less Elitist</title>
+    <quote>Miltenyi, the German device maker, says its instrument, called Prodigy, can already largely automate CAR-T production, and is now being tested by a few companies. The instrument, which weighs about 150 pounds, looks a little like a machine from Willy Wonka’s factory, with bright pastel casements, neatly placed dials, and twists and turns of disposable tubing covering its surface. Instead of hot chocolate, a patient’s cells move through the tubes, mixing with chemicals that stimulate them and, eventually, a load of DNA-carrying viruses used to alter their genetic code.</quote>
+    <link>https://www.technologyreview.com/s/603762/this-lab-in-a-box-could-make-gene-therapy-less-elitist/</link>
+  </entry>
+  
+ <entry>
+    <title>How This Medical Student Brought DNA Testing To Women In Trinidad and Tobago</title>
+    <quote>Color Genomics is one of a growing number of U.S. companies that leverage DNA sequencing to answer a wide variety of questions about disease. The price of such technologies have dropped significantly over the past few decades. In 2001, it cost $100 million to sequence a human genome. Today, Color offers one of the cheapest offerings on the market, with a test to screen for a set of genes associated with hereditary cancers for just $249.</quote>
+    <link>https://www.fastcompany.com/3068257/how-this-medical-student-brought-dna-testing-to-women-in-trinidad-and-tobago</link>
+  </entry>
+  
+  <entry>
+    <title>Can Silicon Valley Cure Diabetes With Low Carbs And High Tech?</title>
+    <quote>The idea of applying emerging technology to stubborn health challenges, such as diabetes, has long captivated and frequently frustrated entrepreneurs and investors. While it seems blindingly obvious that technology ought to represent a game-changing opportunity for healthcare, figuring out how to do this has proven remarkably difficult--not only because it’s hard to disrupt entrenched incumbents, but also because disease is messy, people are complicated and achieving durable changes in health turns to be far more challenging than persuading users to click on an ad.</quote>
+    <link>https://www.forbes.com/sites/davidshaywitz/2017/03/08/can-silicon-valley-cure-diabetes-with-low-carbs-and-high-tech</link>
+  </entry>
+
+  <entry>
+    <title>Six Steps to Superior Product Prototyping: Lessons from an Apple and Oculus Engineer</title>
+    <quote>No matter what, always solve for consumer experience. “As a designer and an engineer, I'm constantly trying to think about the customer and how much better or how much worse the product will be depending on the decisions we are making on the product level. That is how you determine your North Star. When I'm thinking about product trade-offs and feature trade-offs, I'm really thinking about the customer.</quote>
+    <link>http://firstround.com/review/six-steps-to-superior-product-prototyping-lessons-from-an-apple-and-oculus-engineer/</link>
+  </entry>
+  
+  <entry>
+    <title>A Behavioral Economist Tries to Fix Email</title>
+    <quote>In this data, Ariely saw an inefficiency to target. Even though every email, by default, triggers a notification, it’s unlikely that any given email deserves one. So, with the help of some software developers he’d worked with in the past, he tried to come up with a way to tweak the default settings that are baked into email. The result of that work is Filtr, an app that lets users make simple rules, based on the sender, about when an email will show up in their inbox. For example, users can set it up so that emails from family members show up immediately, but non-time-sensitive newsletters show up all at once, at the end of the day.</quote>
+    <link>https://www.theatlantic.com/business/archive/2017/03/economist-email-less-painful/518934/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

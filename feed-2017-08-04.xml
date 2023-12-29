@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 4, 2017</date>
+  
+  <entry>
+    <title>CRISPR skin grafts could replace insulin injections for diabetes</title>
+    <quote>Genetically modified skin grafts have protected mice from developing diabetes, suggesting the technique may help people with the condition. The method makes use of the gene that encodes a hormone called glucagon-like peptide-1 (GLP-1). This hormone decreases appetite and helps regulate blood sugar levels by triggering the release of insulin, which removes excess glucose from the blood.</quote>
+    <link>https://www.newscientist.com/article/2142679-crispr-skin-grafts-could-replace-insulin-injections-for-diabetes/</link>
+  </entry>
+  
+  <entry>
+    <title>Another Lens: A research tool for conscientious creatives</title>
+    <quote>How can you design for everyone without understanding the full picture?</quote>
+    <link>https://airbnb.design/anotherlens/#</link>
+  </entry>
+  
+  <entry>
+    <title>This Matrix Helps Growing Teams Make Great Decisions</title>
+    <quote>Psychological safety is a combination of empathy, time management and good conversational turn-taking. This blend makes people feel heard and appreciated.</quote>
+    <link>http://firstround.com/review/this-matrix-helps-growing-teams-make-great-decisions/</link>
+  </entry>
+
+  <entry>
+    <title>What Is Ray Kurzweil Up To At Google? Writing Your Emails</title>
+    <quote>His team is experimenting with empowering Smart Reply to elaborate on its initial terse suggestions. Tapping a Continue button might cause “Sure I’d love to come to your party!” to expand to include, for example, “Can I bring something?” He likes the idea of having AI pitch in anytime you’re typing, a bit like an omnipresent, smarter version of Google’s search autocomplete. “You could have similar technology to help you compose documents or emails by giving you suggestions of how to complete your sentence,” </quote>
+    <link>https://www.wired.com/story/what-is-ray-kurzweil-up-to-at-google-writing-your-emails/</link>
+  </entry>
+  
+  <entry>
+    <title>The digital native is a myth</title>
+    <quote>The younger generation uses technology in the same ways as older people — and is no better at multitasking.</quote>
+    <link>http://www.nature.com/news/the-digital-native-is-a-myth-1.22363</link>
+  </entry>
+  
+  <entry>
+    <title>Cargo Cult Data Science</title>
+    <quote>Data science is becoming an important competitive advantage for companies of all kinds. With the introduction of a new set practices, there’s an increased risk of “cargo cults” emerging within organizations. Cargo cults describe situations where people emulate a set of behaviours, without understanding their underlying motivations. When this happens with data-science, organizations will emulate the technology behind data science, without creating a data-driven organizational culture.</quote>
+    <link>http://blog.richardweiss.org/2017/07/25/data-science-in-organizations.html</link>
+  </entry>
+  
+
+</feed>

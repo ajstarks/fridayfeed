@@ -1,0 +1,29 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 14, 2017</date>
+  
+  <entry>
+    <title>Who Needs Hard Drives? Scientists Store Film Clip in DNA</title>
+    <quote>With the new research, he and other scientists have begun to wonder if it may be possible one day to do something even stranger: to program bacteria to snuggle up to cells in the human body and to record what they are doing, in essence making a “movie” of each cell’s life.</quote>
+    <link>https://nyti.ms/2ua99x6</link>
+  </entry>
+  
+  <entry>
+    <title>A Conversational Agent for Data Science</title>
+    <quote>Iris supports interactive command combination through a conversational model inspired by linguistic theory and programming language interpreters. Our approach allows us to leverage a simple language model to enable complex workflows.  The Iris interface is a cross between a chat application like Facebook messenger and a development environment like RStudio (Figure 2). In the bottom left, users issue commands to the system, which will then appear in the window above, along with system responses. Data structures created in the course of a conversation appear in the upper right. </quote>
+    <link>https://hackernoon.com/a-conversational-agent-for-data-science-4ae300cdc220</link>
+  </entry>
+
+  <entry>
+    <title>Why Product Thinking is the next big thing in UX Design</title>
+    <quote>When thinking of User Experience, we often think of a simple, beautiful, and easy to use feature-set of a product, that makes the user’s life easier. But as a matter of fact, features are merely a small, fragile part of the product. They are only a few of many thinkable solutions for a user’s problem the product tries to solve. Thinking in products means thinking in specific user’s problems, in jobs to be done, in goals, and in revenues.</quote>
+    <link>https://medium.com/@jaf_designer/why-product-thinking-is-the-next-big-thing-in-ux-design-ee7de959f3fe</link>
+  </entry>
+  
+  <entry>
+    <title>It's Time To Make Code More Tinker-Friendly</title>
+    <quote>we need new tools that let everyone see, understand, and remix today’s web. We need, in other words, to reboot the culture of View Source.</quote>
+    <link>https://www.wired.com/story/clive-thompson-tinker-with-code</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 15, 2017</date>
+  
+   <entry>
+    <title>Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to</title>
+    <quote>The culmination of almost two years of head banging, so you don't have to. The one stop shop to get answers to common questions you may have around Machine Learning</quote>
+    <link>https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e</link>
+  </entry>
+  
+  <entry>
+    <title>Jim Simons, the Numbers King</title>
+    <quote>Algorithms made him a Wall Street billionaire. His new research center helps scientists mine data for the common good.</quote>
+    <link>https://www.newyorker.com/magazine/2017/12/18/jim-simons-the-numbers-king</link>
+  </entry>
+  
+  <entry>
+    <title>Google Taught an AI That Sorts Cat Photos to Analyze DNA</title>
+    <quote>DeepVariant, on the other hand, still does not know anything about DNA-sequencing machines. But it has digested a lot of data. Neural networks are often analogized as layers of “neurons” that deal in progressively more complex concepts—the first layer might respond to light, the second shapes, the third actual objects. As DeepVariant is trained with data, it learns which connections between “neurons” to strengthen and which to ignore. Eventually, it can sort the actual mutations from the errors.</quote>
+    <link>https://www.theatlantic.com/science/archive/2017/12/google-deepvariant-dna/547634/</link>
+  </entry>
+
+  <entry>
+    <title>An Interactive Introduction To Quantum Computing</title>
+    <quote>What Do You Mean They Can Be Both Zero And One At The Same Time!</quote>
+    <link>http://davidbkemp.github.io/QuantumComputingArticle/</link>
+  </entry>
+  
+  <entry>
+    <title>The Amazon machine</title>
+    <quote>More than any of the other big tech platform companies, Amazon is a machine that makes the machine. People tend to talk about the famous virtuous circle diagram - more volume, lower costs, lower prices, more customers and so more volume. However, I think the operating structure of Amazon - the machine - is just as important, and perhaps less often talked about.</quote>
+    <link>https://www.ben-evans.com/benedictevans/2017/12/12/the-amazon-machine</link>
+  </entry>
+</feed>

@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 7, 2017</date>
+  
+  <entry>
+    <title>Hacking DNA: The Story of CRISPR, Ken Thompson, and the Gene Drive</title>
+    <quote>This revolution in what it means to be human will be enabled by a new genetic technology that goes by the innocuous sounding name CRISPR, pronounced “crisper”. Many readers will already have seen this term in the news, and can expect much more of it in the mainstream media soon. CRISPR is an acronym for Clustered Regularly Interspaced Short Palindromic Repeats and is to genomics what vi (Unix’s visual text editor) is to software. It is an editing technology which gives unprecedented power to genetic engineers: it turns them into genetic hackers. Before CRISPR, genetic engineering was slow, expensive, and inaccurate. With CRISPR, genome editing is cheap, accurate, and repeatable.</quote>
+    <link>https://blog.ycombinator.com/hacking-dna-the-story-of-crispr-ken-thompson-and-the-gene-drive/</link>
+  </entry>
+  
+  <entry>
+    <title>A.I. versus M.D.</title>
+    <quote>Thrun was convinced that he could outdo these first-generation diagnostic devices by moving away from rule-based algorithms to learning-based ones—from rendering a diagnosis by “knowing that” to doing so by “knowing how.” Increasingly, learning algorithms of the kind that Thrun works with involve a computing strategy known as a “neural network,” because it’s inspired by a model of how the brain functions. </quote>
+    <link>http://www.newyorker.com/magazine/2017/04/03/ai-versus-md?currentPage=all</link>
+  </entry>
+
+  <entry>
+    <title>Android overtakes Windows for first time</title>
+    <quote>“Windows won the desktop war but the battlefield moved on,” said Cullen. "It will be difficult for Microsoft to make inroads in mobile but the next paradigm shift might give it the opportunity to regain dominance. That could be in Augmented Reality, AI, Voice or Continuum (a product that aims to replace a desktop and smartphone with a single Microsoft powered phone)."</quote>
+    <link>http://gs.statcounter.com/press/android-overtakes-windows-for-first-time</link>
+  </entry>
+  
+  <entry>
+    <title>Noah Iliinsky on design at Amazon</title>
+    <quote>In this week’s Design Podcast, I sit down with Noah Iliinsky, senior UX architect at Amazon’s AWS group, co-author of Designing Data Visualizations, and co-editor of Beautiful Visualization. We talk about how design is organized at Amazon, 17 keys to success, and why being intentional will ensure you are working on the right problems.</quote>
+    <link>https://www.oreilly.com/ideas/noah-iliinsky-on-design-at-amazon</link>
+  </entry>
+  
+  <entry>
+    <title>Quantifying the performance of the TPU, our first machine learning chip</title>
+    <quote>The need for TPUs really emerged about six years ago, when we started using computationally expensive deep learning models in more and more places throughout our products. The computational expense of using these models had us worried. If we considered a scenario where people use Google voice search for just three minutes a day and we ran deep neural nets for our speech recognition system on the processing units we were using, we would have had to double the number of Google data centers!</quote>
+    <link>https://cloudplatform.googleblog.com/2017/04/quantifying-the-performance-of-the-TPU-our-first-machine-learning-chip.html</link>
+  </entry>
+  
+  <entry>
+    <title>Android beats Windows to become the internet’s most used operating system</title>
+    <quote>According to research from web statistics firm StatCounter, Android accounted for a larger chunk of overall internet usage than Windows for the first time ever last March, clocking an impressive market share of 37.93 percent ahead of Microsoft’s 37.91 percent.</quote>
+    <link>https://thenextweb.com/apps/2017/04/03/android-windows-internet-usage/</link>
+  </entry>
+
+</feed>

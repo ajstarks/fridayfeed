@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 17, 2017</date>
+  
+  <entry>
+  	<title>The MVP is dead. Long live the RAT.</title>
+  	<quote>There is a flaw at the heart of the term Minimum Viable Product: it’s not a product. It’s a way of testing whether you’ve found a problem worth solving. A way to reduce risk and quickly test your biggest assumption. Instead of building an MVP identify your Riskiest Assumption and Test it. Replacing your MVP with a RAT will save you a lot of pain.</quote>
+  	<link>https://hackernoon.com/the-mvp-is-dead-long-live-the-rat-233d5d16ab02</link>
+  </entry>
+  
+  <entry>
+  	<title>Complexity and Strategy</title>
+  	<quote>The Office competition with Google Apps was (and still is) strongly influenced by these perspectives on complexity. The Office team had made the decision to build web applications just prior to the time Google bought Writely (the original version of Google Docs). As we looked at that product, we were well positioned to understand the competitive strategy from a technical and feature perspective. After a fairly quiet period in the productivity space, new browser-based applications were launching in multiple product areas. Delivering through the browser combined a number of key breakthroughs, especially compared to the consumer PC application environment of the time.</quote>
+  	<link>https://hackernoon.com/complexity-and-strategy-325cd7f59a92</link>
+  </entry>
+  
+   <entry>
+    <title>Chief Artificial Intelligence Officer</title>
+    <quote>Lets first define what the Chief Artificial Intelligence Officer position would entail. The Chief Artificial Intelligence Officer is responsible for identifying and putting into place, intelligent systems and applications that enhance the business workflow.</quote>
+    <link>https://humanizing.tech/chief-artificial-intelligence-officer-ae94a7a089f3#.3lnwfs7qs</link>
+  </entry>
+ 
+  <entry>
+  	<title>Blockchain 101 - A visual demo</title>
+  	<quote>This is a very basic visual introduction to the concepts behind a blockchain. We introduce the idea of an immutable ledger using an interactive web demo</quote>
+  	<link>https://www.youtube.com/watch?v=_160oMzblY8</link>
+  </entry>
+
+  <entry>
+    <title>Design in Tech Report 2017</title>
+    <quote>Design trends revolutionizing the entrepreneurial and corporate ecosystems in tech. Related M&amp;A activity, new patterns in creativity x business, and the rise of computational design. (presentation and video links below)</quote>
+    <link>https://designintechreport.files.wordpress.com/2017/03/dit-2017-1-0-2-sunday-compressed.pdf</link>
+    <link>https://vimeo.com/208035080</link>
+  </entry>
+  
+ <entry>
+    <title>John Maeda: If You Want to Survive in Design, You Better Learn to Code</title>
+    <quote>Designers who can code and write have always been attractive to tech companies, but Maeda’s report foretells an inflection point for the field. As the distinction between engineering, writing, and design becomes blurrier, design’s role in technology only stands to become more ingrained in the product development process. In the end, design, as a singular field, could become less visible but more relevant. And someday, design might not need Maeda’s 50-page reports to extol its virtues.</quote>
+    <link>https://www.wired.com/2017/03/john-maeda-want-survive-design-better-learn-code</link>
+  </entry>
+</feed>

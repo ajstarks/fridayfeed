@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 12, 2017</date>
+  
+  <entry>
+    <title>Apple’s Watch can detect an abnormal heart rhythm with 97% accuracy, UCSF study says</title>
+    <quote>According to a study conducted through heartbeat measurement app Cardiogram and the University of California, San Francisco, the Apple Watch is 97 percent accurate in detecting the most common abnormal heart rhythm when paired with an AI-based algorithm. The study involved 6,158 participants recruited through the Cardiogram app on Apple Watch. Most of the participants in the UCSF Health eHeart study had normal EKG readings. However, 200 of them had been diagnosed with paroxysmal atrial fibrillation (an abnormal heartbeat). Engineers then trained a deep neural network to identify these abnormal heart rhythms from Apple Watch heart rate data.</quote>
+    <link>https://techcrunch.com/2017/05/11/apples-watch-can-detect-an-abnormal-heart-rhythm-with-97-accuracy-ucsf-study-says/</link>
+  </entry>
+
+  
+  <entry>
+    <title>The shock tactics set to shake up immunology</title>
+    <quote>An experimental procedure is exposing the links between the nervous and immune systems. Could it be the start of a revolution?</quote>
+    <link>http://www.nature.com/news/the-shock-tactics-set-to-shake-up-immunology-1.21918</link>
+  </entry>
+  
+  <entry>
+    <title>Making "Push on Green" a Reality</title>
+    <quote>With the complexity and interconnectedness of modern systems,
+some development/rollout best practices have evolved which
+attempt to minimize problems and downtime [2, 3]. To better
+understand the issues involved in creating a Push on Green
+system, an outline of a typical Google development environment
+and deployment process provides a useful introduction.</quote>
+    <link>https://www.usenix.org/system/files/login/articles/login_1410_05_klein.pdf</link>
+  </entry>
+
+  <entry>
+    <title>Amazon officially unveils touchscreen Echo Show</title>
+    <quote>The Show has the same basic capabilities as the regular, voice-only Echo (like setting timers and listening to music), but the built-in display adds plenty of new functionality. The Show’s screen will give users more information about their Alexa queries (displaying a full weather report or the steps in each recipe, for example), and can be used to play videos, including news briefings from the likes of CNN, and content from YouTube and Amazon Video.</quote>
+    <link>https://www.theverge.com/circuitbreaker/2017/5/9/15590978/amazon-echo-show-touchscreen-price-release-date</link>
+  </entry>
+  
+  <entry>
+  	<title>Microsoft introduces Azure Cosmos DB, a new database with a broad money-back guarantee</title>
+  	<quote>“Data isn’t just a core part of apps – increasingly it’s becoming the most mission critical aspect and fundamental to developing intelligent apps. As cloud-based applications increasingly scale, reach global users, and power AI experiences, we have come to a place where we need data at planet scale,” </quote>
+  	<link>https://www.geekwire.com/2017/microsoft-introduces-cosmos-db-a-new-database-with-a-broad-money-back-guarantee/</link>
+  </entry>  
+  
+</feed>

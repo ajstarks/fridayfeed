@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 24, 2017</date>
+  
+  <entry>
+    <title>Injection could permanently lower cholesterol by changing DNA</title>
+    <quote>The antibody drugs are extremely expensive and need to be injected every two to four weeks, so even if the antibodies work as well as hoped, they cannot be dished out to millions like statins. All attempts to develop conventional drugs to block PCSK9 have failed. But gene editing provides a radical alternative. Using the CRISPR technique, the team at AstraZeneca have disabled human versions of the PCSK9 gene in mice.</quote>
+    <link>https://www.newscientist.com/article/2120369-injection-could-permanently-lower-cholesterol-by-changing-dna/</link>
+  </entry>
+
+  <entry>
+    <title>Amazon’s Friction-Killing Tactics To Make Products More Seamless</title>
+    <quote>Friction can be a powerful deterrent between a customer and your product. It’s typically introduced by a lack of familiarity or misalignment with human behavior.  Start to combat it by mapping the three stages of friction: before the first contact, the signup process — during which you want the customer to complete one task — and the first moment of delight. Then set up listening posts for observing your customers and teasing counterintuitive insights out of the data to discover where friction is occurring. Finally, cut friction by reducing customer anxiety, cutting avoidable steps and preventing context switching.</quote>
+    <link>http://firstround.com/review/amazons-friction-killing-tactics-to-make-products-more-seamless/</link>
+  </entry>
+
+  <entry>
+    <title>Inside Facebooks AI Machine</title>
+    <quote>“Facebook today cannot exist without AI. Every time you use Facebook or Instagram or Messenger, you may not realize it, but your experiences are being powered by AI.”  The Applied Machine Learning group helps Facebook see, talk, and understand. It may even root out fake news.</quote>
+    <link>https://backchannel.com/inside-facebooks-ai-machine-7a869b922ea7</link>
+  </entry>
+  
+  <entry>
+    <title>Bad Hospital Design Is Making Us Sicker</title>
+    <quote>As a doctor, I’m struck daily by how much better hospitals could be designed. Hospitals are among the most expensive facilities to build, with complex infrastructures, technologies, regulations and safety codes. But evidence suggests we’ve been building them all wrong — and that the deficiencies aren’t simply unaesthetic or inconvenient. All those design flaws may be killing us.</quote>
+    <link>https://nyti.ms/2lujQ76</link>
+  </entry>
+  
+  <entry>
+    <title>10 Breakthrough Technologies 2017</title>
+    <quote>Reversing Paralysis, Self-Driving Trucks, Practical Quantum Computers, The 360-Degree Selfie, Hot Solar Cells, Gene Therapy 2.0, The Cell Atlas, Botnets of Things, Reinforcement Learning</quote>
+    <link>https://www.technologyreview.com/lists/technologies/2017/</link>
+  </entry>
+</feed>

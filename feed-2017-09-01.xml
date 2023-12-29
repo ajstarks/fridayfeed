@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 1, 2017</date>
+  
+  <entry>
+    <title>Why AI is the Future of Marketing</title>
+    <quote>Artificial Intelligence will help companies, and moreover, CMOs build a corporate culture with utmost customer focus, and help optimize marketing goals such as personalization, understanding customer behavior to customize the engagement and pitching process, making more accurate predictive analyses, and saving time on finding and converting leads.</quote>
+    <link>https://hackernoon.com/why-ai-is-the-future-of-marketing-5783e62cdb08</link>
+  </entry>
+  
+ <entry>
+    <title>Artificial Intelligence and Machine Learning: Policy Paper</title>
+    <quote>The paper explains the basics of the technology behind AI, identifies the key considerations and challenges surrounding the technology, and provides several high-level principles and recommendations to follow when dealing with the technology.</quote>
+    <link>http://www.internetsociety.org/doc/artificial-intelligence-and-machine-learning-policy-paper</link>
+  </entry>
+  
+ <entry>
+    <title>Chat Bots Aren’t A Fad. They’re A Revolution.</title>
+    <quote>https://www.wired.com/2016/09/chat-bots-arent-a-fad-theyre-a-revolution</quote>
+    <link>If you thought chat bots might quietly disappear, think again. They’re evolving fast, and only getting chattier.</link>
+  </entry>
+  
+
+  <entry>
+    <title>What We Get Wrong About Technology</title>
+    <quote>Whatever the technologies of the future turn out to be, they are likely to demand that, like the factories of the early 20th century, we change to accommodate them. Genuinely revolutionary inventions live up to their name: they change almost everything, and such transformations are by their nature hard to predict. </quote>
+    <link>http://timharford.com/2017/08/what-we-get-wrong-about-technology/</link>
+  </entry>
+
+  <entry>
+    <title>Data Science on a Chromebook</title>
+    <quote>I have been using two Samsung Chromebook Plus computers, one of which I keep at home and one which I keep at work. One of the best parts about the fully cloudy/Chrome OS requirement is this means that from the user perspective everything is always in sync. I log off the computer at home, come to work, log on and its like I’m on the same computer. So my total monthly cost comes to something like $35 a month for various cloud services. At first doing this was sort of like writing a Haiku. I could still write, but the constraints made me think hard about how I did things. But after a while I have gotten so used to the form that it feels natural and I don’t miss my (really expensive) Apple products anymore.</quote>
+    <link>https://simplystatistics.org/2017/08/29/data-science-on-a-chromebook/</link>
+  </entry>
+
+</feed>

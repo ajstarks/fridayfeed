@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 13, 2017</date>
+  
+  <entry>
+    <title>Specialty Pharmacies Say Benefit Managers Are Squeezing Them Out</title>
+    <quote>“The question is, why are the P.B.M.s enforcing these contracts more aggressively?” said David A. Balto, an antitrust lawyer in Washington who represents independent specialty pharmacies. “Is it consumer welfare that’s deep in their hearts, or the level of their profits?”</quote>
+    <link>http://nyti.ms/2ic0zHn</link>
+  </entry>
+  
+  <entry>
+    <title>Phil Schiller on iPhone’s Launch, How It Changed Apple, and Why It Will Keep Going for 50 Years</title>
+    <quote>iPhone was such a drastic departure from anything else—with its MultiTouch screen, its soft keyboard, and its imposing price tag—there was no assurance it would be a hit. There was certainly no indication that we’d reach the mind-set of today, where walking out of the house without one of those things is like venturing into the streets naked.</quote>
+    <link>https://backchannel.com/phil-schiller-on-iphones-launch-how-it-changed-apple-and-why-it-will-keep-going-for-50-years-e4412ad2c8f5#.goqnz3wdh</link>
+  </entry>
+  
+  <entry>
+    <title>iPhone at ten: the revolution continues</title>
+    <quote>January 9 marks the tenth anniversary of iPhone’s blockbuster debut. At Macworld 2007 in San Francisco, Steve Jobs introduced the world to iPhone as three products in one — “a widescreen iPod with touch controls, a revolutionary mobile phone and a breakthrough internet communications device.” In the ten years since, iPhone has enriched the lives of people around the world with over one billion units sold. It quickly grew into a revolutionary platform for hardware, software and services integration, and inspired new products, including iPad and Apple Watch, along with millions of apps that have become essential to people’s daily lives.</quote>
+    <link>http://www.apple.com/newsroom/2017/01/iphone-at-ten-the-revolution-continues.html</link>
+  </entry>
+  
+  <entry>
+    <title>8 Web Design Trends of 2016 That Will Travel to 2017</title>
+    <quote>(1) Remove the Clutter and Make the Design more Specific (2) Responsive Web Design, (3) Large Presentable Background Image, (4) Rhythmic Web Design with a Virtual Path to Follow, (5) Grid Formation Rule with High Proximity, (6) Video Demonstration and Infographics, (7) Blank Space Balance and Uncrowded Design Setup, (8) Standard Informational Footer Concept</quote>
+    <link>http://endive-software.blogspot.com/2016/10/8-web-design-trends-of-2016-that-will.html</link>
+  </entry>
+  
+  <entry>
+    <title>Google Infrastructure Security Design Overview</title>
+    <quote>Google has a global scale technical infrastructure designed to provide security through the entire information processing lifecycle at Google. This infrastructure provides secure deployment of services, secure storage of data with end user privacy safeguards, secure communications between services, secure and private communication with customers over the internet, and safe operation by administrators.</quote>
+    <link>https://cloud.google.com/security/security-design/</link>
+  </entry>
+
+</feed>

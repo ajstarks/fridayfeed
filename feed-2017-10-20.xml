@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 20, 2017</date>
+  
+  
+  <entry>
+    <title>A Diabetes Monitor That Spares the Fingers</title>
+    <quote>The FreeStyle Libre, made by Abbott, is a flash glucose sensor that allows people with diabetes to view our blood sugar every minute of the day without a single finger prick. While there are similar devices on the market — called continuous glucose monitors, or CGMs — the Libre is the least invasive one I’ve seen. It takes readings from a sensor under the skin but doesn’t require finger sticks for calibration, and is about the size of a quarter and as thick as two. And it’s helping me keep my diabetes under better control.</quote>
+    <link>https://nyti.ms/2kWW5I2</link>
+  </entry>
+  
+  
+ <entry>
+    <title>RobotReviewer: evaluation of a system for automatically assessing bias in clinical trials</title>
+    <quote>Risk of bias assessment may be automated with reasonable accuracy. Automatically identified text supporting bias assessment is of equal quality to the manually identified text in the CDSR. This technology could substantially reduce reviewer workload and expedite evidence syntheses.</quote>
+    <link>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4713900/</link>
+  </entry>
+  
+  
+  <entry>
+    <title>How AI Will Change Strategy: A Thought Experiment</title>
+    <quote>How will AI change strategy? That’s the single most common question the three of us are asked from corporate executives, and it’s not trivial to answer. AI is fundamentally a prediction technology. As advances in AI make prediction cheaper, economic theory dictates that we’ll use prediction more frequently and widely, and the value of complements to prediction – like human judgment – will rise. But what does all this mean for strategy?</quote>
+    <link>https://hbr.org/2017/10/how-ai-will-change-strategy-a-thought-experiment</link>
+  </entry>
+  
+
+  <entry>
+    <title>Coda is a next-generation spreadsheet designed to make Excel a thing of the past</title>
+    <quote>Mehrotra began to fixate on a question: what would documents and spreadsheets look if they were invented today? Coda, a company Mehrotra co-founded with his fellow former Googler Alex DeNeui, represents his answer to that question. The company, which is announcing a private beta today after three years of secret development, makes a collaborative document editor that combines a word processor and a spreadsheet.</quote>
+    <link>https://www.theverge.com/2017/10/19/16497444/coda-spreadsheet-krypton-shishir-mehrotra</link>
+  </entry>
+  
+ 
+  <entry>
+    <title>Make Product Decisions Without Doubt — My Lessons from Twitter and Slack</title>
+    <quote>The power of the hypothesis tree structure is that it not only can weaken or strengthen your beliefs logically, but also help you separate logical concerns from change aversion and other fears around your idea.</quote>
+    <link>http://firstround.com/review/make-product-decisions-without-doubt-my-lessons-from-twitter-and-slack/</link>
+  </entry>
+  
+
+</feed>

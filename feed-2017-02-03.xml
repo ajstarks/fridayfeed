@@ -1,0 +1,28 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 3, 2017</date>
+  
+ <entry>
+    <title>The year in new drugs</title>
+    <quote>After two years of an open spigot, the flow of new drugs tapered off in 2016. Just 22 new molecular entities were approved in the U.S. last year—less than half the number given the green light in 2015. Industry watchers are left puzzling over how to interpret the drop: as a bad omen for innovation or simply a blip in an otherwise upward trend in productivity?</quote>
+    <link>http://cen.acs.org/articles/95/i5/year-new-drugs.html</link>
+  </entry>
+  
+  <entry>
+    <title>Inside Dropbox’s Identity Overhaul</title>
+    <quote>Put it all together and you have, Houston says, a unique effort to unite the two realms of computing between which we hop back and forth today: “File world,” the drives and directories where our work products and documents live, and “cloud world,” the networked environment where we communicate and collaborate.</quote>
+    <link>https://backchannel.com/inside-dropboxs-identity-overhaul-3104d184a1f7#.msb371pht</link>
+  </entry>
+  
+  <entry>
+    <title>Watch: The paper-airplane drones that may one day save your life</title>
+    <quote>DARPA, the United States military’s experimental technology arm, awarded a grant to the aerodynamics research group at Otherlab in San Francisco to develop a disposable glider that can be used to ferry medical supplies or other cargo to places where delivery people can’t go. This is particularly useful in situations where there’s been a disease outbreak and vaccines are urgently needed — or in areas where the road or terrain conditions are so treacherous that it would take far too long for a ground vehicle to make the trek.</quote>
+    <link>http://www.recode.net/2017/1/31/14460734/watch-paper-airplane-drones-darpa-medicine</link>
+  </entry>
+
+  <entry>
+    <title>Socially Sensitive AI Software Coaches Call-Center Workers</title>
+    <quote>Some call-center workers are now receiving real-time coaching from software that analyzes their speech and the nature of their dialogue interactions with customers. As they are talking to someone the software might recommend that they talk more slowly or interrupt less often, or warn that the person on the other end of the line seems upset.</quote>
+    <link>https://www.technologyreview.com/s/603529/socially-sensitive-ai-software-coaches-call-center-workers</link>
+  </entry>
+</feed>

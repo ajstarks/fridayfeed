@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 19, 2017</date>
+  
+  <entry>
+    <title>Apple CEO Tim Cook test-drove a device that tracks his blood sugar, hinting at Apple's interest in the space</title>
+    <quote>Tim Cook has been spotted at the Apple campus test-driving a device that tracks blood sugar, which was connected to his Apple Watch. A source said that Cook was wearing a prototype glucose-tracker on the Apple Watch, which points to future applications that would make the device a "must have" for millions of people with diabetes -- or at risk for the disease. Apple has a team in Palo Alto working on the “holy grail” for diabetes: Non-invasive and continuous glucose monitoring. The current glucose trackers on the market rely on tiny sensors penetrating the skin. Sources said the company is already conducting feasibility trials in the Bay Area.</quote>
+    <link>http://www.cnbc.com/2017/05/18/apple-ceo-tim-cook-test-drove-glucose-monitor.html</link>
+  </entry>
+  
+  <entry>
+    <title>Wannacry About Business Models</title>
+    <quote>This is exactly what is necessary for good security: vendors need to keep their applications (or in the case of Microsoft, operating systems) updated, and end users need to always be using the latest version. Moreover, pricing software as a service means it is no longer a capital cost with all of the one-time payment assumptions that go with it: rather, it is an ongoing expense that implicitly includes maintenance, whether that be by the vendor or the end user (or, likely, a combination of the two).</quote>
+    <link>https://stratechery.com/2017/wannacry-and-the-power-of-business-models/</link>
+  </entry>
+   
+  <entry>
+    <title>Videos, Pictures &amp; Highlights from The 2017 New York R Conference</title>
+    <quote>Every April, we welcome a sold-out crowd of over 300 people for 2 full days of leading talks from some of the best data scientists in the world, connecting diverse domains and industries from the world's leading startups to Fortune 1000s and academia.</quote>
+    <link>http://www.rstats.nyc/2017</link>    
+  </entry>
+  
+  <entry>
+    <title>Making AI work for everyone</title>
+    <quote>We are now witnessing a new shift in computing: the move from a mobile-first to an AI-first world. And as before, it is forcing us to reimagine our products for a world that allows a more natural, seamless way of interacting with technology. Think about Google Search: it was built on our ability to understand text in webpages. But now, thanks to advances in deep learning, we’re able to make images, photos and videos useful to people in a way they simply haven’t been before. Your camera can “see”; you can speak to your phone and get answers back—speech and vision are becoming as important to computing as the keyboard or multi-touch screens.  </quote>
+    <link>https://blog.google/topics/machine-learning/making-ai-work-for-everyone/</link>
+  </entry>
+  
+  <entry>
+    <title>Google Reveals a Powerful New AI Chip and Supercomputer</title>
+    <quote>The new chip and a cloud-based machine-learning supercomputer will help Google establish itself as an AI-focused hardware maker.</quote>
+    <link>https://www.technologyreview.com/s/607879/google-reveals-a-powerful-new-ai-chip-and-supercomputer/</link>
+  </entry>
+  
+  <entry>
+  	<title>Cloud Spanner is now production-ready; let the migrations begin</title>
+  	<quote>We’ve carefully designed Cloud Spanner to meet customer requirements for enterprise databases — including ANSI 2011 SQL support, ACID transactions, 99.999% availability and strong consistency — without compromising latency. As a combined software/hardware solution that includes atomic clocks and GPS receivers across Google’s global network, Cloud Spanner also offers additional accuracy, reliability and performance in the form of a fully-managed cloud database service.</quote>
+  	<link>https://cloudplatform.googleblog.com/2017/05/Cloud-Spanner-is-now-production-ready-let-the-migrations-begin.html</link>
+  </entry>
+  
+
+</feed>

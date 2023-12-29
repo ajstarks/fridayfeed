@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 9, 2017</date>
+  
+  <entry>
+    <title>A Dilemma for Diabetes Patients: How Low to Push Blood Sugar, and How to Do It?</title>
+    <quote>A particular drug’s effect on blood sugar does not predict its effects on the heart. Even understanding the chemistry at work — the drugs act in very different ways to lower blood sugar — does not predict whether a particular medication will increase heart risk in a particular patient, researchers say. “We can’t predict what happens to people just based on the mechanisms of these drugs,” said Dr. Kasia J. Lipska, a diabetes expert at Yale University who wrote a recent paper on the issue. “We have to study large groups of patients and examine what drugs reduce complications of diabetes such as heart attacks, and in which patients.”</quote>
+    <link>https://nyti.ms/2sKsX5E</link>
+  </entry>
+  
+  <entry>
+    <title>Safe Visual Data Exploration</title>
+    <quote>Exploring data via visualization has become a popular way to understand complex data. Features or patterns in visualization can be perceived as relevant insights by users, even though they may actually arise from random noise. Moreover, interactive data explo- ration and visualization recommendation tools can examine a large number of observations, and therefore result in further increasing chance of spurious insights. Thus without proper statistical control, the risk of false discovery renders visual data exploration unsafe and makes users susceptible to questionable inference. To address these problems, we present QUDE, a visual data exploration system that interacts with users to formulate hypotheses based on visualizations and provides interactive control of false discoveries.</quote>
+    <link>http://delivery.acm.org/10.1145/3060000/3058749/p1671-zhao.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Data Sketching</title>
+    <quote>In response to this challenge, the model of streaming data processing has grown in popularity. The aim is no longer to capture, store, and index every minute event, but rather to process each observation quickly in order to create a summary of the current state. Following its processing, an event is dropped and is no longer accessible. The summary that is retained is often referred to as a sketch of the data.</quote>
+    <link>http://queue.acm.org/detail.cfm?id=3104030</link>
+  </entry>
+
+  <entry>
+    <title>Introducing ARKit</title>
+    <quote>iOS 11 introduces ARKit, a new framework that allows you to easily create unparalleled augmented reality experiences for iPhone and iPad. By blending digital objects and information with the environment around you, ARKit takes apps beyond the screen, freeing them to interact with the real world in entirely new ways.</quote>
+    <link>https://developer.apple.com/arkit/</link>
+  </entry>
+  
+  <entry>
+    <title>The Future of the World's Most Boring Software, the Word Processor</title>
+    <quote>"The reasons we have traditionally used word processors has slowly been eroded away," he explained. "LinkedIn is replacing the resume, Github is replacing documentation, and blogging (and respective tools) have chipped into journalism. Even documents that are meant to be printed are largely being standardized and automated. Most letters in your physical mailbox today are probably from some bank that generated and printed it without touching Word."</quote>
+    <link>https://motherboard.vice.com/en_us/article/the-future-of-the-worlds-most-boring-software-the-word-processor</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

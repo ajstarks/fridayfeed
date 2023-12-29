@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 8, 2017</date>
+  
+  <entry>
+    <title>CVS to Buy Aetna for $69 Billion in a Deal That May Reshape the Health Industry</title>
+    <quote>CVS Health said on Sunday that it had agreed to buy Aetna for about $69 billion in a deal that would combine the drugstore giant with one of the biggest health insurers in the United States and has the potential to reshape the nation’s health care industry.</quote>
+    <link>https://nyti.ms/2kfsutk</link>
+  </entry>
+  
+  <entry>
+    <title>Adapted Crispr gene editing tool could treat incurable diseases, say scientists</title>
+    <quote>In the new version a Crispr-style guide is still used, but instead of cutting the genome at the site of interest, the Cas9 enzyme latches onto it. The new package also includes a third element: a molecule that homes in on the Cas9 and switches on whatever gene it is attached to. The new paper, published in Cell, demonstrates how this strategy might be applied to a range of devastating illnesse</quote>
+    <link>https://www.theguardian.com/science/2017/dec/07/adapted-gene-editing-tool-crispr-could-treat-incurable-diseases-say-scientists</link>
+  </entry>
+  
+  <entry>
+    <title>IBM scientists demonstrate 10x faster large-scale machine learning using GPUs</title>
+    <quote>Together with EPFL scientists, our IBM Research team has developed a scheme for training big data sets quickly. It can process a 30 Gigabyte training dataset in less than one minute using a single graphics processing unit (GPU) — a 10× speedup over existing methods for limited memory training. </quote>
+    <link>https://www.ibm.com/blogs/research/2017/12/10x-faster-using-gpu</link>
+  </entry>
+  
+  <entry>
+    <title>Meet the man behind the most important tool in data science</title>
+    <quote>Wes McKinney hates the idea of researchers wasting their time. “Scientists unnecessarily dealing with the drudgery of simple data manipulation tasks makes me feel terrible,” he says.
+Perhaps more than any other person, McKinney has helped fix that problem. McKinney is the developer of “Pandas”, one of the main tools used by data analysts working in the popular programming language Python.</quote>
+    <link>https://qz.com/1126615/the-story-of-the-most-important-tool-in-data-science/</link>
+  </entry>
+  
+  <entry>
+    <title>Why Constant Learners All Embrace the 5-Hour Rule</title>
+    <quote>For many people, their professional day is measured by how much they get done. As a result, they speed through the day and slow down their improvement rate. The five-hour rule flips the equation by focusing on learning first.</quote>
+    <link>https://www.inc.com/empact/why-constant-learners-all-embrace-the-5-hour-rule.html</link>
+  </entry>
+</feed>

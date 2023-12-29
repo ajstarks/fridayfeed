@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 11, 2017</date>
+  
+  <entry>
+    <title>Head of Google's "Brain Team" describes Google's use of AI</title>
+    <quote>Jeff Deen lectures on Google's use of Machine Learning and Artificial Intelligence (for example image analysis for detecting Diabetic Retinopathy)</quote>
+    <link>https://youtu.be/HcStlHGpjN8</link>
+  </entry>
+  
+  <entry>
+    <title>How Blockchain Optimizes Health IT Software Development and Health Related Research</title>
+    <quote>Among the advantages blockchain provides medical researchers is the creation of a single storage location for all health information, tracking personal data in real-time and the ability to set data access permissions at a granular level. Health researchers need broad and complete data sets so they can better understand diseases, speed up biomedical discoveries, accelerate the development of drugs and provide customized individual treatment plans based on patient genetics, environment and lifecycle.</quote>
+    <link>https://www.innovecs.com/ideas-portfolio/blockchain-optimizes-health-software-development-health-related-research/</link>
+  </entry>
+  
+ <entry>
+    <title>Announcing the Coco Framework for enterprise blockchain networks</title>
+    <quote>Microsoft is committed to bringing blockchain to the enterprise—and is working with customers, partners, and the blockchain community to continue advancing its enterprise readiness. Our mission is to help companies thrive in this new era of secure multi-party computation by delivering open, scalable platforms and services that any company—from ledger startups to retailers to health providers to global banks—can use to improved shared business processes.</quote>
+    <link>https://azure.microsoft.com/en-us/blog/announcing-microsoft-s-coco-framework-for-enterprise-blockchain-networks/</link>
+  </entry>
+
+  <entry>
+    <title>Airbnb's Director of Experience, Katie Dill, tells us why Airbnb uses "stories" to design</title>
+    <quote>"Storytelling can be used at any stage of the development process... It's a powerful one because every individual can identify with, you can tell a story of what a person can go through</quote>
+    <link>https://youtu.be/sVc2hp9jlQ0</link>
+  </entry>
+  
+  <entry>
+    <title>How Information Got Re-Invented</title>
+    <quote>The story behind the birth of the information age.</quote>
+    <link>http://nautil.us/issue/51/limits/how-information-got-re_invented</link>
+  </entry>
+</feed>

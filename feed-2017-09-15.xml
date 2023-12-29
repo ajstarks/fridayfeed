@@ -1,0 +1,43 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 15, 2017</date>
+  
+  <entry>
+    <title>The IoT Attack Vector “BlueBorne” Exposes Almost Every Connected Device</title>
+    <quote>Armis Labs revealed a new attack vector endangering major mobile, desktop, and IoT operating systems, including Android, iOS, Windows, and Linux, and the devices using them. The new vector is dubbed “BlueBorne”, as it spread through the air (airborne) and attacks devices via Bluetooth. Armis has also disclosed eight related zero-day vulnerabilities, four of which are classified as critical. BlueBorne allows attackers to take control of devices, access corporate data and networks, penetrate secure “air-gapped” networks, and spread malware laterally to adjacent devices. Armis reported these vulnerabilities to the responsible actors, and is working with them as patches are being identified and released.</quote>
+    <link>https://www.armis.com/blueborne/</link>
+  </entry>
+  
+ 
+  <entry>
+    <title>Thoughts and Observations on the Products Announced at This Week’s iPhone X Introductory Event</title>
+    <quote>I did not get a chance to try Face ID. But I spent time — both officially, as a member of the media, and unofficially, as a friend — with several Apple employees who are already carrying an iPhone X as their daily-use phone, and from what I observed and from what they told me — and again, several of these employees are engineers, not PR or product marketing folks — it just works. You don’t have to think about it. According to them, you get used to not thinking about it very quickly, and when you go back to a Touch ID device, it feels broken that you have to touch the button to unlock the device.</quote>
+    <link>https://daringfireball.net/2017/09/iphone_x_event_thoughts_and_observations</link>
+  </entry>
+  
+  
+  <entry>
+    <title>THe Lessons And Questions Of The iPhone X And The iPhone 8</title>
+    <quote>That is why I find this launch so fascinating, and will be watching the upcoming quarter’s results so closely: Jobs built Apple to be the best, and the company has succeeded by being exactly that. Does that foreclose the possibility of being really good, and the gains from market segmentation that follow?</quote>
+    <link>https://stratechery.com/2017/the-lessons-and-questions-of-the-iphone-x-and-the-iphone-8/</link>
+  </entry>
+
+  <entry>
+    <title>The Myth of the Objective</title>
+    <quote>Objectives can, ironically, be obstacles to innovation and creativity.</quote>
+    <link>http://www.opowell.com/post/myth-of-the-objective/</link>
+  </entry>
+  
+  
+  <entry>
+    <title>Who Will Build the Health-Care Blockchain?</title>
+    <quote>Decentralized databases promise to revolutionize medical records, but not until the health-care industry buys in to the idea and gets to work.</quote>
+    <link>https://www.technologyreview.com/s/608821/who-will-build-the-health-care-blockchain/</link>
+  </entry>
+  
+  <entry>
+    <title>Slack partners with ServiceNow, and more from Frontiers</title>
+    <quote>ServiceNow CTO Allan Leinwand, who announced the partnership with Slack VP of Product April Underwood, shared that when the integration is available later this year, users will be able to add Slack as a notification channel in ServiceNow’s UI and have new incidents piped into any Slack channel. Their team can see a detailed view of the incident and collaborate in real time to get it resolved, and the conversation becomes a searchable archive that is visible to the whole team.</quote>
+    <link>https://slackhq.com/slack-partners-with-servicenow-and-more-from-frontiers-dfacf702273b</link>
+  </entry>
+</feed>
