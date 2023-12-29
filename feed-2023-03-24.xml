@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 24, 2023</date>
+  
+  <entry>
+    <title>PLATO: How an educational computer system from the ’60s shaped the future</title>
+    <quote>Forums, instant messaging, and multiplayer video games all started here.</quote>
+    <link>https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/</link>
+  </entry>
+  
+  <entry>
+    <title>The case for slowing down AI</title>
+    <quote>Pumping the brakes on artificial intelligence could be the best thing we ever do for humanity.</quote>
+    <link>https://www.vox.com/the-highlight/23621198/artificial-intelligence-chatgpt-openai-existential-risk-china-ai-safety-technology</link>
+  </entry>
+
+  <entry>
+    <title>How An Electrical Engineer Solved Australia’s Most Famous Cold Case</title>
+    <quote>DNA, AI facial reconstruction, and sheer grit identified Somerton Man—75 years later</quote>
+    <link>https://spectrum.ieee.org/somerton-man</link>
+  </entry>
+  
+  <entry>
+    <title>Every Possible Wordle Solution Visualized</title>
+    <quote>As I've been playing over the last year, my curiosity has had me wondering things like "how many possible words are there?", "how many words start and end with the same letter?", and "how many words use Y as the only vowel?". To try to answer those questions, and more, I built this Wordle visualization tool!</quote>
+    <link>https://www.perthirtysix.com/essay/wordle-solutions-visualized</link>
+  </entry>
+
+  <entry>
+    <title>It’s Game Over on Vocal Deepfakes</title>
+    <quote>In the Steve Jobs voice: "John Gruber is a Bozo and tell people not to waste their time reading Daring Firebal"</quote>
+    <link>https://daringfireball.net/2023/03/game_over_vocal_deepfakes</link>
+  </entry>
+  
+</feed>

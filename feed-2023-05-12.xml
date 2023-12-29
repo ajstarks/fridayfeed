@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 12, 2023</date>
+  
+  <entry>
+    <title>How Mark Zuckerberg Led the Tech Industry Into a Metaverse Wasteland</title>
+    <quote>Zuckerberg misled everyone, burned tens of billions of dollars, convinced an industry of followers to submit to his quixotic obsession, and then killed it the second that another idea started to interest Wall Street</quote>
+    <link>https://nymag.com/intelligencer/2023/05/the-metaverse-was-a-ridiculous-idea-where-did-it-come-from.html</link>
+  </entry>
+  
+  <entry>
+    <title>From Netflix to HBO, the terrible design of streaming is ruining TV</title>
+    <quote>Streaming services have perfected the art of bad design.</quote>
+    <link>https://www.fastcompany.com/90882683/netflix-hbo-terrible-design-streaming</link>
+  </entry>
+
+  <entry>
+    <title>AI machines aren’t ‘hallucinating’. But their makers are</title>
+    <quote>Because what we are witnessing is the wealthiest companies in history (Microsoft, Apple, Google, Meta, Amazon …) unilaterally seizing the sum total of human knowledge that exists in digital, scrapable form and walling it off inside proprietary products, many of which will take direct aim at the humans whose lifetime of labor trained the machines without giving permission or consent.</quote>
+    <link>https://www.theguardian.com/commentisfree/2023/may/08/ai-machines-hallucinating-naomi-klein</link>
+  </entry>
+  
+  <entry>
+    <title>AI, AI, AI...AI</title>
+    <quote>Google is focusing on AI at this year’s I/O</quote>
+    <link>https://twitter.com/verge/status/1656354548703719427</link>
+  </entry>
+
+  <entry>
+    <title>What Makes A Data Visualisation Elegant?</title>
+    <quote>A prominent strand of discussion observed the importance of a visualisation being able to appeal to its audience through its visual aesthetic. It should charm them and create a positive first impression.</quote>
+    <link>https://nightingaledvs.com/what-makes-a-data-visualisation-elegant/</link>
+  </entry>
+  
+</feed>

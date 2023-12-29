@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 1, 2023</date>
+
+  <entry>
+    <title>IT sent the intern to sort out the nasty VP who was too important to bother with backups</title>
+    <quote>One day, the horror VP reported that her emails were going missing. She would be in the middle of writing, then if she left her desk for whatever reason she would return to find her work in progress gone. This was happening several times a day.</quote>
+    <link>https://www.theregister.com/2023/11/27/who_me/</link>
+  </entry>
+
+  <entry>
+    <title>Python is Easy. Go is Simple. Simple != Easy.</title>
+    <quote>we’d start with a Django skeleton because of its built-in Admin, which is fantastic. Once the rough Django proof-of-concept starts resembling a product, we identify how much of it can be rewritten in Go.</quote>
+    <link>https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/</link>
+  </entry>
+  
+  <entry>
+    <title>The birth and death of search engine optimization</title>
+    <quote>The basic idea is that you use generative AI to systematically churn out articles about a given topic and then use A/B testing to eliminate the ones that don't "work" on search engines in favor of the ones that do. This is a way to automate the process of creating content farms.</quote>
+    <link>https://xeiaso.net/blog/birth-death-seo/</link>
+  </entry>
+
+  <entry>
+    <title>Color: From Hexcodes to Eyeballs</title>
+    <quote>Why do we perceive background-color: #9B51E0 as this particular purple?</quote>
+    <link>https://jamie-wong.com/post/color/</link>
+  </entry>
+
+  <entry>
+    <title>When technology follows art</title>
+    <quote>From optics to machine learning, artists have played an important, if underrated, role in the history of technology</quote>
+    <link>https://resobscura.substack.com/p/when-technology-follows-art</link>
+  </entry>
+  
+</feed>

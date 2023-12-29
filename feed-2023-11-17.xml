@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 17, 2023</date>
+
+   <entry>
+    <title>Is My Toddler a Stochastic Parrot?</title>
+    <quote>The world is racing to develop ever more sophisticated large language models while a small language model unfurls itself in my home.</quote>
+    <link>https://www.newyorker.com/humor/sketchbook/is-my-toddler-a-stochastic-parrot</link>
+  </entry>
+  
+  <entry>
+    <title>A Failed AI Girlfriend Product, and My Lessons</title>
+    <quote>But, does humanity really need an AI friend?</quote>
+    <link>https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/</link>
+  </entry>
+  
+  <entry>
+    <title>https://mazzzystar.github.io/2023/11/16/ai-girlfriend-product/</title>
+    <quote>Coding has always felt to me like an endlessly deep and rich domain. Now I find myself wanting to write a eulogy for it.</quote>
+    <link>https://www.newyorker.com/magazine/2023/11/20/a-coder-considers-the-waning-days-of-the-craft</link>
+  </entry>
+ 
+  <entry>
+    <title>DAK and the Golden Age of Gadget Catalogs</title>
+    <quote>Here’s a catalog, from a guy who chooses cool gadgets, and writes about them in great detail, every word his own. Sounds fun. And then, you dig in.</quote>
+    <link>https://cabel.com/2023/11/06/dak-and-the-golden-age-of-gadget-catalogs/</link>
+  </entry>
+
+  <entry>
+    <title>Capturing One Million Deaths on a Page: A Chat with NYT’s Carrie Mifsud</title>
+    <quote>When I was asked to do this, I knew it would have to have news value, be informative, be sophisticated but also carry the weight of the loss somehow. I was looking for a way to do all of that.</quote>
+    <link>https://nightingaledvs.com/capturing-one-million-deaths-on-a-page-carrie-mifsud/</link>
+  </entry>
+  
+</feed>

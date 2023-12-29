@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 3, 2023</date>
+
+  <entry>
+    <title>You Are Not a Parrot</title>
+    <quote>And a chatbot is not a human. And a linguist named Emily M. Bender is very worried what will happen when we forget this.</quote>
+    <link>https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html</link>
+  </entry>
+  
+  <entry>
+    <title>What a Sixty-Five-Year-Old Book Teaches Us About A.I.</title>
+    <quote>Rereading an oddly resonant—and prescient—consideration of how computation affects learning.</quote>
+    <link>https://www.newyorker.com/books/second-read/what-a-sixty-five-year-old-book-teaches-us-about-ai</link>
+  </entry>
+  
+  <entry>
+    <title>Building the New Bing</title>
+    <quote>Last Summer, OpenAI shared their next generation GPT model with us, and it was game-changing. The new model was much more powerful than GPT-3.5, which powers ChatGPT, and a lot more capable to synthesize, summarize, chat and create. Seeing this new model inspired us to explore how to integrate the GPT capabilities into the Bing search product, so that we could provide more accurate and complete search results for any query including long, complex, natural queries.   
+</quote>
+    <link>https://www.linkedin.com/pulse/building-new-bing-jordi-ribas/</link>
+  </entry>
+
+  <entry>
+    <title>Electric Cars 101: How EV Motors Work, Tech Differences, and More</title>
+    <quote>Impress your friends and neighbors with your newfound EV knowledge. We all need it.</quote>
+    <link>https://www.motortrend.com/features/how-electric-cars-work-ev-differences-definitions/</link>
+  </entry>
+  
+   <entry>
+    <title>Why Python keeps growing, explained</title>
+    <quote>A deep dive into why more people are using Python than ever, its key use cases, and why it’s still so popular 30-plus years after it was first released.</quote>
+    <link>https://github.blog/2023-03-02-why-python-keeps-growing-explained/</link>
+  </entry>
+</feed>

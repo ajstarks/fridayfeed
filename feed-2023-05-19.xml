@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 19, 2023</date>
+  
+  <entry>
+    <title>Framework Laptop 13 review: a DIY dream come true</title>
+    <quote>But the Framework has a lot of other advantages over it now, upgradability aside: It has a better screen, a better port selection, better audio, a much quieter and cooler chassis, and better battery life. </quote>
+    <link>https://www.theverge.com/23725039/framework-laptop-13-2023-intel-review</link>
+  </entry>
+  
+  <entry>
+    <title>Crypto: New. Fraud: Old.</title>
+    <quote>The “democratization of finance” means the good and the bad; you don’t get to choose which parts. The normal trappings of capitalism and markets — concentration, inequality, and fraud — remain. </quote>
+    <link>https://www.vox.com/the-highlight/23678646/crypto-ftx-bitcoin-fraud-scams-capitalism-ethereum-sbf</link>
+  </entry>
+
+  <entry>
+    <title>He started a computing REVOLUTION—then the shortage hit</title>
+    <quote> interviewed Eben Upton, co-founder of Raspberry Pi, in early May. We talked about Pi shortages, RP2040, RISC-V, Sony investment, and how the name 'Raspberry Pi' was born!</quote>
+    <link>https://youtu.be/-_aL9V0JsQQ</link>
+  </entry>
+  
+  <entry>
+    <title>The Automation Charade</title>
+    <quote>The rise of the robots has been greatly exaggerated. Whose interests does that serve?</quote>
+    <link>https://logicmag.io/failure/the-automation-charade/</link>
+  </entry>
+
+  <entry>
+    <title>Visualizing World Governance Data as a Flower Garden</title>
+    <quote>To solve this, I used each country’s latitude and longitude to place it on its geographical location (using a simple equirectangular projection). Then, I reapplied the “force” transformation. This added spatial dimension and created a “floral cartogram.” </quote>
+    <link>https://nightingaledvs.com/world-governance-dataviz-flower-garden/</link>
+  </entry>
+  
+</feed>

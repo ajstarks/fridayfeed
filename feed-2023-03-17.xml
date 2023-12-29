@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 17, 2023</date>
+  
+  <entry>
+    <title>Recreating and Revising a Dashboard About Human Space Flight</title>
+    <quote>I would like to contribute to the data visualization community by sharing interesting examples of how beautiful infographics, data art, and visualizations can enhance business dashboards.</quote>
+    <link>https://nightingaledvs.com/spaceflight-dashboard-recreation-revision/</link>
+  </entry>
+  
+  <entry>
+    <title>OpenAI co-founder on company’s past approach to openly sharing research: ‘We were wrong’</title>
+    <quote>OpenAI announced its latest language model, GPT-4, but many in the AI community were disappointed by the lack of public information. Their complaints track increasing tensions in the AI world over safety.</quote>
+    <link>https://www.theverge.com/2023/3/15/23640180/openai-gpt-4-launch-closed-research-ilya-sutskever-interview</link>
+  </entry>
+
+  <entry>
+    <title>Microsoft tries to justify A.I.‘s tendency to give wrong answers by saying they’re ‘usefully wrong’</title>
+    <quote>In an online presentation about the new Copilot features, Microsoft executives brought up the software’s tendency to produce inaccurate responses, but pitched that as something that could be useful. As long as people realize that Copilot’s responses could be sloppy with the facts, they can edit the inaccuracies and more quickly send their emails or finish their presentation slides.</quote>
+    <link>https://www.cnbc.com/2023/03/16/microsoft-justifies-ais-usefully-wrong-answers.html</link>
+    <link>https://www.youtube.com/watch?v=Bf-dbS9CcRU</link>
+  </entry>
+  
+  <entry>
+    <title>The Most Innovative Products of 2023</title>
+    <quote>Amid the more than 500 companies recognized as part of Fast Company’s list of the Most Innovative Companies of 2023, product innovation played a key role in helping cement the recognition of many honorees.</quote>
+    <link>https://www.fastcompany.com/90863999/the-most-innovative-products-of-2023</link>
+  </entry>
+
+  <entry>
+    <title>Just write</title>
+    <quote>It doesn't matter how you do it, just keep doing it. The same mindset can be applied to just about any kind of creative work ... even though it might be hard to write a symphony on a napkin.</quote>
+    <link>https://robert.bearblog.dev/just-write/</link>
+  </entry>
+  
+</feed>

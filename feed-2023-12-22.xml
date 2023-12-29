@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 22, 2023</date>
+
+    <entry>
+    <title>The 2023 Stratechery Year in Review</title>
+    <quote>12 of Stratechery’s free Weekly Articles were about AI in some way, shape, or form. The second biggest topic was a Stratechery staple: the evolving content landscape; 2023 was particularly notable, though, for the dramatic shifts that are hitting Hollywood, highlighted by both strikes and the Disney-Charter standoff this fall. There were also big stories about the tech industry itself, from a bank failure to board room drama, and a “vision” of what might come next.</quote>
+    <link>https://stratechery.com/2023/the-2023-stratechery-year-in-review/</link>
+  </entry>
+  
+  <entry>
+    <title>Unblocking User Freedom: the right to use adblockers</title>
+    <quote>As the use of these adblockers increases, some companies have begun considering whether it is legal for users to be able to block their ads.</quote>
+    <link>https://fsfe.org/news/2023/news-20231220-01.sl.html</link>
+  </entry>
+  
+  <entry>
+    <title>Fedora Asahi Remix</title>
+    <quote>Fedora Asahi Remix is the result of a close multi-year collaboration between the Asahi Linux project and the Fedora Project.</quote>
+    <link>https://asahilinux.org/fedora/</link>
+  </entry>
+
+  <entry>
+    <title>Apple wants AI to run directly on its hardware instead of in the cloud</title>
+    <quote>Apple’s latest research about running large language models on smartphones offers the clearest signal yet that the iPhone maker plans to catch up with its Silicon Valley rivals in generative artificial intelligence.</quote>
+    <link>https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/</link>
+  </entry>
+  
+  <entry>
+    <title>Mickey, Disney, and the Public Domain: a 95-year Love Triangle</title>
+    <quote>On January 1, 2024, after almost a century of copyright protection, Mickey Mouse, or at least a version of Mickey Mouse, will enter the public domain. The first movies in which the iconic mouse appeared – Steamboat Willie and the silent version of Plane Crazy­[1] – were made in 1928 and works from that year go into the public domain in the United States on New Year’s Day 2024.[</quote>
+    <link>https://web.law.duke.edu/cspd/mickey/</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 10, 2023</date>
+  
+  <entry>
+    <title>The future of TV is up in the air</title>
+    <quote>Broadcasters are betting that antennas and modern DVRs will help them stay relevant. But a stalled transition to ATSC 3.0 and massive growth of linear streaming services could throw a wrench into those plans.</quote>
+    <link>https://www.theverge.com/23629525/tv-atsc3-free-antenna-broadcasts-scripps-nuvyyo</link>
+  </entry>
+  
+  <entry>
+    <title>why i use cheap notebooks</title>
+    <quote>I always find myself drawn to the cheapest notebooks I can find, spiral and composition ones that you can get at Staples for a quarter during back to school sales. I don't feel nervous about messing these up—they're dirt cheap and eminently replaceable. As long as the paper can handle my fountain pens with minimal bleed (you'd be surprised how many cheap notebooks have decent paper) and the binding doesn't disintegrate with use, I feel invited to write as many pages as I can, to fill them up with inky loops and dots.</quote>
+    <link>https://tiramisu.bearblog.dev/cheap-notebooks/</link>
+  </entry>
+
+  <entry>
+    <title>A technique called Cell Painting could speed drug discovery</title>
+    <quote>The method, known as Cell Painting, impressed scientists at several pharmaceutical companies—so much that they launched a consortium and pooled resources, using the approach to create a massive data set that they began releasing to the public in November. The JUMP–Cell Painting Consortium, as it’s called, hopes the database will accelerate drug discovery by helping researchers identify promising compounds and get a better sense of what they do and what sorts of side effects they might have before the molecules get tested in animals or people.</quote>
+    <link>https://www.technologyreview.com/2023/03/03/1069261/a-technique-called-cell-painting-could-speed-drug-discovery/</link>
+  </entry>
+  
+  <entry>
+    <title>The Internet’s Richest Fitness Resource Is a Site from 1999</title>
+    <quote>Exrx.net’s seeming lack of sophistication belies a physiological compendium that is sourced by professors, physical therapists, physicians, coaches, and military personnel, and endorsed by the American College of Sports Medicine. The site has granted use of its materials to nasa and the N.Y.P.D.</quote>
+    <link>https://www.newyorker.com/culture/rabbit-holes/the-internets-richest-fitness-resource-is-a-site-from-1999</link>
+  </entry>
+
+  <entry>
+    <title>In praise of ffmpeg</title>
+    <quote>ffmpeg has been described as the Swiss army knife of multimedia. It incorporates hundreds of video, audio, and image decoders and encoders, muxers and demuxers, filters and devices. It provides a CLI and a set of libraries for working with its tools, and is the core component of many video and audio players as a result... If you want to do almost anything with multimedia files — re-encode them, re-mux them, live stream it, whatever — ffmpeg can handle it with ease.</quote>
+    <link>https://drewdevault.com/2022/10/12/In-praise-of-ffmpeg.html</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 28, 2023</date>
+
+ <entry>
+    <title>What AI Teaches Us About Good Writing</title>
+    <quote>While AI can speed up the writing process, it doesn’t optimize quality — and it endangers our sense of connection to ourselves and others.</quote>
+    <link>https://www.noemamag.com/what-ai-teaches-us-about-good-writing/?src=longreads</link>
+  </entry>
+  
+  <entry>
+    <title>Llama and ChatGPT Are Not Open-Source</title>
+    <quote>An assessment of openness among ostensibly open-source LLM models finds that few live up to the claim</quote>
+    <link>https://spectrum.ieee.org/openai-not-open</link>
+  </entry>
+
+  <entry>
+    <title>Are data dashboards vanity projects?</title>
+    <quote>Based on the research on data literacy, this article offers a critique of the overabundance of data visualizations and dashboards, talks about when to use them appropriately, and sketches some guidelines for identifying when an alternative is justified.</quote>
+    <link>https://uxdesign.cc/are-data-dashboards-vanity-projects-e19929bb1c41</link>
+  </entry>
+  
+  <entry>
+    <title>Your Legacy on Earth May Be a Plant</title>
+    <quote>Within ten minutes’ drive of our house, there were no fewer than five home sites that had gone to seed, and sometimes to earth, with nothing left but a foundation and thousands of daffodils.</quote>
+    <link>https://worldsensorium.com/your-legacy-on-earth-may-be-a-plant/</link>
+  </entry>
+
+  <entry>
+    <title>They lost their kids to Fortnite</title>
+    <quote>A group of Canadian parents say their kids are so addicted to the video game Fortnite that they’ve stopped eating, sleeping and showering. Now these parents want to hold its tech-giant creator accountable.</quote>
+    <link>https://macleans.ca/longforms/fortnite-addiction-video-games-mental-health/?src=longreads</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,38 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 25,  2023</date>
+
+  <entry>
+    <title>"Open" "AI" isn't</title>
+    <quote>the "open" parts of "open AI" are insufficient for achieving the other claimed benefits of "open AI": they don't promote auditing, or safety, or competition. Indeed, they often cut against these goals.</quote>
+    <link>https://pluralistic.net/2023/08/18/openwashing/#you-keep-using-that-word-i-do-not-think-it-means-what-you-think-it-means</link>
+  </entry>
+
+
+  
+  <entry>
+    <title>A visit to the one-man computer factory</title>
+    <quote>Computers used to be made out of wood, endlessly customizable, and totally personal. Now they’re all metal rectangles. Can one guy in his LA house help bring the old way back?</quote>
+    <link>https://www.theverge.com/23841276/mythic-computer-keegan-mcnamara-pc-builder</link>
+  </entry>
+
+  <entry>
+    <title>Why young people can't get enough of subtitles</title>
+    <quote>It's a controversial moment for anyone watching a show or movie together: Subtitles or no subtitles? For most young people, it's an easy choice.</quote>
+    <link>https://www.axios.com/2023/08/20/gen-z-millennials-tv-movies-subtitles</link>
+  </entry>
+
+  <entry>
+    <title>Introducing Code Llama, a state-of-the-art large language model for coding</title>
+    <quote>Code Llama is a code-specialized version of Llama 2 that was created by further training Llama 2 on its code-specific datasets, sampling more data from that same dataset for longer. </quote>
+    <link>https://ai.meta.com/blog/code-llama-large-language-model-coding/</link>
+  </entry>
+  
+
+  <entry>
+    <title>Why Chandrayaan-3 landed near the moon's south pole — and why everyone else wants to get there too</title>
+    <quote>Interest in the lunar south pole as a landing site is mainly driven by the fact that scientists know the region hosts water in the form of ice. Water is, of course, essential for life as we know it — but it also has other uses. For instance, it can act as a coolant for equipment and even provide rocket fuel. The latter could be especially useful for a staging mission to Mars launched from the moon someday.</quote>
+    <link>https://www.space.com/chandrayaan-3-moon-south-pole-why-nasa-wants-to-go-too</link>
+  </entry>
+  
+</feed>

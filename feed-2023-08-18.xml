@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 18, 2023</date>
+
+  <entry>
+    <title>These Women Tried to Warn Us About AI</title>
+    <quote>Today the risks of artificial intelligence are clear — but the warning signs have been there all along</quote>
+    <link>https://www.rollingstone.com/culture/culture-features/women-warnings-ai-danger-risk-before-chatgpt-1234804367/</link>
+  </entry>
+  
+  <entry>
+    <title>iMac at 25: a visual history of Apple’s iconic all-in-one computer</title>
+    <quote> the iMac has become one of the most popular desktop computer lines ever. The design has evolved from bulbous cathode-ray tube (CRT) monitor all-in-ones to versions that look like contemporary table lamps — and eventually toward the slim aluminum plaques on stands that adorn doctor offices everywhere today. Alongside that, the tech inside has gone from PowerPC chips to x86 Intel processors and, now, to the Arm-based Apple Silicon design.</quote>
+    <link>https://www.theverge.com/23808948/imac-twenty-five-visual-history-apple-design-models</link>
+  </entry>
+  
+  <entry>
+    <title>The creator of Black Mirror is okay with tech. People, on the other hand ...</title>
+    <quote>Usually our technologies give with one hand and sort of slap us round the back of the head with the other</quote>
+    <link>https://www.vox.com/technology/2023/8/4/23819299/black-mirror-charlie-brooker-interview-ai-peter-kafka-media-column</link>
+  </entry>
+  
+  <entry>
+    <title>3 reasons we use graphic novels to teach math and physics</title>
+    <quote>In addition to covering a wide range of topics and audiences, graphic novels can explain tough topics without alienating student averse to STEM – science, technology, engineering and math. Even for students who already like math and physics, graphic novels provide a way to dive into topics beyond what is possible in a time-constrained class. </quote>
+    <link>https://theconversation.com/3-reasons-we-use-graphic-novels-to-teach-math-and-physics-211171</link>
+  </entry>
+
+  <entry>
+    <title>What helps people get comfortable on the command line?</title>
+    <quote>Sometimes I talk to friends who need to use the command line, but are intimidated by it. </quote>
+    <link>https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/</link>
+  </entry>
+  
+</feed>

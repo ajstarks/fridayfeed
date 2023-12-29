@@ -1,0 +1,39 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 27, 2023</date>
+
+   <entry>
+    <title>Why are so many tech companies laying people off right now?</title>
+    <quote>The answer is that investors have changed how they’re evaluating companies, says Michael Cusumano, the deputy dean at the MIT Sloan School of Management...One measure people use for measuring tech companies’ investment value is revenue per employee — and having hired all this staff during the pandemic, that means revenue per employee has gone down.</quote>
+    <link>https://www.theverge.com/2023/1/26/23571659/tech-layoffs-facebook-google-amazon</link>
+  </entry>
+
+    <entry>
+    <title>'Everybody is cheating': Why this teacher has adopted an open ChatGPT policy</title>
+    <quote>Ethan Mollick has a message for the humans and the machines: can't we all just get along?</quote>
+    <link>https://www.npr.org/2023/01/26/1151499213/chatgpt-ai-education-cheating-classroom-wharton-school</link>
+  </entry>
+  
+  <entry>
+    <title>Netflix’s New Chapter</title>
+    <quote>Spock’s job is finished: Netflix’s future is about creativity and humanity; it’s time for a Captain Kirk.</quote>
+    <link>https://stratechery.com/2023/netflixs-new-chapter/</link>
+  </entry>
+  
+  <entry>
+    <title>How NASA Solved a $100 Million Problem for Five Bucks</title>
+    <quote>NASA engineers discovered that the Ares I rocket had a crucial flaw, one that could have jeopardized the entire project. They panicked. They plotted. They steeled themselves for the hundreds of millions of dollars it was going to take to make things right. And then they found out how to fix it for the cost of an extra value meal.</quote>
+    <link>https://gizmodo.com/how-nasa-solved-a-100-million-problem-for-five-bucks-5880850</link>
+  </entry>
+
+  <entry>
+    <title>Open source in pharma from five perspectives</title>
+    <quote>Data science leaders from Roche, AstraZeneca, GSK, Eli Lilly, and Pfizer share their perspectives on the adoption of open source in the pharmaceutical space.</quote>
+    <link>https://posit.co/blog/open-source-in-pharma-from-five-perspectives/</link>
+  </entry>
+  
+
+
+ 
+  
+</feed>

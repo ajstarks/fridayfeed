@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 8, 2023</date>
+  
+  <entry>
+    <title>Three Decades of HTML</title>
+    <quote>A few days ago was the 30th anniversary of the first time I wrote an HTML document.  Back in 1993, I took a Usenet posting of the “Incomplete Mystery Science Theater 3000 Episode Guide” and marked it up.</quote>
+    <link>https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/</link>
+  </entry>
+  
+  <entry>
+    <title>How Companies Incentivize Layoffs—A Study of Corporate Career Incentives</title>
+    <quote>Managers at growing companies are incentivized to do one thing more than anything else. Grow their teams.</quote>
+    <link>https://www.scarletink.com/p/how-companies-incentivize-layoffs</link>
+  </entry>
+
+  <entry>
+    <title>The 23andMe Data Breach Keeps Spiraling</title>
+    <quote>23andMe has maintained that attackers used a technique known as credential stuffing to compromise the 14,000 user accounts—finding instances where leaked login credentials from other services were reused on 23andMe</quote>
+    <link>https://www.wired.com/story/23andme-breach-sec-update/</link>
+  </entry>
+  
+  <entry>
+    <title>How the first gen ipod was reverse engineered to run Rockbox:</title>
+    <quote>... Now the exploit was rewritten to read memory, and *blink* out the contents using the LCD backlight. A LEGO construction was built and a webcam would register the binary stream of a few megabytes of memory contents</quote>
+    <link>https://mastodon.social/@bagder/111538350617290554</link>
+  </entry>
+
+  <entry>
+    <title>I turned Hacker News top stories into AI art on your wall</title>
+    <quote>The concept is straightforward: every four hours, the most discussed stories from Hacker News are transformed into AI-generated art, optimized for the E Ink display. </quote>
+    <link>https://alexanderklopping.medium.com/i-turned-hacker-news-top-stories-into-ai-art-on-your-wall-97c814873b63</link>
+  </entry>
+  
+</feed>

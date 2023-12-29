@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 16, 2023</date>
+  
+  <entry>
+    <title>Vision Pro</title>
+    <quote>What has Apple built, what is it for, what does it mean for Meta, and why does it cost $3,500? Check back in 2025.</quote>
+    <link>https://www.ben-evans.com/benedictevans/2023/6/15/vision-pro</link>
+  </entry>
+  
+  <entry>
+    <title>On the Need for an AI Public Option</title>
+    <quote>Artificial intelligence will bring great benefits to all of humanity. But do we really want to entrust this revolutionary technology solely to a small group of US tech companies?</quote>
+    <link>https://www.schneier.com/blog/archives/2023/06/on-the-need-for-an-ai-public-option.html</link>
+  </entry>
+
+  <entry>
+    <title>How cars fuel racial inequality</title>
+    <quote>Black drivers are more likely to be pulled over by police than white drivers, and once pulled over, they are more likely to be ticketed, searched, and arrested. High-profile killings of unarmed Black drivers like Tyre Nichols, Philando Castile, and Walter Scott periodically draw attention to the fact that police traffic stops can be deadly,</quote>
+    <link>https://www.vox.com/23735896/racism-car-ownership-driving-violence-traffic-violations</link>
+  </entry>
+  
+  <entry>
+    <title>Sir Paul McCartney says artificial intelligence has enabled a 'final' Beatles song</title>
+    <quote>"It's kind of scary but exciting, because it's the future. We'll just have to see where that leads."</quote>
+    <link>https://www.bbc.com/news/entertainment-arts-65881813</link>
+  </entry>
+
+  <entry>
+    <title>Reddit CEO Steve Huffman isn’t backing down: our full interview</title>
+    <quote>We spoke with Huffman for nearly 30 minutes about the platform’s API changes and ongoing user protests.</quote>
+    <link>https://www.theverge.com/2023/6/15/23762868/reddit-ceo-steve-huffman-interview</link>
+  </entry>
+  
+</feed>

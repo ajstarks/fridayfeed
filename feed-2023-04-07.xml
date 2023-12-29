@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 7, 2023</date>
+  
+  <entry>
+    <title>Programming Isn’t Coding</title>
+    <quote>I’ve long thought that a really useful course would be not necessarily about programming, but about how to use your computer like a programmer. It often seems like that’s really the biggest skill we develop – not algorithmic thinking, but having a deep knowledge of how to use the computer just to do stuff.</quote>
+    <link>https://occasionallycogent.com/programming_isnt_coding/index.html</link>
+  </entry>
+  
+  <entry>
+    <title>Framework’s computers aren’t perfect, but they are exciting</title>
+    <quote>Framework’s approach to laptops has me nostalgic for the first laptop I ever owned — one you’ve likely never heard of.</quote>
+    <link>https://www.theverge.com/23664746/framework-laptop-excitement-vpr-matrix-history-nostalgia</link>
+  </entry>
+  
+  <entry>
+    <title>Smithsonian Places 4.5 Million Historic Images Into the Public Domain</title>
+    <quote>The world's largest museum has added even more images from its collection to the public domain, totaling a whopping 4.5 million assets. Available on a platform called Smithsonian Open Access, anyone can download, reuse, and remix these images at any time—for free under the Creative Commons Zero (CC0) license.</quote>
+    <link>https://mymodernmet.com/smithsonian-open-access-public-domain/</link>
+  </entry>
+
+  <entry>
+    <title>The Apple Lisa was a design revolution — and it still feels like one today </title>
+    <quote>The design language of the Lisa is the design language of modern computers. It was one of the first machines to use the metaphor of a desktop, including things like folders, icons, and application windows that mimicked sheets of paper.</quote>
+    <link>https://www.theverge.com/23669728/apple-lisa-macintosh-ui-design-history</link>
+  </entry>
+
+  <entry>
+    <title>Why ChatGPT and Bing Chat are so good at making things up</title>
+    <quote>A look inside the hallucinating artificial minds of the famous text prediction bots.</quote>
+    <link>https://arstechnica.com/information-technology/2023/04/why-ai-chatbots-are-the-ultimate-bs-machines-and-how-people-hope-to-fix-them/</link>
+  </entry>
+  
+</feed>

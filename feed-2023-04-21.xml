@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 21, 2023</date>
+  
+  <entry>
+    <title>Google's Rush to Win in AI Led to Ethical Lapses, Employees Say</title>
+    <quote>Even after the public pronouncements, some found it difficult to work on ethical AI at Google. One former employee said they asked to work on fairness in machine learning and they were routinely discouraged — to the point that it affected their performance review. Managers protested that it was getting in the way of their “real work,” the person said.</quote>
+    <link>https://www.bnnbloomberg.ca/google-s-rush-to-win-in-ai-led-to-ethical-lapses-employees-say-1.1909588</link>
+  </entry>
+  
+  <entry>
+    <title>The Origins of Creativity</title>
+    <quote>The concept was devised in postwar America, in response to the cultural and commercial demands of the era. Now we’re stuck with it.</quote>
+    <link>https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review</link>
+  </entry>
+
+  <entry>
+    <title>The Car Thieves Using Tech Disguised Inside Old Nokia Phones and Bluetooth Speakers</title>
+    <quote>Criminals use tiny devices, sometimes hidden inside innocuous looking bluetooth speakers or mobile phones, to interface with the vehicle’s control system. This allows thieves with very little technical experience to steal cars without needing the key, sometimes in just 15 seconds or so. With the devices available to buy online for a few thousand dollars, the barrier of entry for stealing even high-end luxury cars is dramatically reduced.</quote>
+    <link>https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless</link>
+  </entry>
+  
+  <entry>
+    <title>Business Intelligence as code</title>
+    <quote>Build polished data products with SQL and markdown</quote>
+    <link>https://evidence.dev/</link>
+  </entry>
+
+  <entry>
+    <title>Inside the secret list of websites that make AI like ChatGPT sound smart</title>
+    <quote>To look inside this black box, we analyzed Google’s C4 data set, a massive snapshot of the contents of 15 million websites that have been used to instruct some high-profile English-language AIs, called large language models, including Google’s T5 and Facebook’s LLaMA. (OpenAI does not disclose what datasets it uses to train the models backing its popular chatbot, ChatGPT)</quote>
+    <link>https://www.washingtonpost.com/technology/interactive/2023/ai-chatbot-learning/</link>
+  </entry>
+  
+</feed>

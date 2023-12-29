@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 31, 2023</date>
+
+  <entry>
+    <title>Five charts that changed the world</title>
+    <quote>Data visualisation helps us to understand the world. It also has the power to change it.</quote>
+    <link>https://www.bbc.co.uk/ideas/videos/five-charts-that-changed-the-world/p0fb69c1?playlist=made-in-partnership-with-the-royal-society</link>
+  </entry>
+
+  <entry>
+    <title>Can Mastodon seize the moment from Twitter?</title>
+    <quote>Eugen Rochko is the CEO of Mastodon — the open-source decentralized competitor to Twitter. It’s where a lot of Twitter users have gone in our post-Elon Musk era.</quote>
+    <link>https://www.theverge.com/23658648/mastodon-ceo-twitter-interview-elon-musk-twitter</link>
+  </entry>
+
+  <entry>
+    <title>AI and the American Smile</title>
+    <quote>How AI misrepresents culture through a facial expression.</quote>
+    <link>https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf</link>
+  </entry>
+  
+  <entry>
+    <title>How John Glenn’s $40 Camera Forced NASA to Rethink Space Missions</title>
+    <quote>A simple camera purchased at the local drugstore played a pivotal role in shaping the future of space exploration and set the stage for space photography in a non-scientific domain.</quote>
+    <link>https://petapixel.com/2023/03/23/how-john-glenns-40-camera-forced-nasa-to-rethink-space-missions</link>
+  </entry>
+  
+  <entry>
+    <title>About Scratch</title>
+    <quote>Scratch is the world’s largest coding community for children and a coding language with a simple visual interface that allows young people to create digital stories, games, and animations.</quote>
+    <link>https://scratch.mit.edu/about</link>
+  </entry>
+  
+</feed>

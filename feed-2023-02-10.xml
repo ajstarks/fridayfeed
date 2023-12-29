@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 10, 2023</date>
+  
+  <entry>
+    <title>Big Data is Dead</title>
+    <quote>This post will make the case that the era of Big Data is over. It had a good run, but now we can stop worrying about data size and focus on how we’re going to use it to make better decisions.</quote>
+    <link>https://motherduck.com/blog/big-data-is-dead</link>
+  </entry>
+  
+  <entry>
+    <title>ChatGPT Is a Blurry JPEG of the Web</title>
+    <quote>Imagine what it would look like if ChatGPT were a lossless algorithm. If that were the case, it would always answer questions by providing a verbatim quote from a relevant Web page. We would probably regard the software as only a slight improvement over a conventional search engine, and be less impressed by it. The fact that ChatGPT rephrases material from the Web instead of quoting it word for word makes it seem like a student expressing ideas in her own words, rather than simply regurgitating what she’s read; it creates the illusion that ChatGPT understands the material.</quote>
+    <link>https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web</link>
+  </entry>
+
+  <entry>
+    <title>Introducing your copilot for the web: AI-powered Bing and Microsoft Edge</title>
+    <quote>Search, Answer, Chat, Create</quote>
+    <link>https://www.youtube.com/watch?v=rOeRWRJ16yY&amp;t=222s</link>
+  </entry>
+  
+  <entry>
+    <title>How Wikipedia Erases Indigenous History</title>
+    <quote>Disregard and outright contempt for Native American peoples, history, and knowledge on Wikipedia, in the courts, and in the media is not new. Erasing Native existence was common practice in 19th- and 20th-century New England newspapers, for example. And the United States and Canada have been trying to legislate Native peoples out of existence since the outset of colonization.</quote>
+    <link>https://slate.com/technology/2023/02/wikipedia-native-american-history-settler-colonialism.html</link>
+  </entry>
+
+  <entry>
+    <title>7 problems facing Bing, Bard, and the future of AI search</title>
+    <quote>Microsoft and Google say a new era of AI-assisted search is coming. But as with any new era in tech, it comes with plenty of problems, from bullshit generation to culture wars and the end of ad revenue.</quote>
+    <link>https://www.theverge.com/2023/2/9/23592647/ai-search-bing-bard-chatgpt-microsoft-google-problems-challenges</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,38 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 10, 2023</date>
+  
+  
+
+  <entry>
+    <title>Unexpected Baskerville: The Story of LoveFrom Serif</title>
+    <quote>LoveFrom, founded by Sir Jony Ive, Marc Newson, and Peter Saville, is a collective of creatives who explore the intersection of design, art, and technology. As their first project, they created the “LoveFrom“ typeface, drawing inspiration from the iconic letterforms of John Baskerville. This talk delves into the process of creating a new interpretation of Baskerville‘s letters, exploring surviving punches, printed books, and contemporary writing master‘s manuals.</quote>
+    <link>https://letterformarchive.org/shop/unexpected-baskerville-the-story-of-lovefrom-serif/#video</link>
+  </entry>
+
+   <entry>
+    <title>Humane officially launches the AI Pin, its OpenAI-powered wearable</title>
+    <quote>What Humane is trying to do with the Pin is essentially strip away all the interface cruft from your technology. It won’t have a homescreen or lots of settings and accounts to manage; the idea is that you can just talk to or touch the Pin, say what you want to do or know, and it’ll happen automatically.</quote>
+    <link>https://www.theverge.com/2023/11/9/23953901/humane-ai-pin-launch-date-price-openai</link>
+    <link>https://hu.ma.ne/</link>
+  </entry>
+
+  <entry>
+    <title>The OpenAI Keynote</title>
+    <quote>This is the implication of a Universal Interface, which ChatGPT is striving to be: it also requires universal access, and that will always be a challenge for any company that is “just an app.” Yes, as I noted, the odds seem long, thanks to Apple and Google’s dominance, but I think there is an outside chance that the paradigm-shifting keynote is only just beginning its comeback.</quote>
+    <link>https://stratechery.com/2023/the-openai-keynote/</link>
+  </entry>
+
+  <entry>
+    <title>Fourteen Years of Go</title>
+    <quote>Today we celebrate the fourteenth birthday of the Go open source release! Go has had a great year, with two feature-filled releases and other important milestones.</quote>
+    <link>https://go.dev/blog/14years</link>
+  </entry>
+
+  <entry>
+    <title>Ray, This Is a Religion’: Inside Ray Dalio’s Hedge Fund</title>
+    <quote>Core to that effort is Dalio’s narrative that all Bridgewater employees are on an equal playing field and that any difference in rank or authority is due only to a rigorous system that susses out merit. That system involves employees constantly rating one another, taking real-time polls in meetings on whether a speaker is right or wrong, voting on whom to hire and fire, and being quizzed on internal case studies and investigations</quote>
+    <link>https://nymag.com/intelligencer/article/ray-dalio-rob-copeland-the-fund-book-excerpt.html</link>
+  </entry>
+  
+</feed>

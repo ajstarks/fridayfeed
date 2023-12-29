@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 3, 2023</date>
+
+    <entry>
+    <title>The people who ruined the internet</title>
+    <quote>As the public begins to believe Google isn’t as useful anymore, what happens to the cottage industry of search engine optimization experts who struck content oil and smeared it all over the web? Well, they find a new way to get rich and keep the party going.
+</quote>
+    <link>https://www.theverge.com/features/23931789/seo-search-engine-optimization-experts-google-results</link>
+  </entry>
+
+   <entry>
+    <title>The Cloud Computer</title>
+    <quote>Today we are announcing the general availability of the world’s first commercial cloud computer...From the outset at Oxide, and as I outlined in my 2020 Stanford talk, we have had three core beliefs as a company: Cloud computing is the future of all computing infrastructure.
+The computer that runs the cloud should be able to be purchased and not merely rented.
+Building a cloud computer necessitates a rack-level approach — and the co-design of both hardware and software.</quote>
+    <link>https://oxide.computer/blog/the-cloud-computer</link>
+  </entry>
+  
+  <entry>
+    <title>The Beauty of Chalk</title>
+    <quote>Wynne, a professor at the Fashion Institute of Technology in New York, traveled across North and South America and into Europe to photograph mathematicians’ chalkboards.</quote>
+    <link>https://www.plough.com/en/topics/life/technology/the-beauty-of-chalk?ref=thebrowser.com</link>
+  </entry>
+  
+  <entry>
+    <title>The beauty of finished software</title>
+    <quote>This program embodies the concept of finished software — a software you can use forever with no unneeded changes.</quote>
+    <link>https://josem.co/the-beauty-of-finished-software/</link>
+  </entry>
+
+  <entry>
+    <title>YouTube's ‘War’ on Adblockers Shows How Google Controls the Internet</title>
+    <quote>Google's anti-ad scripts are breaking browsers and privacy plugins. It could get worse because Google controls the ad market, Chrome, and the extension store.</quote>
+    <link>https://www.404media.co/youtubes-war-on-adblockers-shows-how-google-controls-the-internet/</link>
+  </entry>
+  
+
+ 
+  
+</feed>

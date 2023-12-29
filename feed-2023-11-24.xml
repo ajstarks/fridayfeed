@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 24, 2023</date>
+  
+  <entry>
+    <title>OpenAI chaos: A timeline of firings, interim CEOs, re-hirings and other twists</title>
+    <quote>If we've learned anything from the mess at OpenAI, it's that the humans are still in charge, for now.</quote>
+    <link>https://www.axios.com/2023/11/22/openai-microsoft-sam-altman-ceo-chaos-timeline</link>
+  </entry>
+  
+  <entry>
+    <title>Ansel: Your digital darkroom</title>
+    <quote>It is grounded in the legacy of Ansel Adams, pianist and photographer, who pushed darkroom craftsmanship like never before to serve his photographic vision. (Ansel is what Darktable 4.0 could have been if its developers were not so busy turning it into an usability nightmare.)</quote>
+    <link>https://ansel.photos/en/</link>
+  </entry>
+
+  <entry>
+    <title>Polio is on the brink of eradication. Here's how to keep it from coming back</title>
+    <quote>The campaign to eradicate polio could succeed in the next few years. But that’s just the beginning of a new challenge — keeping it away.</quote>
+    <link>https://www.nature.com/articles/d41586-023-03602-5</link>
+  </entry>
+  
+  <entry>
+    <title>Reflecting on 18 years at Google</title>
+    <quote>The deterioration of Google's culture will eventually become irreversible, because the kinds of people whom you need to act as moral compass are the same kinds of people who don't join an organisation without a moral compass.</quote>
+    <link>https://ln.hixie.ch/?start=1700627373&amp;count=1</link>
+  </entry>
+
+  <entry>
+    <title>Elon Musk’s Poisoned Platform</title>
+    <quote>When Musk bought Twitter last year, he said that he wanted to protect the platform as a bastion of free speech. It has become increasingly apparent that the speech he means to protect is primarily his own and that of people who agree with him. </quote>
+    <link>https://www.newyorker.com/culture/infinite-scroll/elon-musks-poisoned-platform</link>
+  </entry>
+  
+</feed>

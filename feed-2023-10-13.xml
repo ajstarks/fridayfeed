@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 13, 2023</date>
+
+  <entry>
+    <title>Predictive Policing Software Terrible At Predicting Crimes</title>
+    <quote>Crime predictions generated for the police department in Plainfield, New Jersey, rarely lined up with reported crimes, an analysis by The Markup has found, adding new context to the debate over the efficacy of crime prediction software</quote>
+    <link>https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes</link>
+  </entry>
+  
+  <entry>
+    <title>Exploratory Data Analysis for Humanities Data</title>
+    <quote>One of the goals of the course was to try to teach enough computing to a mostly non-technical and definitely not computer-experienced population that they could use computers to do an interesting and new (to them) exploration of some dataset that they found intriguing.</quote>
+    <link>https://awk.dev/eda.html</link>
+  </entry>
+
+
+  <entry>
+    <title>The Algorithm for Precision Medicine</title>
+    <quote>Programming Languages and Medicine: optiming health with data</quote>
+    <link>https://www.youtube.com/watch?v=tRt1Rxru3T0#t=7h29m55s</link>
+  </entry>
+  
+  <entry>
+    <title>A Brooklyn Café That Said No More Influencers</title>
+    <quote>Its meticulously curated space has a no-laptop policy, so that people can concentrate on their misugaru ice cream served in a silver goblet. But over the past two months, its problem has not been unsanctioned laptop users — it’s been hordes of influencers armed with tripods.</quote>
+    <link>https://www.curbed.com/2023/10/dae-bans-photos-instagram-tiktok-influencers.html</link>
+  </entry>
+
+  <entry>
+    <title>NASA finds water and organics in asteroid sample—possible clues to origin of life</title>
+    <quote>By studying Bennu, scientists are looking back to that primordial era when Earth began transitioning from an extremely hot world with a hellish surface environment into something more like a mud ball.</quote>
+    <link>https://arstechnica.com/space/2023/10/nasa-finds-water-and-organics-in-asteroid-sample-possible-clues-to-origin-of-life/</link>
+  </entry>
+  
+</feed>

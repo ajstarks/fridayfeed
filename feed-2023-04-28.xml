@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 28, 2023</date>
+  
+  <entry>
+    <title>Mouthpad</title>
+    <quote>The MouthPad is a tongue-driven interface that controls your computer, smartphone, or tablet via Bluetooth. Virtually invisible to the world, but always available to you, it is positioned across the roof of your mouth to put all of the power of a conventional touchpad in the tip of your tongue. Whether you’re looking for a new way to unleash your creativity or seamlessly interact with your personal devices, the possibilities are infinite with the MouthPad.</quote>
+    <link>https://www.augmental.tech/</link>
+  </entry>
+  
+  <entry>
+    <title>Observable Plot</title>
+    <quote>The JavaScript library for exploratory data visualization</quote>
+    <link>https://observablehq.com/plot/</link>
+  </entry>
+
+  <entry>
+    <title>NASA Power Hack Extends 45-Year Voyager 2 Mission Even Longer</title>
+    <quote>The interstellar traveler is gradually losing power, but a clever tweak means it can continue running all of its scientific instruments</quote>
+    <link>https://gizmodo.com/nasa-power-hack-extends-voyager-2-mission-science-1850378890</link>
+  </entry>
+  
+  <entry>
+    <title>Watch the first demo of buzzy startup Humane’s wearable AI assistant in leaked clips</title>
+    <quote>“Imagine this: you’ve been in meetings all day and you just want a summary of what you’ve missed,” Chaudhri says before tapping the device and asking to be caught up. In response, the device offers a summary of “emails, calendar invites, and messages.”</quote>
+    <link>https://www.theverge.com/2023/4/21/23692368/humane-ted-talk-imran-chaudhri-wearable-screenless-device-voice-commands-projected-screen</link>
+  </entry>
+
+  <entry>
+    <title>A Chat With New York Times Graphics Editor Marco Hernandez</title>
+    <quote>We all enjoy doodling. At the age of four, most of us were able to grab a pencil to go crazy expressing our thoughts and imagination. That’s evidence that by nature we want to communicate something, express ourselves, and, at the same time, appreciate it. </quote>
+    <link>https://nightingaledvs.com/interview-with-graphics-editor-marco-hernandez/</link>
+  </entry>
+  
+</feed>

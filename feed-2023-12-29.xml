@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 29, 2023</date>
+
+
+  <entry>
+    <title>The 2023 Good Tech Awards</title>
+    <quote>Toasting a year of breakthroughs (and a few breakdowns) in Silicon Valley and beyond.</quote>
+    <link>https://www.nytimes.com/2023/12/25/technology/the-2023-good-tech-awards.html</link>
+  </entry>
+  
+  <entry>
+    <title>NY Times copyright suit wants OpenAI to delete all GPT instances</title>
+    <quote>Shows evidence that GPT-based systems will reproduce Times articles if asked.</quote>
+    <link>https://arstechnica.com/tech-policy/2023/12/ny-times-sues-open-ai-microsoft-over-copyright-infringement/</link>
+  </entry>
+  
+  <entry>
+    <title>10 Things Software Developers Should Learn about Learning</title>
+    <quote>Decades of research into cognitive psychology, education, and programming education provide strong insights into how we learn.</quote>
+    <link>https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext</link>
+  </entry>
+
+  <entry>
+    <title>Gemini vs GPT-4V : A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases</title>
+    <quote>The rapidly evolving sector of Multi-modal Large Language Models (MLLMs) is
+at the forefront of integrating linguistic and visual processing in artificial intelligence. This paper presents an in-depth comparative study of two pioneering models:
+Google’s Gemini and OpenAI’s GPT-4V(ision). Our study involves a multi-faceted
+evaluation of both models across key dimensions such as Vision-Language Capability, Interaction with Humans, Temporal Understanding, and assessments in
+both Intelligence and Emotional Quotients. The core of our analysis delves into
+the distinct visual comprehension abilities of each model.</quote>
+    <link>https://arxiv.org/pdf/2312.15011.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Apollo 11 Guidance Computer (AGC) vs USB-C Chargers</title>
+    <quote>I think it is healthy to compare historical and modern computing. Let's see how the CPUs contained in recent USB-C wall chargers compare to the power of the Apollo 11 Guidance Computer (AGC). The Apollo 11 spacecraft carried 3 humans to the moon and back in 1969.</quote>
+    <link>https://forrestheller.com/Apollo-11-Computer-vs-USB-C-chargers.html</link>
+  </entry>
+
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 5, 2023</date>
+  
+  <entry>
+    <title>The Full Story of Large Language Models and RLHF</title>
+    <quote>Large Language Models have been in the limelight since the release of ChatGPT, with new models being announced seemingly every week. This guide walks through the essential ideas of how these models came to be.</quote>
+    <link>https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/</link>
+  </entry>
+  
+  <entry>
+    <title>How Mojo works in Practice</title>
+    <quote>Jeremy Howard demo for Mojo launch</quote>
+    <link>https://www.youtube.com/watch?v=6GvB5lZJqcE</link>
+  </entry>
+
+  <entry>
+    <title>CSS Zen Garden turns 30</title>
+    <quote>The Canadian web designer Dave Shea launched a community gallery of websites called CSS Zen Garden. The project offered a simple HTML template to be downloaded, the graphic design of which could be customized by any web designer, but only with the help of cascading styles and one’s own pictures. The goal of the project was to demonstrate the various possibilities of CSS in creating visual web design. The CSS Zen Garden gallery exhibited hundreds of examples of diverse web design, all based on a single template containing the same HTML code.</quote>
+    <link>https://www.webdesignmuseum.org/web-design-history/css-zen-garden-2003</link>
+  </entry>
+  
+  <entry>
+    <title>Will A.I. Become the New McKinsey?</title>
+    <quote>A.I. has become a way for a company to evade responsibility by saying that it’s just doing what “the algorithm” says, even though it was the company that commissioned the algorithm in the first place.</quote>
+    <link>https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey</link>
+  </entry>
+
+  <entry>
+    <title>Eye Candy</title>
+    <quote>A Gallery of Cinematic Teghniques</quote>
+    <link>https://eycndy.com/</link>
+  </entry>
+  
+</feed>

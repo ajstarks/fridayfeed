@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 6, 2023</date>
+
+
+   <entry>
+    <title>Is Moving to Mastodon Ethical?</title>
+    <quote>First, is it OK to bail out of Twitter? And if bailing out, is Mastodon a acceptable place to land? The voices are those of Black and disabled people (mostly the former) arguing that Twitter has fueled an important flowering of their culture (the hashtag is #BlackTwitter) and become important as a refuge, a meeting place, and a source of power.</quote>
+    <link>https://www.tbray.org/ongoing/When/202x/2022/12/21/Mastodon-Ethics</link>
+  </entry>
+
+  <entry>
+    <title>How China is building a parallel generative AI universe</title>
+    <quote>Another Chinese tool that has made noise is Tencent’s Different Dimension Me, which can turn photos of people into anime characters. The AI generator exhibits its own bias. Intended for Chinese users, it took off unexpectedly in other anime-loving regions like South America. But users soon realized the platform failed to identify black and plus-size individuals, groups that are noticeably missing in Japanese anime, leading to offensive AI-generated results.</quote>
+    <link>https://techcrunch.com/2022/12/31/how-china-is-building-a-parallel-generative-ai-universe/</link>
+  </entry>
+  
+  <entry>
+    <title>NYC Bans Students and Teachers from Using ChatGPT</title>
+    <quote>“While the tool may be able to provide quick and easy answers to questions, it does not build critical-thinking and problem-solving skills, which are essential for academic and lifelong success.”</quote>
+    <link>https://www.vice.com/en/article/y3p9jx/nyc-bans-students-and-teachers-from-using-chatgpt</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft to challenge Google by integrating ChatGPT with Bing search</title>
+    <quote>ChatGPT made conversational AI accessible, now Microsoft is rumored to be integrating the machine learning techniques behind it into Bing search queries.</quote>
+    <link>https://www.theverge.com/2023/1/4/23538552/microsoft-bing-chatgpt-search-google-competition</link>
+  </entry>
+  
+  <entry>
+    <title>AI is going to reinvent how you do everything on Windows,’ says Microsoft’s Windows boss</title>
+    <quote>Panos Panay is the man in charge of Microsoft Windows and Microsoft hardware, and he has CEO Satya Nadella’s ear. So when he says that AI is the future of Windows, we’re definitely paying attention.</quote>
+    <link>https://www.theverge.com/2023/1/4/23539873/microsoft-panos-panay-ai-windows-amd-ces-2023</link>
+  </entry>
+</feed>

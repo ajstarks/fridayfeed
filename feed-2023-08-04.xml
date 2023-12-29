@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 4, 2023</date>
+  
+  <entry>
+    <title>Data Colonialism and Data Sets</title>
+    <quote>This is the pattern of colonization —  ancient, familiar, and evolving. In their book The Costs of Connection, Nick Couldry and Ulises Mejias explore “data colonialism,” a topic describing the “process by which governments, non-governmental organizations and corporations claim ownership of and privatize the data that is produced by their users and citizens.” </quote>
+    <link>https://harvardlawreview.org/blog/2023/06/data-colonialism-and-data-sets/</link>
+  </entry>
+  
+  <entry>
+    <title>Maps Distort How We See the World</title>
+    <quote>Countries closer to the equator—which happen to be poorer1—seem smaller than they are.</quote>
+    <link>https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world</link>
+  </entry>
+
+  <entry>
+    <title>Catching up on the weird world of LLMs</title>
+    <quote>My goal was to help people who haven’t been completely immersed in this space catch up to what’s been going on. I cover a lot of ground: What they are, what you can use them for, what you can build on them, how they’re trained and some of the many challenges involved in using them safely, effectively and ethically.</quote>
+    <link>https://simonwillison.net/2023/Aug/3/weird-world-of-llms/</link>
+  </entry>
+  
+  <entry>
+    <title>Behind "Hello World" on Linux</title>
+    <quote>Today I was thinking about – what happens when you run a simple “Hello World” Python program on Linux</quote>
+    <link>https://jvns.ca/blog/2023/08/03/behind--hello-world/</link>
+  </entry>
+
+  <entry>
+    <title>Why Edge Detection Doesn’t Explain Line Drawing</title>
+    <quote>Why do line drawings work? Why is it that we can immediately recognize objects in line drawings, even though they are not a phenomenon from our natural world. Numerous studies show that people who have never seen a line drawing before can understand a line drawing; line drawing is not something you have to learn to understand.</quote>
+    <link>https://aaronhertzmann.com/2020/04/19/lines-as-edges.html</link>
+  </entry>
+  
+</feed>

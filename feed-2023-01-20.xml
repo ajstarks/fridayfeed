@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 20, 2023</date>
+  
+  <entry>
+    <title>FAA says computer failure that grounded thousands of flights was caused by 2 contractors who introduced data errors into NOTAM system</title>
+    <quote>Unspecified “personnel” were responsible for corrupting the file, which led to the outage of an FAA computer system that sends safety notices to pilots, the agency said in a statement. That triggered the FAA to order a halt to all US departing flights, causing thousands of delays and cancellations Wednesday.</quote>
+    <link>https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/</link>
+  </entry>
+  
+  <entry>
+    <title>Is this by Rothko or a robot? We ask the experts to tell the difference between human and AI art</title>
+    <quote>An art historian, a critic and a gallerist are tasked with guessing whether a piece is by an important artist or a clever bot. It turns out it’s harder than it looks</quote>
+    <link>https://www.theguardian.com/artanddesign/2023/jan/14/art-experts-try-to-spot-ai-works-dall-e-stable-diffusion</link>
+  </entry>
+
+  <entry>
+    <title>Extremely Hardcore</title>
+    <quote>Twitter’s staff spent years trying to protect the social media site against impulsive billionaires who wanted to use the reach of its platform for their own ends, and then one made himself the CEO.</quote>
+    <link>https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji</link>
+  </entry>
+  
+  <entry>
+    <title>How scientists discovered the universe is really freaking huge</title>
+    <quote>At the time, astronomers had some methods to figure out distances to stars, but they only worked for stars relatively close to Earth. Leavitt’s discovery — linking the pulse of one type of star to their actual brightness, was the key to measuring objects farther and farther out into space.
+
+</quote>
+    <link>https://www.vox.com/unexplainable/22547100/henrietta-leavitt-cosmic-ruler-podcast</link>
+  </entry>
+
+  <entry>
+    <title>The clock is ticking on a TikTok ban</title>
+    <quote>The act of scrolling through your For You feed on TikTok might come with an additional sense of impending doom these days. After years of hand-wringing over the enormously popular app’s ties to China and the potential national security threat they present, it looks like someone is going to do something about it.</quote>
+    <link>https://www.vox.com/recode/2023/1/17/23552716/tiktok-ban-cfius-bytedance</link>
+  </entry>
+  
+</feed>

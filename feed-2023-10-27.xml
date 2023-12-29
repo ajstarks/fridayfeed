@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 27, 2023</date>
+  
+  <entry>
+    <title>First malaria vaccine slashes early childhood mortality</title>
+    <quote>In a major analysis in Africa, the first vaccine approved to fight malaria cut deaths among young children by 13% over nearly 4 years, the World Health Organization (WHO) reported last week. </quote>
+    <link>https://www.science.org/content/article/first-malaria-vaccine-slashes-early-childhood-deaths</link>
+  </entry>
+
+  <entry>
+    <title>Internet Artifacts</title>
+    <quote>Internet artifacts -- 1977 to 2007 -- for example the map of the Arpanet, the first smiley and LOL, the first Amazon order, the first Facebook page.</quote>
+    <link>https://neal.fun/internet-artifacts/</link>
+  </entry>
+  
+  <entry>
+    <title>NASA just sent a software update to a spacecraft 12 billion miles away</title>
+    <quote>Voyager 2 is over 12 billion miles from Earth, making its way through interstellar space. Along its almost 50-year journey, the probe has seen more of the universe than we ever will. Now, NASA has completed a critical software update for Voyager 2 that will help keep it running even longer.</quote>
+    <link>https://bgr.com/science/nasa-just-sent-a-software-update-to-a-spacecraft-12-billion-miles-away/</link>
+  </entry>
+
+  <entry>
+    <title>Discovering William Blake's Innovative Printing Process</title>
+    <quote>Watch the printmaker Michael Phillips demonstrate Blake's relief-etching process.
+</quote>
+    <link>https://www.youtube.com/watch?v=TGiVMj5Vm2g</link>
+  </entry>
+  
+  <entry>
+    <title>Running the “Reflections on Trusting Trust” Compiler</title>
+    <quote>In October 1983, 40 years ago this week, Ken Thompson chose supply chain security as the topic for his Turing award lecture. In the lecture, Ken explains in three steps how to modify a C compiler binary to insert a backdoor when compiling the “login” program, leaving no trace in the source code. In this post, we will run the backdoored compiler using Ken’s actual code.</quote>
+    <link>https://research.swtch.com/nih</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 14, 2023</date>
+  
+  <entry>
+    <title>Animated Drawings</title>
+    <quote>Create animations starring your own drawn characters. This is an implementation of the algorithm described in the paper, 'A Method for Automatically Animating Children's Drawings of the Human Figure'.</quote>
+    <link>https://fairanimateddrawings.com/site/home</link>
+  </entry>
+  
+  <entry>
+    <title>DIY IBM Selectric type balls give ’60s typewriters new life (and Comic Sans)</title>
+    <quote>A Selectric is nothing without its golf ball, but finding one is a costly pain.</quote>
+    <link>https://arstechnica.com/gadgets/2023/04/revive-your-vintage-ibm-selectric-typewriter-with-3d-printable-golf-balls/</link>
+  </entry>
+
+  <entry>
+    <title>Timnit Gebru’s anti-'AI pause’</title>
+    <quote>Why would we want to have a world where every single task is done by one model from OpenAI, and the whole world just pays them to do it?</quote>
+    <link>https://www.politico.com/newsletters/digital-future-daily/2023/04/11/timnit-gebrus-anti-ai-pause-00091450#</link>
+  </entry>
+  
+  <entry>
+    <title>A Number System Invented by Inuit Schoolchildren Will Make Its Silicon Valley Debut</title>
+    <quote>In the remote Arctic almost 30 years ago, a group of Inuit middle school students and their teacher invented the Western Hemisphere’s first new number system in more than a century.</quote>
+    <link>https://www.scientificamerican.com/article/a-number-system-invented-by-inuit-schoolchildren-will-make-its-silicon-valley-debut/</link>
+  </entry>
+
+  <entry>
+    <title>How Instagram’s logo became iconic</title>
+    <quote>The original Instagram logo should have gotten its founders sued—and, well, it might have if Apple and a photographer with 45 minutes on his hands hadn’t saved the day.</quote>
+    <link>https://www.fastcompany.com/90878527/instagram-logo-history-meaning-old-camera</link>
+  </entry>
+  
+</feed>

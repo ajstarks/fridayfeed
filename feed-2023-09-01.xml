@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 1, 2023</date>
+  
+  <entry>
+    <title>Generative AI and intellectual property</title>
+    <quote>If you put all the world’s knowledge into an AI model and use it to make something new, who owns that and who gets paid? This is a completely new problem that we’ve been arguing about for 500 years.</quote>
+    <link>https://www.ben-evans.com/benedictevans/2023/8/27/generative-ai-ad-intellectual-property</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft is using malware-like pop-ups in Windows 11 to get people to ditch Google</title>
+    <quote>I thought I had malware on my main Windows 11 machine this weekend. There I was minding my own business in Chrome before tabbing back to a game and wham a pop-up appeared asking me to switch my default search engine to Microsoft Bing in Chrome.</quote>
+    <link>https://www.theverge.com/2023/8/30/23851902/microsoft-bing-popups-windows-11-malware</link>
+  </entry>
+
+  <entry>
+    <title>Why McDonald's Ice Cream Machines Are Always Broken and How To Fix Them</title>
+    <quote>You’ve got to feel sorry for those poor McDonald's employees. Why is it that their ice cream machines are always broken?  If you check the historical data, you’ll see the failure rates get worse over the summer. 
+One thing we know for sure is that this 42% downtime is in no way related to the various alien invasions that New York is prone to. No, not Sting. The other type of aliens. To get to the bottom of this potentially extra-terrestrial mystery, we bought our very own ice cream machine. </quote>
+    <link>https://www.youtube.com/watch?v=2uCpY3tFTIA</link>
+  </entry>
+  
+  <entry>
+    <title>A DIY ‘bionic pancreas’ is changing diabetes care — what's next?</title>
+    <quote>Ten years ago, a tech-savvy group of people with type 1 diabetes (T1D) decided to pursue a DIY approach to their own treatment. They knew that a fairly straightforward piece of software could make their lives much easier, but no companies were developing it quickly enough.</quote>
+    <link>https://www.nature.com/articles/d41586-023-02648-9</link>
+  </entry>
+
+  <entry>
+    <title>The NYPD will police Labor Day parties with surveillance drones</title>
+    <quote>If there’s a drone flying over your backyard party this Labor Day / J’Ouvert / West Indian Day Parade weekend in New York City, it might be the police — because the NYPD have apparently granted themselves the power to surveil the city that way.</quote>
+    <link>https://www.theverge.com/2023/8/31/23318832/nypd-drones-parties-jouvert-west-indian-labor-day-weekend</link>
+  </entry>
+
+  <entry>
+    <title>Large language models aren’t people. Let’s stop testing them as if they were.</title>
+    <quote>“There are several critical issues with current evaluation techniques for large language models,” says Natalie Shapira, a computer scientist at Bar-Ilan University in Ramat Gan, Israel. “It creates the illusion that they have greater capabilities than what truly exists.”</quote>
+    <link>https://www.technologyreview.com/2023/08/30/1078670/large-language-models-arent-people-lets-stop-testing-them-like-they-were/</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 17, 2023</date>
+  
+  <entry>
+    <title>The New Gatekeepers</title>
+    <quote>Every year, I produce a big presentation exploring macro and strategic trends in the tech industry. This year, ‘The New Gatekeepers’.</quote>
+    <link>https://www.ben-evans.com/presentations</link>
+  </entry>
+  
+  <entry>
+    <title>Why generative AI scares artists but not writers</title>
+    <quote>There’s a fundamental reason why this argument applies to visual art and not writing: Humans are less sensitive to the boundaries of right/wrong and good/bad in images than in text</quote>
+    <link>https://www.fastcompany.com/90848228/why-generative-ai-scares-artists-but-not-writers</link>
+  </entry>
+
+  <entry>
+    <title>The maze is in the mouse</title>
+    <quote>What ails Google. And how it can turn things around.</quote>
+    <link>https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a</link>
+  </entry>
+  
+  <entry>
+    <title>What Is ChatGPT Doing … and Why Does It Work?</title>
+    <quote>The basic concept of ChatGPT is at some level rather simple. Start from a huge sample of human-created text from the web, books, etc. Then train a neural net to generate text that’s “like this”. And in particular, make it able to start from a “prompt” and then continue with text that’s “like what it’s been trained with”.</quote>
+    <link>https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</link>
+  </entry>
+
+  <entry>
+    <title>The Backfire Effect</title>
+    <quote>I'm going to tell you some things. You're not going to believe the things I tell you. And that's okay.</quote>
+    <link>https://theoatmeal.com/comics/believe</link>
+  </entry>
+  
+</feed>

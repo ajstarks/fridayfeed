@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 22, 2023</date>
+  
+  <entry>
+    <title>BYTE Interview with the Creators of the Macintosh from 1984</title>
+    <quote>On October 14, 1983, the design team for Apple Computer Inc.'s new Macintosh computer met with BYTE Managing Editor Phil Lemmons at the company's Cupertino, California, headquarters. In the dialogue that followed, Bill Atkinson, Steve Jobs, Andy Hertzfeld, Larry Kenyon, Joanna Hoffman, Burrell Smith, Dave Egner, Chris Espinosa, Steve Capps, Jerry Manock, Bruce Horn, and George Crowe discussed the evolution of their brainchild.</quote>
+    <link>https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators</link>
+  </entry>
+  
+  <entry>
+    <title>Typography 2024: For America! For America’s Best</title>
+    <quote>The websites of the 2020 candidates were not miracles of originality. Though even compared to that middling standard, the 2024 candidates have converged even more forcefully around a small set of typography, color, and navigation choices.</quote>
+    <link>https://practicaltypography.com/typography-2024.html</link>
+  </entry>
+
+  <entry>
+    <title>visionOS</title>
+    <quote>visionOS is the operating system that powers Vision Pro. Use visionOS together with familiar tools and technologies to build immersive apps and games for spatial computing.</quote>
+    <link>https://developer.apple.com/documentation/visionOS</link>
+  </entry>
+  
+  <entry>
+    <title>Bob Kahn on the Birth of “Inter-networking”</title>
+    <quote>A codeveloper of TCP/IP explains what led to his collaboration with Vint Cerf</quote>
+    <link>https://spectrum.ieee.org/bob-kahn</link>
+  </entry>
+
+  <entry>
+    <title>We have left the cloud</title>
+    <quote>The back of the napkin math is that we'll save at least $1.5 million per year by owning our own hardware rather than renting it from Amazon. And crucially, we've been able to do this without changing the size of the operations team at all. Running our applications in the cloud just never provided the promised productivity gains to do with any smaller of a team anyway.</quote>
+    <link>https://world.hey.com/dhh/we-have-left-the-cloud-251760fb</link>
+  </entry>
+
+</feed>
+  

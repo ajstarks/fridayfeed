@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 24, 2023</date>
+  
+  <entry>
+    <title>Birth of BASIC</title>
+    <quote>Professors John Kemeny and Tom Kurtz along with a band of Dartmouth undergraduates invent the Basic computer language.</quote>
+    <link>https://www.youtube.com/watch?v=WYPNjSoDrqw</link>
+  </entry>
+  
+  <entry>
+    <title>Levi Walter Yaggy’s Geographical Maps and Charts (1887/93)</title>
+    <quote>Levi Walter Yaggy’s Geographical Study unpacks like a matryoshka doll.</quote>
+    <link>https://publicdomainreview.org/collection/yaggy-geographical-maps</link>
+  </entry>
+
+  <entry>
+    <title>Why all of Hollywood UI looks the same</title>
+    <quote>When we are shown a glimpse of the far future through science fiction films, there are omnipresent voice assistants, otherworldly wearables, and a whole lot of holograms. For whatever reason these holograms are almost always blue, floating above desks and visible to anyone who might stroll by.</quote>
+    <link>https://uxdesign.cc/why-all-of-hollywood-ui-looks-the-same-2ae1d3143350</link>
+  </entry>
+  
+  <entry>
+    <title>In-Car Climate Control Design: How It Has Gone Backwards and How to Fix It</title>
+    <quote>Climate controls are a fascinating design problem. They may seem easy to design on the surface, but you quickly run into much complexity. In the last couple of years, the design of in-car climate controls has gone backward. In this post, I will show why this happened and propose a different way to design climate controls.</quote>
+    <link>https://www.theturnsignalblog.com/blog/climate-control-design/</link>
+  </entry>
+
+  <entry>
+    <title>Whispers of A.I.’s Modular Future</title>
+    <quote>ChatGPT is in the spotlight, but it’s Whisper—OpenAI’s open-source speech-transcription program—that shows us where machine learning is going.</quote>
+    <link>https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future</link>
+  </entry>
+
+  <entry>
+    <title>Apple Makes Major Progress on No-Prick Blood Glucose Tracking for Its Watch</title>
+    <quote>Apple Inc. has a moonshot-style project underway that dates back to the Steve Jobs era: noninvasive and continuous blood glucose monitorin</quote>
+    <link>https://www.bloomberg.com/news/articles/2023-02-22/apple-watch-blood-glucose-monitor-could-revolutionize-diabetes-care-aapl</link>
+  </entry>
+  
+</feed>

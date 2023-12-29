@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 15, 2023</date>
+  
+  <entry>
+    <title>United States takes on Google in biggest tech monopoly trial of 21st century</title>
+    <quote>The Justice Department's case hinges on claims that Google illegally orchestrated its business dealings, so that it's the first search engine people see when they turn on their phones and web browsers. </quote>
+    <link>https://www.npr.org/2023/09/12/1198558372/doj-google-monopoly-antitrust-trial-search-engine</link>
+  </entry>
+  
+  <entry>
+    <title>Samsung is bringing artwork from the Met museum to its Frame TVs</title>
+    <quote>Samsung is expanding the art selection available on its Frame TVs with the help of a renowned museum. Today, the company and New York City’s Metropolitan Museum of Art announced a partnership that will bring 38 pieces from the Met to Samsung’s Art Store. </quote>
+    <link>https://www.theverge.com/2023/9/15/23874873/samsung-met-metropolitan-museum-of-art-frame-tv</link>
+  </entry>
+
+  <entry>
+    <title>Showing Human Stories Behind Data Points</title>
+    <quote>One of the many advantages of data visualisation is that it can help us understand big numbers. A simple bar chart can show many thousands of people. A line chart can track a whole country’s population over time. However, these displays that aggregate a large number of people or things in single visual elements can make it harder to emotionally connect with the people or objects being counted. Some designers instead choose to “disaggregate” data—a design style that focuses on individual points rather than grouping points together—to create a more emotional connection with the entities being counted.</quote>
+    <link>https://nightingaledvs.com/showing-human-stories-behind-data-points/</link>
+  </entry>
+  
+  <entry>
+    <title>AI and the end of programming</title>
+    <quote>It’s still early days for large language models. ChatGPT was published less than a year ago; the underlying technology is only about six years old. Although I feel pretty sure of myself declaring that LLMs are not yet ready to conquer the world of coding, I can’t be quite so confident predicting that they never will be. The models will surely improve, and we’ll get better at using them.</quote>
+    <link>http://bit-player.org/2023/ai-and-the-end-of-programming</link>
+  </entry>
+
+  <entry>
+    <title>An introduction to Shader Art Coding</title>
+    <quote>In this tutorial, I explore the fascinating realm of shader art coding and aim to offer helpful insights and guidance to assist you in beginning your own creative journey. </quote>
+    <link>https://www.youtube.com/watch?v=f4s1h2YETNY</link>
+  </entry>
+  
+</feed>

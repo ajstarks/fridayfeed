@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 26, 2023</date>
+  
+  <entry>
+    <title>Donald Knuth and ChatGPT</title>
+    <quote>Since one of today's popular recreations is to play with
+chatGPT, I decided on 07 April 2023 to try my own little experiment,
+as part of a correspondence with Stephen Wolfram.</quote>
+    <link>https://cs.stanford.edu/~knuth/chatGPT20.txt</link>
+  </entry>
+
+
+    <entry>
+    <title>Cory Doctorow: How Big Tech Captured Culture</title>
+    <quote>Artists, musicians, and writers are getting ripped off, according to Cory Doctorow, co-author of "Chokepoint Capitalism." From Amazon and book publishing and Spotify and music to Google and Facebook and news media, big tech has ,captured culture,, creating modern day monopolies and ,chokepoints., Doctorow explains how these chokepoints work, and the current film and TV writer's strike and their concerns over AI.</quote>
+    <link>https://www.youtube.com/watch?v=kiIovIKzBlc</link>
+  </entry>
+  
+  <entry>
+    <title>‘Big Brother’ is Using Advanced Camera Tech and AI to Target the Poor</title>
+    <quote>The overwhelming majority of the 1.6 million Americans living in public housing are non-white residents. These residents are undergoing 24/7 surveillance.</quote>
+    <link>https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/</link>
+  </entry>
+
+  <entry>
+    <title>TikTok is now banned in Montana</title>
+    <quote>Montana Governor Greg Gianforte has signed a bill banning TikTok within the state — the first ban of its kind in the United States. The bill, SB 419, prohibits TikTok from operating “within the territorial jurisdiction of Montana” and demands mobile app stores make the app unavailable for Montana residents.</quote>
+    <link>https://www.theverge.com/2023/5/17/23686294/montana-tiktok-ban-signed-governor-gianforte-court</link>
+  </entry>
+  
+  <entry>
+    <title>Building a Raspberry Pi based ultrasound imaging development platform</title>
+    <quote>This project has a specific target of providing a low-cost, open source technological kit to allow scientists, academics, hackers, makers or OSHW fans to hack their way to ultrasound imaging - below 500$ - at home, with no specific equipment required.</quote>
+    <link>https://kelu124.gitbooks.io/echomods/content/RPI.html</link>
+  </entry>
+
+
+  
+</feed>
