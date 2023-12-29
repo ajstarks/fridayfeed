@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 23, 2021</date>
+  
+  <entry>
+    <title>First Flight of the Ingenuity Mars Helicopter: Live from Mission Control</title>
+    <quote>Up, up, and away! The Ingenuity #MarsHelicopter​ is set to make history. It will make the first attempt at powered flight on another planet on Monday, April 19.</quote>
+    <link>https://www.youtube.com/watch?v=p1KolyCqICI</link>
+  </entry>
+  
+  <entry>
+    <title>The Incredible Rise of North Korea’s Hacking Army</title>
+    <quote>The country’s cyber forces have raked in billions of dollars for the regime by pulling off schemes ranging from A.T.M. heists to cryptocurrency thefts. Can they be stopped?</quote>
+    <link>https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army</link>
+  </entry>
+
+  <entry>
+    <title>Software designers, not engineers An interview from alternative universe</title>
+    <quote>In my universe, we treat the creation of software as a design activity, putting it as a third item on the same level as science and art. Somewhat simplistically, science studies the natural world using experiments and its aim is to discover the truth. Art is concerned with human experience, it works via metaphors and aims for justice. Design studies the artificial, it does so using the method of synthesis and its objective is appropriateness.</quote>
+    <link>http://tomasp.net/blog/2021/software-designers/</link>
+  </entry>
+  
+  <entry>
+    <title>The Most Important Role You’re Not Hiring for Your Data Team: The Information Architect</title>
+    <quote>Three case studies that show how Information Architecture design can impact data visualization</quote>
+    <link>https://medium.com/nightingale/the-most-important-role-youre-not-hiring-for-your-data-team-the-information-architect-7521887d4d50</link>
+  </entry>
+  
+  <entry>
+    <title>Apple’s M1 Positioning Mocks the Entire x86 Business Model</title>
+    <quote>Apple’s M1 positioning, evaluated in its totality, claims the CPU is cheap and unremarkable enough to be sold at $699, powerful and capable enough to sell at $1699, and power-efficient enough to power both a tablet and a pair of laptops priced in-between.</quote>
+    <link>https://www.extremetech.com/computing/322120-apples-m1-positioning-mocks-every-x86-cpu-amd-and-intel-have-ever-launched</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

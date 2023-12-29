@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 16, 2021</date>
+  
+  <entry>
+    <title>Man Wrongfully Arrested By Facial Recognition Tells Congress His Story</title>
+    <quote>Robert Williams was arrested last year in Detroit after a facial recognition system misidentified him as a suspect.</quote>
+    <link>https://www.vice.com/en/article/xgx5gd/man-wrongfully-arrested-by-facial-recognition-tells-congress-his-story</link>
+  </entry>
+
+  <entry>
+    <title>A People’s History of Black Twitter, Part I</title>
+    <quote>Black Twitter has become the most dynamic subset not only of Twitter but of the wider social internet. Capable of creating, shaping, and remixing popular culture at light speed, it remains the incubator of nearly every meme (Crying Jordan, This you?), hashtag (#IfTheyGunnedMeDown, #OscarsSoWhite, #YouOKSis), and social justice cause (Me Too, Black Lives Matter) worth knowing about.</quote>
+    <link>https://www.wired.com/story/black-twitter-oral-history-part-i-coming-together/</link>
+  </entry>
+  
+  <entry>
+    <title>Amazon's Data Dragnet</title>
+    <quote>Amazon is expanding into every corner of people’s lives with its growing list of products and services. That’s allowing it to collect far more data about its users than many people realize.</quote>
+    <link>https://www.techtransparencyproject.org/articles/amazons-data-dragnet</link>
+  </entry>
+
+  <entry>
+    <title>Inside the Industry That Unmasks People at Scale</title>
+    <quote>Unique IDs linked to phones are supposed to be anonymous. But there’s an entire industry that links them to real people and their address.</quote>
+    <link>https://www.vice.com/en/article/epnmvz/industry-unmasks-at-scale-maid-to-pii</link>
+  </entry>
+  
+  <entry>
+    <title>How to Achieve Sustainable Remote Work</title>
+    <quote>Companies must move away from surveillance and visible busyness, and toward defined outcomes and trust.</quote>
+    <link>https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work</link>
+  </entry>
+</feed>

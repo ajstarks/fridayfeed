@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 12, 2021</date>
+  
+  <entry>
+    <title>Encode Mighty Things</title>
+    <quote>People from around the world decoded the message in the parachute they designed. Encode your own message.</quote>
+    <link>https://projects.noahliebman.net/encodemightythings/</link>
+  </entry>
+
+  <entry>
+    <title>How Black Americans used portraits and family photographs to defy stereotypes</title>
+    <quote>They seized upon the camera to represent themselves, using photographs to depict who they really were. Seemingly a “magical instrument” for “the displaced and marginalized,” as critic bell hooks writes, the camera provided “immediate intervention” to counter the injurious images used to deny them their rightful place in American society.</quote>
+    <link>https://theconversation.com/how-black-americans-used-portraits-and-family-photographs-to-defy-stereotypes-154708</link>
+  </entry>
+
+  <entry>
+    <title>10 Breakthrough Technologies 2021</title>
+    <quote>mRNA vaccines, GPT-3, Tik-Tok recommendation algorithms, Lithium Metal batteries, Data trusts, Green Hydrogen, Digital contract tracing, Hyper-accurate positioning, Remote everything, Multi-skilled AI</quote>
+    <link>https://www.technologyreview.com/2021/02/24/1014369/10-breakthrough-technologies-2021/</link>
+  </entry>
+
+   <entry>
+    <title>How Facebook got addicted to spreading misinformation</title>
+    <quote>The company’s AI algorithms gave it an insatiable habit for lies and hate speech. Now the man who built them can't fix the problem.</quote>
+    <link>https://www.technologyreview.com/2021/03/11/1020600/facebook-responsible-ai-misinformation/</link>
+  </entry>
+
+  <entry>
+    <title>The most engaging political news on Facebook? Far-right misinformation.</title>
+    <quote>A new study shows that before and after the election, far-right misinformation pages drew more engagement than all other partisan news.</quote>
+    <link>https://www.protocol.com/facebook-misinformation-far-right-politics</link>
+  </entry>
+  
+  <entry>
+    <title>Beeple sold an NFT for $69 million</title>
+    <quote>Until October, the most Mike Winkelmann — the digital artist known as Beeple — had ever sold a print for was $100. Today, an NFT of his work sold for $69 million at Christie’s. The sale positions him “among the top three most valuable living artists,” according to the auction house.</quote>
+    <link>https://www.theverge.com/2021/3/11/22325054/beeple-christies-nft-sale-cost-everydays-69-million</link>
+  </entry>
+  
+ 
+</feed>

@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 26, 2021</date>
+
+   <entry>
+    <title>Perseverance Rover’s Descent and Touchdown on Mars (Official NASA Video)</title>
+    <quote>The real footage in this video was captured by several cameras that are part of the rover's entry, descent, and landing suite. The views include a camera looking down from the spacecraft's descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.</quote>
+    <link>https://www.youtube.com/watch?v=4czjS9h4Fpg</link>
+  </entry>
+
+  <entry>
+    <title>The Parachute Message from Perseverance</title>
+    <quote>The clever folks at JPL hid secret messages in the marking of the parachute that deployed as Perseverance landed on Mars</quote>
+    <link>https://github.com/tanyafish/parachute/blob/main/The%20Parachute%20Message.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Timnit Gebru's ouster shows how Big Tech dominates AI ethics</title>
+    <quote>For AI to work in the best interest of all members of society, the power dynamics across the industry must change. The people most likely to be harmed by algorithms—those in marginalized communities—need a say in AI’s development. “If the right people are not at the table, it’s not going to work,” Gebru says. “And in order for the right people to be at the table, they have to have power.”</quote>
+    <link>https://www.fastcompany.com/90608471/timnit-gebru-google-ai-ethics-equitable-tech-movement</link>
+  </entry>
+
+  <entry>
+    <title>Iceberger</title>
+    <quote>Draw an iceberg and see how it will float.</quote>
+    <link>https://joshdata.me/iceberger.html</link>
+  </entry>
+
+  <entry>
+    <title>Data + Diversity: Exploring the Data Visualizations of W.E.B Du Bois</title>
+    <quote>Join us as we celebrate the life and visualizations of Black American civil rights activist, sociologist and writer, W.E.B. Du Bois. Jason Forrest, Director of Interactive Data Visualization at McKinsey, and Anthony J Starks, Independent Consultant. Jason will explore Du Bois's visualizations and how they came to be, while Anthony will take you through his journey of how he recreated the Du Bois Data Portraits.</quote>
+    <link>https://youtu.be/ZZST1AZj-dQ</link>
+  </entry>
+
+  <entry>
+    <title>Modules, monoliths, and microservices</title>
+    <quote>Remember, ChromeOS is a monolith. iOS is a monolith. Your team is probably much smaller than either of those teams. You simply don't need to juggle a lot of microservices to get what you want. Architect things the easy way until you're absolutely forced to do them the hard way.</quote>
+    <link>https://tailscale.com/blog/modules-monoliths-and-microservices/</link>
+  </entry>
+</feed>

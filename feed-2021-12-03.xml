@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 3, 2021</date>
+  
+ 
+  <entry>
+    <title>Crime Prediction Software Promised to Be Free of Biases. New Data Shows It Perpetuates Them</title>
+    <quote>Millions of crime predictions left on an unsecured server show PredPol mostly avoided Whiter neighborhoods, targeted Black and Latino neighborhoods. These communities weren’t just targeted more—in some cases, they were targeted relentlessly. Crimes were predicted every day, sometimes multiple times a day, sometimes in multiple locations in the same neighborhood: thousands upon thousands of crime predictions over years. A few neighborhoods in our data were the subject of more than 11,000 predictions.</quote>
+    <link>https://gizmodo.com/crime-prediction-software-promised-to-be-free-of-biases-1848138977</link>
+  </entry>
+
+  <entry>
+    <title>Remote work has a downside. Here’s why I want to go back to the office</title>
+    <quote>What makes human beings happiest at work, just as in the rest of their lives, is having close connections with other people, a strong sense of belonging, and meaningful work. The truth is all of these are put at risk when any of us works primarily from home.</quote>
+    <link>https://www.fastcompany.com/90700878/remote-work-has-a-downside-heres-why-i-want-to-go-back-to-the-office</link>
+  </entry>
+
+   <entry>
+    <title>How An Excel Tiktoker Manifested Her Way To Making Six Figures A Day</title>
+    <quote>KatKat Norton is a Microsoft Excel influencer. She has over a million followers on TikTok and Instagram, where she goes by the name Miss Excel, and she’s leveraged that into a software training business that is now generating up to six figures of revenue a day. </quote>
+    <link>https://www.theverge.com/22807858/tiktok-influencer-microsoft-excel-instagram-decoder-podcast</link>
+  </entry>
+  
+  
+  <entry>
+    <title>How User Engagement Features Created Weaponized Social Algorithms</title>
+    <quote>But why was the user’s timeline full of garbage in the first place? The unfortunate answer is: these products were no longer designed for the wants and needs of the user. Instead, features were added (and added, and added) with one central goal, one guiding North Star: to bring users back to the platform and keep them engaged. </quote>
+    <link>https://www.halloapp.com/blog/social-algorithms/</link>
+  </entry>
+
+  <entry>
+    <title>Notes on an Apple car</title>
+    <quote>There's a counter-argument to all of this, of course, that the correct place for intelligence is in the device you hold in your hand, take everywhere with you and replace every two year, not the large piece of moving metal that you replace every 5 or 10 years.</quote>
+    <link>https://www.ben-evans.com/benedictevans/2015/2/28/notes-on-cars</link>
+  </entry>
+  
+</feed>

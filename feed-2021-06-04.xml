@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 4, 2021</date>
+
+   <entry>
+    <title>Employees Are Quitting Instead of Giving Up Working From Home</title>
+    <quote>The drive to get people back into offices is clashing with workers who’ve embraced remote work as the new normal.</quote>
+    <link>https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home</link>
+  </entry>
+
+   <entry>
+    <title>Amazon devices will soon automatically share your Internet with neighbors</title>
+    <quote>Amazon's experimental wireless mesh networking turns users into guinea pigs.</quote>
+    <link>https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/</link>
+  </entry>
+  
+  <entry>
+    <title>Can Apple change ads?</title>
+    <quote>Much more interesting, though, is what happens if Apple opens up its cohort tracking and targeting, and says that apps, or Safari, can now serve anonymous, targeted, private ads without the publisher or developer knowing the targeting data.</quote>
+    <link>https://www.ben-evans.com/benedictevans/2021/5/13/apples-ads-music</link>
+  </entry>
+  
+  <entry>
+    <title>Google says it’s committed to ethical AI research. Its ethical AI team isn’t so sure.</title>
+    <quote>Six months after Timnit Gebru left, Google’s ethical artificial intelligence team is still in a state of upheaval.</quote>
+    <link>https://www.vox.com/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak</link>
+  </entry>
+ 
+  <entry>
+    <title>5 unconventional ways to appreciate beauty</title>
+    <quote>Early in my career in art and design, the one question that used to bother me a lot is ‘How exactly do I appreciate art?’ and connecting to this ‘Why do people tell a work is beautiful?’.</quote>
+    <link>https://uxdesign.cc/5-unconventional-ways-to-appreciate-beauty-170afe30c2e3</link>
+  </entry>
+</feed>

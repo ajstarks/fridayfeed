@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 8, 2021</date>
+
+  <entry>
+    <title>Why Facebook and Instagram went down for hours on Monday</title>
+    <quote>When a company can't use the gateway protocol, it's as if their online domains simply don't exist. But that didn't stop web pages, searches and messages from looking for Facebook's properties. And that, in turn, led to other problems.</quote>
+    <link>https://www.npr.org/2021/10/05/1043211171/facebook-instagram-whatsapp-outage-business-impact</link>
+  </entry>
+
+  <entry>
+    <title>Why this Facebook scandal is different</title>
+    <quote>Internal evidence shared by former Facebook product manager Frances Haugen shows Facebook has known — but ignored — the harm it causes.</quote>
+    <link>https://www.vox.com/recode/2021/10/3/22707940/frances-haugen-facebook-whistleblower-60-minutes-teen-girls-instagram</link>
+  </entry>
+
+  <entry>
+    <title>The Facebook Whistleblower Is Heroic... And Terribly Wrong</title>
+    <quote>But a regulatory overlay in some ways would worsen the problem, because it would explicitly fuse political control with market power over speech and it would legitimize the dominant monopoly position of Facebook.</quote>
+    <link>https://mattstoller.substack.com/p/the-facebook-whistleblower-is-heroic</link>
+  </entry>
+  
+  <entry>
+    <title>Facebook Political Problems</title>
+    <quote>Facebook’s growth isn’t just about competence, but about a single-minded determination to do everything possible to make Facebook synonymous with the Internet.</quote>
+    <link>https://stratechery.com/2021/facebook-political-problems/w</link>
+  </entry>
+  
+  <entry>
+    <title>Why Unlimited Vacation Days Is a Scam</title>
+    <quote>Increasingly, companies include unlimited paid time off as part of their job offers, as it’s an enticement popular with millennials and Gen Z workers. But you’ll want to think twice about whether it’s really all that great—studies show that workers often take less time off with unlimited vacation days. Why would that be so?</quote>
+    <link>https://lifehacker.com/why-unlimited-vacation-days-is-a-scam-1847255661</link>
+  </entry>
+
+</feed>

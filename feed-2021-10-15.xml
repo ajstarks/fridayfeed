@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 15, 2021</date>
+
+   <entry>
+    <title>Dopamine, Smartphones &amp; You: A battle for your time</title>
+    <quote>Your dopamine centers have been primed by those initial negative outcomes to respond robustly to the sudden influx of social appraisal. This use of a variable reward schedule takes advantage of our dopamine-driven desire for social validation, and it optimizes the balance of negative and positive feedback signals until we’ve become habitual users.</quote>
+    <link>https://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/</link>
+  </entry>
+
+  <entry>
+    <title>Slackers Of The World, Unite!</title>
+    <quote>Why employees love the software, and bosses don’t</quote>
+    <link>https://www.theatlantic.com/magazine/archive/2021/11/slack-office-trouble/620173/</link>
+  </entry>
+
+   <entry>
+    <title>The Return-to-Office Quandary</title>
+    <quote>Ambiguous plans are good for executives but bad for other employees.</quote>
+    <link>https://www.newyorker.com/culture/office-space/the-return-to-office-quandary</link>
+  </entry>
+  
+  <entry>
+    <title>Worst Case</title>
+    <quote>Suppose you’re running your organization’s crucial apps in the cloud. Specifically, suppose you’re running them them on AWS, and in particular in the “us-east-1” region? Could us-east-1 go away? What might you do about it? Let’s catastrophize!</quote>
+    <link>https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case</link>
+  </entry>
+  
+  <entry>
+    <title>The Death and Birth of Technological Revolutions</title>
+    <quote>While the introduction to Technological Revolutions and Financial Capital makes the case that the Dotcom Bubble was the Turning Point, Perez now thinks we are still waiting for the Golden Age — and that there may be another crash in the future </quote>
+    <link>https://stratechery.com/2021/the-death-and-birth-of-technological-revolutions/</link>
+  </entry>
+
+</feed>

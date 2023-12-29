@@ -1,0 +1,44 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 1, 2021</date>
+
+  
+  <entry>
+    <title>Is Going to the Office a Broken Way of Working?</title>
+    <quote>It’s these two features of remote-first work—its decreased overhead and increased access to talent—that lead to the most striking element of Herd’s theory. This style of work, he claims, is not simply an interesting, if slightly esoteric, alternative for those looking to try something different from the office-as-factory model; it’s inevitably going to replace the office model completely—a transformative process that is, in fact, already under way.</quote>
+    <link>https://www.newyorker.com/culture/office-space/is-going-to-the-office-a-broken-way-of-working</link>
+  </entry>
+  
+  <entry>
+    <title>AMD’s Lisa Su Breaks Through the Silicon Ceiling</title>
+    <quote>"As engineers transition into business or management, you have to think about a different set of challenges that are not necessarily 'How do you make your transistor go faster?' but [instead] 'How do you motivate teams?' or 'How do you understand more about what customers want?' I've made my share of mistakes in those transitions, but I've also learned a lot.</quote>
+    <link>https://spectrum.ieee.org/amds-lisa-su-breaks-through-the-silicon-ceiling</link>
+  </entry>
+  
+  <entry>
+    <title>On the Internet, We’re Always Famous</title>
+    <quote>What happens when the experience of celebrity becomes universal?</quote>
+    <link>https://www.newyorker.com/news/essay/on-the-internet-were-always-famous</link>
+  </entry>
+
+  <entry>
+    <title>Something Weird Is Happening on Facebook</title>
+    <quote>Someone appears to be pouring enormous energy and effort into a data collection project aimed at building personality profiles from social media interaction…again. This has been tried before, most prominently by Cambridge Analytica back in 2016.</quote>
+    <link>https://www.politicalorphans.com/something-weird-is-happening-on-facebook/</link>
+  </entry>
+
+
+  <entry>
+    <title>Refugees help power machine learning advances at Microsoft, Facebook, and Amazon</title>
+    <quote>Big tech relies on the victims of economic collapse.</quote>
+    <link>https://restofworld.org/2021/refugees-machine-learning-big-tech/</link>
+  </entry>
+
+
+  <entry>
+    <title>Can You See Me Now? A Measurement Study of Zoom, Webex, and Meet</title>
+    <quote>In this paper, we present a detailed measurement study that compares three major videoconferencing systems: Zoom, Webex and Google Meet. Our study is based on 48 hours’ worth of more than 700 videoconferencing sessions, which were created with a mix of emulated videoconferencing clients deployed in the cloud, as well as real mobile devices running from a residential network.</quote>
+    <link>https://arxiv.org/pdf/2109.13113.pdf</link>
+  </entry>
+  
+</feed>

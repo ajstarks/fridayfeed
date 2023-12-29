@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 24, 2021</date>
+  
+  <entry>
+    <title>The 2021 Stratechery Year in Review</title>
+    <quote>There is a perspective in which 2021 was an absolute drag: COVID dragged on, vaccines became politicized, new variants emerged, and while tech continued to provide the infrastructure that kept the economy moving, it also provided the infrastructure for all of those things that made this year feel so difficult.</quote>
+    <link>https://stratechery.com/2021/the-2021-stratechery-year-in-review/</link>
+  </entry>
+  
+  <entry>
+    <title>How YOU can Invent the Future in 2022 -- like the Wright Brothers did in 1903.</title>
+    <quote>Today we're going to talk about what it took to push humanity forward, by looking into the age of aviation: a time that brought the world together and changed the course of humanity through technology. What seemed impossible made the crossover to possible.</quote>
+    <link>https://www.youtube.com/watch?v=Qp1pNlLCta4</link>
+  </entry>
+
+  <entry>
+    <title>iTunes Has Turned 20. Here Are 5 Lessons All Entrepreneurs Can Take Away From Its 2 Decades of Disruption</title>
+    <quote>Although Apple has since transitioned away from iTunes and toward streaming services like Apple Music, Apple Podcasts and Apple TV, there is a lot we can learn from iTunes’ journey to the forefront of the music industry.</quote>
+    <link>https://jboitnott.medium.com/itunes-turns-20-this-year-da5b9bba79b9</link>
+  </entry>
+  
+  <entry>
+    <title>Why it’s too early to get excited about Web3</title>
+    <quote>Blockchain developers believe that this time they’ve found a structural answer to recentralization, but I tend to doubt it. An interesting question to ask is what the next locus for centralization and control might be.</quote>
+    <link>https://www.oreilly.com/radar/why-its-too-early-to-get-excited-about-web3/</link>
+  </entry>
+
+  <entry>
+    <title>A deep dive into an NSO zero-click iMessage exploit: Remote Code Execution</title>
+    <quote>JBIG2 doesn't have scripting capabilities, but when combined with a vulnerability, it does have the ability to emulate circuits of arbitrary logic gates operating on arbitrary memory. So why not just use that to build your own computer architecture and script that!? That's exactly what this exploit does. Using over 70,000 segment commands defining logical bit operations, they define a small computer architecture with features such as registers and a full 64-bit adder and comparator which they use to search memory and perform arithmetic operations. It's not as fast as Javascript, but it's fundamentally computationally equivalent.</quote>
+    <link>https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html</link>
+  </entry>
+
+  <entry>
+    <title>Understanding the Impact of Apache Log4j Vulnerability</title>
+    <quote>More than 35,000 Java packages, amounting to over 8% of the Maven Central repository (the most significant Java package repository), have been impacted by the recently disclosed log4j vulnerabilities (1, 2), with widespread fallout across the software industry. The vulnerabilities allow an attacker to perform remote code execution by exploiting the insecure JNDI lookups feature exposed by the logging library log4j.</quote>
+    <link>https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html</link>
+  </entry>
+  
+</feed>

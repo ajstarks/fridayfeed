@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 31, 2021</date>
+  
+  <entry>
+    <title>James Webb Space Telescope Deployment Sequence (Nominal)</title>
+    <quote>Engineers on the ground will remotely orchestrate a complex sequence of deployments in the hours and days immediately after the launch of the James Webb Space Telescope. This animation shows the nominal sequence for these deployments.</quote>
+    <link>https://www.youtube.com/watch?v=RzGLKQ7_KZQ</link>
+  </entry>
+  
+  <entry>
+    <title>Sequencing your DNA with a USB dongle and open source code</title>
+    <quote>Imagine a hole so tiny that a single strand of DNA can fit through at a time. Push your genetic material through this pore, and the As, Ts, Gs, and Cs that make up a human genome will be revealed in sequence. </quote>
+    <link>https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/</link>
+  </entry>
+
+  <entry>
+    <title>The worst technology of 2021</title>
+    <quote>Face filters, billionaires in space, and home-buying algorithms that overpay all made our annual list of technology gone wrong.</quote>
+    <link>https://www.technologyreview.com/2021/12/29/1043061/the-worst-technology-of-2021/</link>
+  </entry>
+  
+  <entry>
+    <title>What is the metaverse? 2 media and information experts explain</title>
+    <quote>The metaverse is a concept from science fiction that many people in the technology industry envision as the successor to today’s internet. It’s only a vision at this point, but technology companies like Facebook are aiming to make it the setting for many online activities, including work, play, studying and shopping. </quote>
+    <link>https://theconversation.com/what-is-the-metaverse-2-media-and-information-experts-explain-165731</link>
+  </entry>
+
+  <entry>
+    <title>TikTok Got More Traffic Than Freakin' Google in 2021</title>
+    <quote>It's no surprise that TikTok is ridiculously popular, but somehow it even beat out Google this year.
+</quote>
+    <link>https://gizmodo.com/tiktok-got-more-traffic-than-freakin-google-in-2021-1848252058</link>
+  </entry>
+  
+</feed>

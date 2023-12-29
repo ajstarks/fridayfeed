@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 9, 2021</date>
+
+   <entry>
+    <title>Beauty filters are changing the way young girls see themselves</title>
+    <quote>Researchers don’t yet understand the impact that sustained use of augmented reality may have, but they do know there are real risks—and with face filters, young girls are the ones taking that risk. They are subjects in an experiment that will show how the technology changes the way we form our identities, represent ourselves, and relate to others.</quote>
+    <link>https://www.technologyreview.com/2021/04/02/1021635/beauty-filters-young-girls-augmented-reality-social-media/</link>
+  </entry>
+  
+  <entry>
+    <title>A Computer Scientist Who Tackles Inequality Through Algorithms</title>
+    <quote>Rediet Abebe uses the tools of theoretical computer science to understand pressing social problems — and try to fix them.</quote>
+    <link>https://www.quantamagazine.org/rediet-abebe-tackles-inequality-with-computer-science-20210401/</link>
+  </entry>
+
+  <entry>
+    <title>FDA approves first test of CRISPR to correct genetic defect causing sickle cell disease</title>
+    <quote>After six years of work, that experimental treatment has now been approved for clinical trials by the U.S. Food and Drug Administration, enabling the first tests in humans of a CRISPR-based therapy to directly correct the mutation in the beta-globin gene responsible for sickle cell disease.</quote>
+    <link>https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/</link>
+  </entry>
+
+  <entry>
+    <title>The WeWork Documentary Explores a Decade of Delusion</title>
+    <quote>Jed Rothstein’s film about the rise and fall of Adam Neumann’s real-estate startup isn’t an example of epic, Ken Burns-style storytelling. But it’s a good yarn.</quote>
+    <link>https://www.newyorker.com/culture/culture-desk/the-wework-documentary-explores-a-decade-of-delusion</link>
+  </entry>
+  
+  <entry>
+    <title>Google v. Oracle Supreme Court Decision</title>
+    <quote>Google’s copying of the Java SE API, which included only those lines of code that were needed to allow programmers to put their accrued talents to work in a new and transformative program, was a fair use of that material as a matter of law.</quote>
+    <link>https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf</link>
+  </entry>
+</feed>

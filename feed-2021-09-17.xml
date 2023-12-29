@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 17, 2021</date>
+  
+  <entry>
+    <title>Portable Analyzer Brings Blood Testing to Rural Areas </title>
+    <quote>Indian researchers create a Raspberry-Pi-based device to monitor health</quote>
+    <link>https://spectrum.ieee.org/rural-blood-test-analyser</link>
+  </entry>
+  
+  <entry>
+    <title>Dieter Rams' principles of good design applied to software engineering</title>
+    <quote>Good software is...</quote>
+    <link>https://github.com/zedr/dieter-rams-10-applied-to-software</link>
+  </entry>
+
+  <entry>
+    <title>Ebooks Are an Abomination</title>
+    <quote>Given the entrenched history of bookiness, a book is less a specific thing than an echo of the long saga of bookmaking—and an homage to the idea of a book bouncing around in our heads, individual and collective. That makes books different from other human technologies</quote>
+    <link>https://www.theatlantic.com/books/archive/2021/09/why-are-ebooks-so-terrible/</link>
+  </entry>
+
+  <entry>
+    <title>Apple events are a useful indicator of what the company cares about. And this time, there were a few recurring themes:</title>
+    <quote>Hundreds of scientists had worked on mRNA vaccines for decades before the coronavirus pandemic brought a breakthrough.</quote>
+    <link>https://www.nature.com/articles/d41586-021-02483-w</link>
+  </entry>
+  
+  <entry>
+    <title>Webcams and battery life: What mattered at Apple's latest event</title>
+    <quote>Apple events are a useful indicator of what the company cares about. And this time, there were a few recurring themes:</quote>
+    <link>https://www.protocol.com/apple-iphone-13</link>
+  </entry>
+
+
+</feed>

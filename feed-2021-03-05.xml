@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 5, 2021</date>
+
+  <entry>
+    <title>E-mail Is Making Us Miserable</title>
+    <quote>In an attempt to work more effectively, we’ve accidentally deployed an inhumane way to collaborate.</quote>
+    <link>https://www.newyorker.com/tech/annals-of-technology/e-mail-is-making-us-miserable</link>
+  </entry>
+  
+  
+  <entry>
+    <title>New AI ‘Deep Nostalgia’ brings old photos, including very old ones, to life</title>
+    <quote>But Deep Nostalgia can take photos from any camera and bring them to “life.” The program uses pre-recorded driver videos of facial movements and applies the one that works best for the still photo in question. Its intended purpose is to allow you to upload photos of deceased loved ones and see them in “action,”</quote>
+    <link>https://www.theverge.com/2021/2/28/22306097/ai-brings-still-photos-life-meme-twitter-geneaology-myheritage</link>
+  </entry>
+  
+  <entry>
+    <title>How to Build an Artificial Heart</title>
+    <quote>Millions of hearts fail each year. Why can’t we replace them?</quote>
+    <link>https://www.newyorker.com/magazine/2021/03/08/how-to-build-an-artificial-heart</link>
+  </entry>
+
+  <entry>
+    <title>Bias, disrespect, and demotions: Black employees say Amazon has a race problem</title>
+    <quote>Interviews with diversity managers and internal data obtained by Recode indicate that Black Amazon employees are promoted less frequently and are rated more harshly than non-Black peers.</quote>
+    <link>https://www.vox.com/recode/2021/2/26/22297554/amazon-race-black-diversity-inclusion</link>
+  </entry>
+  
+  <entry>
+    <title>The ZX81 computer, turns 40 today</title>
+    <quote>For many, the ZX81 offered a gateway to not only computing and coding itself, but also into the rich and growing world of video games. Its legacy today is alive and well today thanks to the revival of such computer relics, with similar models showing a renaissance in gaming circles and the wider tech industry.</quote>
+    <link>https://www.scotsman.com/lifestyle/the-zx81-computer-famously-manufactured-in-dundee-turns-40-today-3155238</link>
+  </entry>
+</feed>

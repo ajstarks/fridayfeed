@@ -1,0 +1,30 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 9, 2021</date>
+
+
+   <entry>
+    <title>It’s not just bad behavior. Social media was designed to infuriate people</title>
+    <quote>We studied how online disagreements unfold on YouTube, Facebook, and WhatsApp—and found design flaws in each platform.</quote>
+    <link></link>
+  </entry>
+
+  <entry>
+    <title>How a Harvard Professor Makes Transforming Toys and Designs</title>
+    <quote>Chuck Hoberman's eponymous sphere is one of the best-loved toys of the last quarter century. But it's only one example of his incredible work in transformable design. From adaptive nanotech to flexible building materials, Hoberman has created surprising and inventive designs at every scale.</quote>
+    <link>https://www.youtube.com/watch?v=xN9hTo3iR6A</link>
+  </entry>
+
+   <entry>
+    <title>FIDENZA</title>
+    <quote>Fidenza is my most versatile generative algorithm to date. Although it is not overly complex, the core structures of the algorithm are highly flexible, allowing for enough variety to produce continuously surprising results. I consider this to be one of the most interesting ways to evaluate the quality of a generative algorithm, and certainly one that is unique to the medium.</quote>
+    <link>https://tylerxhobbs.com/fidenza</link>
+  </entry>
+  
+  
+  <entry>
+    <title> Sheikh Zayed Masjid Skylight - Abu Dhabi - How to draw Islamic Geometry</title>
+    <quote>This pattern is yet another one of those universal ones, seen in mandalas and other sacred art.</quote>
+    <link>https://www.youtube.com/watch?v=FbyzlIZBS6w</link>
+  </entry>
+</feed>

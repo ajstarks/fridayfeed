@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 19, 2021</date>
+  <entry>
+    <title>Who Should Stop Unethical A.I.?</title>
+    <quote>At artificial-intelligence conferences, researchers are increasingly alarmed by what they see.</quote>
+    <link>https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai</link>
+  </entry>
+
+   <entry>
+    <title>The Business Of Influence With MKBHD</title>
+    <quote>Marques Brownlee is one of the best reviewers I know, and also one of the most savvy and successful YouTubers. And he’s been in the game for a long time: he started the channel MKBHD in 2009 when he was just a teenager making videos about his new HP laptop. Since then, he’s grown it to one of the biggest tech channels on YouTube, with 13.5 million subscribers, a podcast, and a growing support team.</quote>
+    <link>https://www.theverge.com/22231657/mkbhd-marques-brownlee-interview-youtube-creator-influencer-decoder</link>
+  </entry>
+
+  <entry>
+    <title>Interactive Simulation of Perseverance Landing on Mars</title>
+    <quote>Just scroll</quote>
+    <link>https://eyes.nasa.gov/apps/mars2020/#/home</link>
+  </entry>
+
+  <entry>
+    <title>NASA’s Perseverance Rover Sends Sneak Peek of Mars Landing</title>
+    <quote>This high-resolution still image is part of a video taken by several cameras as NASA’s Perseverance rover touched down on Mars on Feb. 18, 2021. A camera aboard the descent stage captured this shot.</quote>
+    <link>https://www.nasa.gov/press-release/nasa-s-perseverance-rover-sends-sneak-peek-of-mars-landing</link>
+  </entry>
+  
+  <entry>
+    <title>Snowshoe Art</title>
+    <quote>In this video I show you how I created this design. This project took 6 hours and about 10.1 miles of walking. It was more challenging than some of my other projects... wait until the end</quote>
+    <link>https://youtu.be/l7g7j9ISrmQ</link>
+  </entry>
+  
+  <entry>
+    <title>SolarWinds: How Russian spies hacked the Justice, State, Treasury, Energy and Commerce Departments</title>
+    <quote>The hidden virus spread to 18,000 government and private computer networks by way of one of those software updates we all take for granted. The attack was unprecedented in audacity and scope. Russian spies went rummaging through the digital files of the U.S. departments of Justice, State, Treasury, Energy, and Commerce and for nine months had unfettered access to top-level communications, court documents, even nuclear secrets. And by all accounts, it's still going on.</quote>
+    <link>https://www.cbsnews.com/news/solarwinds-hack-russia-cyberattack-60-minutes-2021-02-14/</link>
+  </entry>
+  
+ 
+</feed>

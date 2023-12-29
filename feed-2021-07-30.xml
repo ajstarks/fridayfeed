@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 30, 2021</date>
+
+  <entry>
+    <title>She risked everything to expose Facebook. Now she’s telling her story.</title>
+    <quote>Sophie Zhang, a former data scientist at Facebook, revealed that it enables global political manipulation and has done little to stop it.</quote>
+    <link>https://www.technologyreview.com/2021/07/29/1030260/facebook-whistleblower-sophie-zhang-global-political-manipulation/</link>
+  </entry>
+  
+  <entry>
+    <title>Doctors altered a person’s genes with CRISPR for the first time in the U.S. Here’s what could be next.</title>
+    <quote>A woman with sickle cell anemia had her genes edited to make normal functioning red blood cells.</quote>
+    <link>https://www.popsci.com/crispr-gene-editing-treatment-sickle-cell-anemia/</link>
+  </entry>
+  
+  <entry>
+    <title>On the Heels of Foot Soldiers</title>
+    <quote>Fueled by the power of love, Black Voters Matter co-founder LaTosha Brown wants the next generation of activists to learn from the music and wisdom of the past and to press on to protect voting rights in the rural South and beyond.</quote>
+    <link>https://bittersoutherner.com/summer-voices/aunjanue-ellis/latosha-brown-on-the-heels-of-foot-soldiers</link>
+  </entry>
+  
+  <entry>
+    <title>Common UI/UX mistakes devs make</title>
+    <quote>I reviewed 100+ user interfaces this year. Avoid the most common 18 mistakes to make your UI/UX design bette</quote>
+    <link>https://twitter.com/vponamariov/status/1421014957110579203</link>
+  </entry>
+
+  <entry>
+    <title>Stat of the day: 38% of remote workers work from bed</title>
+    <quote>Forget the home office — 45% of American teleworkers regularly work from a couch, 38% regularly work from bed and 20% often work outside, according to a study by the home improvement marketing firm CraftJack.</quote>
+    <link>https://www.axios.com/38-percent-remote-workers-work-bed-f8708125-a068-47ff-9519-bb7870011cd5.html</link>
+  </entry>
+  
+</feed>

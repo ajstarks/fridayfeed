@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 16, 2021</date>
+  
+  <entry>
+    <title>Star Trek + Design</title>
+    <quote>Being drawn to the aesthetics of Trek, especially of The Next Generation, made me curious about the the specific objects that set designers used to create the visual embodiment of what living and working on a starship would look like in a technologically-advanced, post-scarcity future.</quote>
+    <link>https://star-trek.design/</link>
+  </entry>
+  
+  <entry>
+    <title>How “My Octopus Teacher” Defied Convention</title>
+    <quote>r the course of a year evolved from curiosity to care—even to love. And though her own feelings were left for viewers to interpret, the film’s indelible impression was of nature populated by species who are not only beautiful and exquisitely evolved and ecologically important, but highly sentient, too.</quote>
+    <link>https://nautil.us/issue/99/universality/how-my-octopus-teacher-defied-convention</link>
+  </entry>
+
+  <entry>
+    <title>How Facebook let fake engagement distort global politics: a whistleblower's account</title>
+    <quote>in the 2.5 years I’ve spent at Facebook, I’ve … found multiple blatant attempts by foreign national governments to abuse our platform on vast scales to mislead their own citizenry
+	Over the course of 7,800 scathing words, Zhang outlined Facebook’s failure to combat political manipulation campaigns akin to what Russia had done in the 2016 US election. “We simply didn’t care enough to stop them,” she wrote. “I know that I have blood on my hands by now.”</quote>
+    <link>https://www.theguardian.com/technology/2021/apr/12/facebook-fake-engagement-whistleblower-sophie-zhang</link>
+  </entry>
+  
+  <entry>
+    <title>Apple vs. Facebook: Why iOS 14.5 Started a Big Tech Fight</title>
+    <quote>A new privacy feature in Apple’s iOS 14.5 requires apps to request permission to track you. And Facebook isn’t happy about it. WSJ’s Joanna Stern put Facebook CEO Mark Zuckerberg and Apple CEO Tim Cook into the ring to explain why this software update has kicked off a tech slugfest.</quote>
+    <link>https://www.wsj.com/video/series/joanna-stern-personal-technology/apple-vs-facebook-why-ios-145-started-a-big-tech-fight/1C9C84F2-0F68-45B5-8A4E-ADC6D71EA4E2</link>
+  </entry>
+  
+  <entry>
+    <title>A 'Worst Nightmare' Cyberattack: The Untold Story Of The SolarWinds Hack</title>
+    <quote>NPR's months-long examination of that landmark attack — based on interviews with dozens of players from company officials to victims to cyber forensics experts who investigated, and intelligence officials who are in the process of calibrating the Biden administration's response — reveals a hack unlike any other, launched by a sophisticated adversary who took aim at a soft underbelly of digital life: the routine software update.</quote>
+    <link>https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack</link>
+  </entry>
+</feed>

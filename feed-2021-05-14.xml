@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 14, 2021</date>
+  
+  <entry>
+    <title>Employees grapple with re-entry anxiety as jobs call them back</title>
+    <quote>https://www.axios.com/work-offices-coronavirus-safe-vaccines-9e2337ea-eb8d-4e96-9ab8-e1fa6586f629.html</quote>
+    <link>Many Americans are still easing into the idea of being in close quarters with other people again, even after being vaccinated. But many workers also may be suffering mental distress from over a year of isolation.</link>
+  </entry>
+  
+  <entry>
+    <title>What the Colonial Pipeline ransomware attack can teach us about national cybersecurity defense</title>
+    <quote>The ransomware attack on Colonial Pipeline on May 7, 2021, exemplifies the huge challenges the U.S. faces in shoring up its cyber defenses. The private company, which controls a significant component of the U.S. energy infrastructure and supplies nearly half of the East Coast’s liquid fuels, was vulnerable to an all-too-common type of cyber attack. The FBI has attributed the attack to a Russian cybercrime gang. It would be difficult for the government to mandate better security at private companies, and the government is unable to provide that security for the private sector.</quote>
+    <link>https://thenextweb.com/news/what-the-colonial-pipeline-ransomware-attack-can-teach-us-about-national-cybersecurity-defense-syndication</link>
+  </entry>
+
+  <entry>
+    <title>Just 12 People Are Behind Most Vaccine Hoaxes On Social Media, Research Shows</title>
+    <quote>Now that the vaccine rollout is reaching a critical stage in which most adults who want the vaccine have gotten it, but many others are holding out, these 12 influential social media users stand to have an outsize impact on the outcome.</quote>
+    <link>https://www.npr.org/2021/05/13/996570855/disinformation-dozen-test-facebooks-twitters-ability-to-curb-vaccine-hoaxes</link>
+  </entry>
+  
+  <entry>
+    <title>Information Graphic Visionaries</title>
+    <quote>As RJ describes it, his goal for the series is to “celebrate the tradition of our craft, celebrate the people who have gone before, who lit the way and gave us the torch to keep running forward.” He describes falling in love with not just Willard’s, Nightingale’s, and Marey’s iconic graphics, but with the ideas they were meant to convey and the approach each took to data communication.</quote>
+    <link>https://medium.com/nightingale/information-graphic-visionaries-6dda1a0b8056</link>
+  </entry>
+  
+  <entry>
+    <title>Programming and Writing</title>
+    <quote>One year ago I paused my programming life and started writing a novel, with the illusion that my new activity was deeply different than the previous one. A river of words later, written but more often rewritten, I’m pretty sure of the contrary: programming big systems and writing novels have many common traits and similar processes.</quote>
+    <link>http://antirez.com/news/135</link>
+  </entry>
+</feed>

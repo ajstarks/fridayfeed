@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 10, 2021</date>
+  
+  <entry>
+    <title>Meet the Little-Known Genius Who Helped Make Pixar Possible</title>
+    <quote>You may not be able to pinpoint Smith’s presence in the code of the alpha channel or in the swooping camera pivot in The Wrath of Khan. But it’s there. The breakthrough behind the Pixar films was that it didn’t matter that movie screens and iPads were streaming bits entirely created within computers—the emotions they unleashed were as vivid as those produced by a human performance</quote>
+    <link>https://www.wired.com/story/pixar-animation-alvy-ray-smith-pixel/</link>
+  </entry>
+  
+  <entry>
+    <title>How Slack Changed Apple’s Employee Culture, With Zoë Schiffer</title>
+    <quote>Apple employees are demanding more transparency and input than ever, and they’re doing it in public, in a way that challenges Apple’s secretive, top-down corporate culture. The pushback is real, and it starts with the introduction of one software tool to Apple’s workplace: Slack.</quote>
+    <link>https://www.theverge.com/22659497/apple-slack-organizing-zoe-schiffer-decoder-interview</link>
+  </entry>
+
+  <entry>
+    <title>Meetings suck. Can we make them more fun?</title>
+    <quote>As hybrid and remote work become the norm, meetings are including video game and virtual reality elements to increase engagement.</quote>
+    <link>https://www.technologyreview.com/2021/09/08/1035081/facebook-horizons-oculus-zoom-fatigue/</link>
+  </entry>
+  
+  <entry>
+    <title>In the Middle of the Great Resignation, Employers Are Rejecting Millions of Qualified Workers, New Harvard Research Finds</title>
+    <quote>And while the research turns up a number of issues, the lion's share of the blame falls on companies' recruiting practices, particularly due to specific job descriptions and automated hiring software that unnecessarily screens out many qualified candidates.</quote>
+    <link>https://www.inc.com/jessica-stillman/hiring-resume-screening-software-job-descriptions.html</link>
+  </entry>
+
+  <entry>
+    <title>Our fridge just emailed us to say we opened its door too many times in the past month</title>
+    <quote>I hope it’s not learning at a geometric rate. If it continues I fear my family and I will be taken out of all fridge door opening decisions.</quote>
+    <link>https://twitter.com/hondanhon/status/1436027395115393024</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 23, 2021</date>
+  
+  <entry>
+    <title>The Tyranny of Spreadsheets</title>
+    <quote>These were 16,000 people who should have been warned they were infected and a danger to others, 16,000 cases contact tracers should have been running down to figure out where the infected went, who they met and who else might be at risk. None of which was happening. Why had the cases disappeared? Apparently, Microsoft Excel had run out of numbers.</quote>
+    <link>https://timharford.com/2021/07/the-tyranny-of-spreadsheets/</link>
+  </entry>
+  
+  <entry>
+    <title>Investigation: How TikTok's Algorithm Figures Out Your Deepest Desires</title>
+    <quote>The Wall Street Journal created dozens of automated accounts that watched hundreds of thousands of videos to reveal how the social network knows you so well</quote>
+    <link>https://www.wsj.com/video/series/inside-tiktoks-highly-secretive-algorithm/investigation-how-tiktok-algorithm-figures-out-your-deepest-desires/6C0C2040-FF25-4827-8528-2BD6612E3796</link>
+  </entry>
+  
+  <entry>
+    <title>DeepMind says it will release the structure of every protein known to science</title>
+    <quote>Now the firm has announced that it has used its AI to predict the shapes of nearly every protein in the human body, as well as the shapes of hundreds of thousands of other proteins found in 20 of the most widely studied organisms, including yeast, fruit flies, and mice. The breakthrough could allow biologists from around the world to understand diseases better and develop new drugs.</quote>
+    <link>https://www.technologyreview.com/2021/07/22/1029973/deepmind-alphafold-protein-folding-biology-disease-drugs-proteome/</link>
+  </entry>
+  
+  <entry>
+    <title>The Framework Laptop is now shipping, and press reviews are up!</title>
+    <quote>“A poster child for the right-to-repair movement, Framework’s modular laptop is one of the smartest designs I’ve seen in a long time.”</quote>
+    <link>https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews</link>
+  </entry>
+
+  <entry>
+    <title>No Employee Left Behind</title>
+    <quote>How to stop wasting money and design an experience every employee will legitimately love.</quote>
+    <link>https://www.forbes.com/sites/servicenow/2021/07/23/no-employee-left-behind/</link>
+  </entry>
+
+</feed>

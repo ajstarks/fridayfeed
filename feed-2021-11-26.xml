@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 26, 2021</date>
+  
+  <entry>
+    <title>How Processing And P5 Got Newbies Into Coding</title>
+    <quote>What the creators of Processing — now 20 years old — did right</quote>
+    <link>https://clivethompson.medium.com/how-processing-and-p5-got-newbies-into-coding-dd3853a7adb</link>
+  </entry>
+  
+  <entry>
+    <title>A Look Under The Hood Of The Most Successful Streaming Service On The Planet</title>
+    <quote>Netflix’s secret sauce is something none of us ever see</quote>
+    <link>https://www.theverge.com/22787426/netflix-cdn-open-connect</link>
+  </entry>
+
+  <entry>
+    <title>What next? 22 emerging technologies to watch in 2022</title>
+    <quote>Hydrogen-powered planes, Vertical farming, Vaccines for HIV and malaria, 3D-printed bone implants, Space tourism...</quote>
+    <link>https://www.economist.com/the-world-ahead/2021/11/08/what-next-22-emerging-technologies-to-watch-in-2022</link>
+  </entry>
+
+  <entry>
+    <title>About Apple threat notifications and protecting against state-sponsored attacks</title>
+    <quote>Apple threat notifications are designed to inform and assist users who may have been targeted by state-sponsored attackers.</quote>
+    <link>https://support.apple.com/en-us/HT212960</link>
+  </entry>
+
+ <entry>
+    <title>Why V7 Unix matters so much</title>
+    <quote>To quite a lot of people, this makes V7 the last 'pure' Unix, the one that expresses the intentions of the creators of Unix.</quote>
+    <link>https://utcc.utoronto.ca/~cks/space/blog/unix/V7WhyItMattersSoMuch</link>
+  </entry>
+  
+</feed>

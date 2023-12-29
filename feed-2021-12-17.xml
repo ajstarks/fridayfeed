@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 17, 2021</date>
+  
+  <entry>
+    <title>A Poet’s Perspective: Seven Reasons Why Your Dataviz Team Should Include an Analyst from the Humanities</title>
+    <quote>Many years and many projects later, my best contributions as a data visualization consultant are still consistently derived from my roots in the humanities. Thought leaders like Gioriga Lupi have powerfully advocated for the integration of data humanism to propel our work beyond superficial infographics and towards deeper, more meaningful visualizations.</quote>
+    <link>https://nightingaledvs.com/a-poets-perspective-seven-reasons-why-your-dataviz-team-should-include-an-analyst-from-the-humanities/</link>
+  </entry>
+  
+  <entry>
+    <title>The ‘Invisible’, Often Unhappy Workforce That’s Deciding the Future of AI</title>
+    <quote>The Google paper notes that crowd-workers – whose evaluations often form the defining basis of machine learning systems that may eventually affect our lives – are frequently operating under a range of constraints that may affect the way that they respond to experimental assignments.</quote>
+    <link>https://www.unite.ai/the-invisible-often-unhappy-workforce-thats-deciding-the-future-of-ai/</link>
+  </entry>
+
+  <entry>
+    <title>How Amazon Warehouse Policies Put Workers At Risk</title>
+    <quote>Six people died in an Amazon warehouse collapse — why were they there at all?</quote>
+    <link>https://www.theverge.com/22836393/amazon-warehouse-tornado-collapse-illinois-disaster</link>
+  </entry>
+  
+  <entry>
+    <title>I’m a Black woman and the metaverse scares me – here’s how to make the next iteration of the internet inclusive</title>
+    <quote>While techno-utopias communicate desired visions of the future, the reality of new technologies often doesn’t live up to these visions. In fact, the internet has brought novel forms of harm to society, such as the automated dissemination of propaganda on social media and bias in the algorithms that shape your online experience.</quote>
+    <link>https://theconversation.com/im-a-black-woman-and-the-metaverse-scares-me-heres-how-to-make-the-next-iteration-of-the-internet-inclusive-173310</link>
+  </entry>
+
+  <entry>
+    <title>Log4j: Just How Screwed Are We?</title>
+    <quote>Well, it’s certainly been a year for cyber debacles, so, sure, why not tie things off with a nice, fat security vulnerability that affects almost everything on the internet? That sounds about right.</quote>
+    <link>https://gizmodo.com/log4j-just-how-screwed-are-we-1848199547</link>
+  </entry>
+  
+</feed>

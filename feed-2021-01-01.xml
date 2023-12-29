@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 1, 2021</date>
+
+  <entry>
+    <title>Timnit Gebru’s Exit From Google Exposes a Crisis in AI</title>
+    <quote>With Gebru’s firing, the civility politics that yoked the young effort to construct the necessary guardrails around AI have been torn apart, bringing questions about the racial homogeneity of the AI workforce and the inefficacy of corporate diversity programs to the center of the discourse.</quote>
+    <link>https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai</link>
+  </entry>
+  
+  <entry>
+    <title>Systems design explains the world: volume 1</title>
+    <quote>I don't think any of us really understood what boxes-and-arrows engineering really was back then, but luckily for you, now I'm old. Let me tell you some stories.</quote>
+    <link>https://apenwarr.ca/log/20201227</link>
+  </entry>
+
+  <entry>
+    <title>Is Substack the Media Future We Want?</title>
+    <quote>The newsletter service is a software company that, by mimicking some of the functions of newsrooms, has made itself difficult to categorize.</quote>
+    <link>https://www.newyorker.com/magazine/2021/01/04/is-substack-the-media-future-we-want</link>
+  </entry>
+
+  <entry>
+    <title>The Evolution of American Protests After the Death of George Floyd: COVID-19, BLM and the Election</title>
+    <quote>2020 has been a turbulent year for every country but particularly in the USA. Civil unrest surrounding the pandemic has been compounded by Black Lives Matter (BLM) demonstrations as well as by a disruptive national election. Using data collected by the US Crisis Monitor from ACLED and the Bridging Divides Initiative between May 24 - Nov 28, we clustered 17,946 demonstration events.</quote>
+    <link>https://www.graphext.com/post/the-evolution-of-american-protests-after-the-death-of-george-floyd-covid-blm-and-the-election</link>
+  </entry>
+
+  <entry>
+    <title>Boston Dynamics Dancing Robots</title>
+    <quote>It's pretty awesome how dancing makes robots less intimidating. Looking forward to seeing more nontrivial Machine Learning on these robots. </quote>
+    <link>https://twitter.com/Reza_Zadeh/status/1344009123004747778?s=20</link>
+  </entry>
+  
+  
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 29, 2021</date>
+  
+  <entry>
+    <title>How to teach technical concepts with cartoons</title>
+    <quote>This post is about a few patterns I use when illustrating ideas about computers. If you are interested in using drawings to teach people about your very favorite computer topics, hopefully this will help you!</quote>
+    <link>https://jvns.ca/teach-tech-with-cartoons/</link>
+  </entry>
+
+  <entry>
+    <title>Has the Pandemic Transformed the Office Forever?</title>
+    <quote>Companies are figuring out how to balance what appears to be a lasting shift toward remote work with the value of the physical workplace.</quote>
+    <link>https://www.newyorker.com/magazine/2021/02/01/has-the-pandemic-transformed-the-office-forever</link>
+  </entry>
+  
+  <entry>
+    <title>Cuffless device delivers clinically accurate blood pressure measurements</title>
+    <quote>The portable, cuffless and calibration-free Minshi device measures blood pressure when pressure is gently applied to either side of the device by gently squeezing between thumb and forefinger. Following simple game-style instructions displayed by the dedicated app and pressing on the V-Sensor on the Minshi occludes the arteries in the tip of the index finger – exactly the same as the proven Riva-Rocci method used by a blood pressure cuff.</quote>
+    <link>https://www.embedded.com/cuffless-device-delivers-clinically-accurate-blood-pressure-measurements/</link>
+  </entry>
+
+  <entry>
+    <title>Trump Riots synchronized</title>
+    <quote>I synced up the videos scraped from Parler and published by ProPublica, so you can watch the Trump riots unfold from many perspectives.</quote>
+    <link>https://youtu.be/mN8OEuQ9joA</link>
+  </entry>
+  
+  <entry>
+    <title>Send This to Anyone Who Wants to Know WTF Is Up With GameStop Stock</title>
+    <quote>How a horde of Redditors are destroying various hedge funds and becoming rich.</quote>
+    <link>https://www.vice.com/en/article/pkdvgy/send-this-to-anyone-who-wants-to-know-wtf-is-up-with-gamestop-stock</link>
+  </entry>
+</feed>

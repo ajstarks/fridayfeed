@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 3, 2021</date>
+ 
+  
+  <entry>
+    <title>Apple Cares About Privacy, Unless You Work At Apple</title>
+    <quote>The company has taken a strong stance on safeguarding its customers’ data — but some employees don’t believe it protects theirs</quote>
+    <link>https://www.theverge.com/22648265/apple-employee-privacy-icloud-id</link>
+  </entry>
+
+  <entry>
+    <title>Why Do We Work Too Much?</title>
+    <quote>In the modern office, stress has become a default metric for judging whether we are busy enough.</quote>
+    <link>https://www.newyorker.com/culture/office-space/why-do-we-work-too-much</link>
+  </entry>
+
+   
+  <entry>
+    <title>Brooks, Wirth and Go</title>
+    <quote>Instead, each revolution of the wheel is spun until it arrives exactly where it started, with the promise of new beginnings. Luckily, there are exceptions. Here’s one of them.</quote>
+    <link>https://www.fredrikholmqvist.com/posts/brooks-wirth-go/</link>
+  </entry>
+  
+  <entry>
+    <title>How I Write Code: Pen &amp; Paper</title>
+    <quote>Steve Jobs once talked about computers being like a bicycle for our minds. To me it feels like a lot of times we expend lots of energy on bikeshedding rather than actually riding our bikes. And maybe we should also get off our bikes every once in a while, and just walk.</quote>
+    <link>https://noteflakes.com/articles/2021-09-02-how-i-write-code-pen-paper</link>
+  </entry>
+
+  <entry>
+    <title>Stanford researchers develop an engineered ‘mini’ CRISPR genome editing system</title>
+    <quote>Bioengineers have repurposed a “non-working” CRISPR system to make a smaller version of the genome engineering tool. Its diminutive size should make it easier to deliver into human cells, tissues and the body for gene therapy.</quote>
+    <link>https://news.stanford.edu/2021/09/03/researchers-develop-hypercompact-crispr/</link>
+  </entry>
+  
+</feed>

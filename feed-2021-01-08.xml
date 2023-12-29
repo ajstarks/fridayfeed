@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 8, 2021</date>
+  
+  <entry>
+    <title>Painting a girl taking a selfie, with mathematics.</title>
+    <quote>This is math, computer science and extreme artistic talent.</quote>
+    <link>https://www.youtube.com/watch?v=8--5LwHRhjk</link>
+  </entry>
+
+  
+  
+  <entry>
+    <title>How the Oxford-AstraZeneca Vaccine Works</title>
+    <quote>An adenovirus helps prime the immune system to fight the coronavirus.</quote>
+    <link>https://www.nytimes.com/interactive/2020/health/oxford-astrazeneca-covid-19-vaccine.html</link>
+  </entry>
+
+  <entry>
+    <title>Apple's privacy labels reveals Whatsapp and Facebook Messenger's hunger for user data</title>
+    <quote>As the world now grapples with Facebook's privacy changes that require users to compulsorily share their Whatsapp data with the social media platform, Apple's privacy labels update all but confirms what we always knew. That, data collected by Whatsapp and Facebook Messenger is far in excess of what its competitors do.</quote>
+    <link>https://www.techradar.com/news/apples-privacy-labels-reveals-whatsapp-and-facebook-messengers-hunger-for-user-data</link>
+  </entry>
+  
+  <entry>
+    <title>What I’ve Learned in 45 Years in the Software Industry</title>
+    <quote>1. Beware of the Curse of Knowledge, 2. Focus on the Fundamentals, 3. Simplicity, 4. Seek First to Understand, 5. Beware of Lock-In, 6. Be Honest and Acknowledge When You Don’t Fit the Role</quote>
+    <link>https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/</link>
+  </entry>
+  
+  <entry>
+    <title>Side project: an open source intercom for kids using Raspberry pi and Telegram</title>
+    <quote>When it was done my kid liked it way more than I could ever expect. What I conceived as an utilitary tool to keep us connected when I wasn’t close soon became a part of a game of exchanging messages about every little action in the everyday routine, even when we are just a few meters away</quote>
+    <link>https://chordata.cc/blog/open-source-intercom-for-kids/</link>
+  </entry>
+</feed>

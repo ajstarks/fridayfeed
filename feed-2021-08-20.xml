@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 20, 2021</date>
+  
+  <entry>
+    <title>The Beauty of Bézier Curves</title>
+    <quote>Bézier curves - how do they do? They're used for animation, text rendering, and all sorts of curved shapes! But how do they actually work? well, like, that's what the video is about, so, watch it to find out etc</quote>
+    <link>https://www.youtube.com/watch?v=aVwxzDHniEw</link>
+  </entry>
+  
+  <entry>
+    <title>The little-known human stories behind emoji designs</title>
+    <quote>"My father's music is message music, to uplift the world from its slumbering mentality," says reggae musician Andrew Tosh. f you open your emoji keyboard and search for "levitating", you will find a tiny picture of a man dressed in a dapper black suit, hat and shades </quote>
+    <link>https://www.bbc.com/news/technology-58180556</link>
+  </entry>
+
+  <entry>
+    <title>How digital beauty filters perpetuate colorism</title>
+    <quote>An ancient form of prejudice about skin color is flourishing in the modern internet age.</quote>
+    <link>https://www.technologyreview.com/2021/08/15/1031804/digital-beauty-filters-photoshop-photo-editing-colorism-racism/</link>
+  </entry>
+  
+  <entry>
+    <title>How Two Bored 1970s Housewives Helped Create The PC Industry</title>
+    <quote>For its part, Vector Graphic went on to become one of the best known PC makers of the late 1970s. Like Apple, it was one of the first computer companies to go public, and like Apple, it set its products apart from the crowd with its attention to industrial design.</quote>
+    <link>https://www.fastcompany.com/3047428/how-two-bored-1970s-housewives-helped-create-the-pc-industry</link>
+  </entry>
+
+  <entry>
+    <title>1800s Astronomical Drawings vs. NASA Images</title>
+    <quote>Of all the gorgeous, funny, odd, and impressive items I’ve stumbled upon, the E. L. Trouvelot astronomical pastel drawings sit in my top ten. Trouvelot was a French immigrant to the US in the 1800s, and his job was to create sketches of astronomical observations at Harvard College’s observatory.</quote>
+    <link>https://www.nypl.org/blog/2016/08/19/1800s-astronomical-drawings</link>
+  </entry>
+  
+</feed>

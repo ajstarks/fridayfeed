@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 12, 2021</date>
+
+  <entry>
+    <title>Securing your digital life, part one: The basics</title>
+    <quote>The key to protecting your digital life is to make it as expensive and impractical as possible for someone bent on mischief to steal the things most important to your safety, financial security, and privacy.</quote>
+    <link>https://arstechnica.com/features/2021/10/securing-your-digital-life-part-1/</link>
+  </entry>
+  
+  <entry>
+    <title>The Story of VisiCalc</title>
+    <quote>You’ve never heard of Dan or Bob. But you should have. They built a company, VisiCalc, that led to Apple first big success and changed computers forever. Here’s their story.</quote>
+    <link>https://threadreaderapp.com/thread/1458185082745737216.html</link>
+  </entry>
+  
+  <entry>
+    <title>Get Ready to Rock with Sonic Pi - The Live Coding Music Synth for Everyone </title>
+    <quote>Sonic Pi is an environment for live coding music that targets both education and professional musicians. In this demo-heavy talk we’ll cover its history - why it was created, how it evolved and what it can do today.</quote>
+    <link>https://www.youtube.com/watch?v=OLLwG_SN8oo</link>
+  </entry>
+  
+  <entry>
+    <title>An original Apple-1 computer sells for $400,000</title>
+    <quote>The first Apple-1 computers were sold for $666.66 in 1976. Forty-five years later, a still-functioning one has sold for $400,000.</quote>
+    <link>https://www.npr.org/2021/11/09/1053895250/an-original-apple-1-computer-sells-for-400-000</link>
+  </entry>
+
+  <entry>
+    <title>Why Great Employees Leave “Great Cultures”</title>
+    <quote>there are three elements to a culture: behaviors, systems, and practices, all guided by an overarching set of values. A great culture is what you get when all three of these are aligned, and line up with the organization’s espoused values. When gaps start to appear, that’s when you start to see problems — and see great employees leave</quote>
+    <link>https://hbr.org/2018/05/why-great-employees-leave-great-cultures</link>
+  </entry>
+  
+</feed>

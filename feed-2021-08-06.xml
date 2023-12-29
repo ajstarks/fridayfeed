@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 6, 2021</date>
+  
+  <entry>
+    <title>The Oxymoron of “Data-Driven Innovation”</title>
+    <quote>So garden variety Pareto Principle-style business thinking doesn’t work for inclusive decisions, and companies can incur costly failures by mis-applying it, and companies can achieve momentous victories by approaching inclusion differently. Designing for the edges can produce something better for everyone.</quote>
+    <link>https://chelseatroy.com/2021/07/30/the-oxymoron-of-data-driven-innovation/</link>
+  </entry>
+
+   <entry>
+    <title>640 Pages in 15 Months</title>
+    <quote>Remember back on Mr. Roger’s Neighborhood when he would take you to a factory and show you how pencils or umbrellas are made? I love that stuff, so I thought maybe you might like to see what I spent the past year on. You can read this as a peek behind the curtain, or maybe a long apology for why it took so long.</quote>
+    <link>https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/</link>
+  </entry>
+  
+  <entry>
+    <title>Fooling neural networks</title>
+    <quote> it is easy to generate perceptually meaningless images that will be classified as any given class with high confidence</quote>
+    <link>https://slazebni.cs.illinois.edu/fall18/lec12_adversarial.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>The World Wide Web turns 30</title>
+    <quote>On August 6, 1991, without fanfare, British computer scientist Tim Berners-Lee published the first-ever website while working at CERN, the huge particle physics lab in Switzerland.</quote>
+    <link>https://www.history.com/.amp/news/the-worlds-first-web-site</link>
+  </entry>
+
+   <entry>
+    <title>Blues Wireless: Notecard</title>
+    <quote>The Notecard combines prepaid global cellular, low-power hardware, simple software design, and secure communications into a single SoM.</quote>
+    <link>https://blues.io/</link>
+  </entry>
+</feed>

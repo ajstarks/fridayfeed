@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 27, 2021</date>
+
+  <entry>
+    <title>The Secret Bias Hidden in Mortgage-Approval Algorithms</title>
+    <quote>Nationally, loan applicants of color were 40%–80% more likely to be denied than their White counterparts
+In certain metro areas, the disparity was greater than 250%</quote>
+    <link>https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms</link>
+  </entry>
+
+    <entry>
+    <title>Use Technology Like the Amish</title>
+    <quote>Engage in a similar reflection about the devices and apps you already use. What do they add to your life? What do they take away? If you have a family, consider holding your own version of an Amish community council to hash things out together. </quote>
+    <link>https://www.artofmanliness.com/articles/use-technology-like-the-amish/</link>
+  </entry>
+  
+  <entry>
+    <title>The Story of Playdate</title>
+    <quote>We’re a small software company that makes Mac/iOS apps. For our 15th anniversary, I’ve been tinkering with an idea: find our 150 best customers, manufacture something incredibly special, and send it to them.</quote>
+    <link>https://panic.com/blog/the-story-of-playdate/</link>
+  </entry>
+  
+  <entry>
+    <title>Why are hyperlinks blue?</title>
+    <quote>When the hyperlink was created, limited colors were available. Today we have almost every color option, so what should be the default color and state of links on the internet? When given every opportunity to deviate from tradition, do we do so for the sake of progress, or should we keep the blue because it’s an established visual pattern?</quote>
+    <link>https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/</link>
+  </entry>
+
+  <entry>
+	  <title>Linux turns 30: ​Linus Torvalds on his "just a hobby" operating system</title>
+	  <quote>In 1991, Unix was an important but secondary x86 operating system. That year, on August 25, a mild-mannered Finnish graduate student named Linus Benedict Torvalds announced on the Usenet group comp.os.minix that he was working on "a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones." No one knew it, not even Torvalds, but the technology was going to change forever.</quote>
+	  <link>https://www.zdnet.com/article/linus-torvalds-on-linuxs-30th-birthday/</link>
+  </entry>
+  
+</feed>
