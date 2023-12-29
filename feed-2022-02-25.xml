@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 25, 2022</date>
+  
+  <entry>
+    <title>Webb Telescope reaches major milestone: All its light is in one plac</title>
+    <quote>A single dot means we're nearly halfway through focusing the telescope.</quote>
+    <link>https://arstechnica.com/science/2022/02/webb-telescope-reaches-major-milestone-all-its-light-is-in-one-place/</link>
+  </entry>
+  
+  <entry>
+    <title>Data4Kids: A Collaborative Project to Teach Kids about Data</title>
+    <quote>Our goal for this project was to create an online repository of materials that help educators prepare children to be better data users, stewards, and consumers. We wanted to develop a set of easy-to-use and easy-to-access learning materials with well-defined learning goals and step-by-step curricula for online learning but that could also be used during in-person instruction.</quote>
+    <link>https://nightingaledvs.com/data4kids-a-collaborative-project-to-teach-kids-about-data/</link>
+  </entry>
+
+  <entry>
+    <title>Web3 Is A Mid-Life Crisis</title>
+    <quote>In many ways, Kickstarter’s weird crypto project — and the blockchain aspirations other aging web 2.0 companies are pushing on us right now — are kind of like watching a middle-aged man buy a boat. He doesn’t need to buy a boat. His life will be significantly more complicated, and likely worse, after he buys the boat. But he has somehow convinced himself that he needs to buy this boat because he has done the math and realized he is going to die soon and he thinks the boat will fix this</quote>
+    <link>https://www.garbageday.email/p/web3-is-a-mid-life-crisis</link>
+  </entry>
+  
+  <entry>
+    <title>North Korea Hacked Him. So He Took Down Its Internet</title>
+    <quote>But responsibility for North Korea's ongoing internet outages doesn't lie with US Cyber Command or any other state-sponsored hacking agency. In fact, it was the work of one American man in a T-shirt, pajama pants, and slippers,</quote>
+    <link>https://www.wired.com/story/north-korea-hacker-internet-outage/</link>
+  </entry>
+
+  <entry>
+    <title>On the Origin of the iPhone</title>
+    <quote>As best I have been able to put it together, a rough timeline of the creation of the original iPhone goes something like this...</quote>
+    <link>https://daringfireball.net/2022/02/on_the_origin_of_the_iphone</link>
+  </entry>
+  
+</feed>

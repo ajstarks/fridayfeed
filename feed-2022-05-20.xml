@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 20, 2022</date>
+  
+  <entry>
+    <title>Pixar in a Box</title>
+    <quote>Pixar in a Box is a behind-the-scenes look at how Pixar artists do their jobs. You will be able to animate bouncing balls, build a swarm of robots, and make virtual fireworks explode. </quote>
+    <link>https://www.khanacademy.org/computing/pixar</link>
+  </entry>
+  
+  <entry>
+    <title>AI Made This Thumbnail!</title>
+    <quote>MKBHD explores DALL-E 2: a system to generate images from a natural language description</quote>
+    <link>https://www.youtube.com/watch?v=yCBEumeXY4A</link>
+  </entry>
+
+  <entry>
+    <title>Generative art from a thermal printer</title>
+    <quote>receipt scape - ...what only #genart can do: one continuous #infinite image (just plain c++ console app delivering an endless stream of #printer commands - no #glsl, no #gpu, no #shader, no printer driver involved)</quote>
+    <link>https://twitter.com/flockaroo/status/1526948400041758721</link>
+  </entry>
+  
+  <entry>
+    <title>Building my first mechanical keyboard</title>
+    <quote>Only a few hours later, all of us were hooked and wanted to build our own keyboards as well. This post will go over all the parts that are needed, what they are for, and what you need to watch out for</quote>
+    <link>https://not-matthias.github.io/posts/mechanical-keyboard/</link>
+  </entry>
+
+  <entry>
+    <title>Viz What You Love</title>
+    <quote>After a long day of meetings, projections, and rigorous data analysis there’s nothing I look forward to more in the evening than sitting down and fiddling with a Business Intelligence tool.</quote>
+    <link>https://nightingaledvs.com/viz-what-you-love/</link>
+  </entry>
+  
+</feed>

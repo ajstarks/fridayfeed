@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 6, 2022</date>
+  
+  <entry>
+    <title>Scientists Show Us Their Favourite Space Photos</title>
+    <quote>People from the European Space Agency share their top Hubble photos and explain what makes them so special.</quote>
+    <link>https://www.vice.com/en/article/g5q7b4/hubble-space-telescope-best-photos</link>
+  </entry>
+  
+  <entry>
+    <title>Mechanical Watch</title>
+    <quote>Over the course of this article I’ll explain the workings of the mechanism seen in the demonstration below. You can drag the device around to change your viewing angle, and you can use the slider to peek at what’s going on inside</quote>
+    <link>https://ciechanow.ski/mechanical-watch/</link>
+  </entry>
+
+  <entry>
+    <title>Our Obsession with Ancestry Has Some Twisted Roots</title>
+    <quote>The truth is, that, once in every half century, at longest, a family should be merged into the great, obscure mass of humanity, and forget all about its ancestors.” It’s tempting to agree. Yet if there is one thing that the history of genealogy makes clear it is that stories about ancestry can always be instruments of exclusion. To forget about where we come from can be a privilege, too.</quote>
+    <link>https://www.newyorker.com/magazine/2022/05/09/our-obsession-with-ancestry-has-some-twisted-roots-maud-newton-ancestor-trouble</link>
+  </entry>
+  
+  <entry>
+    <title>The internet's famous dancing baby from 1996 is getting a new look</title>
+    <quote>To celebrate the baby's journey into adulthood, the clunky GIF has gotten a new 3D-rendered overhaul thanks to its original creators, Michael Girard, Robert Lurye and John Chadwick. And in true 2022 style, the new dancing babies will be released as NFTs, or non-fungible tokens, next week.</quote>
+    <link>https://edition.cnn.com/style/article/dancing-baby-meme-nft/index.html</link>
+  </entry>
+
+  <entry>
+    <title>The winners and losers of Apple’s anti-tracking feature</title>
+    <quote>Apple’s big privacy update came out a year ago. What did it do for you?</quote>
+    <link>https://www.vox.com/recode/23045136/apple-app-tracking-transparency-privacy-ads</link>
+  </entry>
+  
+</feed>

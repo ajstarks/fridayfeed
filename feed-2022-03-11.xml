@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 11, 2022</date>
+
+   <entry>
+    <title>Project POCKIT</title>
+    <quote>Pockit is a new kind of computer — it's made for the physical world. On top of its powerful, versatile Core, you can attach modular Blocks and interact with the world in your own unique way.</quote>
+    <link>https://youtu.be/b3F9OtH2Xx4?list=UU49EYw900LZn5VBglLRzxHw</link>
+  </entry>
+
+  <entry>
+    <title>TWitch Star Xmiramira Is Fighting Against Lackluster Black Skin In The Sims</title>
+    <quote>Amira Virgil learned to mod The Sims 4 to combat the game’s poor presentation of Black skin</quote>
+    <link>https://www.theverge.com/22967324/sims-4-black-creators-diy</link>
+  </entry>
+
+  <entry>
+    <title>Health Design Thinking</title>
+    <quote>Could medical students with no engineering background create prototypes for new devices and services? During the pandemic, the Lab switched gears to confront such challenges as manufacturing nasopharyngeal swabs for detecting SARS-CoV-2 and deploying mobile testing and vaccination sites in underserved neighborhoods.</quote>
+    <link>https://designobserver.com/feature/health-design-thinking/40520</link>
+  </entry>
+  
+  <entry>
+    <title>The Future Of Computers Is Only $4 Away, With Raspberry Pi Ceo Eben Upton</title>
+    <quote>We’re going to make a fun computer that happens to be programmable, because that’s what our machines were in the 1980s. You need a thing that beguiles its way into people’s lives and then beguiles them into becoming programmers. That’s what we’re trying to build.</quote>
+    <link>https://www.theverge.com/22966155/raspberry-pi-ceo-interview-eben-upton-computer-chip-shortage-diy</link>
+  </entry>
+
+  <entry>
+    <title>Tin Man</title>
+    <quote>Joseph Wyman Brown captures modern people with 19th-century photography</quote>
+    <link>https://www.theverge.com/22960046/tin-man-tintype-photographs-wetplate-digital-camera</link>
+  </entry>
+
+</feed>

@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 8, 2022</date>
+  <entry>
+    <title>Absurd Trolley Problems </title>
+    <quote>Oh no! A trolley is heading towards 5 people. You can pull the lever to divert it to the other track, killing 1 person instead. What do you do? </quote>
+    <link>https://neal.fun/absurd-trolley-problems/</link>
+  </entry>
+
+  <entry>
+    <title>Bad UI is causing people to get scammed</title>
+    <quote>If I was an unsuspecting victim and followed through with the email, I may have sent my laptop to this person thinking Venmo will fund my account once I produced a tracking number. Once I realized my account isn't funded, I would probably contact Venmo who will tell me that they never sent any email to me. Then I would become another statistic.</quote>
+    <link>https://ashlan.com/blog/bad-ui-is-causing-people-to-get-scammed/</link>
+  </entry>
+  
+  <entry>
+    <title>What Chinese media reveals about Shein’s secretive operations</title>
+    <quote>The heart of the company is a flexible supply chain, something companies like Zara chased for years, and which Shein has turned into a true infrastructure capability. From 2014 to 2017 — and even onward, as it scaled — Shein invested the bulk of its funds there</quote>
+    <link>https://restofworld.org/2022/shein-supply-chain-success/</link>
+  </entry>
+
+  <entry>
+    <title>This super-realistic virtual world is a driving school for AI</title>
+    <quote>Startup Waabi is betting everything on a radical new approach to autonomous vehicles that ditches real cars.</quote>
+    <link>https://www.technologyreview.com/2022/02/18/1045784/simulation-virtual-world-driverless-car-autonomous-vehicle-school-ai-cruise-waabi/</link>
+  </entry>
+
+ <entry>
+    <title>12 Ways to Improve Your Monolith Before Transitioning to Microservices</title>
+    <quote>A word of advice: don’t write off the monolith just yet. With some preparation, it can serve you well all the way through the transition. Here are 12 tips for making the transition to microservices as smooth as possible.</quote>
+    <link>https://semaphoreci.com/blog/monolith-microservices</link>
+  </entry>
+</feed>

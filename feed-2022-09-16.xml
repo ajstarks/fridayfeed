@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 16, 2022</date>
+  
+  <entry>
+    <title>The Toxic Culture of Rejection in Computer Science</title>
+    <quote>We need a coordinated effort to seek papers that are interesting, instructive, useful, or impactful in our community. This could certainly include papers introducing brand-new epsilons, but it is not restricted to such papers. We should publish only high-quality papers, but, today, we reject many high-quality papers.</quote>
+    <link>https://sigbed.org/2022/08/22/the-toxic-culture-of-rejection-in-computer-science/</link>
+  </entry>
+  
+  <entry>
+    <title>Subtitle the world</title>
+    <quote>New tech is helping change what accessibility means for the deaf community.</quote>
+    <link>https://www.morningbrew.com/daily/stories/2022/09/09/subtitle-the-world</link>
+  </entry>
+
+  <entry>
+    <title>Here's Why Craigslist Still Looks the Same After 25+ Years</title>
+    <quote>Because that serves people better. I've learned that people want stuff that is simple and fast and gets the job done. People don't need fancy stuff. Sometimes you just want to get through the day.</quote>
+    <link>https://www.pcmag.com/news/heres-why-craigslist-still-looks-the-same-after-25-plus-years</link>
+  </entry>
+  
+  <entry>
+    <title>Did GoogleAI Just Snooker One of Silicon Valley’s Sharpest Minds?</title>
+    <quote>But many people have claimed over the years to solve the problem, and none of those systems have proven to be reliable; every proposed solution has been like Clever Hans, working in dim light, leveraging large databases to some degree, but falling apart upon careful inspection; they might get 60% on some task, but they never really master it.</quote>
+    <link>https://garymarcus.substack.com/p/did-googleai-just-snooker-one-of</link>
+  </entry>
+
+  <entry>
+    <title>Inspired by the Future: Star Trek and the Rise of Dataviz</title>
+    <quote>The art direction in Star Trek was key to imagining a future in which humans incorporated technology into their lives. It is clear that the show also imagined a future in which data was omnipresent and that technology would facilitate our interactions with, and interpretation of, that data. </quote>
+    <link>https://nightingaledvs.com/inspired-by-the-future-star-trek-and-the-rise-of-dataviz/</link>
+  </entry>
+  
+</feed>

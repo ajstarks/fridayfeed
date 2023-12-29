@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 23, 2022</date>
+  
+  <entry>
+    <title>How to spot AI-generated text</title>
+    <quote>The internet is increasingly awash with text written by AI software. We need new tools to detect it</quote>
+    <link>https://www.technologyreview.com/2022/12/19/1065596/how-to-spot-ai-generated-text/</link>
+  </entry>
+  
+  <entry>
+    <title>TikTok Spied On Forbes Journalists</title>
+    <quote>According to materials reviewed by Forbes, ByteDance tracked multiple Forbes journalists as part of this covert surveillance campaign, which was designed to unearth the source of leaks inside the company following a drumbeat of stories exposing the company’s ongoing links to China.</quote>
+    <link>https://www.forbes.com/sites/emilybaker-white/2022/12/22/tiktok-tracks-forbes-journalists-bytedance/</link>
+  </entry>
+
+  <entry>
+    <title>Password requirements: myths and madness</title>
+    <quote>Password requirements are weird. It seems impossible to set a new password in many websites. Why?</quote>
+    <link>https://www.franzoni.eu/password-requirements-myths-madness/</link>
+  </entry>
+  
+  <entry>
+    <title>Things to argue about over the holidays instead of politics</title>
+    <quote>30 things...</quote>
+    <link>https://dynomight.net/arguments/</link>
+  </entry>
+
+  <entry>
+    <title>January 1, 2023 is Public Domain Day: Works from 1927 are open to all!</title>
+    <quote>On January 1, 2023, copyrighted works from 1927 will enter the US public domain. 1  They will be free for all to copy, share, and build upon. These include Virginia Woolf’s To The Lighthouse and the final Sherlock Holmes stories by Arthur Conan Doyle, the German science-fiction film Metropolis and Alfred Hitchcock’s first thriller, compositions by Louis Armstrong and Fats Waller, and a novelty song about ice cream.</quote>
+    <link>https://web.law.duke.edu/cspd/publicdomainday/2023/</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 1, 2022</date>
+
+  <entry>
+    <title>‘Gold mine’ of census records being released from 1950</title>
+    <quote>Starting Friday, genealogists and historians can get a microscopic look at those sweeping historical trends when individual records on 151 million people from the 1950 census are released.</quote>
+    <link>https://apnews.com/article/business-lifestyle-census-2020-86ad85153b82469d51659dafb55a234c</link>
+  </entry>
+
+  <entry>
+    <title>Looking Back on the Origin of Skip Intro Five Years Later</title>
+    <quote>On Netflix in a typical day, the Skip Intro button is pressed 136 million times, saving members an astonishing 195 years in cumulative time</quote>
+    <link>https://about.netflix.com/en/news/looking-back-on-the-origin-of-skip-intro-five-years-later</link>
+  </entry>
+
+  <entry>
+    <title>My own phone number is now spam texting me</title>
+    <quote>Did you recently get a spam text... from yourself? You’re not alone</quote>
+    <link>https://www.theverge.com/2022/3/28/22999719/spam-texts-own-phone-number-verizon-att-tmobile</link>
+  </entry>
+  
+  <entry>
+    <title>A database for 2022</title>
+    <quote>Hi, it’s us again, the ones who used to store our database in a single JSON file on disk, and then moved to etcd. Time for another change! We’re going to put everything in a single file on disk again.</quote>
+    <link>https://tailscale.com/blog/database-for-2022/</link>
+  </entry>
+  
+   <entry>
+    <title>Static Analysis at GitHub</title>
+    <quote>The system supports nine popular programming languages across six million repositories. Scaling even the most trivial of program analyses to this level entailed significant engineering effort, which is recounted here in the hope that it will serve as a useful guide for those scaling static analysis to large and rapidly changing codebases.</quote>
+    <link>https://cacm.acm.org/magazines/2022/2/258227-static-analysis-at-github/fulltext</link>
+  </entry>
+</feed>

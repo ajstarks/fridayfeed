@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 26, 2022</date>
+  
+  <entry>
+    <title>Jupiter is glowing in new pictures from NASA’s James Webb Space Telescope</title>
+    <quote>An early look at the view of Jupiter captured by NASA’s James Webb Space Telescope, or JWST, hinted at how precise and detailed our new view of the planet would be. But this week, NASA released another set of photos showing the cloud cover, rings, and moons of Jupiter in remarkable detail — and it was even better than scientists were hoping for.</quote>
+    <link>https://www.theverge.com/2022/8/23/23318045/jupiter-images-jwst-great-red-spot-nasa</link>
+  </entry>
+  
+  <entry>
+    <title>Amazon has repackaged surveillance capitalism as reality TV</title>
+    <quote>This announcement – made just a few weeks after Amazon's admission of Ring footage being given to legal authorities without a warrant – simultaneously reads as both a failure to read the room, and the ultimate troll. "See what we've done here? We've turned Nineteen Eighty-Four's Room 101 into The Benny Hill Show!"</quote>
+    <link>https://www.theregister.com/2022/08/24/amazon_ring_surveillance/</link>
+  </entry>
+
+  <entry>
+    <title>The Four Dirty C-Words of the Internet</title>
+    <quote>There are four c-words that have become very problematic: content, culture, community, and creator.</quote>
+    <link>https://pauljun.me/the-four-dirty-c-words-of-the-internet</link>
+  </entry>
+  
+  <entry>
+    <title>Diátaxis</title>
+    <quote>A systematic framework for technical documentation authoring.</quote>
+    <link>The Diátaxis framework aims to solve the problem of structure in technical documentation. It adopts a systematic approach to understanding the needs of documentation users in their cycle of interaction with a product.</link>
+  </entry>
+
+  <entry>
+    <title>The most popular content on Facebook belongs in the garbage</title>
+    <quote>The top 20 posts by views on Facebook in the most recent report are overwhelmingly reposted memes that were originally created for other platforms.</quote>
+    <link>https://www.technologyreview.com/2022/08/25/1058662/facebook-widely-viewed-content-spam-memes/</link>
+  </entry>
+  
+</feed>

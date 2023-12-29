@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 11, 2022</date>
+
+ <entry>
+    <title>Why are clinical trials so expensive? Tales from the beast’s belly</title>
+    <quote>Unusually, I was an engineer who had the opportunity to watch our Phase I and II trials unfold from a good vantage point, and I hope the stories I share will be informative. Overall, they paint a picture of an industry which is severely lacking in human capital and fully captured by bureaucratic tendencies.</quote>
+    <link>https://milkyeggs.com/?p=136</link>
+  </entry>
+
+   <entry>
+    <title>Wrist-mounted camera captures entire body in 3D</title>
+    <quote>Using a miniature camera and a customized deep neural network, Cornell researchers have developed a first-of-its-kind wristband that tracks the entire body posture in 3D.</quote>
+    <link>https://news.cornell.edu/stories/2022/11/wrist-mounted-camera-captures-entire-body-3d</link>
+  </entry>
+
+  <entry>
+    <title>Recreating sci-fi terminals using VHS</title>
+    <quote>But then I realised I could use it to do something much more fun: recreate some scenes from some sci-fi films.</quote>
+    <link>https://blog.ldodds.com/2022/11/08/recreating-sci-fi-terminals-using-vhs/</link>
+  </entry>
+
+  <entry>
+    <title>Why I Stopped Using Bullet Graphs (and What I Now Use Instead)</title>
+    <quote>After teaching many data professionals about bullet graphs and using them in many dashboards, I started to notice that they had a fair number of downsides. A few years ago, I started using an alternative called “action dots” that, I believe, are more informative, easier to understand, faster to visually scan, more compact, easier to implement, and don’t have any of the downsides of bullet graphs.</quote>
+    <link>https://nightingaledvs.com/why-i-stopped-using-bullet-graphs-and-what-i-now-use-instead/</link>
+  </entry>
+
+  <entry>
+    <title>Northrop Grumman Employees Receive NASA’s Highest Honors for Building the James Webb Space Telescope</title>
+    <quote>NASA’s Distinguished Public Service Medal recognizes personal contributions to NASA mission success and advancement of the nation’s interests through extraordinary service and a profound level of excellence. </quote>
+    <link>https://news.northropgrumman.com/news/releases/northrop-grumman-employees-receive-nasas-highest-honors-for-building-the-james-webb-space-telescope</link>
+  </entry>
+
+</feed>

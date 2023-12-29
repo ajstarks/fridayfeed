@@ -1,0 +1,38 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 30, 2022</date>
+
+   <entry>
+    <title>The Pathfinder: How Gladys West Shaped The Earth For Modern Gps</title>
+    <quote>GPS Only Exists Because Of Two People: Albert Einstein And Gladys West: As A Young African American Girl Living On A Farm During The Great Depression, Gladys West Discovered She Had A Gift For Math. Forty Years Later, She Mapped The Shape Of Earth And Helped Invent GPSx.</quote>
+    <link>https://hiddenheroes.netguru.com/gladys-west</link>
+  </entry>
+
+   <entry>
+    <title>The Magic Cookie: How Lou Montulli Cured The Web’s Amnesia</title>
+    <quote>More Than Two Decades Ago, Web Pioneer Lou Montulli Invented Browser Software Cookies With The Goal Of Preserving User Privacy Online. But Then Things Took An Unexpected Turn.</quote>
+    <link>https://hiddenheroes.netguru.com/lou-montulli</link>
+  </entry>
+  
+
+  <entry>
+    <title>Data Engineering Best Practices: How Netflix Keeps Its Data Infrastructure Cost-Effective</title>
+    <quote>Instead of setting hard limits on user costs, it decided to empower its data decision makers with as much cost transparency as possible. The centerpiece of this strategy is a custom-built “data efficiency” dashboard that provides a comprehensive source of truth for cost and performance for all Netflix data users and teams.</quote>
+    <link>https://acceldataio.medium.com/data-engineering-best-practices-how-netflix-keeps-its-data-infrastructure-cost-effective-dee310bcc910</link>
+  </entry>
+  
+  <entry>
+    <title>How Douglas Engelbart Invented the Future</title>
+    <quote>Two decades before the personal computer, a shy engineer unveiled the tools that would drive the tech revolution</quote>
+    <link>https://www.smithsonianmag.com/innovation/douglas-engelbart-invented-future-180967498/</link>
+  </entry>
+
+
+ 
+  <entry>
+    <title>How Arm conquered the chip market without making a single chip, with CEO Rene Haas</title>
+    <quote>Arm’s chips are in your iPhone — but what exactly does Arm do?</quote>
+    <link>https://www.theverge.com/23373371/arm-chips-chip-shortage-ceo-rene-haas-tech-intel-apple-decoder</link>
+  </entry>
+  
+</feed>

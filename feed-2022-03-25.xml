@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 25, 2022</date>
+  
+  <entry>
+    <title>Opinion: The illusion of evidence based medicine</title>
+    <quote> The validity of this new paradigm, however, depends on reliable data from clinical trials, most of which are conducted by the pharmaceutical industry and reported in the names of senior academics. The release into the public domain of previously confidential pharmaceutical industry documents has given the medical community valuable insight into the degree to which industry sponsored clinical trials are misrepresented. Until this problem is corrected, evidence based medicine will remain an illusion.</quote>
+    <link>https://www.bmj.com/content/376/bmj.o702</link>
+  </entry>
+  
+  <entry>
+    <title>Peek Into The Future</title>
+    <quote>Because sometimes, a computer display is not just a display — it is a peek into the future.</quote>
+    <link>https://om.co/2022/03/09/apple-studio-display-amazing/</link>
+  </entry>
+
+  <entry>
+    <title>The New York Times’s graphics desk has evolved their cartography over the last month to better illustrate the state of Russia’s invasion.</title>
+    <quote>Interesting to see how the @nytgraphics
+ has changed their map symbology as the Russian war in #Ukraine️ unfolds</quote>
+    <link>https://twitter.com/LeviWesterveld/status/1506253203704356867</link>
+  </entry>
+
+   <entry>
+    <title>A big bet to kill the password for good</title>
+    <quote>This grand vision of ‘Let’s move beyond the password,’ we’ve always had this end state in mind to be honest, it just took until everyone had mobile phones in their pockets,” </quote>
+    <link>https://arstechnica.com/information-technology/2022/03/a-big-bet-to-kill-the-password-for-good/</link>
+  </entry>
+
+  <entry>
+    <title>Web3 is centralized (and inefficient!)</title>
+    <quote>Expecting the financial and tech industry to run on blockchain is like expecting AT&amp;T to run their backbone on a Amazon warehouse sized place full of 56k dial-up modems.</quote>
+    <link>https://www.neelc.org/posts/web3-centralized/</link>
+  </entry>
+  
+</feed>

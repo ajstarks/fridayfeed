@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 19, 2022</date>
+  
+  <entry>
+    <title>The AI Art Apocalypse</title>
+    <quote>This image was created by an AI, MidJourney. All I had to do was type in a prompt (“wildfire”) and aspect ratio. This AI is pretty good, but nowhere near the state of the art, and AI like it are, over the next few years, going to make art like this available within seconds at a cost of pennies. </quote>
+    <link>https://alexanderwales.com/the-ai-art-apocalypse/</link>
+  </entry>
+  
+  <entry>
+    <title>Janet Jackson had the power to crash laptop computers</title>
+    <quote>And then they discovered something extremely weird: Playing the music video on one laptop caused a laptop sitting nearby to crash, even though that other laptop wasn’t playing the video!</quote>
+    <link>https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994</link>
+  </entry>
+
+  <entry>
+    <title>The Case for Brutalist Architecture |</title>
+    <quote>An architecture that is specific and concrete.</quote>
+    <link>https://www.youtube.com/watch?v=VGwVAxRHxgM</link>
+  </entry>
+  
+  <entry>
+    <title>The Essence of Programming</title>
+    <quote>One thing I have noticed a lot when a programmer is struggling to solve a problem, especially a novice, is that he is stuck worrying about the “best way” to implement the solution rather than actually understanding the problem he has. I believe a lot of this stems from not understanding the essence of what programming fundamentally is.</quote>
+    <link>https://www.gingerbill.org/article/2021/02/01/the-essence-of-programming/</link>
+  </entry>
+
+  <entry>
+    <title>This is Facebook’s plan to be cool again</title>
+    <quote>Facebook was once, believe it or not, cool.</quote>
+    <link>https://www.vox.com/recode/2022/8/17/23310168/facebook-mark-zuckerberg-meta-land-of-the-giants-newsfeed-tom-allison-nick-clegg</link>
+  </entry>
+  
+</feed>

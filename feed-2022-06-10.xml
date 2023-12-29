@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 10, 2022</date>
+
+  <entry>
+    <title>Remote work is killing big offices. Cities must change to survive</title>
+    <quote>From London to São Paulo, from Boston to Berlin, there is an opportunity for the metropolis to emerge as something different, something equally essential, but perhaps more equitable, affordable, and humane. To get this transformation right, we can learn from the world of open-source software. </quote>
+    <link>https://stackoverflow.blog/2022/06/06/remote-work-is-killing-big-offices-cities-must-change-to-survive/</link>
+  </entry>
+
+  <entry>
+    <title>Mandatory Student Spyware Is Creating a Perfect Storm of Human Rights Abuses</title>
+    <quote>Another recent report, this one from Senator Warren’s office, concluded that student spyware apps are more dangerous than previously imagined. Their use in schools has disproportionately targeted students from marginalized communities and needlessly increased their contact with law enforcement.</quote>
+    <link>https://www.eff.org/deeplinks/2022/06/mandatory-student-spyware-creating-perfect-storm-human-rights-abuses</link>
+  </entry>
+
+  <entry>
+    <title>Most People Don't Know How Bikes Work</title>
+    <quote>Why are bicycles stable? The most common answer is gyroscopic effects, but this is not right.</quote>
+    <link>https://www.youtube.com/watch?v=9cNmUNHSBac</link>
+  </entry>
+  
+  <entry>
+    <title>Car companies haven’t figured out if they’ll let Apple CarPlay take over all the screens</title>
+    <quote>CarPlay will also, for the first time, use vehicle data to show crucial driving information like speed, fuel level, and engine temperature measurements as well as allow users to control settings including radio or climate.</quote>
+    <link>https://www.theverge.com/2022/6/7/23157963/apple-carplay-next-gen-screen-car-companies</link>
+  </entry>
+
+  <entry>
+    <title>Oracle thinks it can fix healthcare’s biggest tech issue</title>
+    <quote>“We’re building a system where all American citizens’ health records not only exist at the hospital level, but they also are in a unified national health records database,” </quote>
+    <link>https://www.theverge.com/2022/6/10/23162503/oracle-cerner-health-records-data-interoperability</link>
+  </entry>
+
+</feed>

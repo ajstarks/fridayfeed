@@ -1,0 +1,39 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 15, 2022</date>
+ 
+  
+  <entry>
+    <title>First Images from the James Webb Space Telescope</title>
+    <quote>“Today, we present humanity with a groundbreaking new view of the cosmos from the James Webb Space Telescope – a view the world has never seen before,” said NASA Administrator Bill Nelson. “These images, including the deepest infrared view of our universe that has ever been taken, show us how Webb will help to uncover the answers to questions we don’t even yet know to ask; questions that will help us better understand our universe and humanity’s place within it.</quote>
+    <link>https://www.nasa.gov/webbfirstimages</link>
+  </entry>
+
+
+  
+  <entry>
+    <title>He Fixed NASA’s Giant Space Telescope</title>
+    <quote>Gregory Robinson was enjoying another job when NASA persuaded him to take on an enormous astronomy project that was billions of dollars over budget and years behind schedule</quote>
+    <link>https://www.nytimes.com/2022/07/11/science/greg-robinson-webb-telescope-nasa.html?smid=em-share</link>
+  </entry>
+
+   
+  <entry>
+    <title>Amazon’s Ring privacy problem is back</title>
+    <quote>Like it or not, Amazon can give Ring footage to cops without your permission — or even a warrant.</quote>
+    <link>https://www.vox.com/recode/23207072/amazon-ring-privacy-police-footage</link>
+  </entry>
+
+    <entry>
+    <title>Flying to the Moon is like developing on your laptop</title>
+    <quote>As we’ve discussed before, both software development and reaching the Moon benefit from iteration — don’t bite off more than you can chew and try to deliver all your goals in one big shot, but start small and test each little solution or Minimum Viable Product (MVP) as you go. When one looks at the list of Apollo missions, each new mission built on the lessons of the previous one until NASA achieved the G mission — the MVP of actually landing on the Moon.</quote>
+    <link>https://flyingbarron.medium.com/flying-to-the-moon-is-like-developing-on-your-laptop-837480a6d848</link>
+  </entry>
+
+  <entry>
+    <title>Kurt Vonnegut on the 8 “shapes” of stories</title>
+    <quote>The American author said he attempted to bring scientific thinking to literary criticism, but received "very little gratitude for this."</quote>
+    <link>https://bigthink.com/high-culture/vonnegut-shapes/</link>
+  </entry>
+  
+</feed>

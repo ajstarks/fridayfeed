@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 14, 2022</date>
+
+  <entry>
+    <title>My first impressions of web3</title>
+    <quote>Even strictly on the technological level, though, I haven’t yet managed to become a believer. So given all of the recent attention into what is now being called web3, I decided to explore some of what has been happening in that space more thoroughly to see what I may be missing.</quote>
+    <link>https://moxie.org/2022/01/07/web3-first-impressions.html</link>
+  </entry>
+
+  <entry>
+    <title>“Chatbots: Still Dumb After All These Years”</title>
+    <quote>Is it safe to walk downstairs backwards if I close my eyes?  GPT-3: Yes, there is nothing to worry about. It’s safe because the spiral stairs curve outwards, it will make your descent uncomfortable.</quote>
+    <link>https://statmodeling.stat.columbia.edu/2022/01/13/chatbots-still-dumb-after-all-these-years/</link>
+  </entry>
+
+
+
+  <entry>
+    <title>Toxic Culture Is Driving the Great Resignation</title>
+    <quote>A toxic corporate culture, for example, is 10.4 times more powerful than compensation in predicting a company’s attrition rate compared with its industry.</quote>
+    <link>https://sloanreview.mit.edu/article/toxic-culture-is-driving-the-great-resignation/</link>
+  </entry>
+  
+  <entry>
+    <title>Wordle copycat creator apologizes for ripping off the popular free word game</title>
+    <quote>Wordle has skyrocketed to popularity over the past several weeks, with its minimalist design, bite-sized daily puzzles, and the now-iconic grids of grey, yellow, and green squares. The original game is completely free and solely played through a web browser, leaving an opportunity for any number of copycats to try and make a quick buck off the concept on the App Store.</quote>
+    <link>https://www.theverge.com/2022/1/12/22880353/wordle-copycat-creator-apology-word-game-app-store-apple</link>
+  </entry>
+
+  <entry>
+    <title>How health care is turning into a consumer product</title>
+    <quote>Clunky, costly, highly regulated health systems, often dominated by rent-seeking middlemen, are being shaken up by firms that target patients directly, meet them where they are—which is increasingly online—and give them more control over how to access care. </quote>
+    <link>https://www.economist.com/business/how-health-care-is-turning-into-a-consumer-product/21807114</link>
+  </entry>
+  
+
+
+  
+</feed>

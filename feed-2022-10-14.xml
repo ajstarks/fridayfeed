@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 14, 2022</date>
+
+   <entry>
+    <title>Rollercoaster repeatedly triggers iPhone 14 Crash Detection</title>
+    <quote>Apple's latest iPhone and Apple Watch safety feature, Crash Detection, uses onboard sensors and mountains of crash data to detect whether or not it is involved with a car accident. Despite the training of the system, it seems that rollercoasters could be its weakness.</quote>
+    <link>https://appleinsider.com/articles/22/10/09/rollercoaster-repeatedly-triggers-iphone-14s-crash-detection</link>
+  </entry>
+  
+  <entry>
+    <title>Better living through better design</title>
+    <quote>Babcock Ranch is located a few miles inland from Ft. Myers, which was devastated by Ian. It bills itself as “America’s first solar-powered town,” with an impressive array of almost 700,000 solar panels. More than that, it was built with natural disasters in mind: all utilities are underground, it makes use of natural landscaping to help contain storm surges, and streets are designed to divert floodwaters, making use of multiple retaining ponds.</quote>
+    <link>https://uxdesign.cc/better-living-through-better-design-44914a0624f1</link>
+  </entry>
+  
+  <entry>
+    <title>Meta Meets Microsoft</title>
+    <quote>It’s difficult to overstate what a massive win this feels like for Microsoft: the company will have a privileged position on what is for now the most advanced headset with the most resources behind it, not because it is paying for the privilege but because it is the most obvious go-to-market for this new technology. </quote>
+    <link>https://stratechery.com/2022/meta-meets-microsoft/</link>
+  </entry>
+
+  <entry>
+    <title>How Ted Hoff Invented The First Microprocessor</title>
+    <quote>Looking back, Hoff recalled that he never even considered patenting the microprocessor in those days. To him the invention seemed to be obvious, and obviousness was considered grounds for rejecting a patent application (though, Hoff said bitterly, the patent office currently seems to ignore that rule).</quote>
+    <link>https://spectrum.ieee.org/ted-hoff</link>
+  </entry>
+  
+  <entry>
+    <title>The Thorny Problem of Keeping the Internet’s Time</title>
+    <quote>An obscure software system synchronizes the network’s clocks. Who will keep it running?</quote>
+    <link>https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time</link>
+  </entry>
+
+ 
+  
+</feed>

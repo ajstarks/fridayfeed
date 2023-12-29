@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 18, 2022</date>
+  
+  <entry>
+    <title>Medical device development with Raspberry Pi</title>
+    <quote>At the heart of medical device development is the risk management process. In a nutshell the most important thing to remember in medical device development is that “the benefits of using the device must outweigh the residual risks”. You might also have heard the popular healthcare philosophy “first do no harm”. Taking and understanding a risk-based perspective is important, because the perception of risk changes depending on the circumstances and that in turn has significant implications for your device development.</quote>
+    <link>https://www.raspberrypi.com/news/medical-device-development-with-raspberry-pi/</link>
+  </entry>
+  
+  <entry>
+    <title>Celebrating the Art of Code </title>
+    <quote>The Computer History Museum’s yearlong exhibition looks at the software that makes the world</quote>
+    <link>https://spectrum.ieee.org/art-of-code</link>
+  </entry>
+
+  <entry>
+    <title>Why Meta’s latest large language model survived only three days online</title>
+    <quote>Galactica was supposed to help scientists. Instead, it mindlessly spat out biased and incorrect nonsense.</quote>
+    <link>https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/</link>
+  </entry>
+  
+  <entry>
+    <title>What’s wrong with US broadband?</title>
+    <quote>The state of US broadband is bad: It's expensive, most people can't choose their carrier, they add bogus charges, there is no escape from fiber</quote>
+    <link>https://www.theverge.com/2022/11/17/23460070/internet-bill-broadband-survey-data-consumer-reports-cost</link>
+  </entry>
+
+  <entry>
+    <title>If software engineers built buildings…</title>
+    <quote>Wise billionaire reasons that network effects are hard to copy. So He buys the existing pre-populated 100 story building. But wtf is a mud expert and why do you need them? As a wise orange man once said: you’re fired! </quote>
+    <link>https://medium.com/@mikeland86/if-software-engineers-built-buildings-d93558464674</link>
+  </entry>
+  
+</feed>

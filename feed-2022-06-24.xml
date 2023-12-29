@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 24, 2022</date>
+  
+  <entry>
+    <title>SMS phishing is way too easy</title>
+    <quote>It's trivial to make a fake text message do something nefarious</quote>
+    <link>https://www.bejarano.io/sms-phishing/</link>
+  </entry>
+  
+  <entry>
+    <title>Amazon has a plan to make Alexa mimic anyone's voice</title>
+    <quote>Amazon.com Inc wants to give customers the chance to make Alexa, the company's voice assistant, sound just like their grandmother -- or anyone else.</quote>
+    <link>https://www.reuters.com/technology/amazon-has-plan-make-alexa-mimic-anyones-voice-2022-06-22/</link>
+  </entry>
+
+  <entry>
+    <title>17th Century Watercolors</title>
+    <quote>In 1692, a Dutch artist known only as A. Boogert compiled a guidebook on mixing watercolors titled Klaer Lightende Spiegel der Verfkonst comprising nearly 900 pages of handwritten descriptions about how to mix colors and 2,088 hand-painted samples.</quote>
+    <link>https://www.c82.net/work/?id=390</link>
+  </entry>
+  
+  <entry>
+    <title>Yelp’s CEO thinks hybrid work is ‘hell.’ His solution: Take the company fully remote</title>
+    <quote>He called the oft -suggested compromise between fully remote and in-person work “the hell of half measures” in an interview with the Washington Post this week. Although he recognized that workers enjoy the flexibility that hybrid policies offer, Stoppelman insisted that hybrid work was “the worst of both worlds.”</quote>
+    <link>https://fortune.com/2022/06/23/yelp-ceo-jeremy-stoppelman-slams-hybrid-work-closes-offices/?queryly=related_article</link>
+  </entry>
+
+  <entry>
+    <title>Being Boring</title>
+    <quote>Our meetings take too long, our presentations feel empty and no one pays attention. Tools like PowerPoint and Keynote shape the way we live and work, and boring slide presentations are part of the meeting theatre. Could better presentation tools help change the culture of never-ending boredom?</quote>
+    <link>https://ia.net/topics/being-boring</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 9, 2022</date>
+  
+  <entry>
+    <title>How PostScript Kickstarted Desktop Publishing</title>
+    <quote>Adobe’s PostScript became the heart of the digital printing press</quote>
+    <link>https://spectrum.ieee.org/adobe-postscript-code</link>
+  </entry>
+  
+  <entry>
+    <title>Apple GPU drivers now in Asahi Linux</title>
+    <quote>We’re excited to announce our first public Apple Silicon GPU driver release!
+We’ve been working hard over the past two years to bring this new driver to everyone, and we’re really proud to finally be here. This is still an alpha driver, but it’s already good enough to run a smooth desktop experience and some games</quote>
+    <link>https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/</link>
+  </entry>
+
+  <entry>
+    <title>TikTok sued by Indiana over security and safety concerns</title>
+    <quote>The popular social media app TikTok has been sued by the US state of Indiana.</quote>
+    <link>https://www.bbc.com/news/business-63897751</link>
+  </entry>
+  
+  <entry>
+    <title>FTX Contagion</title>
+    <quote>Connections...</quote>
+    <link>https://www.mollywhite.net/etc/ftx-contagion</link>
+  </entry>
+
+  <entry>
+    <title>Fifty years later, remastered images reveal Apollo 17 in stunning clarity</title>
+    <quote>Shortly after midnight, 50 years ago this morning, the Apollo 17 mission lifted off from Florida. With Gene Cernan, Harrison Schmitt, and Ron Evans on board, this was NASA's sixth and final spaceflight to the lunar surface.</quote>
+    <link>https://arstechnica.com/science/2022/12/fifty-years-later-remastered-images-reveal-apollo-17-in-stunning-clarity/</link>
+  </entry>
+  
+</feed>

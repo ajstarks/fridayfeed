@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 16, 2022</date>
+  
+  <entry>
+    <title>The golden age of the streaming wars has ended</title>
+    <quote>For a few years, there was a boon of content, and we were all wonderfully spoiled. And now that’s over.</quote>
+    <link>https://www.theverge.com/2022/12/14/23507793/streaming-wars-hbo-max-netflix-ads-residuals-warrior-nun</link>
+  </entry>
+  
+  <entry>
+    <title>Never, Ever, Ever Use Pixelation for Redacting Text</title>
+    <quote>Today, we’re focusing on one such technique – pixelation – and will show you why it’s a no-good, bad, insecure, surefire way to get your sensitive data leaked. To show you why, I wrote a tool called Unredacter that takes redacted pixelized text and reverses it back into its unredacted form.</quote>
+    <link>https://bishopfox.com/blog/unredacter-tool-never-pixelation</link>
+  </entry>
+
+  <entry>
+    <title>TikTok’s Secret Sauce</title>
+    <quote>TikTok’s algorithm is ordinary. Its real innovation is something else.</quote>
+    <link>https://knightcolumbia.org/blog/tiktoks-secret-sauce</link>
+  </entry>
+  
+  <entry>
+    <title>Generative Problem Solving with Large Language Models</title>
+    <quote>Large language models have recently shown an ability to solve a variety of problems. In this notebook we consider programming problems (as solved by AlphaCode) and mathematics problems (as solved by Minerva).</quote>
+    <link>https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb</link>
+  </entry>
+
+  <entry>
+    <title>The best science images of 2022</title>
+    <quote>Unprecedented views of the cosmos captured imaginations in 2022, as NASA’s James Webb Space Telescope began beaming back images. On Earth, striking pictures came from stressed ecosystems and from the cellular world. From black holes to volcanic eruptions, here are the images that grabbed the attention of Nature’s editors.</quote>
+    <link>https://www.nature.com/immersive/d41586-022-04372-2/index.html</link>
+  </entry>
+  
+</feed>

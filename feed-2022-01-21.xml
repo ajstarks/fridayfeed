@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 21, 2022</date>
+  
+  <entry>
+    <title>Teaching how to code is broken</title>
+    <quote> Imagine if aliens landed on earth and we teach them everything about the shape of a fork, its material, how its made, typical ways of holding it, various shapes of forks, its history, and etymology, but never tell them that a fork is used to pick up food and stick it in the mouth.</quote>
+    <link>https://neil.computer/notes/teaching-how-to-code-is-broken/</link>
+  </entry>
+  
+  <entry>
+    <title>Wordle founder Josh Wardle on going viral and what comes next</title>
+    <quote>'People have an appetite for things that transparently don’t want anything from you.'</quote>
+    <link>https://techcrunch.com/2022/01/12/josh-wardle-interview-wordle/</link>
+  </entry>
+
+  <entry>
+    <title>Architect behind Googleplex now says it's 'dangerous' to work at such a posh office
+</title>
+    <quote>He said blurring the line between work and non-work keeps employees tethered to the office, benefiting the employer most of all. That, he argues, may seem to keep workers happy but can quickly spark burnout.</quote>
+    <link>https://www.npr.org/2022/01/22/1073975824/architect-behind-googleplex-now-says-its-dangerous-to-work-at-such-a-posh-office</link>
+  </entry>
+  
+  <entry>
+    <title>SPOTLIGHT: 100 Days of Happiness</title>
+    <quote>2022 has just started and I’m taking stock of the last year, of achievements, loved ones, and things to work on. Have I lived at my best last year? Have I done everything I could to be happy? What actually happened in 2021? </quote>
+    <link>https://nightingaledvs.com/spotlight-100-days-of-happiness/</link>
+  </entry>
+
+  <entry>
+    <title>Why visual literacy is essential to good data visualization</title>
+    <quote>“Most of us need to listen to the music to understand how beautiful it is. But often that’s how we present statistics: we just show the notes, we don’t play the music.”</quote>
+    <link>https://towardsdatascience.com/why-visual-literacy-is-essential-to-good-data-visualization-5b9dffb5aa6f</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 29, 2022</date>
+  
+  <entry>
+    <title>How to Officially Submit Your Emoji Idea</title>
+    <quote>If you’ve ever had an idea for a new emoji bouncing around in your head, now’s your chance.</quote>
+    <link>https://www.wired.com/story/how-to-submit-emoji-idea/</link>
+  </entry>
+  
+  <entry>
+    <title>How Electricity Actually Works</title>
+    <quote>Maybe not what you thought</quote>
+    <link>https://www.youtube.com/watch?v=oI_X2cMHNe0</link>
+  </entry>
+
+  <entry>
+    <title>Gen Z does not dream of labor</title>
+    <quote>On TikTok and online, the youngest workers are rejecting work as we know it. How will that play out IRL?</quote>
+    <link>https://www.vox.com/the-highlight/22977663/gen-z-antiwork-capitalismc</link>
+  </entry>
+  
+  <entry>
+    <title>Autocorrect Explained: Why Your iPhone Adds Annoying Typos While Fixing Others</title>
+    <quote>Tpying truble? During the iPhone’s first 15 years, its keyboard software has evolved, but it still sometimes flubs your lines. Here’s how it works and what you can do about it.</quote>
+    <link>https://www.wsj.com/articles/autocorrect-explained-why-your-iphone-adds-annoying-typos-while-fixing-others-11651051891</link>
+  </entry>
+
+  <entry>
+    <title>2022 Mac Studio (20-core M1 Ultra) Review</title>
+    <quote>All of a sudden the previously generous upper limit of 100 GFlops on the vertical axis, which all the machines labored towards with diminishing returns, is not even remotely suitable. Performance of the Mac Studio is actually off the chart here.</quote>
+    <link>http://hrtapps.com/blogs/20220427/</link>
+  </entry>
+  
+</feed>

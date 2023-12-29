@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 4, 2022</date>
+  
+  <entry>
+    <title>We’ve filed a lawsuit challenging GitHub Copilot, an AI product that relies on unprecedented open-source software piracy.</title>
+    <quote>By training their AI systems on public GitHub repositories (though based on their public statements, possibly much more) we contend that the defendants have violated the legal rights of a vast number of creators</quote>
+    <link>https://githubcopilotlitigation.com/</link>
+  </entry>
+  
+  <entry>
+    <title>Decker</title>
+    <quote>Decker is a multimedia platform for creating and sharing interactive documents, with sound, images, hypertext, and scripted behavior.</quote>
+    <link>https://github.com/JohnEarnest/Decker/blob/main/Readme.md</link>
+  </entry>
+
+  <entry>
+    <title>Pieca: A Raspberry Pi Camera System for Leica M Mount Lenses</title>
+    <quote>Based on the venerable Raspberry Pi4 and the High-Quality image sensor module it incorporates a 5-in touch screen with a live view and full manual controls. The camera uses the M mount system for attaching lenses. Allowing the camera to use a plethora of small manual lenses from Leica, 7Artisans, TTartisan, and other vintage lenses. </quote>
+    <link>https://teaandtechtime.com/pieca-a-raspberry-pi-camera-system-for-leica-m-mount-lenses/</link>
+  </entry>
+
+  <entry>
+    <title>Web inventor Tim Berners-Lee wants us to ‘ignore’ Web3: ‘Web3 is not the web at all’</title>
+    <quote>Tim Berners-Lee, the computer scientist credited with inventing the World Wide Web, said he doesn’t view blockchain as a viable solution for building the next iteration of the internet.</quote>
+    <link>https://www.cnbc.com/2022/11/04/web-inventor-tim-berners-lee-wants-us-to-ignore-web3.html</link>
+  </entry>
+  
+  <entry>
+    <title>DALL·E API Now Available in Public Beta</title>
+    <quote>Developers can now integrate DALL·E directly into their apps and products through our API. More than 3 million people are already using DALL·E to extend their creativity and speed up their workflows, generating over 4 million images a day.</quote>
+    <link>https://openai.com/blog/dall-e-api-now-available-in-public-beta/</link>
+  </entry>
+
+  <entry>
+    <title>Welcome to The World's First RISC-V Site!</title>
+    <quote>I'm hosting this site on a LicheePi, a RISC-V SBC (Single Board Computer) that costs only $26 USD. </quote>
+    <link>https://riscv.jghuff.com/</link>
+  </entry>
+  
+</feed>

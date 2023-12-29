@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 25, 2022</date>
+  
+  <entry>
+    <title>Turning YouTube Comments Into Art</title>
+    <quote>Chiara Amisola, an artist from the Philippines, believes that the YouTube comments section is “one of the last sacred spaces of the internet.” </quote>
+    <link>https://www.newyorker.com/culture/rabbit-holes/turning-youtube-comments-into-art</link>
+  </entry>
+  
+  <entry>
+    <title>Tax Filing Websites Have Been Sending Users’ Financial Information to Facebook</title>
+    <quote>The information sent to Facebook can be used by the company to power its advertising algorithms and is gathered regardless of whether the person using the tax filing service has an account on Facebook or other platforms operated by its owner, Meta. </quote>
+    <link>https://themarkup.org/pixel-hunt/2022/11/22/tax-filing-websites-have-been-sending-users-financial-information-to-facebook</link>
+  </entry>
+
+  <entry>
+    <title>Continuous glucose monitor startups still have to prove their worth</title>
+    <quote>But a new spate of startups wants me, and everyone, to start thinking about our blood sugar all the time. Over the past few years, companies like Levels, January, and Nutrisense started selling programs that promise to help people start managing their blood sugar levels. They sell devices called continuous glucose monitors: small sensors that embed a tiny needle in someone’s body to track the way their blood sugar (their glucose) levels rise and fall. </quote>
+    <link>https://www.theverge.com/c/23440723/glucose-monitor-wellness-diet-diabetes-startups</link>
+  </entry>
+  
+  <entry>
+    <title>Introduction to Genomics for Engineers</title>
+    <quote>This Guide is written specifically by and for computer scientists and engineers. The underlying biology in cancer genomics can be exceedingly complex and requires years of study. Making the content palatable requires drawing abstractions around these concepts. This guide should be treated as an introduction to the domain that teaches our audience the material in a "broad-strokes" fashion.</quote>
+    <link>https://learngenomics.dev/</link>
+  </entry>
+
+  <entry>
+    <title>Cancer vaccines: the next immunotherapy frontier</title>
+    <quote>After several decades, therapeutic cancer vaccines now show signs of efficacy and potential to help patients resistant to other standard-of-care immunotherapies, but they have yet to realize their full potential and expand the oncologic armamentarium. Here, we classify cancer vaccines by what is known of the included antigens, which tumors express those antigens and where the antigens colocalize with antigen-presenting cells, thus delineating predefined vaccines (shared or personalized) and anonymous vaccines (ex vivo or in situ).</quote>
+    <link>https://www.nature.com/articles/s43018-022-00418-6</link>
+  </entry>
+
+  <entry>
+    <title>Looking to leave Twitter? Here are the social networks seeing new users now</title>
+    <quote>Here's a look at where some Twitter users are testing the waters.</quote>
+    <link>https://www.npr.org/2022/11/24/1139079748/leave-twitter-social-networks-mastodon-hive-post</link>
+  </entry>
+  
+</feed>

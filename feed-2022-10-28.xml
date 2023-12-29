@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 28, 2022</date>
+  
+  <entry>
+    <title>Watch ISS astronaut’s awesome tribute to 2001: A Space Odyssey</title>
+    <quote>During the final days of her six-month mission aboard the International Space Station (ISS), European Space Agency astronaut C has paid tribute to 2001: A Space Odyssey by recreating one of the many memorable moments from the classic 1968 movie.</quote>
+    <link>https://www.digitaltrends.com/space/iss-astronaut-tribute-to-2001-a-space-odyssey/</link>
+  </entry>
+  
+  <entry>
+    <title>State of AI Report 2022</title>
+    <quote>Now in its fifth year, the State of AI Report 2022 is reviewed by leading AI practioners in industry and research. </quote>
+    <link>https://www.stateof.ai/</link>
+  </entry>
+
+  <entry>
+    <title>An Improbable Future</title>
+    <quote>Industrial and Transportation Design of the future, influenced by the past. Designed by AI </quote>
+    <link>https://www.instagram.com/an_improbable_future/</link>
+  </entry>
+  
+  <entry>
+    <title>First Principles: The Building Blocks of True Knowledge</title>
+    <quote>First-principles thinking is one of the best ways to reverse-engineer complicated problems and unleash creative possibility. Sometimes called “reasoning from first principles,” the idea is to break down complicated problems into basic elements and then reassemble them from the ground up.</quote>
+    <link>https://fs.blog/first-principles/</link>
+  </entry>
+
+  <entry>
+    <title>Start with the Hero, Not the Story</title>
+    <quote>“I’m a scientist, not a creative writer.” Wrong. If you work with data, you need to think like an artist. Artists start by thinking about their hero.</quote>
+    <link>https://nightingaledvs.com/start-with-the-hero-not-the-story/</link>
+  </entry>
+  
+</feed>

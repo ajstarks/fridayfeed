@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 7, 2022</date>
+
+  <entry>
+    <title>Blueprint for an AI Bill of Rights</title>
+    <quote>These principles help provide guidance whenever automated systems can meaningfully impact the public’s rights, opportunities, or access to critical needs.</quote>
+    <link>https://www.whitehouse.gov/ostp/ai-bill-of-rights/</link>
+  </entry>
+  
+  <entry>
+    <title>I Have Come To Bury The Bios, Not To Open It: The Need For Holistic Systems</title>
+    <quote>instead of merely relying on marginally better implementations of dated abstractions, we are eliminating the abstractions entirely.</quote>
+    <link>https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/</link>
+  </entry>
+  
+  <entry>
+    <title>Bosses need to accept that employees choose what the future of work looks like</title>
+    <quote>In our era of flexible, hybrid work, companies of all kinds are scrambling to find ways to get their employees back into the office. We are focused on the when and where of work, even though the what and how remain most vital.</quote>
+    <link>https://fortune.com/2022/10/07/bosses-need-accept-employees-choose-future-work-careers-jobs-remote-work-rto-anne-chow/</link>
+  </entry>
+  
+  <entry>
+    <title>Rethinking the Computer Chip in the Age of AI</title>
+    <quote>The Penn team’s ferrodiode design offers groundbreaking flexibility that other compute-in-memory architectures do not. It achieves superior accuracy, performing equally well in not one but three essential data operations that form the foundation of effective AI applications. It supports on-chip storage, or the capacity to hold the enormous amounts of data required for deep learning, parallel search, a function that allows for accurate data filtering and analysis, and matrix multiplication acceleration, the core process of neural network computing.</quote>
+    <link>https://blog.seas.upenn.edu/rethinking-the-computer-chip-in-the-age-of-ai/</link>
+  </entry>
+
+  <entry>
+    <title>Liberating the Smalltalk lurking in C and Unix</title>
+    <quote>This talk introduces liballocs, an infrastructure which exposes the dynamism hiding in the arcane linking and debugging infrastructure of a Unix process, along with a small extension to C toolchains that enables fast dynamic access to data created by statically compiled code. </quote>
+    <link>https://www.youtube.com/watch?v=LwicN2u6Dro</link>
+  </entry>
+  
+</feed>

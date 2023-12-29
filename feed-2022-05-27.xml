@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 27, 2022</date>
+
+  <entry>
+    <title>‘Trash Has Value’: Engineer Turns Plastic Into Bricks That Are Reportedly Stronger Than Concrete</title>
+    <quote>Nzambi Matee, a 30-year-old who quit her job in oil and gas to work on her passion full-time, has created a lightweight and low-cost building material that is made of recycled plastic with sand to make bricks that are stronger than concrete material.</quote>
+    <link>https://peopleofcolorintech.com/break-into-tech/trash-has-value-black-woman-engineer-turns-plastic-into-bricks-that-are-reportedly-stronger-than-concrete/</link>
+  </entry>
+
+  <entry>
+    <title>Tony Fadell explores CT scans of iPods</title>
+    <quote>This month we explore the evolution of the iPod from the inside out with our Lumafield Neptune CT scanner, guided by none other than Tony Fadell, the inventor of the iPod and the founder of Nest.</quote>
+    <link>https://www.scanofthemonth.com/scans/ipod-evolution</link>
+  </entry>
+  
+  <entry>
+    <title>The forgotten benefits of “low tech” user interfaces</title>
+    <quote>Seemingly outmoded technologies sometimes hold the key to better user experiences.</quote>
+    <link>https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83</link>
+  </entry>
+
+  <entry>
+    <title>Computer Science is a Liberal Arts Degree</title>
+    <quote>Thinking about programming as just math and engineering robs programmers of critical skills they need to build effective technology</quote>
+    <link>https://bellmar.medium.com/computer-science-is-a-liberal-arts-degree-b182fd1c0ef1</link>
+  </entry>
+
+  <entry>
+    <title>This is a simulation of the 1972 Atari game Pong at a circuit level.</title>
+    <quote>The original Pong did not have any code or even a microprocessor. It was a circuit, implemented mostly using digital logic chips, with a few timers and other analog components.
+</quote>
+    <link>https://www.falstad.com/pong/net.html</link>
+  </entry>
+  
+</feed>

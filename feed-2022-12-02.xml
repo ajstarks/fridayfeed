@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 2, 2022</date>
+  
+  <entry>
+    <title>Photographs of Films</title>
+    <quote>Capturing a film in its entirety—setting the exposure rate to the film’s duration—in each of these images each motion picture becomes an abstract hue of shifting colours and vague shapes. We’re left with a more atmospheric picture of the film’s feeling rather than its content as colours bleed and blur between frames and slowly recompose the film as something altogether more painterly in tone and character.</quote>
+    <link>https://www.jasonshulmanstudio.com/photographs-of-films</link>
+  </entry>
+  
+  <entry>
+    <title>Tales of the M1 GPU</title>
+    <quote>marcan asked me to write an article about the M1 GPU, so here we are~! It’s been a long road over the past few months and there’s a lot to cover, so I hope you enjoy it!</quote>
+    <link>https://asahilinux.org/2022/11/tales-of-the-m1-gpu/</link>
+  </entry>
+
+  <entry>
+    <title>Why Is Booz Allen Renting Us Back Our Own National Parks?</title>
+    <quote>In 2017, consulting giant Booz Allen cut a deal with the government to extract junk fees from Americans who want to use Federal lands and waters for hunting or fishing. Will Congress or Biden act?</quote>
+    <link>https://mattstoller.substack.com/p/why-is-booz-allen-renting-us-back</link>
+  </entry>
+  
+  <entry>
+    <title>OpenAI invites everyone to test new AI-powered chatbot—with amusing results</title>
+    <quote>ChatGPT aims to produce accurate and harmless talk—but it's a work in progress.</quote>
+    <link>https://arstechnica.com/information-technology/2022/12/openai-invites-everyone-to-test-new-ai-powered-chatbot-with-amusing-results/</link>
+  </entry>
+
+  <entry>
+    <title>Tax Filing Websites Have Been Sending Users’ Financial Information to Facebook</title>
+    <quote>Major tax filing services such as H&amp;R Block, TaxAct, and TaxSlayer have been quietly transmitting sensitive financial information to Facebook when Americans file their taxes online, </quote>
+    <link>https://themarkup.org/pixel-hunt/2022/11/22/tax-filing-websites-have-been-sending-users-financial-information-to-facebook</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 5, 2022</date>
+  
+  <entry>
+    <title>Bringing back the golden days of Bell Labs
+</title>
+    <quote>Bell Labs produced both fundamental breakthroughs that changed our understanding of the Universe and technological advances that have shaped the modern world.</quote>
+    <link>https://www.nature.com/articles/s42254-022-00426-6#content</link>
+  </entry>
+  
+  <entry>
+    <title>MIT invents $4 solar desalination device</title>
+    <quote>Researchers from MIT and China have developed a solar desalination device that could provide a family of four with all the drinking water it needs — and it can be made from just $4 worth of materials.</quote>
+    <link>https://www.freethink.com/technology/solar-desalination</link>
+  </entry>
+
+  <entry>
+    <title>Why Is the Human Brain So Efficient?</title>
+    <quote>How massive parallelism lifts the brain’s performance above that of AI.</quote>
+    <link>https://nautil.us/why-is-the-human-brain-so-efficient-7216/</link>
+  </entry>
+  
+  <entry>
+    <title>Building a Next-Level Camera</title>
+    <quote>Can this old lens become legendary? I think it can! </quote>
+    <link>https://www.youtube.com/watch?v=9cT0jXI7l4E</link>
+  </entry>
+
+  <entry>
+    <title>Experimenting Can Lead to Great Dataviz</title>
+    <quote>Developing an interactive visualization from scratch in seven days: a step-by-step process</quote>
+    <link>https://nightingaledvs.com/experimenting-can-lead-to-great-dataviz/</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 1, 2022</date>
+  
+  <entry>
+    <title>Raspberry Pi Pico W: your $6 IoT platform</title>
+    <quote>Today, we’re launching three new members of the Pico family. Raspberry Pi Pico W is priced at $6, and brings 802.11n wireless networking to the Pico platform, while retaining complete pin compatibility with its older sibling. </quote>
+    <link>https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/</link>
+  </entry>
+  
+  <entry>
+    <title>Why Passkeys Will Be Simpler and More Secure Than Passwords</title>
+    <quote>Passkeys Bring the Benefits of Public-Key Cryptography to Everyday Logins</quote>
+    <link>https://tidbits.com/2022/06/27/why-passkeys-will-be-simpler-and-more-secure-than-passwords/</link>
+  </entry>
+
+  <entry>
+    <title>Tesla hit by new lawsuit alleging racial abuse</title>
+    <quote>Fifteen black former or current employees allege they faced racial abuse and harassment at carmaker’s factories</quote>
+    <link>https://www.theguardian.com/technology/2022/jul/01/tesla-hit-by-new-lawsuit-alleging-racial-abuse</link>
+  </entry>
+  
+  <entry>
+    <title>NASA scientists say images from the Webb telescope nearly brought them to tears</title>
+    <quote>Deep field images of the universe, exoplanet atmospheres, and more to be unveiled.</quote>
+    <link>https://arstechnica.com/science/2022/06/nasa-teases-extraordinary-images-captured-by-its-webb-telescope/</link>
+  </entry>
+
+  <entry>
+    <title>How Amazon Branded Convenience and Normalized Monopoly</title>
+    <quote> Emily West, a communication professor at UMass Amherst, examines Amazon’s consumer-facing services to investigate how the brand grew so quickly and attained a level of ubiquity in our lives while hiding in plain sight. Amazon, West argues, is very big in multiple respects, but prefers that we don’t notice.</quote>
+    <link>https://thereader.mitpress.mit.edu/how-amazon-branded-convenience-and-normalized-monopoly/</link>
+  </entry>
+
+  <entry>
+    <title>In Kenya, a community regrew its forest — and redefined reforestation success</title>
+    <quote>What started as a group effort to find a solution to deforestation has seen a rural community in Kenya successfully regenerate 50% of their once denuded forest by planting at least 300,000 trees in just five years.</quote>
+    <link>https://news.mongabay.com/2022/02/in-kenya-a-community-regrew-its-forest-and-redefined-reforestation-success/</link>
+  </entry>
+  
+</feed>

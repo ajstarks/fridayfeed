@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 9, 2022</date>
+  
+  <entry>
+    <title>Why public chats are better than direct messages</title>
+    <quote>If Alice has a question for Bob, she is likely to ask Bob directly rather than posting a question in a group team chat. At ivelum, we do the opposite.</quote>
+    <link>https://teamplify.com/blog/why-public-chats-are-better-than-direct-messages/</link>
+  </entry>
+  
+  <entry>
+    <title>Why Does This Horrifying Woman Keep Appearing in AI-Generated Images?</title>
+    <quote>“Loab” is creepypasta for the AI generation, and nobody understands where she came from.</quote>
+    <link>https://www.vice.com/en/article/g5vjw3/why-does-this-horrifying-woman-keep-appearing-in-ai-generated-images</link>
+  </entry>
+
+  <entry>
+    <title>Doomscrolling linked to poor physical and mental health, study finds</title>
+    <quote>The tendency to be glued to bad news can spark a ‘vicious cycle’ that interferes with our lives, researcher says</quote>
+    <link>https://www.theguardian.com/society/2022/sep/06/doomscrolling-linked-to-poor-physical-and-mental-health-study-finds</link>
+  </entry>
+  
+  <entry>
+    <title>Some Things I Realized about AI while Contemplating Slide Rule Prices on Ebay</title>
+    <quote>Engineers in many industries are focused on the details and reliant on the simulations to put all the pieces together to make a coherent whole. The problem with simulating everything to death is that it actually helps keep us ignorant of basic principles.</quote>
+    <link>http://misc-stuff.terraaeon.com/articles/slide-rule-prices.html</link>
+  </entry>
+
+  <entry>
+    <title>The first Bible completely illustrated by an Artificial Intelligence (AI)</title>
+    <quote>Each of the 31,000+ verses of the Bible is accompanied by a unique illustration created by the AI model Stable Diffusion</quote>
+    <link>https://baible.com/</link>
+  </entry>
+  
+</feed>

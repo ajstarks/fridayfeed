@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 11, 2022</date>
+  
+  <entry>
+    <title>Disney Filmmaking Process</title>
+    <quote>What goes into making an animated film?</quote>
+    <link>https://disneyanimation.com/process/</link>
+  </entry>
+  
+  <entry>
+    <title>A look inside the chips that powered the landmark Polaroid SX-70 instant camera</title>
+    <quote>When the shutter button is pressed, the camera carried out several tasks with precision timing. First, a solenoid closes the shutter, blocking the entry of light into the camera. Next, the motor is turned on, causing the camera's internal mirror to flip up to uncover the film. The solenoid is then de-energized, causing the shutter to open. The film exposure time depends on the light level; at the appropriate time, the solenoid closes the shutter again to stop exposure. Finally, the motor runs again to eject the film and reset the mirror.</quote>
+    <link>https://www.righto.com/2022/02/a-look-inside-chips-that-powered.html</link>
+  </entry>
+
+  <entry>
+    <title>Lock-in and Multi-Cloud</title>
+    <quote>So buying into a single cloud vendor just makes life easier. But… lock-in. It’s not just a ghost story. Consider that the vast majority of the world’s large enterprises have lost control of their per-employee desktop-software spend. They pay whatever Microsoft tells them they’re gonna pay. A smaller but substantial number have also lost control of their database licensing and support spend. They pay whatever Oracle tells them they’re going to.</quote>
+    <link>https://www.tbray.org/ongoing/When/202x/2022/01/30/Cloud-Lock-In</link>
+  </entry>
+
+  <entry>
+    <title>Sony Trained An AI To Be So Good At Gran Turismo It Started Driving Like A Total Jerk</title>
+    <quote>A team at Sony AI — the tech giant’s research division — taught its agent Sophy to be the fastest in the world at Gran Turismo. Also much like humans, the better Sophy got at GT, the more it was kind of a jerk about it.</quote>
+    <link>https://jalopnik.com/sony-trained-an-ai-to-be-so-good-at-gran-turismo-it-sta-1848516258</link>
+  </entry>
+
+ <entry>
+    <title>BeyondCorp is dead, long live BeyondCorp</title>
+    <quote>With the US government’s recent memo on Zero Trust Cybersecurity Principles, there’s renewed interest (and investment) from organizations in adopting zero trust architectures. BeyondCorp, Google’s initial implementation which spawned the pursuit of zero trust in general...in reality, however, no organization has successfully implemented a fully zero trust architecture, and many proponents of zero trust—including the US government—have missed a key component: devices. </quote>
+    <link>https://mayakaczorowski.com/blogs/beyondcorp-is-dead</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,38 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 12, 2022</date>
+
+  <entry>
+    <title>Teens have abandoned Facebook, Pew study says</title>
+    <quote>Gen Z internet use is on the rise, but the rate at which teens use Facebook is rapidly declining. A Pew Research Center study on teens, technology and social media found that only 32% of teens aged 13-17 use Facebook at all, but in a previous survey from 2014-2015, that figure was 71%, beating out platforms like Instagram and Snapchat.</quote>
+    <link>https://techcrunch.com/2022/08/11/teens-abandoned-facebook-pew-study/</link>
+  </entry>
+
+  <entry>
+    <title>Work From Office</title>
+    <quote>Remote work offers a huge unlock for caregivers. Also, the physical workplace offers guardrails, structure, and connections for a generation that’s been robbed of relationships and growth. We are a social species. We live in a capitalist society. Find mentors, colleagues, and mates … get to the office. </quote>
+    <link>https://www.profgalloway.com/work-from-office/</link>
+  </entry>
+  
+  
+  <entry>
+    <title>LEGOmetry – the geometry of LEGO bricks</title>
+    <quote>LEGO elements have their own geometry...</quote>
+    <link>https://holgermatthes.de/bricks/en/geometry.php</link>
+  </entry>
+  
+  <entry>
+    <title>'Unless You Make Animation Real, You Can't Make It Funny'</title>
+    <quote>She observes that “unless you make [animation] real, you can’t make [it] funny,” and explains how she concentrates on infusing a realistic feeling of weight into the characters to make their actions believable.</quote>
+    <link>https://animationobsessive.substack.com/p/unless-you-make-animation-real-you</link>
+  </entry>
+
+  <entry>
+    <title>Dos and Don'ts of Machine Learning in Computer Security</title>
+    <quote>Despite great potential, machine learning in security is prone to subtle pitfalls that undermine its performance and render learning-based systems potentially unsuitable for security tasks and practical deployment. In this paper, we look at this problem with critical eyes.</quote>
+    <link>https://www.usenix.org/system/files/sec22summer_arp.pdf</link>
+  </entry>
+  
+
+
+</feed>

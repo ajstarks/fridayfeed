@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 13, 2022</date>
+  
+  <entry>
+    <title>There’s No Such Thing as Constructive Criticism</title>
+    <quote>Here’s a question guaranteed to make your stomach lurch: “Would you mind if I gave you some feedback?”</quote>
+    <link>https://hbr.org/2011/11/theres-no-such-thing-as-constr.html</link>
+  </entry>
+  
+  <entry>
+    <title>Apple is discontinuing the iPod</title>
+    <quote>Since its introduction over 20 years ago, iPod has captivated users all over the world who love the ability to take their music with them on the go.</quote>
+    <link>https://www.apple.com/newsroom/2022/05/the-music-lives-on/</link>
+  </entry>
+
+  <entry>
+    <title>Why This Computer Scientist Says All Cryptocurrency Should “Die in a Fire”</title>
+    <quote>This is a virus. Its harms are substantial. It has enabled billion dollar criminal enterprises. It has enabled venture capitalists to do securities fraud as their business. It has sucked people in. So either avoid it or help me make it die in a fire.</quote>
+    <link>https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/</link>
+  </entry>
+  
+  <entry>
+    <title>How Black Holes Really Work</title>
+    <quote>Astronomer here! With all the black hole news lately, it's worth a reminder that black holes are NOT like giant vacuum cleaners that "suck everything in" or similar.  This is a common misconception and not at all how black holes work! </quote>
+    <link>https://twitter.com/whereisyvette/status/1525206927529103360</link>
+  </entry>
+
+  <entry>
+    <title>U.S. warns of discrimination in using artificial intelligence to screen job candidates</title>
+    <quote>The U.S. Justice Department and the Equal Employment Opportunity Commission jointly issued guidance to employers to take care before using popular algorithmic tools meant to streamline the work of evaluating employees and job prospects — but which could also potentially run afoul of the Americans with Disabilities Act.</quote>
+    <link>https://www.npr.org/2022/05/12/1098601458/artificial-intelligence-job-discrimination-disabilities</link>
+  </entry>
+  
+</feed>

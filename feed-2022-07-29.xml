@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 29, 2022</date>
+  
+  <entry>
+    <title>TikTok and the Fall of the Social-Media Giants</title>
+    <quote>Facebook is trying to copy TikTok, but this strategy may well signal the end of these legacy platforms.</quote>
+    <link>https://www.newyorker.com/culture/cultural-comment/tiktok-and-the-fall-of-the-social-media-giants</link>
+  </entry>
+  
+  <entry>
+    <title>‘The entire protein universe’: AI predicts shape of nearly every known protein</title>
+    <quote>DeepMind’s AlphaFold tool has determined the structures of around 200 million proteins.</quote>
+    <link>https://www.nature.com/articles/d41586-022-02083-2</link>
+  </entry>
+
+  <entry>
+    <title>How far can you go by train in 5h?</title>
+    <quote>This map shows you how far you can travel from each station in Europe in less than 5 hours.</quote>
+    <link>https://chronotrains-eu.vercel.app/</link>
+  </entry>
+  
+  <entry>
+    <title>MIT, Autodesk develop AI that can figure out confusing Lego instructions</title>
+    <quote>But can it build my Ikea dresser?</quote>
+    <link>https://www.theregister.com/2022/07/27/lego_machine_learning_ai_framework/</link>
+  </entry>
+
+  <entry>
+    <title>GFP-GAN is a New Free AI Tool That Can Fix Most Old Photos Instantly</title>
+    <quote>Anyone who has old photographs of their families and friends that have not held up well against time, regardless of the small and/or poor condition of the image, now has the chance to restore their faded and cracked images, returning them to their original state, or even better.</quote>
+    <link>https://petapixel.com/2022/07/28/gfpgan-is-a-new-free-ai-tool-that-can-fix-most-old-photos-instantly/</link>
+  </entry>
+  
+</feed>

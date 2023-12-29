@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 30, 2022</date>
+  
+  <entry>
+    <title>What happened to Southwest Airlines?</title>
+    <quote>the frontline employees have been watching this meltdown coming like a slow motion train wreck for sometime. And we’ve been begging our leadership to make much needed changes in order to avoid it. What happened yesterday started two decades ago.</quote>
+    <link>https://old.reddit.com/r/SouthwestAirlines/comments/zxg6op/the_history_of_swa_destruction_from_within/</link>
+  </entry>
+
+  <entry>
+    <title>The Year in Quiet Quitting</title>
+    <quote>A new generation discovers that it’s hard to balance work with a well-lived life.</quote>
+    <link>https://www.newyorker.com/culture/2022-in-review/the-year-in-quiet-quitting</link>
+  </entry>
+  
+  <entry>
+    <title>Annotated History of Modern AI and Deep Learning</title>
+    <quote>From the perspective of 2022, I provide a timeline of the—in hindsight—most important relevant events in the history of NNs, deep learning, AI, computer science, and mathematics in general, crediting those who laid foundations of the field.</quote>
+    <link>https://people.idsia.ch/~juergen/deep-learning-history.html</link>
+  </entry>
+
+    <entry>
+    <title>Where Does ChatGPT Fall on the Political Compass?</title>
+    <quote>Since ChatGPT provides responses to almost any query provided to it, I decided to use several political orientation tests to determine whether its answers display a skew toward any particular political ideology.</quote>
+    <link>https://reason.com/2022/12/13/where-does-chatgpt-fall-on-the-political-compass/</link>
+  </entry>
+
+  <entry>
+    <title>The Raspberry Pi Super Computer in DevNucleus at Cloud World 2022</title>
+    <quote>The Raspberry Pi Super Computer was originally built for Oracle Open World in October 2019. There are 1050 Raspberry Pi 3b+ in four server racks configured in a big square box reminiscent of a British police box popularized in a certain BBC TV series. Fast forward to today, and The Raspberry Pi Super Computer (Pi Cluster) was sent to e-waste, some parts stripped off it, and sat dormant for two years until May of this year, when it found its way to my garage for a complete overhaul.</quote>
+    <link>https://github.com/chrisbensen/chris-blogs/blob/main/%CF%80Cluster/CloudWorld2022/CloudWorld-DevNucleus2022.md</link>
+  </entry>
+  
+  
+</feed>

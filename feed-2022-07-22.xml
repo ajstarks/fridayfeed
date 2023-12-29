@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 22, 2022</date>
+
+
+  <entry>
+    <title>COMIC: How living on Mars time taught me to slow down</title>
+    <quote>We're landing a priceless asset on the surface of Mars and we want to make use of every minute.</quote>
+    <link>https://www.npr.org/2022/07/22/1112484935/nasa-engineer-nagin-cox-mars-rover</link>
+  </entry>
+  
+  
+  <entry>
+    <title>Amazon wants to be your doctor now, too</title>
+    <quote>In the United States, health care can be expensive and difficult to obtain — and the quality doesn’t always match the cost. It’s possible that technology companies like Amazon have the answer to what ails the industry that’s supposed to fix what ails us. It’s also possible that their moves into that sector will give them even more power over us and yet another industry to dominate. </quote>
+    <link>https://www.vox.com/recode/2022/7/21/23273207/amazon-one-medical-merger-telehealth-antitrust</link>
+  </entry>
+  
+  <entry>
+    <title>Unboxing and using a $100 Chromebook</title>
+    <quote>Yes, for barely more than the price of an Apple power adapter, you can buy a WHOLE laptop -- including the power adapter! I bought this little machine expecting it to be just unusable: demonstrating the Jurassic Park axiom of "just because they could, they didn't think to ask whether they should". But it's really quite astonishing that you can buy a fully-serviceable machine for a two digit price.</quote>
+    <link>https://twitter.com/timsneath/status/1550598445248811008</link>
+  </entry>
+
+ 
+  <entry>
+    <title>The Great Fiction of AI</title>
+    <quote>Authors paste what they’ve written into a soothing sunset-colored interface, select some words, and have the AI rewrite them in an ominous tone, or with more inner conflict, or propose a plot twist, or generate descriptions in every sense plus metaphor. </quote>
+    <link>https://www.theverge.com/c/23194235/ai-fiction-writing-amazon-kindle-sudowrite-jasper</link>
+  </entry>
+
+  <entry>
+    <title>30% of Google's Emotions Dataset is Mislabeled</title>
+    <quote>First of all, language doesn’t live in a vacuum! Why would you present a comment with no additional metadata? Second, Google used data labelers unfamiliar with US English and US culture – despite Reddit being a US-centric site with particularly specialized memes and jargon.</quote>
+    <link>https://www.surgehq.ai//blog/30-percent-of-googles-reddit-emotions-dataset-is-mislabeled</link>
+  </entry>
+ </feed>
