@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 1, 2019</date>
+
+  <entry>
+    <title>The state of AI in 2019</title>
+    <quote>While the phrase “artificial intelligence” is unquestionably, undoubtedly misused, the technology is doing more than ever — for both good and bad. It’s being deployed in health care and warfare; it’s helping people make music and books; it’s scrutinizing your resume, judging your creditworthiness, and tweaking the photos you take on your phone. In short, it’s making decisions that affect your life whether you like it or not.</quote>
+    <link>https://www.theverge.com/2019/1/28/18197520/ai-artificial-intelligence-machine-learning-computational-science</link>
+  </entry>
+
+  <entry>
+    <title>Applied Machine Learning is a Meritocracy</title>
+    <quote>Machine learning is a multidisciplinary field, meaning that you have people coming to it with backgrounds all across the fields of science and engineering. It also means that there is no archetype for the “machine learning practitioner”,</quote>
+    <link>https://machinelearningmastery.com/applied-machine-learning-is-a-meritocracy/</link>
+  </entry>
+
+  <entry>
+    <title>Want To Design Great Digital Experiences? Start Working With Architects</title>
+    <quote>“There are two majority roles in our life right now. Half the world is digital. Half the world is physical,” Neubert explains. “So I said, ‘How can I bring these two things together, where can I find a place to do that?”</quote>
+    <link>https://www.fastcompany.com/90158283/want-to-design-great-digital-experiences-start-working-with-architects</link>
+  </entry>
+
+  <entry>
+    <title>The Experience Vision: A Self-Fulfilling UX Strategy</title>
+    <quote>The easiest way to create an effective experience vision story is to start with the current experience. What makes today’s experience with our product or service frustrating for our users?</quote>
+    <link>https://articles.uie.com/the-experience-vision-a-self-fulfilling-ux-strategy/</link>
+  </entry>
+
+ <entry>
+    <title>Explainer: What is a quantum computer?</title>
+    <quote>Thanks to this counterintuitive phenomenon, a quantum computer with several qubits in superposition can crunch through a vast number of potential outcomes simultaneously. The final result of a calculation emerges only once the qubits are measured, which immediately causes their quantum state to “collapse” to either 1 or 0</quote>
+    <link>https://www.technologyreview.com/s/612844/what-is-quantum-computing/</link>
+  </entry>
+
+  <entry>
+    <title>Amazon Web Services brought in more money than McDonald’s in 2018</title>
+    <quote>Amazon Web Services, in other words, is the size of a large and fully independent company.</quote>
+    <link>https://qz.com/1539546/amazon-web-services-brought-in-more-money-than-mcdonalds-in-2018/</link>
+  </entry>
+
+</feed>

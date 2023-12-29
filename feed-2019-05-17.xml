@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 17, 2019</date>
+
+   <entry>
+    <title>The inside story of why Amazon bought PillPack in its effort to crack the $500 billion prescription market</title>
+    <quote>PillPack is just a piece of Amazon’s expansive plan to uproot the $3 trillion U.S. health-care industry. The company is also working with J.P. Morgan Chase and Berkshire Hathaway on a joint venture called Haven aiming to improve care and bring down the costs.</quote>
+    <link>https://www.cnbc.com/2019/05/10/why-amazon-bought-pillpack-for-753-million-and-what-happens-next.html</link>
+  </entry>
+
+  <entry>
+    <title>How AI could save lives without spilling medical secrets</title>
+    <quote>Oasis stores the private patient data on a secure chip, designed in collaboration with other researchers at Berkeley. The data remains within the Oasis cloud; outsiders are able to run algorithms on the data, and receive the results, without its ever leaving the system. A smart contract—software that runs on top of a blockchain—is triggered when a request to access the data is received. This software logs how the data was used and also checks to make sure the machine-learning computation was carried out correctly.</quote>
+    <link>https://www.technologyreview.com/s/613520/how-ai-could-save-lives-without-spilling-secrets</link>
+  </entry>
+
+  <entry>
+    <title>What is a Neural Network?</title>
+    <quote>YouTube Series on the basics of neural networks and deep learning</quote>
+    <link>https://www.youtube.com/watch?v=aircAruvnKk</link>
+  </entry>
+
+  <entry>
+    <title>Stanford University: Illustrated Machine Learning Cheatsheets</title>
+    <quote>A set of illustrated Machine Learning cheatsheets covering the content of the CS 229 class, which I TA-ed in Fall 2018 at Stanford. They can (hopefully!) be useful to all future students of this course as well as to anyone else interested in Machine Learning.</quote>
+    <link>https://stanford.edu/~shervine/teaching/cs-229/</link>
+  </entry>
+
+  <entry>
+    <title>A new way to build tiny neural networks could create powerful AI on your phone</title>
+    <quote>We’ve been wasting our processing power to train neural networks that are ten times too big.</quote>
+    <link>https://www.technologyreview.com/s/613514/a-new-way-to-build-tiny-neural-networks-could-create-powerful-ai-on-your-phone/</link>
+  </entry>
+
+  <entry>
+	<title>People + AI Guidebook</title>
+	<quote>This Guidebook will help you build human-centered AI products. It’ll enable you to avoid common mistakes, design excellent experiences, and focus on people as you build AI-driven applications.</quote>
+	<link>https://pair.withgoogle.com/</link>
+  </entry>
+</feed>

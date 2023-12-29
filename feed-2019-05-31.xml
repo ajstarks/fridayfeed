@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 31, 2019</date>
+
+  <entry>
+    <title>Open Insulin</title>
+    <quote>A team of Bay Area biohackers working on newer, simpler, less expensive ways to make insulin.</quote>
+    <link>http://openinsulin.org/</link>
+  </entry>
+
+  <entry>
+    <title>Introducing Mercury OS</title>
+    <quote>A speculative vision of the operating system, driven by humane design principles.</quote>
+    <link>https://uxdesign.cc/introducing-mercury-os-f4de45a04289</link>
+  </entry>
+
+  <entry>
+    <title>Insecure and Unintuitive: How We Need to Fix the UX of Security</title>
+    <quote>The most expensive dialog box in the world costs an Australian bank $750,000,000/year for password resets.</quote>
+    <link>https://www.uie.com/jared-live/#fix-ux-of-security</link>
+  </entry>
+
+  <entry>
+    <title>The end of mobile</title>
+    <quote>How many people would have these things? Now, we know the answer: everyone. Everyone would have one. </quote>
+    <link>https://www.ben-evans.com/benedictevans/2019/5/28/the-end-of-mobile</link>
+  </entry>
+
+
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

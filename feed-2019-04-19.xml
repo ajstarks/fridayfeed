@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 19, 2019</date>
+
+  <entry>
+    <title>AI Helps Classify Lung Cancer at the Pathologist Level</title>
+    <quote>“Considering the quick turnaround time of our model, it could be integrated into existing laboratory information management systems to automatically pre-populate diagnoses for histologic patterns on slides or provide a second opinion on more challenging patterns. In addition, a visualization of the entire slide, examined by our model at the piecewise level, could highlight elusive areas of high-grade patterns as well as primary regions of tumor cells,” </quote>
+    <link>https://news.developer.nvidia.com/ai-helps-classify-lung-cancer-at-the-pathologist-level</link>
+  </entry>
+
+  <entry>
+    <title>3D Printing of Personalized Thick and Perfusable Cardiac Patches and Hearts</title>
+    <quote>a simple approach to 3D‐print thick, vascularized, and perfusable cardiac patches that completely match the immunological, cellular, biochemical, and anatomical properties of the patient is reported. </quote>
+    <link>https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201900344</link>
+  </entry>
+
+  <entry>
+    <title>This is how AI bias really happens—and why it’s so hard to fix</title>
+    <quote>Bias can creep in at many stages of the deep-learning process, and the standard practices in computer science aren’t designed to detect it.</quote>
+    <link>https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix</link>
+  </entry>
+
+  <entry>
+    <title>How Algorithms Know What You’ll Type Next</title>
+    <quote>This article is about how text predictors work, and how crucial the input language dataset is for the resulting predictions. To see how this in action, we will predict tweets by four Twitter accounts: Barack Obama, Justin Timberlake, Kim Kardashian, and Lady Gaga.</quote>
+    <link>https://pudding.cool/2019/04/text-prediction/</link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 4, 2019</date>
+  
+  <entry>
+    <title>Software Engineering at Google</title>
+    <quote>There are many reasons for Google’s success, including enlightened leadership, great people, a high hiring bar, and the financial strength that comes from successfully taking advantage of an early lead in a very rapidly growing market. But one of these reasons is that ​Google has developed excellent software engineering practices​, which have helped it to succeed. These practices have evolved over time based on the accumulated and distilled wisdom of many of the most talented software engineers on the planet. We would like to share knowledge of our practices with the world, and to share some of the lessons that we have learned from our mistakes along the way.</quote>
+    <link>https://arxiv.org/pdf/1702.01715.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>How the Artificial-Intelligence Program AlphaZero Mastered Its Games</title>
+    <quote>While their system is general-purpose enough to work for many two-person games, the researchers had adapted it specifically for Go, chess, and shogi (“Japanese chess”); it was given no knowledge beyond the rules of each game. At first it made random moves. Then it started learning through self-play. Over the course of nine hours, the chess version of the program played forty-four million games against itself on a massive cluster of specialized Google hardware. After two hours, it began performing better than human players; after four, it was beating the best chess engine in the world.</quote>
+    <link>https://www.newyorker.com/science/elements/how-the-artificial-intelligence-program-alphazero-mastered-its-games</link>
+  </entry>
+
+  <entry>
+    <title>Overlooked No More: Karen Sparck Jones, Who Established the Basis for Search Engines</title>
+    <quote>When most scientists were trying to make people use code to talk to computers, Karen Sparck Jones taught computers to understand human language instead. In so doing, her technology established the basis of search engines like Google.</quote>
+    <link>https://nyti.ms/2GNV8wA</link>
+  </entry>
+  
+  <entry>
+    <title>Towards a Human Artificial Intelligence for Human Development</title>
+    <quote>This paper discusses the possibility of applying the key principles and tools of current artificial intelligence (AI) to design future human systems in ways that could make them more efficient, fair, responsive, and inclusive.</quote>
+    <link>https://www.itu.int/en/journal/002/Documents/ITU2018-15.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Childhood's End: The digital revolution isn’t over but has turned into something else</title>
+    <quote>The next revolution will be the ascent of analog systems over which the dominion of digital programming comes to an end. Nature’s answer to those who sought to control nature through programmable machines is to allow us to build machines whose nature is beyond programmable control.</quote>
+    <link>https://www.edge.org/conversation/george_dyson-childhoods-end</link>
+  </entry>
+</feed>

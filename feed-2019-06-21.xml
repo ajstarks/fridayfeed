@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 21, 2019</date>
+
+  <entry>
+    <title>AI could be the key to catching Type 1 diabetes much earlier</title>
+    <quote>At the American Diabetes Association's 79th Scientific Sessions in early June, IBM and JDRF (formerly known as the Juvenile Diabetes Research Foundation), a nonprofit that spearheads Type 1 diabetes research, unveiled a predictive AI tool that has mapped the presence of Type 1 diabetes antibodies in blood to figure out exactly when and how the condition could develop.</quote>
+    <link>https://www.engadget.com/2019/06/17/ibm-ai-type-1-diabetes-screening-health/</link>
+  </entry>
+
+  <entry>
+    <title>Google Assistant bests Alexa and Siri in most-used medication knowledge</title>
+    <quote>Research released today and published in Nature Digital Medicine that examines AI assistant intelligence about the 50 most-used medications in the United States gave Google Assistant a comprehension score of 91.8% accuracy on brand-name medication and 84.3% for generic names, followed by 58.5% and 51.2% for Siri, and 54.6% and 45.5 for Alexa.</quote>
+    <link>https://venturebeat.com/2019/06/20/google-assistant-bests-alexa-and-siri-in-medicine-knowledge/</link>
+  </entry>
+
+  <entry>
+    <title>End-User Probabilistic Programming</title>
+    <quote>From Microsoft Research: The purpose of this paper is to bring together two rather distinct approaches to
+decision making under uncertainty: spreadsheets and probabilistic programming.  We start by introducing these two approaches.</quote>
+    <link>https://www.cs.uoregon.edu/research/summerschool/summer19/lecture_notes/DRAFT___Probabilistic_Programming_for_End_Users.pdf</link>
+  </entry>
+
+  <entry>
+    <title>How to design AI tools for the workplace, according to Google</title>
+    <quote>To ensure we’re building the right type of AI tools for employees, we tested AI products among our employee base of nearly 100,000 people to see how different machine-learning models played out in real circumstances. We identified the following core principles as the ones people most want to see in workplace AI.</quote>
+    <link>https://qz.com/work/1641696/google-ux-lead-on-getting-ai-right-in-the-workplace/</link>
+  </entry>
+
+  <entry>
+    <title>Nines are Not Enough: Meaningful Metrics for Clouds</title>
+    <quote>Providers also must define internal metrics to allow them to operate their systems without violating customer promises or expectations. We explore why these guarantees are hard to define. We show that this problem shares some similarities with the challenges of applying statistics to make decisions based on sampled data. We also suggest that defining guarantees in terms of defense against threats, rather than guarantees for application-visible outcomes, can reduce the complexity of these problems. Overall, we offer a partial framework for thinking about Service Level Objectives (SLOs), and discuss some unsolved challenges.</quote>
+    <link>https://ai.google/research/pubs/pub48033</link>
+  </entry>
+</feed>

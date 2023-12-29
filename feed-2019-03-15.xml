@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 15, 2019</date>
+
+  <entry>
+    <title>Lessons learned building natural language processing systems in health care</title>
+    <quote>NLP systems in health care are hard—they require broad general and medical knowledge, must handle a large variety of inputs, and need to understand context.</quote>
+    <link>https://www.oreilly.com/ideas/lessons-learned-building-natural-language-processing-systems-in-health-care</link>
+  </entry>
+
+  <entry>
+    <title>Welcome to Health News</title>
+    <quote>Health News is built and maintained by the team behind Nukleosome. The ultimate goal of this online community is to create an intelligent discourse on human health. </quote>
+    <link>https://news.nukleosome.com/</link>
+  </entry>
+
+  <entry>
+    <title>Iodide: an experimental tool for scientific communication and exploration on the web</title>
+    <quote>But to date, very few tools have focused on helping scientists gain unfiltered access to the full communication potential of modern web browsers. So today we’re excited to introduce Iodide, an experimental tool meant to help scientists write beautiful interactive documents using web technologies, all within an iterative workflow that will be familiar to many scientists.</quote>
+    <link>https://hacks.mozilla.org/2019/03/iodide-an-experimental-tool-for-scientific-communicatiodide-for-scientific-communication-exploration-on-the-web/</link>
+  </entry>
+
+  <entry>
+    <title>A Peek into the Future of Wearables</title>
+    <quote>Mind reading glasses, goggles that erase chronic pain, a wristband that can hear what the wearer can’t, and more futuristic wearables are on the horizon</quote>
+    <link>https://spectrum.ieee.org/view-from-the-valley/consumer-electronics/gadgets/a-peek-into-the-future-of-wearables</link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

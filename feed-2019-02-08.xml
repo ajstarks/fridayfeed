@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 8, 2019</date>
+
+  <entry>
+    <title>A High-Tech Pill to End Drug Injections</title>
+    <quote>Here was the challenge for bioengineers: Find a way to for patients to take drugs — like insulin or monoclonal antibodies used to treat cancers and other diseases — without injections.</quote>
+    <link>https://nyti.ms/2DYBKK0</link>
+  </entry>
+
+ <entry>
+    <title>Making New Drugs With a Dose of Artificial Intelligence</title>
+    <quote>DeepMind specializes in “deep learning,” a type of artificial intelligence that is rapidly changing drug discovery science. A growing number of companies are applying similar methods to other parts of the long, enormously complex process that produces new medicines. These A.I. techniques can speed up many aspects of drug discovery and, in some cases, perform tasks typically handled by scientists.</quote>
+    <link>https://nyti.ms/2UJbwk5</link>
+  </entry>
+
+
+  <entry>
+    <title>Guidelines for Human-AI Interaction</title>
+    <quote> We propose 18 generally applicable design guidelines for human-AI interaction. These guidelines are validated through multiple rounds of evaluation including a user study with 49 design practitioners who tested the guidelines against 20 popular AI-infused products</quote>
+    <link>https://www.microsoft.com/en-us/research/uploads/prod/2019/01/Guidelines-for-Human-AI-Interaction-camera-ready.pdf</link>
+  </entry>
+
+  <entry>
+    <title>We analyzed data breaches and cyber-attacks of 2018, here are the key insights</title>
+    <quote>2018 also saw a rising trend in data leaks and exposures. Specifically data with a lack of proper protection was often found to be just floating around online without even the most basic security such as a password needed to access it. Fully exposed databases and PII data was easily found, yet could have been entirely preventable.</quote>
+    <link>https://www.templarbit.com/blog/2019/01/10/we-analyzed-data-breaches-and-cyber-attacks-of-2018-here-are-the-key-insights/</link>
+  </entry>
+
+  <entry>
+    <title>User Experience Designers — The true fandom of Marie Kondo</title>
+    <quote>The Kondo method is about choices. Much like Ux Designers making choices for customers, Kondo forces her clients to make decisions about those items that they need to keep and or give/ throw away. The things that remain, according to Kondo must spark joy, the primary measure of process.</quote>
+    <link>https://medium.com/@kemlaurin/user-experience-designers-the-true-fandom-of-marie-kondo-6ea05e733299</link>
+  </entry>
+</feed>

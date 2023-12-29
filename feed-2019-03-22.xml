@@ -1,0 +1,43 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 22, 2019</date>
+
+  <entry>
+    <title>Apple Watch detects irregular heart beat in large U.S. study</title>
+    <quote>The Apple Watch was able to detect irregular heart pulse rates that could signal the need for further monitoring for a serious heart rhythm problem, according to data from a large study funded by Apple Inc (AAPL.O), demonstrating a potential future role for wearable consumer technology in healthcare.</quote>
+    <link>https://www.reuters.com/article/us-health-heart-apple/apple-watch-detects-irregular-heart-beat-in-large-u-s-study-idUSKCN1QX0EI
+</link>
+  </entry>
+
+
+  <entry>
+    <title>AI Algorithms are Now Shockingly Good at Doing Science</title>
+    <quote>Of course, the use of computers to aid in scientific research goes back about 75 years, and the method of manually poring over data in search of meaningful patterns originated millennia earlier. But some scientists are arguing that the latest techniques in machine learning and AI represent a fundamentally new way of doing science. One such approach, known as generative modeling, can help identify the most plausible theory among competing explanations for observational data, based solely on the data, and, importantly, without any preprogrammed knowledge of what physical processes might be at work in the system under study. Proponents of generative modeling see it as novel enough to be considered a potential “third way” of learning about the universe.</quote>
+    <link>https://www.wired.com/story/ai-algorithms-are-now-shockingly-good-at-doing-science/</link>
+  </entry>
+
+<entry>
+    <title>Nvidia announces $99 AI computer for developers, makers, and researchers</title>
+    <quote>In recent years, advances in AI have produced algorithms for everything from image recognition to instantaneous translation. But when it comes to applying these advances in the real world, we’re only just getting started. A new product from Nvidia announced today at GTC — a $99 AI computer called the Jetson Nano — should help speed that process.</quote>
+    <link>https://www.theverge.com/circuitbreaker/2019/3/18/18271329/nvidia-jetson-nano-price-details-specs-devkit-gdc</link>
+  </entry>
+
+
+  <entry>
+    <title>Microsoft, Facebook, trust and privacy</title>
+    <quote>In other words, where Microsoft put better locks and a motion sensor on the windows, the world is moving to a model where the windows are 200 feet off the ground and don’t open...Much like moving from Windows to cloud and ChromeOS, you could see this as an attempt to remove the problem rather than patch it. Russians can't go viral in your newsfeed if there is no newsfeed. ‘Researchers’ can’t scrape your data if Facebook doesn't have your data. You solve the problem by making it irrelevant.</quote>
+    <link>https://www.ben-evans.com/benedictevans/2019/3/13/0mboxl0imfh636ggky829vnweu2qpv</link>
+  </entry>
+
+  <entry>
+    <title>Cybersecurity is not important</title>
+    <quote>Adaptations to cyberspace of techniques that worked to protect the traditional physical world have been the main means of mitigating the problems that occurred. This ”chewing gum and baling wire” approach is likely to continue to be the basic method of handling problems that arise, and to provide adequate levels of security</quote>
+    <link>http://www.dtc.umn.edu/~odlyzko/doc/cyberinsecurity.pdf</link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

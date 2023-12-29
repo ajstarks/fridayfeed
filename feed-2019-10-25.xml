@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 25, 2019</date>
+
+  <entry>
+    <title>Millions of black people affected by racial bias in health-care algorithms</title>
+    <quote>An algorithm widely used in US hospitals to allocate health care to patients has been systematically discriminating against black people, a sweeping analysis has found.</quote>
+    <link>https://www.nature.com/articles/d41586-019-03228-6</link>
+  </entry>
+
+   <entry>
+    <title>Faces of Open Source</title>
+    <quote>This project is my attempt to highlight a revolution whose importance is not broadly understood by a world that relies heavily upon the fruits of its labor.</quote>
+    <link>http://www.facesofopensource.com</link>
+  </entry>
+  
+  <entry>
+    <title>createCanvas: Interview with Dan Shiffman</title>
+    <quote>My official, fancy-sounding title is Associate Arts Professor, and most of the courses that I teach are — the way I think of them is they’re computer science-like classes. I look at a lot of topics that you would find in a computer science course, but through the lens of art and creativity and open source.</quote>
+    <link>https://medium.com/processing-foundation/createcanvas-interview-with-dan-shiffman-eb22043882e6</link>
+  </entry>
+  
+  <entry>
+    <title>How We Built the World Wide Web in Five Days</title>
+    <quote>Our story begins with the Big Bang.</quote>
+    <link>https://adactio.com/articles/15975</link>
+  </entry>
+ 
+  <entry>
+    <title>Quantum supremacy using a programmable superconducting processor</title>
+    <quote>Our Sycamore processor takes about 200 seconds to sample one instance of a quantum circuit a million times—our benchmarks currently indicate that the equivalent task for a state-of-the-art classical supercomputer would take approximately 10,000 years.</quote>
+    <link>https://www.nature.com/articles/s41586-019-1666-5</link>
+  </entry>
+  
+  <entry>
+    <title>On “Quantum Supremacy”</title>
+    <quote>Recent advances in quantum computing have resulted in two 53-qubit processors: one from our group in IBM and a device described by Google in a paper published in the journal Nature. In the paper, it is argued that their device reached “quantum supremacy” and that “a state-of-the-art supercomputer would require approximately 10,000 years to perform the equivalent task.” We argue that an ideal simulation of the same task can be performed on a classical system in 2.5 days and with far greater fidelity. </quote>
+    <link>https://www.ibm.com/blogs/research/2019/10/on-quantum-supremacy/</link>
+  </entry>
+  
+ 
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 23, 2019</date>
+
+  <entry>
+    <title>Recreating W.E.B Du Bois’s Data Portraits</title>
+    <quote>The idea of the project is to re-create the visualizations with as much precision as possible, preserving the original look, colors, and layout. The principle is to respect the 120-year-old design choices, using modern digital techniques. You can think of these as covers, not re-mixes (more on that later).</quote>
+    <link>https://medium.com/nightingale/recreating-w-e-b-du-boiss-data-portraits-87dd36096f34</link>
+  </entry>
+
+  <entry>
+    <title>I Visited 47 Sites. Hundreds of Trackers Followed Me.</title>
+    <quote>What did we find? The big story is as you’d expect: that everything you do online is logged in obscene detail, that you have no privacy. And yet, even expecting this, I was bowled over by the scale and detail of the tracking; even for short stints on the web, when I logged into Invasive Firefox just to check facts and catch up on the news, the amount of information collected about my endeavors was staggering. (note the splendid graphics from Nadieh Bremer)</quote>
+    <link>https://www.nytimes.com/interactive/2019/08/23/opinion/data-internet-privacy-tracking.html</link>
+  </entry>
+  
+  <entry>
+    <title>A.I. Is Learning From Humans. Many Humans.</title>
+    <quote>A.I., most people in the tech industry would tell you, is the future of their industry, and it is improving fast thanks to something called machine learning. But tech executives rarely discuss the labor-intensive process that goes into its creation. A.I. is learning from humans. Lots and lots of humans.</quote>
+    <link>https://nyti.ms/2Z2iaI4</link>
+  </entry>
+  
+  <entry>
+    <title>Why I Printed My Facebook</title>
+    <quote>It was thousands of pages’ worth of data—and it was illuminating.</quote>
+    <link>https://slate.com/technology/2019/08/printing-facebook-user-data-scrapbook.html</link>
+  </entry>
+
+  <entry>
+    <title>Data: Past, Present, and Future</title>
+    <quote>Data and data-empowered algorithms now shape our professional, personal, and political realities. This course introduces students both to critical thinking and practice in understanding how we got here, and the future we now are building together as scholars, scientists, and citizens.</quote>
+    <link>https://github.com/data-ppf/data-ppf.github.io/wiki/Syllabus</link>
+  </entry>
+</feed>

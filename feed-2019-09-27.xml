@@ -1,0 +1,44 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 27, 2019</date>
+
+   <entry>
+    <title>A.I. Researchers See Danger of Haves and Have-Nots</title>
+    <quote>Computer scientists say A.I. research is becoming increasingly expensive, requiring complex calculations done by giant data centers, leaving fewer people with easy access to the computing firepower necessary to develop the technology behind futuristic products like self-driving cars or digital assistants that can see, talk and reason.</quote>
+    <link>https://www.nytimes.com/2019/09/26/technology/ai-computer-expense.html</link>
+  </entry>
+
+  <entry>
+    <title>A fairer way forward for AI in health care</title>
+    <quote>Without careful implementation, artificial intelligence could widen health-care inequality.</quote>
+    <link>https://www.nature.com/articles/d41586-019-02872-2</link>
+  </entry>
+
+  <entry>
+    <title>Deep Learning with Electronic Health Record (EHR) Systems</title>
+    <quote>Walk into any machine learning conference and ask people about the applications of ML in healthcare and most will respond with the canonical example of using computer vision to diagnose diseases from medical scans (followed by a prolonged debate about “should radiologists be worried about their jobs”). But there exists another source of data, beyond imaging studies, that can change the way we approach health: the electronic health record (EHR).</quote>
+    <link>https://practicalai.me/blog/deep-learning-with-ehr-systems</link>
+  </entry>
+
+  
+  <entry>
+    <title>Amazon launches Amazon Care, a virtual medical clinic for employees</title>
+    <quote>Health care represents a $3.5 trillion sector for Amazon, which is looking at ways to bring in technology ranging from cloud computing to medical record technology.</quote>
+    <link>https://www.cnbc.com/2019/09/24/amazon-launches-employee-health-clinic-amazon-care.html</link>
+  </entry>
+  
+  
+  <entry>
+    <title>The biggest announcements from Amazon’s fall 2019 hardware event</title>
+    <quote>Amazon’s huge 2019 hardware event has wrapped up. The company announced 15 new products, including the Echo Buds truly wireless headphones, the Dolby Atmos-equipped Echo Studio speaker, and the Echo Frames, which have built-in microphones so you can chat with Alexa.</quote>
+    <link>https://www.theverge.com/2019/9/25/20881736/amazon-event-news-products-announcements-updates-highlights-alexa-echo</link>
+  </entry>
+
+  <entry>
+    <title>The Cloud and Open Source</title>
+    <quote>But on the operations side, the picture is really unique. First of all, there are very few places in the world where you can get operational experience at this scale. Second, AWS doesn’t run on SRE culture; the same engineers who write the code live by the dashboards and alarms and metrics that try to reflect and protect the customers’ experience (not perfectly, but we make progress).</quote>
+    <link>https://www.tbray.org/ongoing/When/201x/2019/09/21/AWS-Open-Source-People</link>
+  </entry>
+  
+  
+</feed>

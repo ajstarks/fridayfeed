@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 22, 2019</date>
+
+ <entry>
+    <title>Visualizing Artificial Intelligence</title>
+    <quote>From robots to brains and lightning bolts, representing concepts related to Artificial Intelligence (AI) can be complicated. Noun Project recently teamed up with Essence, a data science and measurement-driven agency, for an Iconathon to create a new collection of icons that better represent key concepts in AI.</quote>
+    <link>https://blog.thenounproject.com/visualizing-artificial-intelligence-992c73606a7</link>
+  </entry>
+  
+  <entry>
+    <title>How to recognize AI snake oil</title>
+    <quote>Much of what’s being sold as “AI” today is snake oil — it does not and cannot work. Why is this happening? How can we recognize flawed AI claims and push back?</quote>
+    <link>https://www.cs.princeton.edu/~arvindn/talks/MIT-STS-AI-snakeoil.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Thoughtworks Technology Radar, Vol 21</title>
+    <quote>Cloud: Is More Less?, Protecting the Software Supply Chain, Interpreting the Black Box of ML, Software Development as a Team Sport</quote>
+    <link>https://www.thoughtworks.com/radar</link>
+  </entry>
+
+  <entry>
+    <title>Let’s Practice Storytelling With Data</title>
+    <quote>A conversation with Cole Nussbaumer Knaflic, who literally wrote the book on data storytelling</quote>
+    <link>https://medium.com/nightingale/lets-practice-storytelling-with-data-f8f4db6b9a94</link>
+  </entry>
+  
+  <entry>
+    <title>The Architect of Modern Algorithms</title>
+    <quote>Barbara Liskov pioneered the modern approach to writing code. She warns that the challenges facing computer science today can’t be overcome with good design alone.</quote>
+    <link>https://www.quantamagazine.org/barbara-liskov-is-the-architect-of-modern-algorithms-20191120/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

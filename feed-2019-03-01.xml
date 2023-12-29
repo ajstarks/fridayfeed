@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 1, 2019</date>
+
+  <entry>
+    <title>10 Breakthrough Technologies 2019</title>
+    <quote>Robot dexterity, New-wave nuclear power, Predicting preemies, Gut probe in a pill, Custom cancer vaccines. The cow-free burger, Carbon dioxide catcher, An ECG on your wrist, Sanitation without sewers, Smooth-talking AI assistants</quote>
+    <link>https://www.technologyreview.com/lists/technologies/2019</link>
+  </entry>
+
+  <entry>
+    <title>Meet Amanda Cox, Who Brings Life to Data on Our Pages</title>
+    <quote>The Times’s newly named data editor spends her time thinking about how best to leverage data for journalism and present it with reader-friendly tools like charts, graphs and interactives.</quote>
+    <link>https://www.nytimes.com/2019/02/28/reader-center/data-visualization-editor-amanda-cox.html </link>
+  </entry>
+
+  <entry>
+    <title>Visualization in Deep Learning</title>
+    <quote>How interactive interfaces and visualizations help people use and understand neural networks</quote>
+    <link>https://medium.com/multiple-views-visualization-research-explained/visualization-in-deep-learning-b29f0ec4f136</link>
+  </entry>
+
+  <entry>
+    <title>Microsoft Built a Bot to Match Patients to Clinical Trials</title>
+    <quote>The Clinical Trials Bot lets patients and doctors search for studies related to a disease and then answer a succession of text questions. The bot then suggests links to trials that best match the patients’ needs. Drugmakers can also use it to find test subjects.</quote>
+    <link>https://www.bloomberg.com/news/articles/2019-03-01/microsoft-built-a-bot-to-match-patients-to-clinical-trials</link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

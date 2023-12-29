@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 6, 2019</date>
+
+   <entry>
+    <title>Those Hurricane Maps Don’t Mean What You Think They Mean</title>
+    <quote>We use hurricane forecasts to warn people. Why do we misinterpret them so often?</quote>
+    <link>https://www.nytimes.com/interactive/2019/08/29/opinion/hurricane-dorian-forecast-map.html</link>
+  </entry>
+    
+  <entry>
+    <title>The Internet is for End Users</title>
+    <quote>As the Internet increasingly mediates essential functions in societies, it has unavoidably become profoundly political; it has helped people overthrow governments and revolutionize social orders, control populations, collect data about individuals, and reveal secrets. It has created wealth for some individuals and companies while destroying others’. All of this raises the question: Who do we go through the pain of gathering rough consensus and writing running code for?</quote>
+    <link>https://intarchboard.github.io/for-the-users/draft-iab-for-the-users.html</link>
+  </entry>
+
+   <entry>
+    <title>Why We Find Joy and Value in Creating Data Visualizations</title>
+    <quote>But are there certain sorts of problems that data visualization can help with or needs it’s especially good at meeting? In a recent conversation, we asked members of the Data Visualization Society (DVS) to give their take. Welcome to a rough guide on knowing where data visualization can help you.</quote>
+    <link>https://medium.com/nightingale/why-we-find-joy-and-value-in-creating-data-visualization-c3282ed56930</link>
+  </entry>
+  
+  <entry>
+    <title>An AI system identified a potential new drug in just 46 days</title>
+    <quote>A team from AI pharma startup Insilico Medicine, working with researchers at the University of Toronto, took 21 days to create 30,000 designs for molecules that target a protein linked with fibrosis (tissue scarring). They synthesized six of these molecules in the lab and then tested two in cells; the most promising one was tested in mice. The researchers concluded it was potent against the protein and showed “drug-like” qualities. All in all, the process took just 46 days. </quote>
+    <link>https://www.technologyreview.com/f/614251/an-ai-system-identified-a-potential-new-drug-in-just-46-days/</link>
+  </entry>
+  
+  <entry>
+    <title>A very deep dive into iOS Exploit chains found in the wild</title>
+    <quote>TAG was able to collect five separate, complete and unique iPhone exploit chains, covering almost every version from iOS 10 through to the latest version of iOS 12. This indicated a group making a sustained effort to hack the users of iPhones in certain communities over a period of at least two years.</quote>
+    <link>https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html</link>
+  </entry>
+  
+  <entry>
+    <title>What Is a Tech Company?</title>
+    <quote>Of course, it is fair to ask, “What isn’t a tech company?” Surely that is the endpoint of software eating the world; I think, though, to classify a company as a tech company because it utilizes software is just as unhelpful today as it would have been decades ago.</quote>
+    <link>https://stratechery.com/2019/what-is-a-tech-company/</link>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 19, 2019</date>
+
+  <entry>
+    <title>Neil And Buzz Go For A Walk</title>
+    <quote>This is the story about what happened on that 1969 Moonwalk, told with highlights from the original transmission log. Scroll to see the adventure.</quote>
+    <link>https://infowetrust.com/tranquility/</link>
+  </entry>
+  
+  <entry>
+    <title>MIT Science Reporter—"Computer for Apollo" (1965)</title>
+    <quote>In commemoration of the 50th anniversary of the first manned moon landing, an overview of the computing equipment that got us there.</quote>
+    <link>https://www.youtube.com/watch?v=ndvmFlg1WmE</link>
+  </entry>
+
+  <entry>
+    <title>Margaret Hamilton: ‘They worried that the men might rebel. They didn’t’</title>
+    <quote>Computer pioneer Margaret Hamilton was critical to landing astronauts on the moon for the first time on 20 July 1969 and returning them safely a few days later. The young Massachusetts Institute of Technology (MIT) computer programmer and working mother led the team that created the onboard flight software for the Apollo missions, including Apollo 11.</quote>
+    <link>https://www.theguardian.com/technology/2019/jul/13/margaret-hamilton-computer-scientist-interview-software-apollo-missions-1969-moon-landing-nasa-women</link>
+  </entry>
+
+  <entry>
+    <title>Africa Is Tech’s Next Great Frontier, Github A.I. Expert Says</title>
+    <quote>The bleeding edge of technology innovation is increasingly shifting from Silicon Valley to places that are also at the frontiers of economic development, including sub-Saharan Africa, says Omoju Miller, who works on machine learning at software development platform Github.</quote>
+    <link>https://fortune.com/2019/07/17/africa-is-techs-next-great-frontier-github-ai</link>
+  </entry>
+  
+  <entry>
+    <title>The future of work in America: People and places, today and tomorrow</title>
+    <quote>The day-to-day nature of work could change for nearly everyone as intelligent machines become fixtures in the American workplace.</quote>
+    <link>https://www.mckinsey.com/featured-insights/future-of-work/the-future-of-work-in-america-people-and-places-today-and-tomorrow</link>
+  </entry>
+ 
+</feed>

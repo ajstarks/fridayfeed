@@ -1,0 +1,28 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 28, 2019</date>
+
+  <entry>
+    <title>The Two Technologies Changing the Future of Cancer Treatment</title>
+    <quote>Now scientists are busy exploring better ways forward. “As an oncologist, I just couldn’t accept chemotherapy toxicity,” said Miriam Merad, another panelist and the director of the Precision Immunology Institute at Mount Sinai School of Medicine. “We have an immune system that’s been shaped for millennia to fight against damage, and I thought that we should be able to use it to fight against cancer cells.”</quote>
+    <link>https://www.theatlantic.com/health/archive/2019/06/immunotherapies-make-cancer-treatment-less-brutal/592378/</link>
+  </entry>
+
+  <entry>
+    <title>The STRIDE Threat Model</title>
+    <quote>You can group threats into categories to help you formulate these kinds of pointed questions. One model you may find useful is STRIDE, derived from an acronym for the following six threat categories: Spoofing, Tampering, Repudiation, Information disclosure, Denial of Service, Elevation of Priviledge</quote>
+    <link>https://docs.microsoft.com/en-us/previous-versions/commerce-server/ee823878(v=cs.20)</link>
+  </entry>
+
+  <entry>
+    <title>The future of AI research is in Africa</title>
+    <quote>In the last few years, the machine-learning community has blossomed, applying the technology to challenges like food security and health care.</quote>
+    <link>https://www.technologyreview.com/s/613848/ai-africa-machine-learning-ibm-google/</link>
+  </entry>
+
+  <entry>
+    <title>Using AWK and R to parse 25tb of DNA data</title>
+    <quote>Recently I was put in charge of setting up a workflow for dealing with a large amount of raw DNA sequencing (well technically a SNP chip) data for my lab. The goal was to be able to quickly get data for a given genetic location (called a SNP) for use for modeling etc. Using vanilla R and AWK I was able to cleanup and organize the data in a natural way, massively speeding up the querying. It certainly wasn’t easy and it took lots of iterations. This post is meant to help others avoid some of the same mistakes and show what did eventually work.</quote>
+    <link>https://livefreeordichotomize.com/2019/06/04/using_awk_and_r_to_parse_25tb/</link>
+  </entry>
+</feed>

@@ -1,0 +1,50 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 15, 2019</date>
+
+
+  <entry>
+    <title>‘Virtual Pharmacology’ Advance Tackles Universe of Unknown Drugs</title>
+    <quote>Scientists at UC San Francisco, in collaboration with colleagues at the University of North Carolina (UNC), have developed the world’s largest virtual pharmacology platform and shown it is capable of identifying extremely powerful new drugs. The platform, soon to contain over a billion virtual molecules never before synthesized and not found in nature, is poised to dramatically change early drug discovery and send waves through the pharmaceutical industry</quote>
+    <link>https://www.ucsf.edu/news/2019/02/413236/virtual-pharmacology-advance-tackles-universe-unknown-drugs</link>
+  </entry>
+
+
+  <entry>
+    <title>The Hard Truth About Innovative Cultures</title>
+    <quote>Innovative cultures are misunderstood. The easy-to-like behaviors that get so much attention are only one side of the coin. They must be counterbalanced by some tougher and frankly less fun behaviors.</quote>
+    <link>https://hbr.org/2019/01/the-hard-truth-about-innovative-cultures</link>
+  </entry>
+
+   <entry>
+    <title>“Reverse Innovation” Could Save Lives. Why Aren’t We Embracing It?</title>
+    <quote>Cheap and simple medical devices could improve performance and lower health-care costs, but first they have to overcome deeply rooted biases.</quote>
+    <link>https://www.newyorker.com/science/elements/reverse-innovation-could-save-lives-why-isnt-western-medicine-embracing-it </link>
+  </entry>
+
+  <entry>
+    <title>Cloud Programming Simplified: A Berkeley View on Serverless Computing</title>
+    <quote> This paper gives a quick history of cloud computing, including an accounting of the predictions of the 2009 Berkeley View of Cloud Computing paper, explains the motivation for serverless computing, describes applications that stretch the current limits of serverless, and then lists obstacles and research opportunities required for serverless computing to fulﬁll its full potential.</quote>
+    <link>https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf</link>
+  </entry>
+
+ <entry>
+    <title>Evaluation and accurate diagnoses of pediatric diseases using artificial intelligence</title>
+    <quote> Our model demonstrates high diagnostic accuracy across multiple organ systems and is comparable to experienced pediatricians in diagnosing common childhood diseases. Our study provides a proof of concept for implementing an AI-based system as a means to aid physicians in tackling large amounts of data, augmenting diagnostic evaluations, and to provide clinical decision support in cases of diagnostic uncertainty or complexity.</quote>
+    <link>https://www.nature.com/articles/s41591-018-0335-9.pdf</link>
+  </entry>
+
+
+  <entry>
+    <title>Nightscout #wearenotwaiting</title>
+    <quote>Nightscout (Continuous Glucose Monitoring in the Cloud) is an open source, DIY project that allows real time access to a CGM data via personal website, smartwatch viewers, or apps and widgets available for smartphones.</quote>
+    <link>http://www.nightscout.info/</link>
+  </entry>
+
+  <entry>
+	<title>This is why AI has yet to reshape most businesses</title>
+	<quote>Even if a company gets data flowing from many sources, it takes lots of experimentation and oversight to be sure that the information is accurate and meaningful. When Genpact, an IT services company, helps businesses launch what they consider AI projects, “10% of the work is AI,” says Sanjay Srivastava, the chief digital officer. “Ninety percent of the work is actually data extraction, cleansing, normalizing, wrangling.”</quote>
+	<link>https://www.technologyreview.com/s/612897/this-is-why-ai-has-yet-to-reshape-most-businesses/</link>
+  </entry>
+
+</feed>

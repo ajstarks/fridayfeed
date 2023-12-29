@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 25, 2019</date>
+  
+  <entry>
+    <title>Amazon Architecture</title>
+    <quote>What is it that we really mean by scalability? A service is said to be scalable if when we increase the resources in a system, it results in increased performance in a manner proportional to resources added. Increasing performance in general means serving more units of work, but it can also be to handle larger units of work, such as when datasets grow.</quote>
+    <link>http://highscalability.com/blog/2007/9/18/amazon-architecture.html</link>
+  </entry>
+  
+  <entry>
+    <title>Notes from a 1984 trip to Xerox PARC </title>
+    <quote>The idea of personal computers is an abreaction to time-sharing, with the unfortunate consequence that personal computers (to be specific, D machines) look like personal time-sharing computers, albeit without time-sharing software</quote>
+    <link>https://commandcenter.blogspot.com/2019/01/notes-from-1984-trip-to-xerox-parc.html?m=1</link>
+  </entry>
+
+  <entry>
+    <title>Influencing mainstream software—Applying programming language research ideas to transform spreadsheets</title>
+    <quote>One of the joys of working at Microsoft Research is the ability to directly influence mainstream software technologies – in this case, Microsoft Excel.</quote>
+    <link>https://www.microsoft.com/en-us/research/blog/influencing-mainstream-software-applying-programming-language-research-ideas-to-transform-spreadsheets/</link>
+  </entry>
+  
+  <entry>
+    <title>The engineer’s engineer: Computer industry luminaries salute Dave Cutler’s five-decade-long quest for quality</title>
+    <quote>One of Dave’s unspoken contributions is that he has created generations of incredibly strong engineers, simply as a side-effect of being who he is and doing what he does,”... There was only one way to do things ‘right’ and ‘optimally,’ and it was intensely rigorous.  He taught them.  They taught me.  I taught others.  Generations have learned rigorous methodology, and have become far better engineers, even without having directly worked with him.</quote>
+    <link>https://news.microsoft.com/features/the-engineers-engineer-computer-industry-luminaries-salute-dave-cutlers-five-decade-long-quest-for-quality/</link>
+  </entry>
+  
+  <entry>
+    <title>Looking Back at Google’s Research Efforts in 2018</title>
+    <link>https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html</link>
+    <quote>2018 was an exciting year for Google's research teams, with our work advancing technology in many ways, including fundamental computer science research results and publications, the application of our research to emerging areas new to Google (such as healthcare and robotics), open source software contributions and strong collaborations with Google product teams, all aimed at providing useful tools and services.</quote>
+  </entry>
+</feed>

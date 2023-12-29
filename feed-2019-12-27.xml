@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 27, 2019</date>
+  
+  <entry>
+    <title>Trends 2020 from Fjord, design and innovation from Accenture Interactive</title>
+    <quote>Many faces of growth, Money changers, Walking barcodes, Liquide people, Designing intelligence, Digital doubles, Life-centered design</quote>
+    <link>https://trends.fjordnet.com/</link>
+  </entry>
+  
+  <entry>
+    <title>On the Measure of Intelligence</title>
+    <quote>To make deliberate progress towards more intelligent and more human-like artificial systems, we need to be following an appropriate feedback signal: we need to be able to define and evaluate intelligence in a way that enables comparisons between two systems, as well as comparisons with humans.</quote>
+    <link>https://arxiv.org/abs/1911.01547?</link>
+  </entry>
+
+  <entry>
+    <title>Getting Started With ‘Small Multiples’ — an Underused but Powerful Form of Data Viz</title>
+    <quote>Small multiple charts are widely underused though they are one of the best tools to derive insights from data. It is estimated that only 1 in 10 data analysts use small multiple. </quote>
+    <link>https://medium.com/nightingale/getting-started-with-small-multiples-an-underused-but-powerful-form-of-data-viz-3e0a8f8139dc</link>
+  </entry>
+  
+  <entry>
+    <title>How to ask good questions</title>
+    <quote>Asking good questions is a super important skill when writing software. I’ve gotten way better at it over the years (to the extent that it’s something my coworkers comment on a lot). Here are a few guidelines that have worked well for me!</quote>
+    <link>https://jvns.ca/blog/good-questions/</link>
+  </entry>
+  
+  <entry>
+    <title>Netflix was the best-performing stock of the decade, delivering a more than 4,000% return</title>
+    <quote>A $1 million bet on Netflix’s stock placed on Jan. 1, 2010, would be worth close to $43 million today. The 4,181% return, as of Friday’s close, beats all current members of the S&amp;P 500, which Netflix joined in December 2010, replacing The New York Times. The index as a whole is up 189% over the past 10 years.</quote>
+    <link>https://www.cnbc.com/2019/12/23/netflix-was-the-top-stock-of-the-decade-delivering-over-4000percent-return.html</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

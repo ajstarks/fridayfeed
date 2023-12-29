@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 26, 2019</date>
+
+  <entry>
+    <title>The Hidden Costs of Automated Thinking</title>
+    <quote>This approach to discovery—answers first, explanations later—accrues what I call intellectual debt. It’s possible to discover what works without knowing why it works, and then to put that insight to use immediately, assuming that the underlying mechanism will be figured out later. In some cases, we pay off this intellectual debt quickly. But, in others, we let it compound, relying, for decades, on knowledge that’s not fully known.</quote>
+    <link>https://www.newyorker.com/tech/annals-of-technology/the-hidden-costs-of-automated-thinking</link>
+  </entry>
+
+  <entry>
+    <title>Vaccination rates - data exploration</title>
+    <quote>Data, analysis and source code for a story on vaccination rates in New Zealand</quote>
+    <link>https://nzherald.github.io/vaccination-rates/</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft invests in and partners with OpenAI to support us building beneficial AGI</title>
+    <quote>We’re partnering to develop a hardware and software platform within Microsoft Azure which will scale to AGI. We’ll jointly develop new Azure AI supercomputing technologies, and Microsoft will become our exclusive cloud provider—so we’ll be working hard together to further extend Microsoft Azure’s capabilities in large-scale AI systems.</quote>
+    <link>https://openai.com/blog/microsoft/</link>
+  </entry>
+
+  <entry>
+    <title>Apple’s Heir Apparent Is Much More Like Tim Cook Than Steve Jobs</title>
+    <quote>When Apple announced the pending departure of Chief Design Officer Jony Ive last month, it threw the spotlight on an executive few outsiders know: Chief Operating Officer Jeff Williams, who has now also taken over the company’s legendary design studio. This added fiefdom makes Williams unambiguously the second-most important person at Apple and Tim Cook’s heir apparent as CEO.</quote>
+    <link>https://www.bloomberg.com/news/articles/2019-07-22/apple-s-heir-apparent-is-much-more-like-tim-cook-than-steve-jobs</link>
+  </entry>
+
+  <entry>
+    <title>Saving the World from Spreadsheets</title>
+    <quote>Spreadsheets are one of the most widely used programming environments, with roughly 1 billion users of Microsoft Excel alone. Unfortunately, spreadsheets make it all too easy to make errors that go unnoticed. These errors can have catastrophic consequences because spreadsheets are widely deployed in domains like finance and government. For instance, the infamous “London Whale” incident in 2012 cost JP Morgan approximately $2 billion; this was due in part to a spreadsheet programming error. </quote>
+    <link>https://www.youtube.com/watch?v=GyWKxFxyyrQ</link>
+  </entry>
+</feed>

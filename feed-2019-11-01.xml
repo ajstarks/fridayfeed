@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 1, 2019</date>
+
+  <entry>
+    <title>50 years ago today, the internet was born in Room 3420</title>
+    <quote>Here’s the story of the creation of ARPANET, the groundbreaking precursor to the internet—as told by the people who were there.</quote>
+    <link>https://www.fastcompany.com/90423457/50-years-ago-today-the-internet-was-born-in-room-3420</link>
+  </entry>
+
+   <entry>
+    <title>'Graphic detail', @TheEconomist's print section dedicated to data journalism, just turned one!</title>
+    <quote>I wrote about what we learned in our first year here: https://medium.economist.com/a-year-in-graphic-detail-d1825b28e06f</quote>
+    <link>https://twitter.com/AlexSelbyB/status/1190330905556062209</link>
+  </entry>
+
+ <entry>
+    <title>Rethinking Patient Data at the Mayo Transform Conference</title>
+    <quote>Earlier this year, we collaborated with Mayo Clinic’s Center for Innovation to develop prototypes of data-driven healthcare applications for the future. Our design and development process is unusual in the healthcare field — as it is in many fields — and Mayo, impressed with the results, asked us to run a breakout session at Transform outlining how we use our process to approach problems surrounding patient data.</quote>
+    <link>https://medium.com/fathominfo/rethinking-patient-data-at-the-mayo-transform-conference-a8c3e486cb65</link>
+  </entry>
+
+  <entry>
+    <title>قلب: a non-ASCII programming language written entirely in Arabic</title>
+    <quote>قلب is a programming language exploring the role of human culture in coding. Code is written entirely in Arabic, highlighting cultural biases of computer science and challenging the assumptions we make about programming.</quote>
+    <link>https://nas.sr/%D9%82%D9%84%D8%A8/</link>
+  </entry>
+
+  <entry>
+    <title>The Pentagon’s AI Ethics Draft Is Actually Pretty Good</title>
+    <quote>The much-anticipated draft document released on Thursday by a Pentagon advisory group goes beyond similar lists of principles promulgated by big tech companies. If the military manages to adopt, implement, and follow the guidelines, it would leap into an increasingly rare position as a leader in establishing standards for the wider tech world.</quote>
+    <link>https://www.defenseone.com/technology/2019/10/pentagons-ai-ethics-draft-actually-pretty-good/161005/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

@@ -1,0 +1,44 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 24, 2019</date>
+
+  <entry>
+    <title>End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography</title>
+    <quote>We propose a deep learning algorithm that uses a patient’s current and prior computed tomography volumes to predict the risk of lung cancer. Our model achieves a state-of-the-art performance (94.4% area under the curve) on 6,716 National Lung Cancer Screening Trial cases, and performs similarly on an independent clinical validation set of 1,139 cases. </quote>
+    <link>https://www.nature.com/articles/s41591-019-0447-x</link>
+  </entry>
+
+  <entry>
+    <title>The Conversational AI Playbook</title>
+    <quote>This playbook represents a first step toward defining the governing principles and best practices which will enable developers to build great conversational applications. It is the result of several years of practical experience building and deploying dozens of the most advanced conversational applications achievable. </quote>
+    <link>https://www.mindmeld.com/docs/index.html#</link>
+  </entry>
+
+  <entry>
+    <title>Amazon Is Working on a Device That Can Read Human Emotions</title>
+    <quote>The wrist-worn gadget is described as a health and wellness product in internal documents reviewed by Bloomberg. It’s a collaboration between Lab126, the hardware development group behind Amazon’s Fire phone and Echo smart speaker, and the Alexa voice software team.</quote>
+    <link>https://www.bloomberg.com/news/articles/2019-05-23/amazon-is-working-on-a-wearable-device-that-reads-human-emotions</link>
+  </entry>
+
+
+  <entry>
+    <title>I'd blush if I could: closing gender divides in digital skills through education</title>
+    <quote>Most AI voice assistants are gendered as young women, and they’re mostly used to answer questions or carry out tasks like checking the weather, playing music, or setting reminders. This sends a signal that women are docile, eager-to-please helpers, without any agency, and always on hand to help their masters,</quote>
+    <link>https://unesdoc.unesco.org/ark:/48223/pf0000367416.page=1</link>
+  </entry>
+
+
+
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

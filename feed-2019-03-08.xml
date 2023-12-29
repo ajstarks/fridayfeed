@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 8, 2019</date>
+
+  <entry>
+    <title>Put Humans at the Center of AI</title>
+    <quote>At Stanford and Google, Fei-Fei Li is leading the development of artificial intelligence—and working to diversify the field.</quote>
+    <link>https://www.technologyreview.com/s/609060/put-humans-at-the-center-of-ai/</link>
+  </entry>
+
+  <entry>
+    <title>Best of Machine Learning</title>
+    <quote>The best resources in Machine Learning and AI; 40 of the best resources for Machine Learning</quote>
+    <link>http://bestofml.com/</link>
+  </entry>
+
+  <entry>
+    <title>Introducing GPipe, an Open Source Library for Efficiently Training Large-scale Neural Network Models</title>
+    <quote>The ongoing development and success of many practical machine learning applications, such as autonomous driving and medical imaging, depend on achieving the highest accuracy possible. As this often requires building larger and even more complex models, we are happy to provide GPipe to the broader research community, and hope it is a useful infrastructure for efficient training of large-scale DNNs.</quote>
+    <link>https://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html</link>
+  </entry>
+
+  <entry>
+    <title>Wristwatch heart monitors might save your life—and change medicine, too</title>
+    <quote>Making complex heart tests available at the push of a button has far-reaching consequences.</quote>
+    <link>https://www.technologyreview.com/s/612929/wristwatch-heart-monitors-might-save-your-lifeand-change-medicine-too/</link>
+  </entry>
+
+  <entry>
+    <title>The Big Data Revolution Will Be Sampled: How 'Big Data' Has Come To Mean 'Small Sampled Data'</title>
+    <quote>It is just as true that many of our beliefs regarding the size of the datasets we use are absolutely wrong. In particular, many of the vanguards of the big data era that we hold up as benchmarks of just what it means to work with “big data” like Facebook and Twitter, are actually vastly smaller than we have been led to believe.</quote>
+    <link>https://www.forbes.com/sites/kalevleetaru/2019/02/17/the-big-data-revolution-will-be-sampled-how-big-data-has-come-to-mean-small-sampled-data/#52e1d6af199e</link>
+  </entry>
+
+
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

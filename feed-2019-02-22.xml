@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 22, 2019</date>
+
+  <entry>
+    <title>Once hailed as unhackable, blockchains are now getting hacked</title>
+    <quote>More and more security holes are appearing in cryptocurrency and smart contract platforms, and some are fundamental to the way they were built.</quote>
+    <link>https://www.technologyreview.com/s/612974/once-hailed-as-unhackable-blockchains-are-now-getting-hacked/</link>
+  </entry>
+
+  <entry>
+    <title>Amazon Alexa and the Search for the One Perfect Answer</title>
+    <quote>One-shot answers were unfashionable back when Tunstall-­Pedoe started programming at Cambridge. But that was no longer the case by the time the Echo came out. In the era of voice computing, offering a single answer is not merely a nice-to-have feature; it’s a need-to-have one. “You can’t provide 10 blue links by voice,” Tunstall-Pedoe says, echoing prevailing industry sentiment. “That’s a terrible user experience.</quote>
+    <link>https://www.wired.com/story/amazon-alexa-search-for-the-one-perfect-answer/</link>
+  </entry>
+
+  <entry>
+    <title>From Novelty to Table Stakes: How to Get Started with Voice in Health Care</title>
+    <quote>At Moonshot, we have found that voice serves four key demographics particularly well: children, parents, the elderly, and the physically impaired. After all, voice is best utilized when solving real problems, and voice offers unique people-centric solutions to challenges faced by these groups.</quote>
+    <link>https://medium.com/datadriveninvestor/from-novelty-to-table-stakes-how-to-get-started-with-voice-in-health-care-139bfb1be555</link>
+  </entry>
+
+  <entry>
+    <title>Supposedly ‘Fair’ Algorithms Can Perpetuate Discrimination</title>
+    <quote>The system should help us understand, rather than obscure, the impact of algorithms on society. We must provide a mechanism for civil society to be informed and engaged in the way in which algorithms are used, optimizations set, and data collected and interpreted.</quote>
+    <link>https://www.wired.com/story/ideas-joi-ito-insurance-algorithms/</link>
+  </entry>
+
+  <entry>
+    <title>Principles of Technology Leadership</title>
+    <quote>The kind of talk that only Bryan Cantrill of Joyent can give, one which (enthusiastically) explores the importance of leadership principles ranging from the Gettysburg Address to Uber and exhorts the audience to think about how they might consider and apply these lessons to their own organizations.</quote>
+    <link>https://www.youtube.com/watch?v=9QMGAtxUlAc</link>
+  </entry>
+</feed>

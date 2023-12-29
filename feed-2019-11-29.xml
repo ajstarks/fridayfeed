@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 29, 2019</date>
+  
+  <entry>
+    <title>Big Calculator: How Texas Instruments Monopolized Math Class</title>
+    <quote>These $100 calculators have been required in classrooms for more than 20 years, as students and teachers still struggle to afford them</quote>
+    <link>https://gen.medium.com/big-calculator-how-texas-instruments-monopolized-math-class-67ee165045dc</link>
+  </entry>
+  
+  <entry>
+    <title>Digital Tools I Wish Existed</title>
+    <quote>...the core issue is an extraordinarily high level of friction in the process of finding, organizing, and sharing digital content. </quote>
+    <link>https://jborichevskiy.com/posts/digital-tools/</link>
+  </entry>
+
+  <entry>
+    <title>The Deep Learning Revolution and Its Implications for Computer Architecture and Chip Design</title>
+    <quote>This paper is a companion paper to a keynote talk at the 2020 International Solid-State Circuits Conference (ISSCC) discussing some of the advances in machine learning, and their implications on the kinds of computational devices we need to build, especially in the post-Moore's Law-era. It also discusses some of the ways that machine learning may also be able to help with some aspects of the circuit design process.</quote>
+    <link>https://arxiv.org/abs/1911.05289</link>
+  </entry>
+  
+  <entry>
+    <title>Endless River: An Overview of DataViz for Categorical Data</title>
+    <quote>Let us explore some flow and network chart types that are ready-made for visual storytelling using categorical data</quote>
+    <link>https://medium.com/nightingale/endless-river-an-overview-of-dataviz-for-categorical-data-4780b68b42e8</link>
+  </entry>
+  
+  <entry>
+    <title>Big Tech’s Big Defector</title>
+    <quote>Roger McNamee made a fortune as one of Silicon Valley’s earliest champions. Now he’s one of its most fervent critics.</quote>
+    <link>https://www.newyorker.com/magazine/2019/12/02/big-techs-big-defector</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 16, 2019</date>
+
+  <entry>
+    <title>First They Came for the Black Feminists</title>
+    <quote>IN 2013, a series of disinformation campaigns were spread on Twitter, primarily targeting black women. The manipulation tactics developed during these campaigns served as a blueprint for future movements like Gamergate and continue to be shared across anonymous message boards and far-right blogs, shaping the online world. </quote>
+    <link>https://www.nytimes.com/interactive/2019/08/15/opinion/gamergate-twitter.html</link>
+  </entry>
+
+  <entry>
+    <title>Training bias in AI "hate speech detector" means that tweets by Black people are far more likely to be censored</title>
+    <quote>The authors do a pretty good job of pinpointing the cause: the people who hand-labeled the training data for the algorithm were themselves biased, and incorrectly, systematically misidentified AAE writing as offensive. And since machine learning models are no better than their training data (though they are often worse!), the bias in the data propagated through the model.</quote>
+    <link>https://boingboing.net/2019/08/14/white-aligned-english.html</link>
+  </entry>
+  
+  <entry>
+    <title>Algorithmic Bias? An Empirical Study of Apparent Gender-Based Discrimination in the Display of STEM Career Ads</title>
+    <quote>We explore data from a field test of how an algorithm delivered ads promoting job opportunities in the science, technology, engineering and math fields. This ad was explicitly intended to be gender neutral in its delivery. Empirically, however, fewer women saw the ad than men. This happened because younger women are a prized demographic and are more expensive to show ads to. An algorithm that simply optimizes cost-effectiveness in ad delivery will deliver ads that were intended to be gender neutral in an apparently discriminatory way, because of crowding out. We show that this empirical regularity extends to other major digital platforms.</quote>
+    <link>https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3093</link>
+  </entry>
+  
+  <entry>
+    <title>The world’s top deepfake artist is wrestling with the monster he created</title>
+    <quote>​Hao Li has spent his career perfecting digital trickery. Now he’s working to confront the problem of increasingly seamless off-the-shelf deception.</quote>
+    <link>​https://www.technologyreview.com/s/614083/the-worlds-top-deepfake-artist-is-wrestling-with-the-monster-he-created/</link>
+  </entry>
+  
+  <entry>
+    <title>Serena Versus the Drones</title>
+    <quote>Here’s a portion of the chapter “How to Catch a Drone”, in which Serena helped test whether tennis serves could be an effective countermeasure against flying robots … by taking a drone out onto a court and hitting tennis balls at it until it crashed.</quote>
+    <link>https://blog.xkcd.com/2019/08/16/serena-versus-the-drones/</link>
+  </entry>
+</feed>

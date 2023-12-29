@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 5, 2019</date>
+
+  <entry>
+    <title>Engineering Proteins in the Cloud with Python and Transcriptic, or, How to Make Any Protein You Want for $360</title>
+    <quote>In this article I'll develop Python code that will take me from an idea for a protein all the way to expression of the protein in a bacterial cell, all without touching a pipette or talking to a human. The total cost will only be a few hundred dollars! Using Vijay Pande from A16Z's terminology, this is Bio 2.0.</quote>
+    <link>http://blog.booleanbiotech.com/genetic_engineering_pipeline_python.html</link>
+  </entry>
+
+  <entry>
+    <title>A Clever New Strategy for Treating Cancer, Thanks to Darwin</title>
+    <quote>In advanced-stage cancer, it’s generally a matter of when, not if, the pugnacious surviving cells will become an unstoppable force. Gatenby thought this deadly outcome might be prevented. His idea was to expose a tumor to medication intermittently, rather than in a constant assault, thereby reducing the pressure on its cells to evolve resistance.</quote>
+    <link>https://www.wired.com/story/cancer-treatment-darwin-evolution/?mbid=email_onsiteshare</link>
+  </entry>
+
+  <entry>
+    <title>Death by a Thousand Clicks: Where Electronic Health Records Went Wrong</title>
+    <quote>Until this point, Foster, like most Americans, knew next to nothing about electronic medical records, but he was quickly amassing clues that eCW’s software had major problems—some of which put patients, like Annette Monachelli, at risk.</quote>
+    <link>http://fortune.com/longform/medical-records/</link>
+  </entry>
+
+  <entry>
+    <title>7 Ways Machine Learning Projects Fail</title>
+    <quote>hrough our years of experience in this field, we’ve identified several common ways that machine learning projects fail. Understanding these problems – and why they occur – will help you better assess the viability of your next machine learning project, and, most importantly, align the expectations of your team with actual outcomes.</quote>
+    <link>https://retina.ai/blog/7-ways-machine-learning-projects-fail/</link>
+  </entry>
+
+  <entry>
+    <title>How Health Apps Let Women Down</title>
+    <quote>Even health apps for the general public have gendered design. These design blunders happen when designers and technologists don’t take time to understand people’s needs.</quote>
+    <link>https://onezero.medium.com/how-health-apps-let-women-down-cb7aeb6171a0</link>
+  </entry>
+</feed>

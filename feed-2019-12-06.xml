@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 6, 2019</date>
+  
+  <entry>
+    <title>A Distributed Meeting Primer</title>
+    <quote>My advice, which is both lived and collected via Twitter, falls into three categories: Pre-Meeting, During, and Post-Meeting.</quote>
+    <link>https://randsinrepose.com/archives/a-distributed-meeting-primer/</link>
+  </entry>
+  
+  <entry>
+    <title>Less Reporting, More Visualization</title>
+    <quote>Visualization, on the other hand, is an active participant in wringing the truth out of data. No analytical work is complete without it. But it’s not just an add-on at the end or a pleasant veneer to a perfectly fine set of analytics. It’s vital to how analytics are understood and perceived. Unlike reporting, visualization has a unique ability to clarify murky ideas and make connections that otherwise would have been missed.</quote>
+    <link>https://medium.com/nightingale/less-reporting-more-visualization-d5f050088ca</link>
+  </entry>
+
+  <entry>
+    <title>The Deep Learning Revolution and Its Implications for Computer Architecture and Chip Design</title>
+    <quote>This paper is a companion paper to a keynote talk at the 2020 International Solid-State Circuits Conference (ISSCC) discussing some of the advances in machine learning, and their implications on the kinds of computational devices we need to build, especially in the post-Moore’s Law-era.</quote>
+    <link>https://arxiv.org/pdf/1911.05289.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>The One-Traffic-Light Town with Some of the Fastest Internet in the U.S.</title>
+    <quote>There’s a sit-down restaurant, Opal’s, that serves the weekday breakfast-and-lunch crowd, one traffic light, a library, a few health clinics, eight churches, a Dairy Queen, a pair of dollar stores, and some of the fastest Internet in the United States. Subscribers to Peoples Rural Telephone Cooperative (P.R.T.C.), which covers all of Jackson County and the adjacent Owsley County, can get speeds of up to one gigabit per second, and the coöperative is planning to upgrade the system to ten gigabits. </quote>
+    <link>https://www.newyorker.com/tech/annals-of-technology/the-one-traffic-light-town-with-some-of-the-fastest-internet-in-the-us</link>
+  </entry>
+  
+  <entry>
+    <title>How I Taught My Computer to Write Its Own Music</title>
+    <quote>I was thrilled and astonished. It was exactly what I was hoping for: The computer had created alluring music—music I wanted to listen to!—from a completely unexpected manipulation of the sonic information I had given it. The music was at once futuristic and nostalgic, slightly melancholy, and quite subtle: Even the digital noise samples it used—basically sonic detritus—seemed sensitively integrated.</quote>
+    <link>http://nautil.us/issue/79/catalysts/how-i-taught-my-computer-to-write-its-own-music-rprd</link>
+  </entry>
+</feed>

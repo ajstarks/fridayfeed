@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 3, 2019</date>
+
+  <entry>
+    <title>People Are Clamoring to Buy Old Insulin Pumps</title>
+    <quote>How an obsolete medical device with a security flaw became a must-have for some patients with type 1 diabetes</quote>
+    <link>https://www.theatlantic.com/science/archive/2019/04/looping-created-insulin-pump-underground-market/588091</link>
+  </entry>
+
+  <entry>
+    <title>How Microsoft Learned from the Past to Redesign its Future</title>
+    <quote>Every Thursday, Microsoft’s Surface, Windows, and app teams get together to discuss what they’re working on. During one of these many meetings in a sunny conference room at Microsoft’s Redmond HQ, designers sat around debating how playful Microsoft should be with its designs. What’s the tone of voice? What’s the visual representation of the personality of the product? Ultimately, how should Microsoft’s voice be expressed in the form of illustrations and design?</quote>
+    <link>https://www.theverge.com/2019/4/29/18515776/microsoft-design-open-fluent-prototypes-history</link>
+  </entry>
+
+  <entry>
+    <title>ThoughtWorks Technology Radar Vol 20</title>
+    <quote>An opinionated guide to technology frontiers -- an interesting rating system for a bunch of different tools, techniques, platforms, and languages/frameworks.</quote>
+    <link>https://assets.thoughtworks.com/assets/technology-radar-vol-20-en.pdf</link>
+  </entry>
+
+  <entry>
+    <title>The Most Valuable Company (for Now) Is Having a Nadellaissance</title>
+    <quote>According to a former executive, Nadella, frustrated with hand-wringing about the new cloud-vs.-Windows hierarchy, scolded a group of top executives early in his tenure. At his Microsoft, there would be only “fixers,” no “complainers.” If people didn’t buy into his vision, he’d tell them, “Don’t stay. Time to move on.”</quote>
+    <link>https://www.bloomberg.com/news/features/2019-05-02/satya-nadella-remade-microsoft-as-world-s-most-valuable-company</link>
+  </entry>
+
+  
+  <entry>
+    <title>Microsoft, Slack, Zoom, and the SaaS Opportunity</title>
+    <quote>The most important factor that made all of this possible, though, is that for all of the disruption that the enterprise market has faced thanks to the rise of Software-as-a-Service (Saas), Microsoft was remarkably well-placed to take advantage of this new paradigm, if only they could get out of their own way.</quote>
+    <link>https://stratechery.com/2019/microsoft-slack-zoom-and-the-saas-opportunity/</link>
+  </entry>
+</feed>

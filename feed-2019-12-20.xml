@@ -1,0 +1,46 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 20, 2019</date>
+
+  <entry>
+    <title>Twelve Million Phones, One Dataset, Zero Privacy</title>
+    <quote>What we learned from the spy in your pocket.</quote>
+    <link>https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html</link>
+  </entry>
+  
+ <entry>
+    <title>What Happens After Prisoners Learn to Code?</title>
+    <quote>Slack, one of Silicon Valley’s more diverse companies, has hired three formerly incarcerated coders.</quote>
+    <link>https://www.theatlantic.com/technology/archive/2019/12/from-prison-to-silicon-valley/603406/</link>
+  </entry>
+  
+  <entry>
+    <title>Google AI chief Jeff Dean interview: Machine learning trends in 2020</title>
+    <quote>At the Neural Information Processing Systems (NeurIPS) conference this week in Vancouver, Canada, machine learning took center stage as 13,000 researchers explored things like neuroscience, how to interpret neural network outputs, and how AI can help solve big real-world problems.</quote>
+    <link>https://venturebeat.com/2019/12/13/google-ai-chief-jeff-dean-interview-machine-learning-trends-in-2020/</link>
+  </entry>
+  
+  <entry>
+    <title>What Happens After Prisoners Learn to Code?</title>
+    <quote>Slack, one of Silicon Valley’s more diverse companies, has hired three formerly incarcerated coders.</quote>
+    <link>https://www.theatlantic.com/technology/archive/2019/12/from-prison-to-silicon-valley/603406/</link>
+  </entry>
+
+  <entry>
+    <title>Coolest Things I Learned In 2019</title>
+    <quote>The most popular part of the newsletter is a section called “Coolest Things I Learned This Week.” It’s fun and eclectic, interesting and intriguing. This is a collection of the most popular ideas I shared in 2019.</quote>
+    <link>https://www.perell.com/blog/2019/12/11/coolest-things-i-learned-in-2019</link>
+  </entry>
+
+  <entry>
+    <title>How AI will eat UI</title>
+    <quote>The inevitable day when machines learn to design our apps</quote>
+    <link>https://artyomavanesov.com/blog/how-ai-will-eat-ui</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

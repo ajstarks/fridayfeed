@@ -1,0 +1,24 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 29, 2019</date>
+
+
+<entry>
+    <title>A new study shows what it might take to make AI useful in health care</title>
+    <quote>Researchers used machine vision to help nurses monitor ICU patients. The way they approached their work shows the value of asking what people actually need artificial intelligence for.</quote>
+    <link>https://www.technologyreview.com/s/613165/a-new-study-shows-what-it-might-take-to-make-ai-useful-in-health-care/</link>
+  </entry>
+
+
+  <entry>
+	<title>Fathers of the Deep Learning Revolution Receive ACM A.M. Turing Award</title>
+	<quote>Working independently and together, Hinton, LeCun and Bengio developed conceptual foundations for the field, identified surprising phenomena through experiments, and contributed engineering advances that demonstrated the practical advantages of deep neural networks.</quote>
+	<link>https://amturing.acm.org/</link>
+  </entry>
+
+  <entry>
+    <title>Computer Latency at a Human Scale</title>
+    <quote>How fast are computer systems really?</quote>
+    <link>https://www.prowesscorp.com/computer-latency-at-a-human-scale/</link>
+  </entry>
+</feed>

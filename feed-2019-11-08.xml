@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 8, 2019</date>
+  <entry>
+    <title>What W. E. B. Du Bois Conveyed in His Captivating Infographics</title>
+    <quote>The most arresting visuals in the exhibition were handmade charts and graphics that illustrated the evolution of black life since emancipation. They featured facts and figures about population growth and political participation, educational attainment and financial clout. A line depicting the urban and rural populations of Georgia in 1890 breaks into a sudden spiral, resembling an elegant snake.</quote>
+    <link>https://www.newyorker.com/books/page-turner/what-web-du-bois-conveyed-in-his-captivating-infographics</link>
+  </entry>
+
+   <entry>
+    <title>Crispr Takes Its First Steps in Editing Genes to Fight Cancer</title>
+    <quote>Doctors have for the first time in the United States tested a powerful gene-editing technique in people with cancer.</quote>
+    <link>https://nyti.ms/2PRAkXW</link>
+  </entry>
+
+  <entry>
+    <title>Understanding the World with Program Synthesis</title>
+    <quote>The most prominent existing application of program synthesis in the natural sciences is in executable biology. Here, one models cellular behavior using stateful, concurrent programs that represent biological entities like proteins and genes. Each “component”, or process, of such a program interacts with neighboring processes and changes state when certain events take place (e.g., when a molecular signal is received). Because of the inherent complexity of concurrency, even a small number of components can collectively describe highly nontrivial system behaviors. </quote>
+    <link>https://blog.sigplan.org/2019/11/04/understanding-the-world-with-program-synthesis/</link>
+  </entry>
+
+  <entry>
+    <title>An Indie Approach to DataViz—Creating Market Cafe Magazine</title>
+    <quote>Co-Founders Tiziana Alocci and Piero Zagami talk about their love for print and tackling activism through data visualization</quote>
+    <link>https://medium.com/nightingale/an-indie-approach-to-an-indie-approach-to-dataviz-creating-market-cafe-magazine-e69d096ff5fc</link>
+  </entry>
+  
+  <entry>
+    <title>How terrible software design decisions led to Uber’s deadly 2018 crash</title>
+    <quote>Two things are noteworthy about this sequence of events. First, at no point did the system classify her as a pedestrian. According to the NTSB, that's because "the system design did not include consideration for jaywalking pedestrians."</quote>
+    <link>https://arstechnica.com/cars/2019/11/how-terrible-software-design-decisions-led-to-ubers-deadly-2018-crash/</link>
+  </entry>
+</feed>

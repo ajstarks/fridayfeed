@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 12, 2019</date>
+
+   <entry>
+	<title>The FDA wants to regulate machine learning in health care</title>
+	<quote>The agency released a white paper proposing a regulatory framework to decide how medical products that use AI should seek approval before they can go on the market. It is the biggest step the FDA has taken to date toward formalizing oversight of products that use machine learning (ML).</quote>
+	<link>https://www.technologyreview.com/the-download/613264/the-fda-wants-to-regulate-machine-learning-in-healthcare</link>
+   </entry>
+
+  <entry>
+    <title>Cloud Healthcare API</title>
+    <quote>Cloud Healthcare API bridges the gap between care systems and applications built on Google Cloud. By supporting standards-based data formats and protocols of existing healthcare technologies, Cloud Healthcare API connects your data to advanced Google Cloud capabilities, including streaming data processing with Cloud Dataflow, scalable analytics with BigQuery, and machine learning with Cloud Machine Learning Engine.</quote>
+    <link>https://cloud.google.com/healthcare/</link>
+  </entry>
+
+  <entry>
+    <title>How IBM Watson Overpromised and Underdelivered on AI Health Care</title>
+    <quote>IBM has learned these painful lessons in the marketplace, as the world watched. While the company isn’t giving up on its moon shot, its launch failures have shown technologists and physicians alike just how difficult it is to build an AI doctor.</quote>
+    <link>https://spectrum.ieee.org/biomedical/diagnostics/how-ibm-watson-overpromised-and-underdelivered-on-ai-health-care</link>
+  </entry>
+
+  <entry>
+    <title>Google AI Platform</title>
+    <quote>AI Platform makes it easy for machine learning developers, data scientists, and data engineers to take their ML projects from ideation to production and deployment, quickly and cost-effectively.</quote>
+    <link>https://cloud.google.com/ai-platform/</link>
+  </entry>
+
+  <entry>
+    <title>Ethically Aligned Design</title>
+    <quote>A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems</quote>
+    <link>https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead_v2.pdf</link>
+  </entry>
+
+
+
+  <entry>
+    <title>Amazon’s Alexa now handles patient health information</title>
+    <quote>Amazon has invited six health care companies to build tools using Alexa</quote>
+    <link>https://www.theverge.com/2019/4/4/18295260/amazon-hipaa-alexa-echo-patient-health-information-privacy-voice-assistant</link>
+  </entry>
+</feed>

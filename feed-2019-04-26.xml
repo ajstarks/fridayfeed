@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 26, 2019</date>
+
+  <entry>
+    <title>In African Villages, These Phones Become Ultrasound Scanners</title>
+    <quote>A hand-held device brings medical imaging to remote communities, often for the first time.</quote>
+    <link>https://www.nytimes.com/2019/04/15/health/medical-scans-butterfly-iq.html</link>
+  </entry>
+
+  <entry>
+    <title>AI Now Report 2018</title>
+    <quote>AI Now works with a broad coalition of stakeholders, including academic researchers, industry,  civil society, policy makers, and affected communities, to identify and address issues raised by  the rapid introduction of AI across core social domains. AI Now produces interdisciplinary  research to help ensure that AI systems are accountable to the communities and contexts they  are meant to serve, and that they are applied in ways that promote justice and equity. </quote>
+    <link>https://ainowinstitute.org/AI_Now_2018_Report.pdf</link>
+  </entry>
+
+  <entry>
+    <title>I think right around this minute is just about exactly 5 years since the Heartbleed vulnerability in OpenSSL became public. </title>
+    <quote>The HeartBleed vulnerability happened five years ago.  Here is the story of how AWS reacted</quote>
+    <link>https://twitter.com/colmmacc/status/1114945038990151680</link>
+  </entry>
+
+  <entry>
+    <title>Zoom, Zoom, Zoom! The Exclusive Inside Story Of The New Billionaire Behind Tech’s Hottest IPO</title>
+    <quote>“Customers have always said, ‘Eric, we’ll become your very important customer, you’ve got to visit us,’” says Yuan. “I say, ‘Fine, I’m going to visit you, but let’s have a Zoom call first.’” That’s usually enough.</quote>
+    <link>https://www.forbes.com/sites/alexkonrad/2019/04/19/zoom-zoom-zoom-the-exclusive-inside-story-of-the-new-billionaire-behind-techs-hottest-ipo/#2f1ff3344af1</link>
+  </entry>
+
+  <entry>
+    <title>Notes on AI Bias</title>
+    <quote>Machine learning finds patterns in data. ‘AI Bias’ means that it might find the wrong patterns - a system for spotting skin cancer might be paying more attention to whether the photo was taken in a doctor’s office. ML doesn’t ‘understand’ anything - it just looks for patterns in numbers, and if the sample data isn’t representative, the output won’t be either. Meanwhile, the mechanics of ML might make this hard to spot.</quote>
+    <link>https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias</link>
+  </entry>
+</feed>

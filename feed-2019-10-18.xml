@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 18, 2019</date>
+  
+  <entry>
+    <title>Canada's Decision To Make Public More Clinical Trial Data Puts Pressure On FDA</title>
+    <quote>Transparency advocates say clinical study reports need to be made public in order to understand how regulators make decisions and to independently assess the safety and efficacy of a drug or device. They also say the reports provide medical societies with more thorough data to establish guidelines for a treatment's use, and to determine whether articles about clinical trials published in medical journals — a key source of information for clinicians and medical societies — are accurate.</quote>
+    <link>https://www.npr.org/sections/health-shots/2019/10/11/769348119/canadas-decision-to-make-public-more-clinical-trial-data-puts-pressure-on-fda</link>
+  </entry>
+  
+  <entry>
+    <title>Most Popular Programming Languages 1965 - 2019</title>
+    <quote>A Barchart race for the ages</quote>
+    <link>https://www.youtube.com/watch?v=Og847HVwRSI</link>
+  </entry>
+
+  <entry>
+    <title>Most Popular Websites 1996 - 2019</title>
+    <quote>Watch this barchart race to understand the winners and losers over the last two decades</quote>
+    <link>https://www.youtube.com/watch?v=2Uj1A9AguFs</link>
+  </entry>
+  
+  <entry>
+    <title>Google and Ambient Computing</title>
+    <quote>Now you heard me talk about this idea with Baratunde, that helpful computing can be all around you — ambient computing. Your devices work together with services and AI, so help is anywhere you want it, and it’s fluid. The technology just fades into the background when you don’t need it. So the devices aren’t the center of the system, you are. That’s our vision for ambient computing.</quote>
+    <link>https://stratechery.com/2019/google-and-ambient-computing/</link>
+  </entry>
+  
+  <entry>
+    <title>The Lines of Code That Changed Everything</title>
+    <quote>Apollo 11, the JPEG, the first pop-up ad, and 33 other bits of software that have transformed our world.</quote>
+    <link>https://slate.com/technology/2019/10/consequential-computer-code-software-history.html</link>
+  </entry>
+  
+  <entry>
+    <title>Can you make AI fairer than a judge? Play our courtroom algorithm game</title>
+    <quote>The US criminal legal system uses predictive algorithms to try to make the judicial process less biased. But there’s a deeper problem.</quote>
+    <link>https://www.technologyreview.com/s/613508/ai-fairer-than-judge-criminal-risk-assessment-algorithm/</link>
+  </entry>
+</feed>

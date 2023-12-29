@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 10, 2019</date>
+
+  <entry>
+    <title>MIT AI model is 'significantly' better at predicting breast cancer</title>
+    <quote>The model can find breast cancer earlier and eliminates racial disparities in screening.</quote>
+    <link>https://www.engadget.com/2019/05/07/mit-ai-model-breast-cancer/</link>
+  </entry>
+
+  <entry>
+    <title>Tukey, Design Thinking, and Better Questions</title>
+    <quote>Far better an approximate answer to the right question, which is often vague, than an exact answer to the wrong question, which can always be made precise.</quote>
+    <link>https://simplystatistics.org/2019/04/17/tukey-design-thinking-and-better-questions/</link>
+  </entry>
+
+  <entry>
+    <title>Google backs a bid to use CRISPR to prevent heart disease</title>
+    <quote>The startup, Verve Therapeutics, said it had raised $58.5 million from investors including Alphabet's venture fund, GV. What makes Verve different? Most gene-therapy companies have gone after rare diseases like hemophilia. But Verve thinks editing people’s DNA could instead help solve the most common cause of death.</quote>
+    <link>https://www.technologyreview.com/f/613495/google-backs-a-bid-to-use-crispr-to-prevent-heart-disease/</link>
+  </entry>
+
+   <entry>
+    <title>Highlights of Microsoft's Build Conference</title>
+    <quote>Build 2019 Summary</quote>
+    <link>https://www.youtube.com/watch?v=YZkp0qBBmpw</link>
+  </entry>
+
+  <entry>
+    <title>Highlights of Google I/O 2019</title>
+    <quote>Summary of Google's annual developer event</quote>
+    <link>https://www.youtube.com/watch?v=wm2v6IpKXI4</link>
+  </entry>
+
+
+</feed>

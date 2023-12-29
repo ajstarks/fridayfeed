@@ -1,0 +1,32 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 7, 2019</date>
+
+  <entry>
+    <title>The 9 biggest highlights from Apple WWDC 2019</title>
+    <quote>At WWDC 2019, Apple announced a slew of software updates headed toward the Apple family of devices, including the iPhone, iPad, Mac desktops and laptops, Apple TV, and Apple Watch. There’s also the announcement of the new Mac Pro, a powerful computing device that hasn’t been refreshed since 2013.</quote>
+    <link>https://www.theverge.com/2019/6/3/18644510/apple-wwdc-2019-recap-top-news-ios-13-mac-pro-os-catalina-xdr-ipados-announcements-summary-updates</link>
+  </entry>
+
+  <entry>
+    <title>Software Engineering for Machine Learning: A Case Study</title>
+    <quote>Recent advances in machine learning have stimulated widespread interest within the Information Technology
+sector on integrating AI capabilities into software and services.
+This goal has forced organizations to evolve their development
+processes. We report on a study that we conducted on observing
+software teams at Microsoft as they develop AI-based applications.</quote>
+    <link>https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf</link>
+  </entry>
+
+  <entry>
+    <title>Flexible systems are the next frontier of machine learning</title>
+    <quote>Two important contributors to the field of artificial intelligence and machine learning – Jeff Dean, head of Google AI and the co-founder of Google Brain, and Chris Ré, associate professor of computer science at Stanford – discussed the future of flexible machine learning at a recent session of the AI Salon, hosted by the Stanford AI Lab and the Stanford Institute for Human-Centered Artificial Intelligence.</quote>
+    <link>https://youtu.be/Jnunp-EymJQ</link>
+  </entry>
+
+  <entry>
+    <title>Google Tried to Prove Managers Don't Matter. Instead, They Discovered 10 Traits of the Very Best Ones</title>
+    <quote>So what follows are the 10 characteristics Google believes make for the best managers (and that they expect from managers), (1) Good coaching, (2) empower teams (3) Create an inclusive team environment (4) Good communications (5) Have a clear strategy (6) Collaborate (7) Support career development and discuss performance (8) Advise the team with expertise (9) Collaborate (10) Strong decision making</quote>
+    <link>https://www.inc.com/scott-mautz/google-tried-to-prove-managers-dont-matter-instead-they-discovered-10-traits-of-very-best-ones.html</link>
+  </entry>
+</feed>

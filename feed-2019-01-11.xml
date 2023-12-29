@@ -1,0 +1,34 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>January 11, 2019</date>
+
+	<entry>
+		<title>Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network</title>
+		<quote>Here, we develop a deep neural network (DNN) to classify 12 rhythm classes using 91,232 single-lead ECGs from 53,549 patients who used a single-lead ambulatory ECG monitoring device. When validated against an independent test dataset annotated by a consensus committee of board-certified practicing cardiologists, the DNN achieved an average area under the receiver operating characteristic curve (ROC) of 0.97. The average F1 score, which is the harmonic mean of the positive predictive value and sensitivity, for the DNN (0.837) exceeded that of average cardiologists (0.780). </quote>
+		<link>https://www.nature.com/articles/s41591-018-0268-3</link>
+	</entry>
+
+	<entry>
+		<title>The State Of Software Security In 2019</title>
+		<quote>The Good, bad, ugly...and the future</quote>
+		<link>https://noncombatant.org/2019/01/06/state-of-security-2019/</link>
+	</entry>
+
+	<entry>
+		<title>2019 UI and UX Design Trends</title>
+		<quote>Deep flat, better browsers, 3D...</quote>
+		<link>https://uxplanet.org/2019-ui-and-ux-design-trends-92dfa8323225</link>
+	</entry>
+
+	<entry>
+		<title>Google Knows You Better Than Your Doctor Ever Could</title>
+		<quote>It's not intended as a substitute for medical professionals, but it has become one — free, convenient and crowdsourced.</quote>
+		<link>https://www.bloomberg.com/opinion/articles/2019-01-09/google-for-health-care-it-knows-you-better-than-your-doctor-does</link>
+	</entry>
+
+	<entry>
+		<title>Computer History Museum: Yesterday’s Computer of Tomorrow: The Xerox Alto</title>
+		<quote>How did personal computing start? Many credit Apple and IBM for this radical shift, but in 1973, years before the Apple II and IBM PC, Xerox built the Alto, a computer its makers thought could become the “computer of tomorrow.”</quote>
+		<link>https://youtu.be/4m_GhapEBLQ</link>
+	</entry>
+</feed>

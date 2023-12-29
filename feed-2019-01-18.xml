@@ -1,0 +1,40 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>January 18, 2019</date>
+
+	<entry>
+		<title>CES 2019: A Show Report</title>
+		<quote>Steven Sinofsky's massive annual CES review: This year was interesting and thought-provoking. Many technologies are maturing and what is needed now is a great deal of work to make them far more usable, useful, and desirable for the mass market.</quote>
+		<link>https://medium.learningbyshipping.com/ces-85ca9f07c08a</link>
+	</entry>
+
+	<entry>
+		<title>More Data is Not Better and Machine Learning is a Grind…. Just Ask Amazon</title>
+		<quote>Amazon had made all of these mistakes in the past (and more), and that an important rule of thumb for machine learning programmers was to have a robust set of “guardrails” that includes standardizing on a single framework, creating environments for experimentation that mirrors production, defining standard interfaces that models must conform to, and encapsulating systems that abstract both experimentation and production.</quote>
+		<link>https://scm.ncsu.edu/scm-articles/article/more-data-is-not-better-and-machine-learning-is-a-grind-just-ask-amazon</link>
+	</entry>
+
+	<entry>
+		<title>Does AI make strong tech companies stronger?</title>
+		<quote>But today, if you started a retailer and said “…and we’re going to use databases”, that would not make you different or interesting - SQL became part of everything and then disappeared. The same will happen with machine learning. </quote>
+		<link>https://www.ben-evans.com/benedictevans/2018/12/19/does-ai-make-strong-tech-companies-stronger</link>
+	</entry>
+
+	<entry>
+		<title>Giving algorithms a sense of uncertainty could make them more ethical</title>
+		<quote>“Our behavior as moral beings is full of uncertainty. But when we try to take that ethical behavior and apply it in AI, it tends to get concretized and made more precise.” Instead, Eckersley proposes, why not explicitly design our algorithms to be uncertain about the right thing to do?</quote>
+		<link>https://www.technologyreview.com/s/612764/giving-algorithms-a-sense-of-uncertainty-could-make-them-more-ethical/</link>
+	</entry>
+
+	<entry>
+		<title>The Route of a Text Message</title>
+		<quote>This installment is about a single text message: how it was typed, stored, sent, received, and displayed. I sprinkle in some history and context to break up the alphabet soup of protocols, but though the piece gets technical, it should all be easily understood.</quote>
+		<link>https://scottbot.net/the-route-of-a-text-message/</link>
+	</entry>
+
+	<entry>
+		<title>You are thinking about serverless costs all wrong</title>
+		<quote>Most companies won’t have the luxury of worrying about the cost of using AWS Lambda to train their ML models. They can’t even hope to compete for the engineering talents they need to design these workloads in the first place. Which brings me to the biggest cost saving from serverless that has been barely talked about. The saving in personnel cost</quote>
+		<link>https://theburningmonk.com/2019/01/you-are-thinking-about-serverless-costs-all-wrong/</link>
+	</entry>
+</feed>

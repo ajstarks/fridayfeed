@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 30, 2019</date>
+  
+  <entry>
+    <title>Forget single genes: CRISPR now cuts and splices whole chromosomes</title>
+    <quote>But a long-sought goal remained out of reach: manipulating much larger chunks of chromosomes in Escherichia coli, the workhorse bacterium. Now, researchers report they've adapted CRISPR and combined it with other tools to cut and splice large genome fragments with ease.</quote>
+    <link>https://www.sciencemag.org/news/2019/08/forget-single-genes-crispr-now-cuts-and-splices-whole-chromosomes</link>
+  </entry>
+
+  <entry>
+    <title>“Bicycle for the Mind”</title>
+    <quote>“When we invented the personal computer, we created a new kind of bicycle…a new man-machine partnership…a new generation of entrepreneurs.” Steve Jobs said this and a lot more in 1980 as explored in this annotated twitter thread.</quote>
+    <link>https://medium.learningbyshipping.com/bicycle-121262546097</link>
+  </entry>
+  
+  <entry>
+    <title>From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers</title>
+    <quote>We present gg, a framework and a set of command-line tools that helps people execute everyday applications—e.g., software compilation, unit tests, video encoding, or object recognition—using thousands of parallel threads on a cloud functions service to achieve near-interactive completion times. In the future, instead of running these tasks on a laptop, or keeping a warm cluster running in the cloud, users might push a button that spawns 10,000 parallel cloud functions to execute a large job in a few seconds from start. gg is designed to make this practical and easy.</quote>
+    <link>https://www.usenix.org/system/files/atc19-fouladi.pdf</link>
+  </entry>
+
+  <entry>
+    <title>How the Anthony Levandowski Indictment Helps Big Tech Stifle Innovation in Silicon Valley</title>
+    <quote>Much of the history of innovation is, in fact, also a history of theft: Microsoft stole the basic idea for the graphical user interface (think Windows’ on-screen icons) from Apple; Apple had stolen it from Xerox; the researchers at Xerox, most likely, stole it from someone else. Innovation, in many ways, is not about creation but about iteration, about building on ideas that have come before. Innovation is also about betrayal: much of Silicon Valley’s genesis can be traced to Fairchild Semiconductor, which was founded by a group of young engineers who came to be known as the Traitorous Eight after they left their previous employer, en masse, to set up a rival company. </quote>
+    <link>https://www.newyorker.com/tech/annals-of-technology/how-the-anthony-levandowski-indictment-helps-big-tech-stifle-innovation-in-silicon-valley</link>
+  </entry>
+  
+  <entry>
+    <title>Privacy Fundamentalism</title>
+    <quote>Indeed, that is why my critique of Manjoo’s article specifically and the ongoing privacy hysteria broadly is not simply about definitions or philosophy. It’s about fundamental assumptions. The default state of the Internet is the endless propagation and collection of data: you have to do work to not collect data on one hand, or leave a data trail on the other. This is the exact opposite of how things work in the physical world: there data collection is an explicit positive action, and anonymity the default.</quote>
+    <link>https://stratechery.com/2019/privacy-fundamentalism/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

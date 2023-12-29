@@ -1,0 +1,46 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 9, 2019</date>
+  
+
+  <entry>
+    <title>I'm a cyborg now! (On Building My Own Artificial Pancreas)</title>
+    <quote>Given the choice between a) changing my lifestyle to be boring and b) hacking my metabolism, I chose the easier option. I built an artificial pancreas using OpenAPS! And it's changing my life.</quote>
+    <link>https://liamz.co/blog/im-a-cyborg-now-on-building-my-own-artificial-pancreas/</link>
+  </entry>
+
+  <entry>
+    <title>Apple and Eli Lilly are studying whether data from iPhones and Apple Watches can detect signs of dementia</title>
+    <quote>According to research published this week, the two companies teamed up with health-tech start-up Evidation to find ways to more quickly and precisely detect cognitive impairments like Alzheimer’s disease with the help of popular consumer gadgets.</quote>
+    <link>https://www.cnbc.com/2019/08/07/apple-eli-lilly-studying-if-iphones-apple-watches-can-spot-dementia.htm</link>
+  </entry>
+
+  <entry>
+    <title>Cinematic scientific visualization: the art of communicating science</title>
+    <quote>Visualization is a wide field, and in this course we are focusing specifically on
+“cinematic scientific visualization”. Cinematic scientific visualization focuses on using
+Hollywood storytelling techniques to communicate spatial computational data with the
+public. This type of visualization is production-quality, data-driven imagery created
+with movie-making tools with good composition, camera direction, and artistic
+aesthetics suitable for distribution in immersive giant screen theaters.</quote>
+    <link>https://dl.acm.org/citation.cfm?id=3328056</link>
+  </entry>
+
+  <entry>
+    <title>Work Ruined Email</title>
+    <quote>The inbox became a to-do list, and everything started to flow through it. The ting of a new email elicits panic because it signals the arrival of a new toil: a new assignment from a boss, a request from a colleague, a policy notice from human resources, an announcement from management, a networking request from a stranger. You didn’t ask for any of these, but now you have to deal with them—even if just to press delete.</quote>
+    <link>https://www.theatlantic.com/technology/archive/2019/08/yahoo-mails-plan-to-fix-email-make-computers-read-it/595183/</link>
+  </entry>
+  
+  <entry>
+    <title>The Lonely Work of Moderating Hacker News</title>
+    <quote>The question facing Hacker News is whether the site’s original tech-intellectual culture can be responsibly scaled up to make space for a more inclusive, wider-ranging vision of technology.</quote>
+    <link>https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news</link>
+  </entry>
+  
+  <entry>
+    <title>A Framework for Moderation</title>
+    <quote>The question of when and why to moderate or ban has been an increasingly frequent one for tech companies, although the circumstances and content to be banned have often varied greatly. Some examples from the last several years:</quote>
+    <link>https://stratechery.com/2019/a-framework-for-moderation/</link>
+  </entry>
+</feed>

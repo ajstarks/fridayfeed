@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 4, 2019</date>
+  
+  <entry>
+    <title>Africa Is Building an A.I. Industry That Doesn’t Look Like Silicon Valley</title>
+    <quote>Over the last three years, academics and industry researchers from around the African continent have begun sketching the future of their own A.I. industry at a conference called Deep Learning Indaba. The conference brings together hundreds of researchers from more than 40 African countries to present their work, and discuss everything from natural language processing to A.I. ethics.</quote>
+    <link>https://medium.com/p/africa-is-building-an-a-i-industry-that-doesnt-look-like-silicon-valley-72198eba706d</link>
+  </entry>
+  
+  <entry>
+    <title>The Massive, Overlooked Potential of African DNA</title>
+    <quote>Around the world, tissue and blood banks have sprung up to catalog human DNA’s many mysteries. But not in Africa. About 80 percent of the human DNA used in genetic studies comes from people of European descent. When researchers survey vast numbers of genomes to unearth a disease’s genetic causes, they use almost no African data. Pharmaceutical companies, too, develop new drugs based overwhelmingly on the genomes of white people. </quote>
+    <link>https://www.wired.com/story/the-massive-overlooked-potential-of-african-dna/</link>
+  </entry>
+
+  <entry>
+    <title>When we watch TV, our TVs watch us back and track our habits</title>
+    <quote>This practice has exploded recently since it hasn’t faced much public scrutiny. But in the last few days, not one but *three* papers have dropped that uncover the extent of tracking on TVs. Let me tell you about them.</quote>
+    <link>https://twitter.com/random_walker/status/1177570679232876544</link>
+  </entry>
+  
+  <entry>
+    <title>Intro to Creative Coding</title>
+    <quote>This repository includes resources and course notes for students attending my Intro to Creative Coding workshops, demonstrating p5.js and Tone.js.</quote>
+    <link>https://github.com/mattdesl/workshop-p5-intro</link>
+  </entry>
+  
+  <entry>
+    <title>Just Enough Research</title>
+    <quote>Good research is about asking more and better questions, and thinking critically about the answers. Done well, it will save your team time and money by reducing unknowns and creating a solid foundation to build the right thing, in the most effective way.</quote>
+    <link>https://abookapart.com/products/just-enough-research</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft Surface Neo First Look: The Future Of Windows 10x Is Dual-Screen</title>
+    <quote>Microsoft is creating a new version of Windows 10, designed exclusively for dual-screen and foldable devices. Windows 10X, also known by codename “Santorini,” is an ambitious effort from Microsoft to redesign Windows 10 for devices that don’t even exist yet — like flexible tablets that morph into being capable of laptop-like tasks — devices like the Surface Neo.</quote>
+    <link>https://www.theverge.com/2019/10/2/20889000/microsoft-surface-neo-windows-10x-hands-on-features-price-photos-release-date</link>
+  </entry>
+</feed>

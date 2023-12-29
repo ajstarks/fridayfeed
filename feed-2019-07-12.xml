@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 12, 2019</date>
+  
+  <entry>
+    <title>DNA Data Storage Is Closer Than You Think</title>
+    <quote>Life’s information-storage system is being adapted to handle massive amounts of information</quote>
+    <link>https://www.scientificamerican.com/article/dna-data-storage-is-closer-than-you-think/</link>
+  </entry>
+
+  <entry>
+    <title>A new way to use the AI behind deepfakes could improve cancer diagnosis</title>
+    <quote>Generative adversarial networks, the algorithms responsible for deepfakes, have developed a bit of a bad rap of late. But their ability to synthesize highly realistic images could also have important benefits for medical diagnosis.</quote>
+    <link>https://www.technologyreview.com/f/613924/ai-deepfakes-gans-medical-cancer-diagnosis/</link>
+  </entry>
+  
+  <entry>
+    <title>Your Pa$$word doesn't matter</title>
+    <quote>Every week I have at least one conversation with a security decision maker explaining why a lot of the hyperbole about passwords – “never use a password that has ever been seen in a breach,” “use really long passwords”, “passphrases-will-save-us”, and so on – is inconsistent with our research and with the reality our team sees as we defend against 100s of millions of password-based attacks every day. Focusing on password rules, rather than things that can really help – like multi-factor authentication (MFA), or great threat detection – is just a distraction. Because here’s the thing: When it comes to composition and length, your password (mostly) doesn’t matter.</quote>
+    <link>https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984</link>
+  </entry>
+
+  <entry>
+    <title>The Computer Maverick Who Modeled the Evolution of Life</title>
+    <quote>Barricelli programmed some of the earliest computer algorithms that resemble real-life processes: a subdivision of what we now call “artificial life,” which seeks to simulate living systems—evolution, adaptation, ecology—in computers. Barricelli presented a bold challenge to the standard Darwinian model of evolution by competition by demonstrating that organisms evolved by symbiosis and cooperation.</quote>
+    <link>http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life</link>
+  </entry>
+
+  <entry>
+    <title>The False Musk-Jobs Parallel</title>
+    <quote>Comparing Elon Musk to Steve Jobs makes for easy headlines, but it’s not a helpful way to look at Tesla’s perennial mix of progress and trouble.</quote>
+    <link>https://mondaynote.com/the-false-musk-jobs-parallel-f038093ac033</link>
+  </entry>
+</feed>

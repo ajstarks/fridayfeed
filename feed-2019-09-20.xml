@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 20, 2019</date>
+  
+  <entry>
+    <title>At Dynamicland, The Building Is The Computer</title>
+    <quote>This computational research lab is reinventing computer programming</quote>
+    <link>https://tashian.com/articles/dynamicland/</link>
+  </entry>
+
+  <entry>
+    <title>A doc as powerful as an app.</title>
+    <quote>Coda is a new doc that grows with your ideas. People have made Coda docs 
+that do everything from launch products, to scale small businesses, to help 
+them study for tests. What will you Coda?</quote>
+    <link>https://coda.io/welcome</link>
+  </entry>
+  
+  <entry>
+    <title>The Five Types of People Who Use Visualization</title>
+    <quote>The Doer, the Analyzer, the Decider, the Casual Learner, the Museum Goer</quote>
+    <link>https://medium.com/nightingale/the-five-types-of-people-who-use-visualization-733d3998f6ef</link>
+  </entry>
+  
+  <entry>
+    <title>My takeaway from working with SwiftUI</title>
+    <quote>Overall the experience with SwiftUI was great. However, you have to try it yourself to know what it has to offer. For me I found it almost too fast to work with, easy to iterate and very approachable. The animations are a breeze to add. More importantly, I can dropdown to UIKit whenever you feel like it.</quote>
+    <link>https://medium.com/flawless-app-stories/my-takeaway-from-working-with-swiftui-7a589bbd1555</link>
+  </entry>
+
+  <entry>
+    <title>iphone 11 pro camera review: china</title>
+    <quote>While many camera/smartphone manufactures continue to approach digital photography as a technical problem to solve, I see the team at Apple has graduated beyond technical problems and is asking deeper questions like “How can we give artists (everyone) the creative tools to express their vision?”</quote>
+    <link>http://austinmann.com/trek/iphone-11-pro-review-china</link>
+  </entry>
+</feed>
