@@ -1,0 +1,28 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 11, 2016</date>
+  
+  <entry>
+    <title>A USB stick can show HIV test results in under 30 minutes</title>
+    <quote>The new diagnostic tool, co-created by the university and biotech company DNA Electronics, requires simply putting a single drop of blood onto a designated spot on the USB stick. The device contains a mechanism that can detect if there’s any HIV genetic material—RNA—in the drop of blood, and if so, how much. Then, when the stick is connected to a laptop or handheld device, the data are automatically delivered to an app where the patient can quickly read his or her results.</quote>
+    <link>http://qz.com/834515/a-usb-stick-can-show-hiv-test-results-in-under-30-minutes/</link>
+  </entry>
+  
+  <entry>
+    <title>Paper Review: Why Does the Cloud Stop Computing? Lessons from Hundreds of Service Outages</title>
+    <quote>Availability is clearly very important for cloud services. Downtimes cause financial and reputation damages. As our reliance to cloud services increase, loss of availability creates even more significant problems. Yet, several outages occur in cloud services every year. The paper tries to answer why outages still take place even with pervasive redundancies.</quote>
+    <link>http://muratbuffalo.blogspot.co.nz/2016/11/why-does-cloud-stop-computing-lessons.html</link>
+  </entry>
+  
+  <entry>
+    <title>Scaling Knowledge at Airbnb</title>
+    <quote>A responsibility for the Data team at Airbnb is to scale the ability to make decisions using data. We democratize data access to empower all employees to make data-informed decisions, give everybody the ability to use experiments. As an organization grows, how do we make sure that an insight uncovered by one person effectively transfers beyond the targeted recipient? Internally, we call this scaling knowledge.</quote>
+    <link>https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.rrahp06oa</link>
+  </entry>
+  
+  <entry>
+    <title>Office UI Fabric</title>
+    <quote>Build apps that extend the familiar Office and Office 365 experience across desktop, web, and mobile platforms.</quote>
+    <link>https://dev.office.com/fabric</link>
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 8, 2016</date>
+  
+  <entry>
+    <title>Why Microsoft is betting its future on AI </title>
+    <quote>"It's the modern era — you don't have to be an expert in speech and language understanding," Connell says. "Just use our tools. Go build your branded bot with our tools and put it on whatever canvas — it might be Slack, it might be Facebook Messenger. We hope it might be Skype or Windows. But you choose."</quote>
+    <link>http://www.theverge.com/2016/7/7/12111028/microsoft-bot-framework-artificial-intelligence-satya-nadella-interview</link>
+  </entry>
+  
+ <entry>
+    <title>Getting Up to Speed on Deep Learning</title>
+    <quote>Behind the scenes, deep learning is an active, fast-paced research area that’s proliferating quickly among some of the world’s most innovative companies. We are asked frequently about our favorite resources to get up to speed on deep learning and follow its rapid developments. As such, we’ve outlined below some of our favorite resources</quote>
+    <link>https://medium.com/the-mission/getting-up-to-speed-on-deep-learning-20-resources-efec21e0aaf9#.82akgevo3</link>
+  </entry>
+  
+  <entry>
+    <title>A Designer’s Scientific Method</title>
+    <quote>The scientific method starts with a question — “why is the sky blue?” From that question a hypothesis is developed — “because… molecules” — then predictions are made and tested. From those tests, an analysis is given as to whether or not their hypothesis holds true. In a designer’s process we ask many questions, define a problem, propose a variety of solutions, test them, and assess how well they’ve solved the problem.</quote>
+    <link>https://medium.com/shyp-design/a-designer-s-scientific-method-12671b41efb7#.du0a5dad1</link>
+  </entry>
+
+  <entry>
+    <title>Design method toolkit</title>
+    <quote>Set your goals, choose your methods, work your magic.Design Method Toolkit for agile, team-based projects</quote>
+    <link>http://medialabamsterdam.com/toolkit/</link>
+  </entry>
+  
+  <entry>
+    <title>The visualizations transforming biology </title>
+    <quote>A smart visualization can transform biologists' understanding of their data. And now that it's possible to sequence every RNA molecule in a cell or fill a hard drive in a day with microscopy images, life scientists are increasingly seeking inventive visual ways of making sense of the glut of raw data that they collect.</quote>
+    <link>http://www.nature.com/news/the-visualizations-transforming-biology-1.20201</link>
+  </entry>
+</feed>

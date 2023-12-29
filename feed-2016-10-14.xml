@@ -1,0 +1,44 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 14, 2016</date>
+  
+  <entry>
+    <title>To Make Vaccines Anywhere, Just Add Water</title>
+    <quote>To get a vaccine from a factory to a child who needs it, you often need to cross countries, if not continents. Across that distance, vaccines are relayed through a “cold chain” of insulated boxes, freezers, vehicles, and depots. The chain is as fragile as it is necessary: If any link fails, the life-saving cargo would rapidly thaw and irreversibly degrade.
+
+But if Keith Pardee, from the University of Toronto, and Jim Collins, from MIT, have their way, the cold chain could be a thing of the past. They have developed a technique for making vaccines and drugs at the places where they’re actually needed. And rather than building large manufacturing plants, their method relies on the greatest factories of all: living cells.</quote>
+    <link>http://www.theatlantic.com/science/archive/2016/10/to-make-vaccines-anywhere-just-add-water/503525/</link>
+  </entry>
+  
+  <entry>
+    <title>How I Built This</title>
+    <quote>How I Built This is a podcast about innovators, entrepreneurs, and idealists, and the stories behind the movements they built. Each episode is a narrative journey marked by triumphs, failures, serendipity and insight — told by the founders of some of the world's best known companies and brands.</quote>
+    <link>http://www.npr.org/podcasts/510313/how-i-built-this</link>
+  </entry>
+  
+  <entry>
+    <title>Chat And The Consumerization Of IT</title>
+    <quote>So which definition of the Consumerization of IT is most meaningful? Is it consumer products ported to IT, consumer UI on traditional enterprise products, or a new business model that transforms the relationship between buyers and sellers? Certainly all three factors are important to the rise of software as a service, but the upcoming chat wars will provide an interesting test as to which is the most important.</quote>
+    <link>https://stratechery.com/2016/chat-and-the-consumerization-of-it/</link>
+  </entry>
+  
+  <entry>
+  	<title>How Microsoft used an office move to boost collaboration</title>
+  	<quote>we analyzed the metadata attached to employee calendar items in order to calculate the travel time associated with meetings before and after the office move and converted this difference into monetary savings based on time usage. We found that, as a result of the relocation, each employee spent a few minutes less walking to each meeting — a 46% reduction in travel time per meeting that, when added up, resulted in a combined total of 100 hours saved per week across all 1,200 employees involved in the move. This resulted in an estimated cost savings of $520,000 per year in employee time and increased collaboration within teams.</quote>
+  	<link>https://hbr.org/2016/10/how-microsoft-used-an-office-move-to-boost-collaboration</link>
+  </entry>
+  
+  <entry>
+  	<title>Making Remote Work</title>
+  	<quote>With the tools to work apart under our belt, what about working together with an ocean and several hours dividing you? The key for us has been creating guidelines and processes which help us collaborate despite not being physically together.
+  	Finally, and most importantly, is how we remain rallied around a common goal and purpose despite our distance. At Heroku we have a yearly cadence consisting of four seasons; planning, building, delivering, and reflecting. During each season, teams come together from all over the world and work from one location for a week.</quote>
+  	<link>https://medium.com/salesforce-ux/making-remote-work-b2e2fe53221f#.q9timb7rs</link>
+  </entry>
+  
+  <entry>
+    <title>Daily Report: Salesforce Has Had Its Eye on Twitter. But Why?</title>
+    <quote>This year’s Salesforce shindig comes with a little extra noise: For weeks now, there have been reports that the company, which makes online software to help users manage tasks like sales and marketing, is looking to buy Twitter.</quote>
+    <link>http://nyti.ms/2dFjaYW</link>
+  </entry>
+  
+</feed>

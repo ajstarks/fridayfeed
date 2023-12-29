@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 18, 2016</date>
+  
+  <entry>
+    <title>Study Shows Promise for Expensive Cholesterol Drugs, but They Are Still Hard to Obtain</title>
+    <quote>Now, with new drugs on the market that can plunge cholesterol levels lower than ever thought possible, researchers are eagerly waiting for an answer to the next question: Is there a limit to the benefits in high-risk patients? After a certain point, do benefits level off or even reverse? A new study suggests there is no leveling off. But that good news comes in the context of unexpected problems with the new drugs, known as PCSK9 inhibitors.</quote>
+    <link>http://nyti.ms/2eCeq9M</link>
+  </entry>
+  
+  <entry>
+    <title>International Human Cell Atlas Initiative</title>
+    <quote>An ambitious global initiative to create a Human Cell Atlas - a description of every cell in the human body as a reference map to accelerate progress in biomedical science - was discussed at an International meeting in London on 13-14 October. Ultimately, the Human Cell Atlas would revolutionise how doctors and researchers understand, diagnose and treat disease.</quote>
+    <link>http://www.sanger.ac.uk/news/view/international-human-cell-atlas-initiative</link>
+  </entry>
+  
+  <entry>
+    <title>Humanity and AI will be inseparable</title>
+    <quote>While some predict mass unemployment or all-out war between humans and artificial intelligence, others foresee a less bleak future. Professor Manuela Veloso, head of the machine learning department at Carnegie Mellon University, envisions a future in which humans and intelligent systems are inseparable, bound together in a continual exchange of information and goals that she calls “symbiotic autonomy.” In Veloso’s future, it will be hard to distinguish human agency from automated assistance — but neither people nor software will be much use without the other.</quote>
+    <link>http://www.theverge.com/a/verge-2021/humanity-and-ai-will-be-inseparable</link>
+  </entry>
+
+  <entry>
+    <title>CRISPR gene-editing tested in a person for the first time</title>
+    <quote>A Chinese group has become the first to inject a person with cells that contain genes edited using the revolutionary CRISPR–Cas9 technique. On 28 October, a team led by oncologist Lu You at Sichuan University in Chengdu delivered the modified cells into a patient with aggressive lung cancer as part of a clinical trial at the West China Hospital, also in Chengdu.</quote>
+    <link>http://www.nature.com/news/crispr-gene-editing-tested-in-a-person-for-the-first-time-1.20988</link>
+  </entry>
+  
+  <entry>
+    <title>Doctors Still Struggle to Make the Most of Computer-Aided Diagnosis</title>
+    <quote>The stakes are even higher for real-life diagnoses, where doctors always face time pressure. That is why researchers have tried since the 1960s to supplement doctors’ memory and decision-making skills with computer-based diagnostic aids. In 2012, for example, IBM pitted a version of its Jeopardy!-winning artificial intelligence, Watson, against questions from Doctor’s Dilemma. But Big Blue’s brainiac couldn’t replicate the overwhelming success it had against human Jeopardy! players.</quote>
+    <link>http://spectrum.ieee.org/the-human-os/biomedical/diagnostics/doctors-still-struggle-to-make-the-most-of-computer-aided-diagnosis</link>
+  </entry>
+  
+
+</feed>

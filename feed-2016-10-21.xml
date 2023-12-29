@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 21, 2016</date>
+  
+  <entry>
+    <title>Slack CEO describes 'Holy Grail' of virtual assistants</title>
+    <quote>Slack CEO Stewart Butterfield has an audacious goal: Turning his messaging and collaboration platform into an uber virtual assistant capable of searching every enterprise application to deliver employees pertinent information. And if Slack succeeds, it could seal the timeless black hole of wasted productivity enterprise search and other tools have failed to close.</quote>
+    <link>http://www.cio.com/article/3131536/collaboration/slack-ceo-describes-holy-grail-of-virtual-assistants.html</link>
+  </entry>
+  
+  <entry>
+    <title>The It Era And The Internet Revolution</title>
+    <quote>As another example, I wrote last month about the dramatic shift in enterprise software that is being enabled by the cloud. The simple ability to pay-as-you-go has already had a big impact on startups and venture capital, but the initial impact on established companies has been to operationalize costs and increase scalability for established processes; the true transformation — building and selling software in completely new ways — is only getting started. Again, there is a difference between making an existing process more efficient and enabling a completely new approach. The gains from the former are easy to measure; the transformation of the latter is only apparent in retrospect, in part because the old way takes time to die and repurpose.</quote>
+    <link>https://stratechery.com/2016/the-it-era-and-the-internet-revolution/</link>
+  </entry>
+  
+  <entry>
+    <title>IBM Is Counting on Its Bet on Watson, and Paying Big Money for It</title>
+    <quote>But the years of investment and applied-science projects, IBM executives say, are increasingly turning into moneymaking opportunities in sizable markets.
+
+They point to a new Watson offering in genomics as a prime example of the company’s strategy. IBM is collaborating with Quest Diagnostics, the medical laboratory company, to offer gene sequencing and Watson diagnostic analysis, as a cloud service, to oncologists treating cancer patients, starting on Monday. The service will also tap the genomics data and expertise of the Memorial Sloan-Kettering Cancer Center and the Broad Institute.</quote>
+    <link>http://nyti.ms/2e9YgDo</link>
+  </entry>
+  
+  <entry>
+    <title>Apple, Samsung, and Good Design Inside and Out</title>
+    <quote>As I read the coverage of the iPhone 7 design, Samsung’s troubles, and the legal rumbles between Apple and Samsung, it became obvious that we, collectively, have a misunderstanding of what design is, especially when it comes to connected devices. Many technology reviewers make the very human mistake of thinking about beauty and design as skin deep, overlooking what’s inside. I look at the new iPhone 7—and particularly the iPhone 7 Plus—and see huge technological leaps.</quote>
+    <link>http://www.newyorker.com/business/currency/apple-samsung-and-good-design-inside-and-out</link>
+  </entry>
+
+  <entry>
+    <title>Bill Belichick Throws In the Tablet</title>
+    <quote>A cautionary tale on building reliable systems.</quote>
+    <link>http://nyti.ms/2eeRvQP</link>
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 19, 2016</date>
+  <entry>
+    <title>New York Times Listening Table</title>
+    <quote>The New York Times invents a conference table that takes notes for you it’s called the listening table, and it not only transcribes meetings, but knows when they’re important.</quote>
+    <link>http://retelly.com/technology/new-york-times-listening-table/</link>
+  </entry>
+  
+  <entry>
+    <title>Google Bets on Health: 'The Most You Can Lose Is All Your Money'</title>
+    <quote>GV is going further, making bets in sectors overseen by the Food and Drug Administration like drugs and medical devices. Maris says he’s willing to deal with long schedules and regulatory hiccups.</quote>
+    <link>http://www.bloomberg.com/news/articles/2016-02-12/google-ventures-seeks-to-make-name-as-farsighted-health-investor</link>
+  </entry>
+  
+  <entry>
+    <title>Alexa, Unlock the Internet</title>
+    <quote>Having a dedicated device for these early days of voice interaction seems key. Because people aren’t yet used to talking to machines, there needs to be a bridge to get there. That bridge, I think, will be Echo.</quote>
+    <link>https://500ish.com/alexa-5f7924bffcf3#.wmkok87y5</link>
+  </entry>
+  
+  <entry>
+    <title>Gearing Up for the Cloud, AT&amp;T Tells Its Workers: Adapt, or Else</title>
+    <quote>In 2012, Mr. Stephenson realized, much to his dismay, that his staff was woefully unschooled for the new technology. Vision 2020, as the company calls it, is a program that combines online and classroom-based course work in subjects like digital networking and data science, as well as a look at old skills that can be transferred to new careers.</quote>
+    <link>http://nyti.ms/1ocRpe4</link>
+  </entry>
+  
+  <entry>
+    <title>Learning The Alphabet</title>
+    <quote>How schools around the country are turning dead Microsoft PCs into speedy Chromebooks</quote>
+    <link>http://www.theverge.com/2016/2/17/11030406/neverware-google-chromebook-chromium-os-education-microsoft</link>
+  </entry>
+</feed>

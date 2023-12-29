@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 15, 2016</date>
+  
+  <entry>
+    <title>Searching for Cancer Maps in Free-Floating DNA</title>
+    <quote>These days, scientists are especially excited by the prospect of using cell-free DNA to test for cancer. Instead of relying on invasive biopsies, they hope to find blood-borne fragments that carry distinctive cancer mutations.</quote>
+    <link>http://nyti.ms/1TYqKLC</link>
+  </entry>
+  
+  <entry>
+    <title>Gates, Bezos invest in cancer blood test</title>
+    <quote>By enabling the early detection of cancer in asymptomatic individuals through a simple blood screen, we aim to massively decrease cancer mortality by detecting the disease at a curable stage.</quote>
+    <link>http://quadrangleonline.com/2016/01/11/gates-bezos-invest-in-cancer-blood-test/</link>
+  </entry>
+  
+  <entry>
+    <title>Kathryn McElroy on IBM’s design approach</title>
+    <quote>I see the shift from an engineering feature-based product design to a user-centered product design across a 380,000 person company to be the most challenging but most impactful place that I can work. On a day-to-day basis, how this comes through is how we interact with our teams.</quote>
+    <link>https://www.oreilly.com/ideas/kathryn-mcelroy-on-ibms-design-approach</link>
+  </entry>
+  
+  <entry>
+    <title>The Tool We Built To Help Us Work Remotely</title>
+    <quote>Fizz keeps everything and everyone out in the open. By focusing on smaller, daily contributions towards milestones we help battle the disgruntlement, negative-spiraling and over-work that can become toxic under-currents in many remote organizations. We work in positivity through the appreciation and praise of team mates and the intrinsic reward of contributing daily to the creation of a beautiful piece of software that our users love; Fizz keeps us woven together.</quote>
+    <link>https://www.compose.io/articles/the-tool-we-built-to-help-us-work-remotely/</link>
+  </entry>
+  
+  <entry>
+    <title>Four Things Working at Facebook Has Taught Me About Design Critique</title>
+    <quote>Establish clear roles, focus on the problem, focus on feedback, not critisim, phones and laptops stay closed.</quote>
+    <link>https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3#.ttzxb9h7e</link>
+  </entry>
+</feed>

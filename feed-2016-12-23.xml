@@ -1,0 +1,46 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 23, 2016</date>
+  
+  <entry>
+  	<title>Defining the End of Cancer</title>
+  	<quote>However, there are other ways to think about the end of cancer: The end of fear of cancer; the end of pain, suffering, and death from cancer; the end of cancer as an inevitable disease. Wender points out that up to half of all cancer deaths could be prevented. And for cancers that can’t be cured, improved treatments could “enable us to peacefully coexist with our cancer for a long time,” </quote>
+  	<link>https://medium.com/what-will-it-take-to-end-cancer/defining-the-end-of-cancer-913bc1bddddc#.piyumlh9i</link>
+  </entry>
+  
+  <entry>
+    <title>Voice Is the Next Big Platform, and Alexa Will Own It</title>
+    <quote>Amazon is introducing us to a new computing interface — a voice devoid of a screen—that will eventually grow to be more ubiquitous and more useful than our smartphones. Forget the onerous process of pulling your Pixel or iPhone from your pocket, unlocking it, opening apps, and tapping your desires onto a screen. (Ugh!) Soon, you’ll speak your wants into the air — anywhere — and a woman’s warm voice with a mid-Atlantic accent will talk back to you, ready to fulfill your commands.</quote>
+    <link>https://backchannel.com/voice-is-the-next-big-platform-and-alexa-will-own-it-c2cf13fab911#.apakzkeki</link>
+  </entry>
+  
+  <entry>
+    <title>The End of Cloud Computing</title>
+    <quote>But how can we say cloud computing is coming to an “end” when it hasn’t even really started yet?? Because the edge — where self-driving cars and drones are really data centers with wheels or wings — is where it’s at. So where does machine learning in the enterprise come in? How does this change IT? As software programs the world, these are some of the shifts to look at</quote>
+    <link>http://a16z.com/2016/12/16/the-end-of-cloud-computing/</link>
+  </entry>
+
+  <entry>
+    <title>Building Jarvis</title>
+    <quote>My personal challenge for 2016 was to build a simple AI to run my home -- like Jarvis in Iron Man. So far this year, I've built a simple AI that I can talk to on my phone and computer, that can control my home, including lights, temperature, appliances, music and security, that learns my tastes and patterns, that can learn new words and concepts, and that can even entertain Max. It uses several artificial intelligence techniques, including natural language processing, speech recognition, face recognition, and reinforcement learning, written in Python, PHP and Objective C. In this note, I'll explain what I built and what I learned along the way.</quote>
+    <link>https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634</link>
+  </entry>
+  
+  <entry>
+    <title>Data is only as valuable as the decisions it enables</title>
+    <quote>The RISE Lab is about real-time decisions on live data. There are two differences: one is the transition from analytics to decisions, the other is transitioning from what was mostly queries on batch data to live data. If you look at what people try to do with their data, it's to use it make decisions or to take some actions that will improve their product, business processes, and things like that. You hear more and more today that data is only as valuable as the decision it enables. </quote>
+    <link>https://www.oreilly.com/ideas/data-is-only-as-valuable-as-the-decisions-it-enables</link>
+  </entry>
+  
+  <entry>
+    <title>The State Of Technology At The End Of 2016</title>
+    <quote>The risk for the technology industry is that we are now the incumbents: we have a stake in keeping things exactly as they are, and we build products for ourselves — we’re our own best customers. That, though, cedes the future to the powerless — those with nothing to lose under the current system will by sheer necessity build the new.</quote>
+    <link>https://stratechery.com/2016/the-state-of-technology-at-the-end-of-2016/</link>
+  </entry>
+  
+  <entry>
+    <title>The Verge: 2016 Yearbook</title>
+    <quote>It was a long and memorable year, so we’re taking a moment to look back at our favorite stories.</quote>
+    <link>http://www.theverge.com/a/2016-best-of-verge</link>
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 1, 2016</date>
+  
+  <entry>
+    <title>AI, Deep Learning, and Machine Learning: A Primer</title>
+    <quote>From types of machine intelligence to a tour of algorithms, a16z Deal and Research team head Frank Chen walks us through the basics (and beyond) of AI and deep learning in this slide presentation.</quote>
+    <link>https://vimeo.com/170189199</link>
+  </entry>
+  
+  <entry>
+    <title>Power to the People: How One Unknown Group of Researchers Holds the Key to Using AI to Solve Real Human Problems</title>
+    <quote>What’s needed for AI’s wide adoption is an understanding of how to build interfaces that put the power of these systems in the hands of their human users. What’s needed is a new hybrid design discipline, one whose practitioners understand AI systems well enough to know what affordances they offer for interaction and understand humans well enough to know how they might use, misuse, and abuse these affordances.</quote>
+    <link>https://medium.com/@atduskgreg/power-to-the-people-how-one-unknown-group-of-researchers-holds-the-key-to-using-ai-to-solve-real-cc9e75b1f334#.s1db5jgb0</link>
+  </entry>
+  
+  <entry>
+    <title>The Future Is Simple</title>
+    <quote>People often ask me what the future of technology is going to be. First I tell them the truth, I don’t know. Then I tell them what I hope will be true. My hope for the future of technology is that it seemingly disappears, it gets out of the way, and it somehow amplifies the best qualities of humanity. We won’t see clunky gadgets all around us, yet technology surrounds us and can be summoned at any point like a Jedi using “The Force.”</quote>
+    <link>https://medium.com/the-biz-stone-collection/the-future-is-simple-f331e207b0cb#.skcnz4ny5</link>
+  </entry>
+
+  <entry>
+    <title>Hackers are coming for your healthcare records -- here’s why</title>
+    <quote>Enterprises with legacy systems are trying to connect to and integrate EHRs. Security is not always considered as a part of that, and patching systems is always fraught with peril. You're always a little behind with that," Gallagher said. "It's a formula for being behind."</quote>
+    <link>http://www.computerworld.com/article/3090566/healthcare-it/hackers-are-coming-for-your-healthcare-records-heres-why.html</link>
+  </entry>
+
+  <entry>
+    <title>How To Break Open The Web</title>
+    <quote>Fast forward, through the emergence of giant web-centric companies like Google, Facebook, Twitter, and Salesforce. We find ourselves in the silo era. Data and service silos hold what we do—our work, our play, our very thoughts— hostage, even as they provide genuine convenience and value in other ways. Mobile devices exacerbate the problem. Many mobile apps are essentially browsers that work on a single website. Add government and telecom control-freakery to the mix, and it’s all too easy to worry that we may already have lost.</quote>
+    <link>http://www.fastcompany.com/3061357/the-web-decentralized-distributed-open</link>
+  </entry>
+</feed>

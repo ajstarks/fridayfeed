@@ -1,0 +1,30 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 28, 2016</date>
+  
+  <entry>
+    <title>The 11 Bad Habits Killing Innovation in Your Company</title>
+    <quote>Big companies have great execution habits to manage and improve successful business models and value propositions. But the habits that foster execution can easily kill new growth initiatives inside your company.</quote>
+    <link>https://steveblank.com/2016/10/13/the-11-bad-habits-killing-innovation-in-your-company/</link>
+  </entry>
+  
+  <entry>
+    <title>What Last Week’s Internet Shut Down Really Means</title>
+    <quote>It turns out that tens of millions of digital video recorders and other devices connected to the internet and protected only by factory-encoded, easily-brute-force-guessable passwords can be harnessed in the service of gigantic distributed denial-of-service attacks. When those devices were instructed to send huge numbers of messages to computers providing pointers to some very popular websites, the computers on the receiving end were brought to their knees—incapable of processing any requests.</quote>
+    <link>https://backchannel.com/the-internet-of-things-is-taking-over-cities-8ca5ffa013ac#.kebihvrm4</link>
+  </entry>
+  
+  <entry>
+    <title>Why Chat May Be King Of The New Mobile Landscape </title>
+    <quote>It seems like chat is going to be at the base of everything we do in a way that even the internet isn’t. What if chat powers the world?</quote>
+    <link>https://www.fastcodesign.com/3064055/mind-and-machine/why-chat-may-be-king-of-the-new-mobile-landscape</link>
+  </entry>
+  
+  <entry>
+    <title>Remember When the PC Was Dying? It’s Making a Comeback.</title>
+    <quote>At Microsoft’s Windows 10 event on Wednesday, the headliner was neither a tablet nor a notebook computer. The Surface Pro and the Surface Book rated only brief mentions. The main attraction: a massive, gorgeous, $3,000 desktop PC called the Surface Studio.
+    Microsoft bills it as a “new class of device” designed for “creative and professionals.” The ultra-HD 4.5k 28-inch screen, which is just an inch thick, pivots on a hinge from an upright desktop display to a touchscreen “digital canvas.” In this configuration, which Microsoft calls Studio Mode, it reclines at a 20-degree angle, like a drafting table.</quote>
+    <link>http://www.slate.com/blogs/moneybox/2016/10/26/the_pc_is_making_a_comeback_thanks_to_apple_s_macbooks_and_microsoft_s_surface.html</link>
+  </entry>
+  
+</feed>

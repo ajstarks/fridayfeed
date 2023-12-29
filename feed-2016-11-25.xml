@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 25, 2016</date>
+  
+  <entry>
+    <title>The Race for a Zika Vaccine</title>
+    <quote>Perhaps never before have so many companies and government organizations worked so quickly to develop a vaccine from scratch. Vaccines usually take a decade or more to develop. But researchers say a Zika vaccine could be available as early as 2018, in what would be a remarkable two-year turnaround. More than a dozen companies are on the hunt, in addition to government stalwarts like the National Institutes of Health. To get ahead, some teams are employing innovative technologies that rely on splicing DNA, a method that has the potential to revolutionize the development of vaccines but that has never before been approved for use in humans</quote>
+    <link>http://nyti.ms/2eQCzJG</link>
+  </entry>
+  
+  <entry>
+    <title>Out of Einstein’s Lab: Salesforce Research Unveils Breakthroughs in Deep Learning</title>
+    <quote>Artificial intelligence will be at the core of most enterprise products that deal with large amounts of text, structured data and image data. Salesforce Einstein strives to bring AI to use cases in service, sales, marketing and others by embedding it directly into Salesforce products and enabling developers through our platform. AI will empower every company to deliver smarter, more personalized customer experiences.</quote>
+    <link>https://medium.com/@salesforce/salesforce-research-deep-learning-breakthroughs-d83c8b2ac4c3#.5upfnf2ki</link>
+  </entry>
+
+  <entry>
+    <title>Nikola Tesla Describes the Modern Smartphone — in 1926</title>
+    <quote>“When wireless is perfectly applied the whole earth will be converted into a huge brain, which in fact it is, all things being particles of a real and rhythmic whole. We shall be able to communicate with one another instantly, irrespective of distance. Not only this, but through television and telephony we shall see and hear one another as perfectly as though we were face to face, despite intervening distances of thousands of miles; and the instruments through which we shall be able to do his will be amazingly simple compared with our present telephone. A man will be able to carry one in his vest pocket.”</quote>
+    <link>http://bigthink.com/words-of-wisdom/nikola-tesla-2</link>
+  </entry>
+  
+  <entry>
+    <title>Thought as a Technology</title>
+    <quote>Have you ever felt awe and delight upon first experiencing a computer interface? An interface that surprised you with its strangeness, with a sense of entering an alien world?</quote>
+    <link>http://cognitivemedium.com/tat/index.html</link>
+  </entry>
+  
+  <entry>
+    <title>Conversational Commerce, Data Lake And Synthetic Biology</title>
+    <quote>In these short videos, Goldman Sachs experts bring you some of the new and emerging words and phrases that are important to know in today's economy.</quote>
+    <link>http://www.goldmansachs.com/our-thinking/pages/buzzwords/index.html</link>
+  </entry>
+  
+  <entry>
+    <title>How Google Is Challenging AWS</title>
+    <quote>It turns out that over the last couple of years Google has undertaken a sort of browser approach to enterprise computing . In 2014 Google announced Kubernetes, an open-source container cluster manager based on Google’s internal Borg service that abstracts Google’s massive infrastructure such that any Google service can instantly access all of the computing power they need without worrying about the details. The central precept is containers, which I wrote about in 2014: engineers build on a standard interface that retains (nearly) full flexibility without needing to know anything about the underlying hardware or operating system (in this it’s an evolutionary step beyond virtual machines).</quote>
+    <link>https://stratechery.com/2016/how-google-cloud-platform-is-challenging-aws/</link>
+  </entry>
+</feed>

@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 4, 2016</date>
+  
+  <entry>
+    <title>President Weighs In on Data From Genes</title>
+    <quote>The president said that the success of his Precision Medicine Initiative, which aims to collect genetic data on one million American volunteers so scientists can develop drugs and treatments tailored to individual patients, hinged at least in part on “understanding who owns the data.”</quote>
+    <link>http://nyti.ms/1TC3Uva</link>
+  </entry>
+  
+  <entry>
+    <title>Raspberry Pi 3: First Look</title>
+    <quote>The Raspberry Pi 3 will replace the Pi 2 in the current lineup, landing at the same price point that the headline model has always occupied. Here, we'll go through what's new in terms of appearance and specifications, and then go through some benchmarks comparing the new Raspberry Pi 3 to the Pi 2 and Pi Zero.</quote>
+    <link>http://blog.pimoroni.com/raspberry-pi-3/</link>
+  </entry>
+    
+  <entry>
+    <title>Keeping your Sanity Securing Iaas, PaaS and SaaS cloud services</title>
+    <quote>It may require a cultural shift in your organization to accept extending trust to your cloud service providers (CSP), that trust is well place. Top tier CSPs understand that they live and die on their reputation. It’s in their best interests to deliver a secure service to you.</quote>
+    <link>https://medium.com/@marknca/keeping-your-sanity-securing-iaas-paas-and-saas-cloud-services-4b7467f24631#.x1u486313</link>
+  </entry>
+  
+  <entry>
+    <title>Voice: the Next UI Layer</title>
+    <quote>As voice recognition and, more importantly, AI-driven understanding of the meaning behind voice-based commands and queries all develop to maturity, we’re seeing a dizzying array of voice-driven use cases start to take shape. </quote>
+    <link>https://medium.com/@cody/voice-the-next-ui-layer-c62a2d4b3109#.ij2p3gxx2</link>
+  </entry>
+
+  <entry>
+    <title>The Design Research Kit</title>
+    <quote>At Medium, we’re trying out a fortnightly Designer Day, where we get out of the building and work on design-initiated projects. One recent project I took on was creating a Design Research Kit: an overview of research for folks who are less familiar, with some helpful tips.</quote>
+    <link>https://medium.com/designing-medium/design-research-kit-fed36125a713#.pilvd5jv5</link>
+  </entry>
+  
+  <entry>
+    <title>The Problem with Design Thinking</title>
+    <link>https://medium.com/the-many/the-problem-with-design-thinking-988b88f1d696#.bq4cfjh9v</link>
+    <quote>In that sense, classical Design Thinking is like the new waterfall: too linear, too slow, too dumb. Full-Stack Design Thinking is more potent because it brings people from a range of disciplines — business strategists, technologists, product managers, human insights and interaction designers — together into a unified, weaponised, team that brings cross-disciplinary thinking to bear on a problem all at once.</quote>
+  </entry>
+
+</feed>

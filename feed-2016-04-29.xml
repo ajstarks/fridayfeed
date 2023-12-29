@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>April 29, 2016</date>
+
+	<entry>
+		<title>Flu vaccine four times more effective if given in morning </title>
+		<quote>The flu vaccine is four times more effective if given in the morning, scientists have discovered, a finding which could help prevent the deaths of thousands of people each year.</quote>
+		<link>http://www.telegraph.co.uk/science/2016/04/25/flu-vaccine-four-times-more-effective-if-given-in-morning/</link>
+	</entry>
+
+	<entry>
+		<title>Recursion Pharmaceuticals: Approach</title>
+		<quote>Recursion generates human cellular models of many diseases and uses computer vision to extract thousands of morphological measures at the level of individual cells. Molecules are then screened for their ability to rescue phenotypic defects associated with each disease.</quote>
+		<link>http://www.recursionpharma.com/approach.html</link>
+	</entry>
+
+	<entry>
+	<title>Is Anything Worth Maximizing</title>
+		<quote>I’m going to claim that to understand someone and to really cooperate with them, you need to know something about their values, their goals, their identity, their reasons. You need to know not just what they do, but why they do it and what they’re hoping for.</quote>
+		<quote>Metrics are how an algorithm or an organization listens to you. If you want to listen to one person, you can just sit with them and see how they’re doing. If you want to listen to a whole city — a million people — you have to use metrics and analytics. This happens whenever we scale up in society. If you want to serve lots of people you need to listen to lots of people. Doesn’t matter if you’re a business, a government, a nonprofit, or an algorithm.</quote>
+		<link>http://nxhx.org/maximizing/</link>
+	</entry>
+
+	<entry>
+		<title>IoT in Healthcare: What are the Biggest Hurdles?</title>
+		<quote>While accuracy is not the biggest hurdle facing the adoption of IoT in healthcare, trickier issues including questions regarding privacy, security, defining the standards of care, and ultimately changing behaviors –  in consumers and in healthcare professionals – remain.</quote>
+		<link>http://media.bemyapp.com/iot-healthcare-biggest-hurdles/</link>
+	</entry>
+
+	<entry>
+		<title>Introducing Jelly, A New Search Engine</title>
+		<quote>Jelly is the only search engine in the world with an attitude, an opinion, and the experience of people to back it all up. Only Jelly can say you asked the wrong question. Only Jelly can give you answers you wanted but didn’t think to ask. Only Jelly will deliver a thoughtful answer to your anonymous question. This is all because Jelly is humanity plus technology.</quote>
+		<link>https://medium.com/the-biz-stone-collection/introducing-jelly-a-new-search-engine-47e2594ad3ff#.yam96h1sh</link>
+	</entry>
+</feed>

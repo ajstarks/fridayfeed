@@ -1,0 +1,69 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 16, 2016</date>
+  <entry>
+    <title>Apple’s AirPods aren’t just wireless earbuds. They’re the future of computing.</title>
+    <quote>I'm talking about the AirPods, those $159 wireless earpieces that Apple offered as the priciest of several alternatives to the audio dilemma it created for its own users. And no, I’m not joking. In essence, Apple has launched a new device category in the guise of an overpriced iPhone accessory. The AirPods are the company’s first ear computer.</quote>
+    <link>http://www.slate.com/articles/technology/future_tense/2016/09/apple_s_airpods_aren_t_just_wireless_earbuds_they_re_the_future_of_computing.html</link>
+  </entry>
+  
+  <entry>
+  	<title>G.E., the 124-Year-Old Software Start-Up</title>
+ 	 <quote>Jeffrey R. Immelt, chief executive of General Electric, recalls the June day in 2009 that got him thinking. He was speaking with G.E. scientists about new jet engines they were building, laden with sensors to generate a trove of data from every flight — but to what end? That data could someday be as valuable as the machinery itself, if not more so. But G.E. couldn’t make use of it. “We had to be more capable in software,” Mr. Immelt said he decided. Maybe G.E. — a maker of power turbines, jet engines, locomotives and medical-imaging equipment — needed to think of its competitors as Amazon and IBM.</quote>
+  	<link>http://nyti.ms/2bO1bPG</link>
+  </entry>
+
+  <entry>
+    <title>The Art of Designing With Heart</title>
+    <quote>The problem is…with so much to think about, and so many logistics to obsess over, it’s easy to forget the reason you’re doing any of this in the first place: YOUR SOFTWARE EXISTS TO HELP PEOPLE!
+Designers usually call this notion User Experience or Empathy. I think those names stink. They’re buzzwordy and vague enough to mean different things in different contexts.
+I think we should call it what it really is: Designing With Heart.
+This isn’t something that’s the responsibility of one specific team in your company, or one step in a process that you can check off. It’s a core value that informs every decision you make.
+</quote>
+    <link>https://m.signalvnoise.com/the-art-of-designing-with-heart-f5dc4df21697#.s9jkvtdd9</link>
+  </entry>
+  
+  <entry>
+    <title>Making design core to the agile process – Salesforce UX</title>
+    <quote>At Salesforce, the agile process is central to how we deliver products. It’s a framework that’s allowed us to develop rapidly through incremental improvements, iterate quickly upon feedback, and steadily develop.
+But how does a team strive to make major innovations within an agile process and create transformative change at scale? At Salesforce, we faced this question head on. Here’s a look into how we took a new approach to build the Lightning Experience and make design core to our process.</quote>
+    <link>https://medium.com/salesforce-ux/making-design-core-to-the-agile-process-3e06b083e8a8#.vduwvnbt0</link>
+  </entry>
+  
+  <entry>
+    <title>A Graphical Guide to Prototyping</title>
+    <quote>The kind of prototyping you chose to do is largely determined as a function of fidelity and interactivity. Because of this, I wanted a quick and easy way to visualize this model to give me a better sense of when to use what and what tools would be best to accomplish my goals.</quote>
+    <link>https://medium.com/@icschoen/a-graphical-guide-to-prototyping-c2d8506fd823#.r6er0g8w0</link>
+  </entry>
+  
+  <entry>
+    <title>Making design core to the agile process – Salesforce UX</title>
+    <quote>At Salesforce, the agile process is central to how we deliver products. It’s a framework that’s allowed us to develop rapidly through incremental improvements, iterate quickly upon feedback, and steadily develop.
+But how does a team strive to make major innovations within an agile process and create transformative change at scale? At Salesforce, we faced this question head on. Here’s a look into how we took a new approach to build the Lightning Experience and make design core to our process.</quote>
+    <link>https://medium.com/salesforce-ux/making-design-core-to-the-agile-process-3e06b083e8a8#.vduwvnbt0</link>
+  </entry>
+  
+  <entry>
+    <title>Open Innovation Toolkit</title>
+    <quote>The Open Innovation Toolkit is a community sourced set of best practices and principles to help you incorporate human-centered design into your product development process. Whether you have a new idea or a working prototype to test, the Open Innovation Toolkit can help.</quote>
+    <link>https://toolkit.mozilla.org/</link>
+  </entry>
+  
+  <entry>
+    <title>Rewriting the tablet</title>
+    <quote>Lenovo didn’t set out to build just another tablet with the Yoga Book — it wanted to make something that was better for getting work done than what is already out there. But in the process, it made a computer that’s both futuristic and relatable at the same time, just like the original Courier concept. </quote>
+    <link>http://www.theverge.com/2016/8/31/12713442/lenovo-yoga-book-tablet-design-interview-android-windows</link>
+  </entry>
+  
+  <entry>
+    <title>In the future, everyone is going to be a software engineer, but only a few will learn how to code</title>
+    <quote>“There are lot of definitions of what a developer is,” says Zach Haehn, head of software engineering at Bloomberg’s San Francisco office. “It’s not just people who write code. People get scared when they see code, but they’ve been doing programming for 20 years, they just don’t think about it as programming…. It’s really just about logical thinking and analysis.”</quote>
+    <link>http://qz.com/778380/the-future-is-software-engineers-who-cant-code/</link>
+  </entry>
+
+  <entry>
+    <title>A Push to Lower Drug Prices That Hit Insurers and Employers the Hardest</title>
+    <quote>insurers and employers — who pay the bulk of the cost for drugs — say that a bigger financial shock has come from a largely overlooked source: expensive anti-inflammatory medications like Humira and Enbrel, drugs taken by millions of people for conditions like rheumatoid arthritis. In recent years, the prices of the medications have doubled, making them the costliest drug class in the country by some calculations.</quote>
+    <link>http://nyti.ms/2csdYr5</link>
+  </entry>
+</feed>

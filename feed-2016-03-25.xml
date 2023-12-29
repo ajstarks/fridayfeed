@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 25, 2016</date>
+  
+  <entry>
+    <title>Medicare Proposal Takes Aim at Diabetes</title>
+    <quote>Under the plan, Medicare would pay for certain “lifestyle change programs” in which trained counselors would coach consumers on healthier eating habits and increased physical activity as ways to prevent Type 2 diabetes, formerly called adult onset diabetes. </quote>
+    <link>http://www.nytimes.com/2016/03/23/us/politics/medicare-proposal-takes-aim-at-diabetes.html</link>
+  </entry>
+  
+  <entry>
+    <title>We’re More Honest With Our Phones Than With Our Doctors</title>
+    <quote>But in recent years, mobile technology has granted me and countless others the ability to collect an unprecedented amount of information about our habits and well-being. Our phones don’t just keep us in touch with the world; they’re also diaries, confessional booths, repositories for our deepest secrets. Which is why researchers are leaping at the chance to work with the oceans of data we are generating, hoping that within them might be the answers to questions medicine has overlooked or ignored.</quote>
+    <link>http://nyti.ms/1RyVvKq</link>
+  </entry>
+  
+  <entry>
+  	<title>Apple Carekit: The more you know about your health, the better you can look after it.</title>
+  	<quote>Rather than relying solely on doctor visits, you’ll be able to regularly track your symptoms and medications, and even share the information with your care team for a bigger — and better — picture of your health</quote>
+  	<link>http://www.apple.com/researchkit/#carekit</link>
+  </entry>
+
+  <entry>
+    <title>Google’s AI won the game Go by defying millennia of basic human instinct</title>
+    <quote>AlphaGo’s moves throughout the competition, which it won earlier this month, four games to one, weren’t just notable for their effectiveness. The AI also came up with entirely new ways of approaching a game that originated in China two or three millennia ago and has been played obsessively since then. </quote>
+    <link>http://qz.com/639952/googles-ai-won-the-game-go-by-defying-millennia-of-basic-human-instinct/</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft’s AI millennial chatbot became a racist jerk after less than a day on Twitter</title>
+    <quote>Tay started out by asserting that “humans are super cool.” But the humans it encountered really weren’t so cool. And, after less than a day on Twitter, the bot had itself started spouting racist, sexist, anti-Semitic comments.</quote>
+    <link>http://qz.com/646825/microsofts-ai-millennial-chatbot-became-a-racist-jerk-after-less-than-a-day-on-twitter/</link>
+  </entry>
+  
+  <entry>
+    <title>Machine Learning: An In-Depth, Non-Technical Guide - Part 1</title>
+    <quote>This series is intended to be a comprehensive, in-depth, and non-technical guide to machine learning, and should be useful to everyone from business executives to machine learning practitioners. It covers virtually all aspects of machine learning (and many related fields) at a high level, and should serve as a sufficient introduction or reference to the terminology, concepts, tools, considerations, and techniques of the field.</quote>
+    <link>http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/</link>
+  </entry>
+
+</feed>

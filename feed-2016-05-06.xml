@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 6, 2016</date>
+  <entry>
+    <title>Apple and SAP to Develop IPhone, IPad Apps for Businesses</title>
+    <quote>SAP will develop hundreds of apps specifically designed for Apple’s iOS operating system for doctors, industrial field technicians and retailers. The two companies will release a software development kit by the end of the year to let SAP customers and consultants write native apps for Apple devices that take advantage of features such as location and touch sign-in.</quote>
+    <link>http://www.bloomberg.com/news/articles/2016-05-05/apple-and-sap-to-develop-iphone-ipad-apps-for-businesses</link>
+  </entry>
+  
+ <entry>
+    <title>Google AI has access to huge haul of NHS patient data</title>
+    <quote>The data that DeepMind is collecting will let it make predictions about any disease it wants, says Smith. “What DeepMind is trying to do is build a generic algorithm that can do this for anything – anything you can do a test for.”</quote>
+    <link>https://www.newscientist.com/article/2086454-revealed-google-ai-has-access-to-huge-haul-of-nhs-patient-data/</link>
+  </entry>
+  
+  <entry>
+    <title>IBM Is Now Letting Anyone Play With Its Quantum Computer</title>
+    <quote>This new service is hardly something the everyday consumer will use, but it’s a big deal for the many researchers now working to build a practical quantum computer—a computer that moves beyond just 1s and 0s to become exponentially more powerful than today’s machines. In that sense, IBM is indeed striving to bring quantum computing to the world at large.</quote>
+    <link>http://www.wired.com/2016/05/ibm-letting-anyone-play-quantum-computer/</link>
+  </entry>
+  
+  <entry>
+    <title>OOUX: A Foundation for Interaction Design</title>
+    <quote>These days, a lot happens before I begin sketching user flows (in this article, I use “user flow” and “interaction flow” interchangeably). I first define my user, asking, “Who’s Sally?” Next, I figure out her mental model, meaning all the things (objects) that the problem is made of, all the things she sees as part of the solution, and how they relate to one another. Finally, I design the interactions. Once I understand that Sally is a ninja armed with only a broomstick, and that she is faced with a team of zombies, I can better design the actions she’ll take.</quote>
+    <link>http://alistapart.com/article/ooux-a-foundation-for-interaction-design</link>
+  </entry>
+  
+  <entry>
+    <title>Claude Shannon, the Father of the Information Age, Turns 1100100</title>
+    <quote>“It would be cheesy to compare him to Einstein,” James Gleick, the author of “The Information,” told me, before submitting to temptation. “Einstein looms large, and rightly so. But we’re not living in the relativity age, we’re living in the information age. It’s Shannon whose fingerprints are on every electronic device we own, every computer screen we gaze into, every means of digital communication.</quote>
+    <link>http://www.newyorker.com/tech/elements/claude-shannon-the-father-of-the-information-age-turns-1100100</link>
+  </entry>
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 22, 2016</date>
+  
+  <entry>
+    <title>Hope for Reversing Type 2 Diabetes</title>
+    <quote>Many experts believe Type 2 diabetes is an incurable disease that gets worse with time. But new research raises the tantalizing possibility that drastic changes in diet may reverse the disease in some people.</quote>
+    <link>http://nyti.ms/26b2oWS</link>
+  </entry>
+  
+  <entry>
+    <title>Creativity Is Much More Than 10,000 Hours of Deliberate Practice</title>
+    <quote>Creators are not mere experts. Instead of deliberately practicing down an already existing path, they often create their own path for others to follow</quote>
+    <link>http://blogs.scientificamerican.com/beautiful-minds/creativity-is-much-more-than-10-000-hours-of-deliberate-practice/</link>
+  </entry>
+
+  <entry>
+    <title>Three Eras of Design Research That Influence Business Today</title>
+    <quote>Tracing its path from the early 1990s through periods that include the Internet Bubble, New Economy, Web 2.0, Design Thinking, and Social Entrepreneurship we find three significant eras of Design Research. Each one reveals a change in attitude about the role that human conditions play in increasingly networked and global lifestyles and a restructuring of “experience” using new design methods.</quote>
+    <link>https://medium.com/@frogdesign/three-eras-of-design-research-that-influence-business-today-15e27211fbdf#.ujopn1y8l</link>
+  </entry>
+  
+  <entry>
+    <title>The Real Story of How Amazon Built the Echo</title>
+    <quote>When it launched, Amazon’s critics jumped to mock the company. Some called it a useless gimmick; others pointed to it as evidence of Amazon’s Orwellian tendencies. Then something weird happened: People decided they loved it. Amazon never releases data about how its products are selling, but Consumer Intelligence Research Partners issued a report this month saying that Amazon had sold more than 3 million devices, with 1 million of those sales happening during the 2015 holiday season.  The Echo may have seemed like a superfluous toy at first, but it now looks like a way for Amazon to become the default choice in a whole new era in the way people interact with computers and the Internet.</quote>
+    <link>http://www.bloomberg.com/features/2016-amazon-echo/</link>
+  </entry>
+  
+  <entry>
+    <title>An Introduction to Serverless Architecture</title>
+    <quote>Using virtualized infrastructure services and PaaS providers makes us rethink how we design our applications. Similarly, this ephemeral per-request model where you weave your application out of a myriad of cloud-based services requires thinking differently about the design, testing and deployment of applications. The tradeoffs involved are different. This approach to application design and the tradeoffs involved, then, constitute serverless architecture.</quote>
+    <link>https://blog.snap-ci.com/blog/2016/04/19/serverless-architecture/</link>
+  </entry>
+
+</feed>

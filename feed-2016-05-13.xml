@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 13, 2016</date>
+
+  <entry>
+    <title>The Improvisational Oncologist</title>
+    <quote>The thought that every individual cancer might require a specific individualized treatment can be profoundly unsettling. Michael Lerner, a writer who worked with cancer patients, once likened the experience of being diagnosed with cancer to being parachuted out of a plane without a map or compass; now it is the oncologist who feels parachuted onto a strange landscape, with no idea which way to go.</quote>
+    <link>http://nyti.ms/1rZJAd4</link>
+  </entry>
+  
+  <entry>
+    <title>The genomic era arrives. And this time it’s probably real</title>
+    <quote>Genomics is already having an impact on the treatment of cancers such as this. Foundation Medicine, in Cambridge, Massachusetts, offers a test for 300 genes that are often mutated in solid tumours. This lets oncologists try to match treatments with patients. In the future, DNA from patients’ tumours is likely to be sequenced completely for diagnostic purposes.</quote>
+    <link>http://www.economist.com/news/science-and-technology/21698229-genomic-era-arrives-and-time-its-probably-real-encore-une-fois</link>
+  </entry>
+  
+  <entry>
+    <title>The Panic Sign</title>
+    <quote>With the Panic Sign, I wanted to do something similar — not just feel cool about seeing our name on a thing but also build in a little magic for the city, something special for the observant, curious, and knowledgable. And I thought we could take it one step further: we’d put the magic in your hand.</quote>
+    <link>https://panic.com/blog/the-panic-sign/</link>
+  </entry>
+  
+  <entry>
+    <title>Amazon now has a programmable Dash Button for the IoT</title>
+    <quote>Amazon has revealed a programmable Dash Button which can be assigned to any product or purpose, a customizable version of its one-touch reordering gadgets. The AWS IoT Button looks just like the existing Dash Buttons, which allow products from more than 100 brands to be ordered with a single tap - no web browser required - and delivered to a preset address, but is designed for developers and Internet of Things tinkerers to dig into.</quote>
+    <link>http://www.slashgear.com/amazon-now-has-a-programmable-dash-button-for-the-iot-13439996/</link>
+  </entry>
+  
+  <entry>
+    <title>In Oracle v. Google, a Nerd Subculture Is on Trial</title>
+    <quote>“The G part stands for GNU?” Alsup asked in disbelief. “Yes,” said Schwartz on the stand. “That doesn’t make any sense,” said the 71-year-old Clinton appointee.</quote>
+    <link>http://motherboard.vice.com/read/in-google-v-oracle-the-nerds-are-getting-owned</link>
+  </entry>
+</feed>

@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 27, 2016</date>
+  
+  <entry>
+    <title>Regeneron Pharmaceuticals to Sponsor Science Talent Search</title>
+    <quote>On Thursday, Regeneron Pharmaceuticals, a biotechnology company based in Tarrytown, N.Y., will announce that it is taking over sponsorship of the Science Talent Search with a 10-year, $100 million commitment to the high school competition.</quote>
+    <link>http://www.nytimes.com/2016/05/26/technology/regeneron-pharmaceuticals-to-sponsor-science-talent-search.html</link>
+  </entry>
+  
+  <entry>
+    <title>what we can learn from Nike and Disney's approach to design</title>
+    <quote>I think that probably is the emphasis—that design or design-led companies understand the human, the emotional side, the artful side, and that that has an important value.  A lot of these developments in wearables requires an environment that's networked and smart. I see that this is a very exciting new path for wearables, where it's not about just you and the wearable; it's about you, the wearable, and the environment you're in.</quote>
+    <link>https://www.oreilly.com/ideas/max-burton-on-what-we-can-learn-from-nike-and-disneys-approach-to-design</link>
+  </entry>
+  
+	<entry>
+    <title>Fast.com</title>
+    <quote>The ultimate dashboard: No click, essential information on your Internet speed</quote>
+    <link>https://fast.com/</link>
+  </entry>
+
+  <entry>
+    <title>Who won Google VS Oracle? Developers won.</title>
+    <quote>Well, if you’re developing software — or plan to in the future — this means that Google’s lawyers just steered you around a massive intellectual property minefield. They were able to prevent Oracle from setting a dangerous precedent: that a company could successfully sue you for writing your own functionally similar implementation of their APIs.</quote>
+    <link>https://medium.freecodecamp.com/why-todays-victory-over-oracle-matters-so-much-to-developers-4e24b4a368b5#.d81zs1mrf</link>
+  </entry>
+  
+  <entry>
+    <title>The Maker of Things</title>
+    <quote>In a good bridge, I see the defiant end result of how some of my favorite engineering stories begin:
+“I’m sure you can arrange an impressive line of people who say it’s impossible. I take personal joy in ignoring those who say no.”
+“Yes, halfway through this project we’ll discover the impossible, but we know how to build through the impossible. Impossible is when we do our best work.”
+“Trust me when I say that I can close my eyes and see the end result, and when you can see it, too, you will be amazed.”</quote>
+    <link>https://medium.com/@rands/the-maker-of-things-9c3f23b897a1#.1wcqb9vhv</link>
+  </entry>
+</feed>

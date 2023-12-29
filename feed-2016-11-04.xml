@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 4, 2016</date>
+  
+  <entry>
+    <title>Mark Zuckerberg Is Funding a Facebook for Human Cells</title>
+    <quote>In September, Quake was named co-president of the BioHub, a new $600 million center funded by Facebook billionaire Mark Zuckerberg. BioHub has as its premier project helping to create a vast directory of human cells, which it calls a “cell atlas.” Quake and BioHub are also part a consortium of researchers around the globe who say mapping the millions of cells in the human body is a feat that could help drugmakers and scientists find new ways to treat disease.</quote>
+    <link>https://www.technologyreview.com/s/602732/mark-zuckerberg-is-funding-a-facebook-for-human-cells/</link>
+  </entry>
+  
+  <entry>
+    <title>Online social integration is associated with reduced mortality risk</title>
+    <quote>People who have stronger social networks live longer. However, can we say the same about online social networks? Here, we conduct such a study. Using public California vital records, we compare 12 million Facebook users to nonusers. More importantly, we also look within Facebook users to explore how online social interactions—reflecting both online and offline social activity—are associated with longevity.</quote>
+    <link>http://www.pnas.org/content/early/2016/10/25/1605554113.full</link>
+  </entry>
+
+  <entry>
+    <title>Mobile and tablet have overtaken desktop's share of page views</title>
+    <quote>Crossover</quote>
+    <link>https://www.theatlas.com/charts/By5YNwIxg</link>
+  </entry>
+  
+  <entry>
+    <title>The Curious Have Won</title>
+    <quote>Theo Epstein overcame 108 years of history to build a championship team in Chicago. In the process, he ended baseball’s long-running analytics war by proving that an objective, data-driven approach can change the game.</quote>
+    <link>https://theringer.com/2016-world-series-chicago-cubs-theo-epstein-analytics-war-9f1248c44eb7#.tiuhvuldq</link>
+  </entry>
+  
+  
+  <entry>
+  	<title>First Click: Microsoft Teams leaves the office door open for Slack</title>
+  	<quote>There's still a lot to prove for both Slack and Microsoft Teams, but it certainly looks like there's room for both to compete at different levels. If there's one thing they're both aligned on, it's that the volume of email in the office needs to decrease. If Microsoft and Slack can kill email in the office, that's a great thing for everyone.</quote>
+  	<link>http://www.theverge.com/2016/11/3/13507222/microsoft-teams-slack-comparison</link>
+  </entry>
+</feed>

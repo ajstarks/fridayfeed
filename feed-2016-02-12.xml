@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 12, 2016</date>
+
+  <entry>
+  	<title>Something is wrong with Annie's Baby</title>
+  	<quote>In that record, she found a devastating surprise: the doctors that attended Chase’s birth suspected he had a genetic syndrome from his first days of life. Right at the start, they’d recommended Chase get a spinal MRI, have a consult about his kidneys, and visit a genetics counselor. That last part was especially hard to hear. A genetic specialist would’ve almost certainly identified what was wrong with her baby. It was all right there, but the information never got to her.</quote>
+  	<link>https://backchannel.com/something-was-wrong-with-annie-s-baby-e66df0aa8938#.rb69e85yl</link>
+  </entry>
+
+   <entry>
+    <title>You can train your body into thinking it’s had medicine</title>
+    <quote>The results were part of a well-known and seemingly mundane phenomenon that has been driving a quiet revolution in immunology. Its proponents hope that by cutting drug doses, it will not only minimise harmful side-effects but also slash billions from healthcare costs, transforming treatment for conditions such as autoimmune disorders and cancer.</quote>
+    <link>http://mosaicscience.com/story/medicine-without-the-medicine-how-to-train-your-immune-system-placebo</link>
+  </entry>
+  
+  <entry>
+    <title>New Online Tools Offer Path to Lower Drug Prices</title>
+    <quote>“Why isn’t it possible,” he asked, “to just have a price where anybody who wants to know what that price is can go to a website and see?”</quote>
+    <link>http://nyti.ms/1V20hxd</link>
+  </entry>
+  
+  <entry>
+    <title>How we used design research to launch The New York Times en Español</title>
+    <quote>We next conducted a series of one-on-one interviews, meeting with research participants in their homes, their offices, and even joining for their commutes. During these focused conversations we were able to explore what people were doing, loving, and needing when it came to news. We also shared initial prototypes for what would eventually become our new site, and gained helpful feedback that we used to quickly iterate — in the field — and refine our product approach as we went.</quote>
+    <link>https://medium.com/@j/how-we-used-design-research-to-launch-the-new-york-times-en-espa%C3%B1ol-ae23c5c3001a#.m7rb4epiw</link>
+  </entry>
+ 
+  <entry>
+    <title>The Art of Saying NO</title>
+    <quote>Great products have one thing in common: A product leader that says “no” to most ideas. It is that focus — that relentless pursuit of mission — that achieves the impossible: products that touch millions of lives.</quote>
+    <link>https://blog.orangecaffeine.com/the-art-of-saying-no-db012a22cd28#.1vt7puuvp</link>
+  </entry>
+    
+  <entry>
+    <title>Netflix Shuts Down Final Bits of Own Data Center Infrastructure</title>
+    <quote>Netflix has been one of the big early adopters of AWS who famously went all-in with public cloud. Thursday’s announcement simply marks the completion of a seven-year process of transition from a data center-based infrastructure model to a 100-percent cloud one.</quote>
+    <link>http://www.datacenterknowledge.com/archives/2016/02/11/netflix-shuts-down-final-bits-of-own-data-center-infrastructure/</link>
+  </entry>
+  
+</feed>

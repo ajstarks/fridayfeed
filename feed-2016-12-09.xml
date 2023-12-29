@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 9, 2016</date>
+  
+  <entry>
+    <title>1 Patient, 7 Tumors and 100 Billion Cells Equal 1 Striking Recovery</title>
+    <quote>The remarkable recovery of a woman with advanced colon cancer, after treatment with cells from her own immune system, may lead to new options for thousands of other patients with colon or pancreatic cancer, researchers are reporting.</quote>
+    <link>http://nyti.ms/2hkTocy</link>
+  </entry>
+  
+  <entry>
+    <title>How Invisible Interfaces are going to transform the way we interact with computers</title>
+    <quote>It is this sort of invisibility that allows the user to take full control of their interactions with a given piece of technology. When using a piece of technology that has become invisible, the user thinks of using it in terms of end goals, rather than getting bogged down in the technology itself. The user doesn’t have to worry how it is going to work, they just make it happen.</quote>
+    <link>https://medium.com/startup-grind/how-invisible-interfaces-are-going-to-transform-the-way-we-interact-with-computers-39ef77a8a982#.s4yqvuhyi</link>
+  </entry>
+
+  <entry>
+    <title>How to Tell If Machine Learning Can Solve Your Business Problem</title>
+    <quote>So what are good business problems for machine learning methods? Essentially, any problems that: (1) require prediction rather than causal inference; and (2) are sufficiently self-contained, or relatively insulated from outside influences. The first means that you are interested in understanding how, on average, certain aspects of the data relate to each other, and not in the causal channels of their relationship. Keep in mind that the statistical methods do not bring to the table the intuition, theory, or domain knowledge of human analysts. The second means that you are relatively certain that the data you feed to your learning algorithm includes more or less all there is to the problem. </quote>
+    <link>https://hbr.org/2016/11/how-to-tell-if-machine-learning-can-solve-your-business-problem</link>
+  </entry>
+  
+  <entry>
+    <title>The second stage of mobile dominance is now beginning, says an Andreessen Horowitz partner</title>
+    <quote>“The platform wars are over,” says Evans in an interview. Google’s Android and Apple’s iOS run on roughly 2.4 billion phones and 700 million tablets. Now that the second stage of mobile development is starting, the question becomes: “What can we build with this?”</quote>
+    <link>http://qz.com/858921/the-second-stage-of-mobile-dominance-is-now-beginning-says-an-andreessen-horowitz-partner/</link>
+  </entry>
+  
+  <entry>
+    <title>Amazon will truck your massive piles of data to the cloud with an 18-wheeler</title>
+    <quote>Meet AWS Snowmobile, a tractor-trailer for when your big data is just too big. The truck houses a container that can store up to 100 petabytes of data. Real-life data hoarders can contract Amazon to move exabytes of data to the cloud using the new tricked-out trucks. Snowmobile attaches directly to your data center with power and network fibre to move critical information to AWS, even when its size is insurmountable for mere mortals.</quote>
+    <link>https://techcrunch.com/2016/11/30/amazon-will-truck-your-massive-piles-of-data-to-the-cloud-with-an-18-wheeler</link>
+  </entry>
+  
+  <entry>
+  	<title>AI Winter Isn't Coming</title>
+  	<quote>Despite plenty of hype and frantic investment, a leading artificial intelligence expert says hardware advances will keep AI breakthroughs coming.</quote>
+  	<link>https://www.technologyreview.com/s/603062/ai-winter-isnt-coming/</link>
+  </entry>
+</feed>

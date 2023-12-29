@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 15, 2016</date>
+  <entry>
+    <title>Why genetic research must be more diverse</title>
+    <quote>Ninety-six percent of genome studies are based on people of European descent. The rest of the world is virtually unrepresented — and this is dangerous, says geneticist and TED Fellow Keolu Fox, because we react to drugs differently based on our genetic makeup.</quote>
+    <link>https://www.ted.com/talks/keolu_fox_why_genetic_research_must_be_more_diverse?language=en</link>
+  </entry>
+  
+  <entry>
+    <title>Pokémon Go Mania Could Signal a Bright Future for Augmented Reality</title>
+    <quote>Unlike other viral games, though, Pokémon Go has not kept players cooped up inside staring at their screens. Instead, it sends people out to streets, parks, beaches and beyond because the game uses augmented reality, a technology that fuses the digital world with the real world, write Nick Wingfield and Mike Isaac. To play Pokémon Go, users need to walk around their neighborhoods or towns with their smartphones looking for Pokémon characters to pop up on their screen and then capture those characters. Pokémon Go’s popularity...could mean a tipping point for augmented reality, particularly because the game is easy to download and play. It doesn’t involve fancy new headsets or other equipment, which virtual reality typically requires.</quote>
+    <link>http://nyti.ms/29uGIg9</link>
+  </entry>
+  
+  <entry>
+    <title>Satya Nadella just fixed Microsoft’s biggest problem</title>
+    <quote>To get to this point, Nadella reset his management team and mandated collaboration. He drove smart acquisitions (Mojang and LinkedIn are good examples) and merged nonsensically separate product groups into four cohesive pillars: Operating System, Apps, Cloud, and Devices.</quote>
+    <link>https://besttech.io/satya-nadella-just-fixed-microsofts-biggest-problem-82e29fe03df2#.7ts9wuppz</link>
+  </entry>
+  
+  <entry>
+    <title>Learning to code as a 30-year-old kid with Apple’s Swift Playgrounds</title>
+    <quote>As a relatively inexperienced programmer (I can poke around in HTML or CSS, but doing anything more serious is beyond me), I appreciated how gradually and clearly Playgrounds introduced basic concepts like “debugging” and “functions.” And within just a few lessons it drives home one important idea—as any programmer will tell you, there’s rarely just one “right” way to solve a problem, though some ways of doing things are more efficient than others.</quote>
+    <link>http://arstechnica.com/apple/2016/07/hands-on-with-swift-playgrounds-apples-attempt-to-get-kids-to-code/</link>
+  </entry>
+  
+ <entry>
+    <title>The SIEUFERD Project</title>
+    <quote>SIEUFERD is a general-purpose user interface for relational databases. It takes its inspiration from two decades' worth of graphical database applications that were developed, at great expense, to serve niche markets such as seafood trading, music school administration, and refugee camp management, and attempts to generalize their standard UI idioms into a single, universal application that provides most of their features in a schema-independent manner. </quote>
+    <link>http://people.csail.mit.edu/ebakke/sieuferd/index.html</link>
+  </entry>
+</feed>

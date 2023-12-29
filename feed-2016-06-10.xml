@@ -1,0 +1,27 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 10, 2016</date>
+   <entry>
+    <title>Microsoft Finds Cancer Clues in Search Queries</title>
+    <quote>Microsoft scientists have demonstrated that by analyzing large samples of search engine queries they may in some cases be able to identify internet users who are suffering from pancreatic cancer, even before they have received a diagnosis of the disease.</quote>
+    <link>http://nyti.ms/1XBE6Dl</link>
+  </entry>
+  
+  <entry>
+    <title>The Web¹s Creator Looks to Reinvent It </title>
+    <quote>“It controls what people see, creates mechanisms for how people interact,” he said of the modern day web. “It’s been great, but spying, blocking sites, repurposing people’s content, taking you to the wrong websites — that completely undermines the spirit of helping people create.” So on Tuesday, Mr. Berners-Lee gathered in San Francisco with other top computer scientists — including Brewster Kahle, head of the nonprofit Internet Archive and an internet activist — to discuss a new phase for the web.</quote>
+    <link>http://nyti.ms/1XCgvSM</link>
+  </entry>
+  
+  <entry>
+    <title>Amazon's Alexa virtual assistant tested in Boston hospital</title>
+    <quote>The hospital dove into voice-assisted software last month, when it released an Alexa-based app called KidsMD that gives parents advice when their children catch a fever. Children’s “is leading the way when it comes to hands-free work in hospitals” using Alexa, an Amazon spokeswoman said.</quote>
+    <link>https://www.statnews.com/2016/05/31/hospital-virtual-assistants/</link>
+  </entry>
+
+  <entry>
+    <title>The Barbell Effect of Machine Learning</title>
+    <quote>This means that machine learning will likely have a profound barbell effect on the technology landscape. On one hand, it will democratize basic intelligence through the commoditization and diffusion of services such as image recognition and translation into software broadly. On the other, it will concentrate higher-order intelligence in the hands of a relatively small number of incumbents that control the lion’s share of their industry’s data.</quote>
+    <link>https://medium.com/@nickbeim/the-barbell-effect-of-machine-learning-f840106200b9#.wq2f3a83m</link>
+  </entry>
+</feed>

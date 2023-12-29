@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 7, 2016</date>
+  
+  <entry>
+    <title>Why Deep Learning Is Suddenly Changing Your Life</title>
+    <quote>Indeed, corporations just may have reached another inflection point. “In the past,” says Andrew Ng, chief scientist at Baidu Research, “a lot of S&amp;P 500 CEOs wished they had started thinking sooner than they did about their Internet strategy. I think five years from now there will be a number of S&amp;P 500 CEOs that will wish they’d started thinking earlier about their AI strategy.”</quote>
+<!--    <quote>The most remarkable thing about neural nets is that no human being has programmed a computer to perform any of the stunts described above. In fact, no human could. Programmers have, rather, fed the computer a learning algorithm, exposed it to terabytes of data—hundreds of thousands of images or years’ worth of speech samples—to train it, and have then allowed the computer to figure out for itself how to recognize the desired objects, words, or sentences.</quote> -->
+	<link>http://fortune.com/ai-artificial-intelligence-deep-machine-learning/</link>
+  </entry>
+  
+  <entry>
+    <title>Deep-Fried Data</title>
+    <quote>So what’s your data being fried in? These algorithms train on large collections that you know nothing about. Sites like Google operate on a scale hundreds of times bigger than anything in the humanities. Any irregularities in that training data end up infused into in the classifier.</quote>
+    <link>http://idlewords.com/talks/deep_fried_data.htm</link>
+  </entry>
+  
+  <entry>
+    <title>WeChat's world</title>
+    <quote>As one American venture capitalist puts it, WeChat is there “at every point of your daily contact with the world, from morning until night”. It is this status as a hub for all internet activity, and as a platform through which users find their way to other services, that inspires Silicon Valley firms, including Facebook, to monitor WeChat closely. They are right to cast an envious eye. People who divide their time between China and the West complain that leaving WeChat behind is akin to stepping back in time.</quote>
+    <link>http://www.economist.com/news/business/21703428-chinas-wechat-shows-way-social-medias-future-wechats-world</link>
+  </entry>
+  
+  <entry>
+    <title>Dr. Edward Tufte - The Future of Data Analysis</title>
+    <quote>The future grows out of studying great excellence in the past</quote>
+    <link>https://channel9.msdn.com/Events/Machine-Learning-and-Data-Sciences-Conference/Data-Science-Summit-2016/MSDSS11</link>
+  </entry>
+  
+  <entry>
+    <title>Democratic databases: science on GitHub</title>
+    <quote>When the Ebola outbreak in West Africa picked up pace in July 2014, Caitlin Rivers started to collect data on the people affected. Rivers, then a PhD student in computational epidemiology, wanted to model the outbreak’s spread. So every day she downloaded PDF updates released by the ministries of health of the virus-stricken countries, and converted the numbers into computer-readable tables. Rather than keeping these files to herself, she posted them to GitHub.com, a hugely popular website for collaborative work on software code. Rivers thought the postings might attract those interested in up-to-date information from the Ebola outbreak. “I figured if I needed it, other people would, too,” she says.</quote>
+    <link>http://www.nature.com/news/democratic-databases-science-on-github-1.20719</link>
+  </entry>
+  
+  <entry>
+    <title>I Saw Alphabet’s Health Watch</title>
+    <quote>The plain display is a sign that this device exists to collect data, not show it to users. In fact, Verily has said it’s not a consumer gadget at all. Instead, it plans to use the device in medical research such as its Baseline Study, a large-scale project it says will measure and track thousands of individuals in order to look for new signals—in their blood or from wearable monitors—that can predict disease.</quote>
+    <link>https://www.technologyreview.com/s/602466/i-saw-alphabets-health-watch</link>
+  </entry>
+</feed>

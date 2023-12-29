@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 15, 2016</date>
+  
+  <entry>
+    <title>The Quiet Research That Led to a Resounding Success in Diabetes Prevention</title>
+    <quote>Sylvia Mathews Burwell, the secretary of health and human services, announced that Medicare was planning to pay for lifestyle interventions focusing on diet and physical activity to prevent Type 2 diabetes. It’s an example of small-scale research efforts into health services that have worked and that have expanded to reach more people. The backbone of the intervention involved 16 one-hour face-to-face meetings that helped each individual participant set and achieve goals to improve health habits. The second group was treated with metformin, a medication that can lower blood glucose, and the third was the control group, provided with a placebo medication.</quote>
+    <link>http://nyti.ms/231mXCD</link>
+  </entry>
+  
+  <entry>
+    <title>Sweet drug clears cholesterol, reverses heart disease—and was found by parents</title>
+    <quote>Two parents’ quest to save their twin daughters’ lives from a rare, degenerative genetic disorder may end up saving and improving the lives of millions. After digging through medical literature and fitting pieces of data together, the non-medically trained couple contacted German researchers and suggested that a chemical called cyclodextrin may be able to treat atherosclerosis—the hardening of arteries with cholesterol-rich plaques, which is a precursor to heart attack, stroke, and other cardiovascular diseases.</quote>
+    <link>http://arstechnica.com/science/2016/04/sweet-drug-clears-cholesterol-reverses-heart-disease-and-was-found-by-parents/</link>
+  </entry>
+
+  <entry>
+    <title>Here’s How Google Makes Sure It (Almost) Never Goes Down</title>
+    <quote>The billions who use Google hardly stop to consider how Google made something so impressive seem so mundane. Google explains the feat in three words: Site Reliability Engineering. OK, they aren’t the best three words. But that’s the rather unsexy name Google gave to this seminal philosophy more than a decade ago. It’s a rather nuanced and expansive philosophy, but it really boils down to one central idea: Don’t get IT people who specialize in running Internet services to run your Internet services. Have software coders run them instead.</quote>
+    <link>http://www.wired.com/2016/04/google-ensures-services-almost-never-go/</link>
+  </entry>
+  
+  <entry>
+    <title>Designing a Browser that isn’t a Browser</title>
+    <quote>When you think of a browser today, you’re probably thinking of tabs, a location bar and perhaps a bookmarking system. But are those still the best tools for the jobs we are aiming to accomplish on the web? Maybe they are. Maybe they are not. We want to find out.</quote>
+    <link>https://medium.com/project-tofino/designing-a-browser-that-isn-t-a-browser-685b63c4b6f1#.j6b06e5rf</link>
+  </entry>
+  
+  <entry>
+    <title>The Bicycle and The Bumper Car</title>
+    <quote>What a beautiful mental image: A bicycle for the mind. Coasting down the road, wind blowing through your hair, the fresh spring air tickling your lungs — your body in harmony with a machine, easily adjusted to the right amount of resistance for your energy level and the terrain. Is this how you feel when you wake up in the morning, and in the process of turning off your alarm, discover a text message from your boss?</quote>
+    <link>https://medium.com/@kadavy/the-bicycle-and-the-bumper-car-5dd5593da079#.v628vc8lc</link>
+  </entry>
+
+</feed>

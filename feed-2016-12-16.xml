@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 16, 2016</date>
+
+  <entry>
+    <title>Four steps to precision public health</title>
+    <quote>The use of data to guide interventions that benefit populations more efficiently is a strategy we call precision public health. It requires robust primary surveillance data, rapid application of sophisticated analytics to track the geographical distribution of disease, and the capacity to act on such information1. The availability and use of precise data is becoming the norm in wealthy countries. But large swathes of the developing world are not reaping its advantages.</quote>
+    <link>http://www.nature.com/news/four-steps-to-precision-public-health-1.21089</link>
+  </entry>
+  
+  <entry>
+    <title>The Great A.I. Awakening</title>
+    <quote>How Google used artificial intelligence to transform Google Translate, one of its more popular services — and how machine learning is poised to reinvent computing itself.</quote>
+    <link>http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html</link>
+  </entry>
+  
+  <entry>
+    <title>Making big data manageable</title>
+    <quote>One way to handle big data is to shrink it. If you can identify a small subset of your data set that preserves its salient mathematical relationships, you may be able to perform useful analyses on it that would be prohibitively time consuming on the full set.</quote>
+    <link>https://news.mit.edu/2016/making-big-data-manageable-1214</link>
+  </entry>
+  
+  <entry>
+    <title>I got a Google Home and finally understand the future of computing</title>
+    <quote>I thought Home would be a gimmick, but a few weeks after launch and we’re using it all day at home for music, news and lots of other stuff. It feels like a glimpse of the future, and for the first time I’m really convinced voice assistants could take off. Google Home truly makes Siri look like a toy.</quote>
+    <link>https://medium.com/charged-tech/i-got-a-google-home-and-finally-understand-the-future-of-computing-e7de00487d7d#.6jehwp36c</link>
+  </entry>
+  
+  <entry>
+    <title>The Pint-Sized Supercomputer That Companies Are Scrambling to Get</title>
+    <quote>Early customers of Nvidia’s DGX-1, which combines machine-learning software with eight of the chip maker’s highest-end graphics processing units (GPUs), say the system lets them train their analytical models faster, enables greater experimentation, and could facilitate breakthroughs in science, health care, and financial services.</quote>
+    <link>https://www.technologyreview.com/s/603075/the-pint-sized-supercomputer-that-companies-are-scrambling-to-get/</link>
+  </entry>
+</feed>

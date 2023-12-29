@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 17, 2016</date>
+  
+  <entry>
+  	<title>The newest tool in the fight against cancer is a huge genetic database driven by algorithms</title>
+  	<quote>Cancer scientists can understand different tumors better if they have easy access to a huge, unified database they can query with questions and get meaningful, reliable answers. If someone wanted to study kidney cancer, for example, the GDC has profiled 1,700 types of kidney tumors. Its power comes from bringing all that information together in one place and smooth it out with algorithms, according to Simon Forbes, a cancer scientist at the Wellcome Trust Sanger Institute.</quote>
+  	<link>http://qz.com/701409/the-newest-tool-in-the-fight-against-cancer-is-a-huge-genetic-database-driven-by-algorithms/</link>
+  </entry>
+
+  <entry>
+    <title>Microsoft and Apple Double Down</title>
+    <quote>What is potentially transformative about this deal is a future where Microsoft retains its focus on enterprise while shifting the locus of its business from companies to employees. I have written at length about the importance of owning the end user, but we the end users have multiple identities.  Apple’s WWDC announcements, meanwhile, were perhaps most notable for that they didn’t include...Instead the keynote was about enhancing and deepening the value that comes from living the full Apple lifestyle: now your Watch unlocks your Mac, and your desktop is available on your iPhone. You can pay for things on your Mac’s browser using the iPhone, and control your house via the Apple TV from your lock screen. </quote>
+    <link>https://stratechery.com/2016/microsoft-and-apple-double-down/</link>
+  </entry>
+  
+  <entry>
+  	<title>Apple’s announcement on artificial intelligence is a big shift for the company</title>
+  	<quote>For Apple, more AI and more integrations with third party services will mean less fatigue for consumers, who are already overwhelmed with too many apps, too many devices, and too much data. Ultimately, artificial intelligence behind-the-scenes could make it easier for users to organize their ever-growing photo collections, communicate and use online services more efficiently and toggle less between devices. The moves also come at a time when tech giants and a wave of new start-ups are racing to create similar artificial-intelligence based products.</quote>
+  	<link>https://www.washingtonpost.com/news/the-switch/wp/2016/06/13/apples-big-announcement-on-artificial-intelligence-is-a-massive-change-for-the-company/</link>
+  </entry>
+  
+  <entry>
+    <title>9 Things Microsoft Could Do With LinkedIn</title>
+    <quote>LinkedIn is one of our favorite subjects at Postlight—and this feels like an amazing opportunity for some uninformed speculation. Obviously we’re taking “LinkedIn will retain its brand, culture and independence” with a Redmond-sized grain of salt. So…what could happen now? (Note that “could” is emphatically not the same as “should.”) (1) Microsoft could embed LinkedIn into Windows as a service. (2) Microsoft could embed LinkedIn into Microsoft Office. (3) Microsoft could embed LinkedIn into other tools across the MSFT ecosystem as a “workplace” API....</quote>
+    <link>https://trackchanges.postlight.com/9-things-microsoft-could-do-with-linkedin-2aec55c2bc72#.3f1b6ijqw</link>
+  </entry>
+
+  <entry>
+    <title>The Organic UX Process Behind Slack’s Success</title>
+    <quote>Valued at over $3 billion dollars with 600,000+ paying customers at the start of 2016, Slack is on a mission to humanize team communication. The 400-plus employee company has a rare internal resource: a huge, constant pool of employees to user test with. Since all employees across the company dogfood Slack every day for 8+ hours a day, the Slack design team enjoys unprecedented access to constant user feedback and an intimate knowledge of the product.</quote>
+    <link>https://medium.com/@uxpin/the-organic-ux-process-powering-slacks-success-cb5765c8d62c#.8udzqxwuw</link>
+  </entry>
+  
+  <entry>
+    <title>People Centered Internet: Building The Coalition For Data-Driven Good</title>
+    <quote>We are entering a period when artificial intelligence as a service is becoming a reality in the cloud computing domain. The Internet facilitates access to highly advanced applications – even if the users are not located in proximity to such computing resources. As information accumulates in the Internet, more and more elaborate and sophisticated processing methods increase the value of the data contained in and accessible through the network.</quote>
+    <link>http://peoplecentered.net/newsletter/june-2016/</link>
+  </entry>
+  
+</feed>

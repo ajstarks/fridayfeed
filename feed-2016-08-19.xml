@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 19, 2016</date>
+
+  <entry>
+    <title>What Is Immunotherapy? The Basics on These Cancer Treatments</title>
+    <quote>Some of the most promising advances in cancer research in recent years involve treatments known as immunotherapy. These advances are spurring billions of dollars in investment by drug companies, and are leading to hundreds of clinical trials. Here are answers to some basic questions about this complex and rapidly evolving field.</quote>
+    <link>http://nyti.ms/2aRLg15</link>
+  </entry>
+  
+  <entry>
+    <title>The Difference Between AI, Machine Learning, and Deep Learning?</title>
+    <quote>Artificial intelligence is the future. Artificial intelligence is science fiction. Artificial intelligence is already part of our everyday lives. All those statements are true, it just depends on what flavor of AI you are referring to.</quote>
+    <link>https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-a</link>
+  </entry>
+  
+  <entry>
+    <title>John Maeda’s Next Gig? Design Kingpin of the Open Web </title>
+    <quote>Maeda’s description of the new role is still vague, but his first few days at Automattic see him sweating the details. He’s doing a three-week stint as a customer service rep (Automattic calls them “happiness engineers” and requires every new hire to spend time in the role). If a WordPress user has trouble, say, navigating a menu, Maeda receives the ticket and replies with instructions—a baby steps approach to becoming acquainted with a service’s overall user experience</quote>
+    <link>https://www.wired.com/2016/08/john-maeda-automattic/</link>
+  </entry>
+  
+ <entry>
+    <title>The First and Last ‘One-to-One’ Device</title>
+    <quote>My point is simply that not too long ago, the notion of everyone owning a cell phone was probably far-fetched at best. The notion of everyone owning a device that does everything that our smartphones now do would have been ludicrous; pure science fiction.³ Personal computers at the time were fairly large, expensive devices used mainly for business. Today, we all have supercomputers in our pockets. Supercomputers that are connected to each other and to the collective knowledge of the human race at all times. But I just refuse to believe that the smartphone will be the be-all, end-all of mass-scale technology. The “what’s next” may not have been invented yet. Or maybe it is out there, just waiting to be chiseled and perfected to take it to such a scale.</quote>
+    <link>https://500ish.com/the-first-and-last-one-to-one-device-ea4487dcdef2#.j2b8fr7b9</link>
+  </entry>
+  
+  <entry>
+    <title>Solid (social linked data)</title>
+    <quote>Solid is an exciting new project led by Prof. Tim Berners-Lee, inventor of the World Wide Web, taking place at MIT and the Qatar Computing Research Institute. The project aims to radically change the way Web applications work today, resulting in true data ownership as well as improved privacy. Solid (derived from "social linked data") is a proposed set of conventions and tools for building decentralized social applications based on Linked Data principles. Solid is modular and extensible and it relies as much as possible on existing W3C standards and protocols.</quote>
+    <link>https://solid.mit.edu/</link>
+  </entry>
+</feed>

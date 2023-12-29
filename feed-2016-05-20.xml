@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 20, 2016</date>
+  
+  <entry>
+    <title>An Old Idea, Revived: Starve Cancer To Death</title>
+    <quote>In the early 20th century, the German biochemist Otto Warburg believed that tumors could be treated by disrupting their source of energy. His idea was dismissed for decades — until now.</quote>
+    <link>http://nyti.ms/27fZL6w</link>
+  </entry>
+  
+  <entry>
+    <title>Intel Culture Just Ate 12,000 Jobs</title>
+    <quote>A spreadsheet isn’t a window through which to view the future.</quote>
+    <link>https://mondaynote.com/intel-culture-just-ate-12-000-jobs-305674fb1274#.yp582d3lf</link>
+  </entry>
+
+  <entry>
+    <title>Google’s CEO sums up his AI vision: “Hi. How can I help?”</title>
+    <quote>It’s as if Google is transferring its very essence from that sparse white homepage into every piece of tech you own (your phone, car, smartwatch) and online service you use. Unlike today’s search box, this assistant will learn about you from your behavior. It will know you’re a vegetarian, so won’t recommend steakhouses for dinner. It will understand context</quote>
+    <link>http://www.cnet.com/special-reports/googles-ceo-sums-up-his-ai-vision/</link>
+  </entry>
+
+  <entry>
+    <title>Soon We Won’t Program Computers. We’ll Train Them Like Dogs</title>
+    <quote>Over the past several years, the biggest tech companies in Silicon Valley have aggressively pursued an approach to computing called machine learning. In traditional programming, an engineer writes explicit, step-by-step instructions for the computer to follow. With machine learning, programmers don’t encode computers with instructions. They train them.</quote>
+    <link>http://www.wired.com/2016/05/the-end-of-code/</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft and SAP expand partnership: Office 365 integrations, HANA on Azure</title>
+    <quote>Microsoft is announcing today that it has deepened its partnership with fellow enterprise software vendor SAP. The HANA in-memory database from SAP will become available on top of Microsoft’s Azure public cloud on top of machines packed densely with RAM. At the same time, SAP’s Ariba, Concur, Fieldglass, and SuccessFactors applications will be integrated with Microsoft’s Office 365 services in various ways.</quote>
+    <link>http://venturebeat.com/2016/05/17/microsoft-and-sap-expand-partnership-office-365-integrations-hana-on-azure/</link>
+  </entry>
+    
+
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

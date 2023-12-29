@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 22, 2016</date>
+  
+  <entry>
+    <title>Cancer treatment for MS patients gives 'remarkable' results</title>
+    <quote>UK doctors in Sheffield say patients with multiple sclerosis (MS) are showing "remarkable" improvements after receiving a treatment usually used for cancer.</quote>
+    <link>http://www.bbc.com/news/health-35065905</link>
+  </entry>
+  
+  <entry>
+    <title>Navigating School With Diabetes</title>
+    <quote>We asked parents of children with Type 1 diabetes to share their stories about the educational obstacles they have encountered and the steps they took to overcome them.</quote>
+    <link>http://nyti.ms/1OwFbFr</link>
+  </entry>
+  
+  <entry>
+    <title>Pharma Paid Physicians $6.5B in 2014 – Looking Into The Open Payments Dataset</title>
+    <quote>Out of the $6.5B total payments to physicians in 2014, $3.2B, or almost half, of those payments were for research. We can see this when aggregating the payments by the name of the drug or device manufacturer: companies like Genentech, Pfizer, and Novartis dominate the dollar amount of payments made to physicians, and most of their payments are for “Research”</quote>
+    <link>http://www.troyshu.com/blog/2016/01/15/pharma-paid-physicians-6-5b-in-2014-looking-into-the-open-payments-dataset/</link>
+  </entry>
+
+  <entry>
+    <title>The unsexy IoT</title>
+    <quote>There is, however, enormous opportunity in crossing this chasm. The new IoT provides valuable data about its users, their habits, daily routines and preferences. The old IoT generates detailed information about the environment they interact in. Combining both with big data crunching technology will lead to unprecedented (and slightly scary) insights into individual user’s behavioral patterns as well as into the systems they compose.</quote>
+    <link>http://deepstream.io/blog/the-unsexy-iot/</link>
+  </entry>
+  
+  <entry>
+    <title>Why UX Designers Should Influence Customer Experience</title>
+    <quote>Many successful designers are applying their methods, tools, and approaches to business challenges that stretch beyond making yet another app or website. We’re seeing this first hand when user experience designers are influencing, and in some cases leading the execution of an organization’s customer experience strategy.</quote>
+    <link>https://medium.com/nasdaq-design/why-ux-designers-should-influence-customer-experience-8e848c00b828#.ek8d1np22</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

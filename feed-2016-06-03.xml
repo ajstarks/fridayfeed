@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 3, 2016</date>
+  
+  <entry>
+    <title>Mary Meeker's 2016 internet trends report: All the slides, plus analysis</title>
+    <quote>At 213 pages, there's a ton of data, but here are our Top 3 takeaways. (1) The internet itself is seeing slowing growth. In the past two decades, the internet economy was affected by macroeconomic trends, but it was external issues like the housing crisis and the financial crisis that were driving the slowdown. Now it is global internet growth itself that is slowing down. (2) Typing text into a search bar is so last year. In five years, at least 50 percent of all searches are going to be either images or speech. (3) The home screen has acted as the de facto portal on mobile devices since the arrival of the iPhone and even before. Messaging apps, with context and time, have a chance to rival the home screen as the go-to place for interaction.</quote>
+    <link>http://www.recode.net/2016/6/1/11826256/mary-meeker-2016-internet-trends-report</link>
+    <link>http://dq756f9pzlyr3.cloudfront.net/file/2016_internet_trends_report_final.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Building Products</title>
+    <quote>Instead, make a separate, intentional decision about what the bar is for full launch when it comes to polish and additional functionality. What’s acceptable to test and what’s acceptable to ship broadly should have different criteria.</quote>
+    <link>https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.r61j6r9ip</link>
+  </entry>
+  
+  <entry>
+    <title>What do normal and abnormal heart rhythms look like on Apple Watch?</title>
+    <quote>Almost every month, a news story pops up about somebody whose life was saved by their Apple Watch. As part of the mRhythm Study, we’re analyzing a lot of heart rate data, and decided to write a brief primer what both normal and abnormal heart rhythms look like when measured on an Apple Watch.</quote>
+    <link>https://blog.cardiogr.am/what-do-normal-and-abnormal-heart-rhythms-look-like-on-apple-watch-7b33b4a8ecfa#.b5wcjxndj</link>
+  </entry>
+  
+  <entry>
+    <title>User Experience is everybody’s job</title>
+    <quote>User Experience is also about solving the right problems for the user, and solving them with the right priority.</quote>
+    <link>https://medium.com/@williamgill/user-experience-is-everybodys-job-baf098378031#.l8gvt5qj5</link>
+  </entry>
+
+  <entry>
+    <title>Facebook is using artificial intelligence to become a better search engine</title>
+    <quote>With this new project, Facebook is essentially building the capacity to track all the information put into the network, just as Google crawls the entire web for information and indexes it. What that means for users is that useful information among those trillions of posts might be a little easier to find—just as Google has started to use artificial intelligence to understand the questions we ask of it, and surface the right sort of information for us in its search results.</quote>
+    <link>http://qz.com/696827/facebook-is-using-artificial-intelligence-to-become-a-better-search-engine/</link>
+  </entry>
+
+</feed>
