@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 9, 2018</date>
+  
+  <entry>
+    <title>A cure for cancer: how to kill a killer</title>
+    <quote>“The emergence of cancer immunotherapy has occurred so quickly, it’s hard for scientists, let alone physicians and patients, to keep track of it all,” explains Dr Daniel Chen, a Stanford oncologist and researcher who helped bring some of the new cancer breakthroughs from lab to clinic. “The tidal wave of data is still teaching us fundamental concepts about the interaction of the human immune system and human cancer.” </quote>
+    <link>https://www.theguardian.com/science/2018/nov/04/a-cure-for-cancer-how-to-kill-a-killer-revolutionary-immune-system-immunotherapy</link>
+  </entry>
+  
+  <entry>
+    <title>Why Doctors Hate Their Computers</title>
+    <quote>Digitization promises to make medical care easier and more efficient. But are screens coming between doctors and patients?</quote>
+    <link>https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers</link>
+  </entry>
+  
+  <entry>
+    <title>The easiest and most effective way to make your colleagues feel happy and safe at work</title>
+    <quote>Above any other measure, nearly 40% of American workers surveyed said they feel the greatest sense of belonging and happiness at work when colleagues simply check in with them, asking how they are doing both personally and professionally.</quote>
+    <link>https://qz.com/work/1454030/the-easiest-and-most-effective-way-to-make-your-colleagues-feel-happy-and-safe-at-work/</link>
+  </entry>
+
+  <entry>
+    <title>A Programmer's Guide to Data Mining</title>
+    <quote>The textbook is laid out as a series of small steps that build on each other until, by the time you complete the book, you have laid the foundation for understanding data mining techniques.</quote>
+    <link>http://guidetodatamining.com/</link>
+  </entry>
+  
+  <entry>
+    <title>AI is not “magic dust” for your company, says Google’s Cloud AI boss</title>
+    <quote>AI is about using math to make machines make really good decisions. At the moment it has nothing to do with simulating real human intelligence. Once you understand that, it kind of gives you permission to think about how a set of data tools—things like deep learning and auto machine learning and, say, natural language translation—how you can put those into situations where you can solve problems.</quote>
+    <link>https://www.technologyreview.com/s/612394/ai-is-not-magic-dust-for-your-company-says-googles-cloud-ai-boss</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

@@ -1,0 +1,38 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 12, 2018</date>
+  
+  <entry>
+    <title>A free, teacher-less university in France is schooling thousands of future-proof programmers</title>
+    <quote>“We don’t teach anything,” says Nicolas Sadirac, head of École 42. “The students create what they need all the time.”
+
+At 8:42 every morning, students get digital projects to complete. They have 48 hours to complete them, so they are always juggling various projects, sort of like in real life.</quote>
+    <link>https://qz.com/1054412/a-french-billionaires-free-teacher-less-university-is-designing-thousands-of-future-proof-employees/
+</link>
+  </entry>
+  
+  <entry>
+    <title>Storytelling with Data: A Data Visualization Guide for Business Professionals</title>
+    <quote>Throughout the reading journey with the book, Cole really taught me how to communicate effectively with data — empathy — and the very core and fundamentals of data visualization — simplicity.</quote>
+    <link>https://towardsdatascience.com/storytelling-with-data-a-data-visualization-guide-for-business-professionals-97d50512b407</link>
+  </entry>
+
+
+ <entry>
+    <title>How to level up your organization's security expertise</title>
+    <quote>There are a number of best practices that can help you level up the overall security expertise in your company through basic and intermediate education, subject matter experts, and knowledge-sharing.</quote>
+    <link>https://opensource.com/article/18/10/how-level-security-expertise-your-organization</link>
+  </entry>
+  
+  <entry>
+    <title>Simple diagrams of convoluted neural networks</title>
+    <quote>Neural networks are complicated, multidimensional, nonlinear array operations. How can we present a deep learning model architecture in a way that shows key features, while avoiding being too complex or repetitive?</quote>
+    <link>https://medium.com/inbrowserai/simple-diagrams-of-convoluted-neural-networks-39c097d2925b</link>
+  </entry>
+  
+  <entry>
+    <title>Do you need a blockchain?</title>
+    <quote>This chart from a rather good US department of Homeland Security report on blockchain shows how rarely it’s needed</quote>
+    <link>https://twitter.com/ruskin147/status/1049353345259978752</link>
+  </entry>
+</feed>

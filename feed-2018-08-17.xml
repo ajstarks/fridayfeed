@@ -1,0 +1,52 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 17, 2018</date>
+  
+  <entry>
+  	<title>Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?</title>
+  	<quote>James Mickens of Harvard University performs a funny and entertaining tour-de-force clearly explains concepts of machine learning while pointing out its limits, while exploring the ethics of computer science and startup culture.</quote>
+  	<link>https://www.youtube.com/watch?v=ajGX7odA87k</link>
+  </entry>
+  
+  <entry>
+    <title>Clinically applicable deep learning for diagnosis and referral in retinal disease</title>
+    <quote>The volume and complexity of diagnostic imaging is increasing at a pace faster than the availability of human expertise to interpret it. Artificial intelligence has shown great promise in classifying two-dimensional photographs of some common diseases and typically relies on databases of millions of annotated images. Until now, the challenge of reaching the performance of expert clinicians in a real-world clinical pathway with three-dimensional diagnostic scans has remained unsolved. Here, we apply a novel deep learning architecture to a clinically heterogeneous set of three-dimensional optical coherence tomography scans from patients referred to a major eye hospital.</quote>
+    <link>https://www.nature.com/articles/s41591-018-0107-6</link>
+  </entry>
+  
+ <entry>
+    <title>DeepMind’s AI can detect over 50 eye diseases as accurately as a doctor</title>
+    <quote>Step by step, condition by condition, AI systems are slowly learning to diagnose disease as well as any human doctor, and they could soon be working in a hospital near you. The latest example is from London, where researchers from Google’s DeepMind subsidiary, UCL, and Moorfields Eye Hospital have used deep learning to create software that identifies dozens of common eye diseases from 3D scans and then recommends the patient for treatment.</quote>
+    <link>https://www.theverge.com/2018/8/13/17670156/deepmind-ai-eye-disease-doctor-moorfields</link>
+  </entry>
+  
+  <entry>
+  	<title>CMU's Practical Data Science Course</title>
+  	<quote>This course provides a practical introduction to the “full stack” of data science analysis, including data collection and processing, data visualization and presentation, statistical model building using machine learning, and big data techniques for scaling these methods</quote>
+  	<link>http://www.datasciencecourse.org</link>
+  </entry>
+  
+  <entry>
+    <title>Why GE Digital Failed</title>
+    <quote>True digital transformation is about rethinking your current business model for the 21st century. The process is not just about adding technology to the existing model. Most companies do the latter, because doing the former is extremely difficult.</quote>
+    <link>https://www.inc.com/alex-moazed/why-ge-digital-didnt-make-it-big.html</link>
+  </entry>
+  
+  <entry>
+    <title>Google is building “virtual agents” to handle call centers’ grunt work</title>
+    <quote>The software is called Contact Center AI, and Google is working with at least a dozen partners, such as Cisco and Vonage, to install “virtual agents” that will be the first to pick up the phone when a customer is routed to a call center. When the customer asks something that the AI can’t do, it will automatically forward the call to a human, according to a blog post by Google Cloud chief scientist Fei-Fei Li.</quote>
+    <link>https://qz.com/1335348/google-is-building-virtual-agents-to-handle-call-centers-grunt-work/</link>
+  </entry>
+  
+  <entry>
+    <title>Why Software Development Requires Servant Leaders</title>
+    <quote>At its core, servant leadership is about inverting the pyramid of power. Instead of exerting power from the top, servant leaders empower others and enable them from below.</quote>
+    <link>https://adl.io/essays/why-software-development-requires-servant-leaders/</link>
+  </entry>
+  
+  <entry>
+    <title>9 Principles of Service Design</title>
+    <quote> Often, the design of a service is overlooked by organizations and decisions related to the service supporting a product are not routinely considered in relation to how they impact the overall design of an experience. This results, most often, in poor service design and a poor experience.</quote>
+    <link>http://chriskiess.net/9-principles-of-service-design/</link>
+  </entry>
+</feed>

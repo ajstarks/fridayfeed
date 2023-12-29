@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 18, 2018</date>
+  
+  <entry>
+    <title>Deep Learning for Electronic Health Records</title>
+    <quote>We used deep learning models to make a broad set of predictions relevant to hospitalized patients using de-identified electronic health records. Importantly, we were able to use the data as-is, without the laborious manual effort typically required to extract, clean, harmonize, and transform relevant variables in those records. </quote>
+    <link>https://ai.googleblog.com/2018/05/deep-learning-for-electronic-health.html</link>
+  </entry>
+  
+  <entry>
+    <title>Meet Surface Hub 2</title>
+    <quote>Surface Hub 2 was designed from the ground up to be used by teams – to get people out of their seats, to connect and ideate, regardless of location. The new Surface Hub 2 is sleeker, more agile and more affordable to fit any workspace or work style. The gorgeous 4K+ 50.5” multi-touch display creates an inviting canvas to co-create, harnessing the power of Microsoft Teams, Microsoft Whiteboard, Office 365, Windows 10 and the intelligent cloud. </quote>
+    <link>https://blogs.windows.com/devices/2018/05/15/meet-surface-hub-2/</link>
+  </entry>
+
+  <entry>
+    <title>AI for Humanity</title>
+    <quote>Cédric Villani intended to build a strategy for the French government to develop AI in France and Europe. Notably, the report strongly encompasses the social and ethical issues raised by AI. Villani pledges for a more ecological and energy-efficient AI. He points out the role of data scientists in making their blackbox algorithms as fair and explainable as possible.</quote>
+    <link>https://www.aiforhumanity.fr/pdfs/MissionVillani_Report_ENG-VF.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Reaching Peak Meeting Efficiency</title>
+    <quote>In the course of building a company the most important tool you have to create a culture of shared values is communication and meetings are critical to communication.</quote>
+    <link>https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

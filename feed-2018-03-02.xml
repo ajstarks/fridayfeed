@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 2, 2018</date>
+  
+    <entry>
+    <title>How I Found My Way After an MS Diagnosis at Twenty-Seven</title>
+    <quote>I should clarify: I couldn’t see properly. The centre of my vision was missing, sort of, and whenever I looked straight at something, it would dissolve, but I could see well enough around the periphery. </quote>
+    <link>https://thewalrus.ca/how-i-found-my-way-after-an-ms-diagnosis-at-twenty-seven/</link>
+  </entry>
+
+  
+  <entry>
+    <title>Learn with Google AI: Making ML education available to everyone</title>
+    <quote>To help everyone understand how AI can solve challenging problems, we’ve created a resource called Learn with Google AI. This site provides ways to learn about core ML concepts, develop and hone your ML skills, and apply ML to real-world problems. From deep learning experts looking for advanced tutorials and materials on TensorFlow, to “curious cats” who want to take their first steps with AI, anyone looking for educational content from ML experts at Google can find it here.</quote>
+    <link>https://www.blog.google/topics/machine-learning/learn-google-ai-making-ml-education-available-everyone/</link>
+  </entry>
+  
+  <entry>
+    <title>Security Monkey</title>
+    <quote>Security Monkey monitors your AWS and GCP accounts for policy changes and alerts on insecure configurations. Support is available for OpenStack public and private clouds. Security Monkey can also watch and monitor your GitHub organizations, teams, and repositories.</quote>
+    <link>https://github.com/Netflix/security_monkey</link>
+  </entry>
+  
+  <entry>
+    <title>What Managers Need to Know About Social Tools</title>
+    <quote>Since then we have studied internal social tools in various work settings, including banking, insurance, telecommunications, e-commerce, atmospheric science, and computing. The mounting evidence is clear: These tools can promote employee collaboration and knowledge sharing across silos. They can help employees make faster decisions, develop more innovative ideas for products and services, and become more engaged in their work and their companies.  Note there are four traps to avoid</quote>
+    <link>https://hbr.org/2017/11/what-managers-need-to-know-about-social-tools</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

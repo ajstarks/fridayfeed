@@ -1,0 +1,46 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 6, 2018</date>
+  
+  <entry>
+  	<title>#WeAreNotWaiting</title>
+  	<quote>Using innovative, do-it-yourself hacks, healthcare consumers are creating solutions to help manage their diabetes.</quote>
+  	<link>http://genomemag.com/nightscout-diabetes-type1/</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft Professional Program for Artificial Intelligence</title>
+    <quote>The AI track takes aspiring AI engineers from a basic introduction of AI to mastery of the skills needed to build deep learning models for AI solutions that exhibit human-like behavior and intelligence.</quote>
+    <link>https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/</link>
+  </entry>
+  
+  <entry>
+    <title>Apple Hires Google’s A.I. Chief</title>
+    <quote>The hire is a victory for Apple, which many Silicon Valley executives and analysts view as lagging its peers in artificial intelligence, an increasingly crucial technology for companies that enable computers to handle more complex tasks, like understanding voice commands or identifying people in images.</quote>
+    <link>https://nyti.ms/2q5CynZ</link>
+  </entry>
+  
+  <entry>
+    <title>The End of Windows</title>
+    <quote>What is more interesting, though, is the story of Windows’ decline in Redmond, culminating with last week’s reorganization that, for the first time since 1980, left the company without a division devoted to personal computer operating systems (Windows was split, with the core engineering group placed under Azure, and the rest of the organization effectively under Office 365; there will still be Windows releases, but it is no longer a standalone business). Such a move didn’t seem possible a mere five years ago, when, in the context of another reorganization, former-CEO Steve Ballmer wrote a memo insisting that Windows was the future (emphasis mine):</quote>
+    <link>https://stratechery.com/2018/the-end-of-windows/</link>
+  </entry>
+  
+  <entry>
+    <title>The death of the newsfeed</title>
+    <quote>One basic problem here is that if the feed is focused on ‘what do I want to see?’, then it cannot be focused on ‘what do my friends want (or need) me to see?’ Sometimes this is the same thing - my friend and I both want me to see that they’re throwing a party tonight. But if every feed is a sample, then a user has no way to know who will see their post. </quote>
+    <link>https://www.ben-evans.com/benedictevans/2018/4/2/the-death-of-the-newsfeed</link>
+  </entry>
+  
+  <entry>
+    <title>The Scientific Paper Is Obsolete</title>
+    <quote>Scientific methods evolve now at the speed of software; the skill most in demand among physicists, biologists, chemists, geologists, even anthropologists and research psychologists, is facility with programming languages and “data science” packages. And yet the basic means of communicating scientific results hasn’t changed for 400 years. Papers may be posted online, but they’re still text and pictures on a page.</quote>
+    <link>https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/?single_page=true</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

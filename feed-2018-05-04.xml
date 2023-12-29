@@ -1,0 +1,43 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 4, 2018</date>
+  
+  <entry>
+    <title>Email, the Micro-Meetings Eating Our Days</title>
+    <quote>It occurred to me recently that email and meetings are actually even more similar than the parallel above. Emails are basically little meetings that you get sucked into throughout a day. Some of them may take just a few seconds, others take far longer. Some may even take days or weeks</quote>
+    <link>https://500ish.com/email-the-micro-meetings-eating-our-days-f5e9864047e1</link>
+  </entry>
+  
+  <entry>
+  	<title>Stop saying ‘privacy,’ start saying ‘data protection’</title>
+  	<quote>As clunky and boring as a term like “data protection” may sound, it has an undeniably different feel. It immediately implies that data in question is rightfully yours, and thus deserves protection when lent out. The conditional nature of the relationship is built in to the very phrase itself. It places the onus on the other, marking them as the party asking for a concession.</quote>
+  	<link>https://theoutline.com/post/4409/stop-saying-privacy-start-saying-data-protection</link>
+  </entry>
+  
+   <entry>
+    <title>Lobe: Deep Learning Made Simple</title>
+    <quote>Lobe is an easy-to-use visual tool that lets you build custom deep learning models, quickly train them, and ship them directly in your app without writing any code. Start by dragging in a folder of training examples from your desktop. Lobe automatically builds you a custom deep learning model and begins training. When you’re done, you can export a trained model and ship it directly in your app.</quote>
+    <link>https://lobe.ai</link>
+  </entry>
+
+  <entry>
+    <title>Machine Box</title>
+    <quote>State of the art machine learning technology inside a Docker container which you can run, deploy and scale</quote>
+    <link>https://machinebox.io</link>
+  </entry>
+
+  <entry>
+    <title>Exabytes in a Test Tube: The Case for DNA Data Storage</title>
+    <quote>If we can solve these problems, nature’s incredible storage medium—DNA—might also store our music, our literature, and our scientific advances. The very same medium that literally specifies who we are as individuals might also store our art, our culture, and our history as a species.</quote>
+    <link>https://spectrum.ieee.org/semiconductors/devices/exabytes-in-a-test-tube-the-case-for-dna-data-storage</link>
+  </entry>
+  
+  <entry>
+    <title>Here's How Designers Would Fix Aamazon</title>
+    <quote>I wondered what Amazon would look like if it were redesigned as a more transparent, trusted, and even human service. So Co.Design enlisted the award-winning digital studio Upstatement–which has built sites for MIT, Harvard, Salesforce, and Microsoft–to redesign the retailer. Upstatement delivered two concepts that are each anchored in the idea that Amazon should reposition itself not as a deal warehouse but a trusted advisor or concierge. </quote>
+    <link>https://www.fastcodesign.com/90169636/we-asked-designers-to-fix-amazon-this-is-their-vision</link>
+  </entry>
+
+</feed>
+  
+ 

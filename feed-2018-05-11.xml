@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 11, 2018</date>
+  
+  <entry>
+    <title>Why 'Stories' Took Over Your Smartphone</title>
+    <quote>The format, made popular by Snapchat and Instagram, is the native genre of glass rectangles.</quote>
+    <link>https://www.theatlantic.com/technology/archive/2018/05/smartphone-stories-snapchat-instagram-facebook/559517/</link>
+  </entry>
+  
+  <entry>
+    <title>Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone</title>
+    <quote>Today we announce Google Duplex, a new technology for conducting natural conversations to carry out “real world” tasks over the phone. The technology is directed towards completing specific tasks, such as scheduling certain types of appointments. For such tasks, the system makes the conversational experience as natural as possible, allowing people to speak normally, like they would to another person, without having to adapt to a machine.
+</quote>
+    <link>https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html</link>
+  </entry>
+
+  <entry>
+    <title>Tech’s Two Philosophies</title>
+    <quote>In Google’s view, computers help you get things done — and save you time — by doing things for you. Apple's and Microsoft view: the expectation is not that the computer does your work for you, but rather that the computer enables you to do your work better and more efficiently.</quote>
+    <link>https://stratechery.com/2018/techs-two-philosophies/</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft reflects on the failures of Courier, KIN, and ultra mobile PCs</title>
+    <quote>Jon Friedman, now chief designer of Office 365, has been at the center of Microsoft’s notorious product failures, including the SPOT watches from 2004, ultra mobile PCs, the KIN phone, and the unreleased Courier device. At Microsoft’s Build developer conference this week, Friedman reflected on his personal career at the software giant and why some of these products weren’t successful.</quote>
+    <link>https://www.theverge.com/2018/5/9/17335634/microsoft-jon-friedman-courier-kin-ultra-mobile-pcs-spot-build-2018</link>
+  </entry>
+  
+  <entry>
+    <title>Carnegie Mellon Launches Undergraduate Degree in Artificial Intelligence</title>
+    <quote>The School of Computer Science has created the new AI degree, the first offered by a U.S. university, in response to extraordinary technical breakthroughs in AI and the growing demand by students and employers for training that prepares people for careers in AI.</quote>
+    <link>https://www.cmu.edu/news/stories/archives/2018/may/ai-undergraduate-degee.html</link>
+  </entry>
+  
+  <entry>
+    <title>Women with Breast Cancer Delay Care When Faced with High Deductibles</title>
+    <quote>Nir Menachemi, a health policy professor at Indiana University who recently published an analysis of high-deductible plans in Health Affairs, said numerous studies show people are more likely to forgo preventive care when they have a high deductible — even if that care is free. </quote>
+    <link>https://nyti.ms/2KBGQgn</link>
+  </entry>
+</feed>

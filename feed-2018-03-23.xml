@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 23, 2018</date>
+  
+    <entry>
+    <title>Mark Zuckerberg Talks To Wired About Facebook’s Privacy Problem</title>
+    <quote>For the past four days, Facebook has been taken to the woodshed by critics, the stock market, and regulators after it was reported that the data-science firm Cambridge Analytica obtained the data of 50 million Facebook users. Until Wednesday, Mark Zuckerberg had stayed silent. On Wednesday afternoon, though, he addressed the problem in a personal Facebook post and laid out some of the solutions he will introduce.</quote>
+    <link>https://www.wired.com/story/mark-zuckerberg-talks-to-wired-about-facebooks-privacy-problem/</link>
+  </entry>
+  
+    <entry>
+    <title>Machine learning classifies cancer</title>
+    <quote>Brain tumours are often classified by visual assessment of tumour cells, yet such diagnoses can vary depending on the observer. Machine-learning methods to spot molecular patterns could improve cancer diagnosis.</quote>
+    <link>https://www.nature.com/articles/d41586-018-02881-7</link>
+  </entry>
+  
+    <entry>
+    <title>Apple and IBM partner in Machine Learning</title>
+    <quote>With Watson Services for Core ML, it’s easy to build apps that access powerful Watson capabilities right from iPhone and iPad, so you can provide dynamic, intelligent insights that improve over time. And with the IBM Cloud Developer Console for Apple, you can quickly tap into Watson Services for Core ML and other services on IBM Cloud.</quote>
+    <link>https://developer.apple.com/ibm/</link>
+  </entry>
+  
+  <entry>
+    <title>Running at a Trillion Rows Per Second</title>
+    <quote>The fact that we can break the trillion-row-per-second barrier with MemSQL on 448 cores worth of Intel’s latest chips is significant in a couple of ways. First, you can get interactive response time on mammoth data sets without precalculating results. This allows more flexible interaction from users, and encourages them to explore the data. It also enables real-time analytics. Second, it allows highly concurrent access by hundreds of users on smaller data sets, with all of them getting interactive response times.</quote>
+    <link>http://blog.memsql.com/shattering-the-trillion-rows-per-second-barrier-with-memsql/</link>
+  </entry>
+  
+
+  
+
+  
+</feed>

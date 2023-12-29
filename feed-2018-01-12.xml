@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 12, 2018</date>
+  
+  <entry>
+    <title>500,000 Britons’ Genomes Will Be Public by 2020, Transforming Drug Research</title>
+    <quote>The plan will turn the UK Biobank, the source of the DNA samples, into the world’s single biggest concentration of genetic and health data anywhere, giving scientists and drug companies a powerful tool for understanding diseases.</quote>
+    <link>https://www.technologyreview.com/s/609897/500000-britons-genomes-will-be-public-by-2020-transforming-drug-research/</link>
+  </entry>
+  
+ <entry>
+    <title>How Neglecting Minorities in Medical Research Has Led to Deadly Outcomes— Solving a $1T Problem</title>
+    <quote>40 percent of Americans are Hispanic, Pacific Islander, African-, Asian- or Native-American, yet this entire group accounts for less than five percent of the participants in medical research. Conversely white Americans represent 60% of the population, but make up over 95% of the participants in medical research. Because of this disparity, many drugs, treatment methods, and other research developments available to patients today have been shown to be less effective on minorities. This has led to higher mortality rates, a lower quality of life, and higher healthcare costs for minority populations.</quote>
+    <link>https://www.hdphealth.com/how-neglecting-minorities-in-medical-research-has-led-to-deadly-outcomes-solving-a-1t-problem-1318</link>
+  </entry>
+  
+  <entry>
+    <title>Triple Meltdown: How So Many Researchers Found A 20-Year-Old Chip Flaw At The Same Time</title>
+    <quote>That evening, Gruss informed the other two researchers that he'd succeeded. His code, designed to steal information from the deepest, most protected part of a computer's operating system, known as the kernel, no longer spat out random characters but what appeared to be real data siphoned from the sensitive guts of his machine: snippets from his web browsing history, text from private email conversations. More than a sense of achievement, he felt shock and dismay.</quote>
+    <link>https://www.wired.com/story/meltdown-spectre-bug-collision-intel-chip-flaw-discovery/</link>
+  </entry>
+  
+  <entry>
+  	<title>Reconstructing Images with Meltdown</title>
+  	<quote>Reading another process's memory, for images</quote>
+  	<link>https://twitter.com/mlqxyz/status/950378419073712129</link>
+  </entry>
+  
+   <entry>
+    <title>How we recreated Amazon Go in 36 hours</title>
+    <quote>My colleagues and I wanted to create something that would make people go “wow” at our latest hackathon.</quote>
+    <link>https://medium.freecodecamp.org/how-we-recreated-amazon-go-in-36-hours-e32a4101d5f0</link>
+  </entry>
+  
+  <entry>
+    <title>Facebook’s Virtual Assistant M Is Dead. So Are Chatbots</title>
+    <quote>Another challenge: When M could complete tasks, users asked for progressively harder tasks. A fully automated M would have to do things far beyond the capabilities of existing machine learning technology. Today's best algorithms are a long way from being able to really understand all the nuances of natural language.</quote>
+    <link>https://www.wired.com/story/facebooks-virtual-assistant-m-is-dead-so-are-chatbots/</link>
+  </entry>
+  
+</feed>

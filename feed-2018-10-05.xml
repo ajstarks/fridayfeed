@@ -1,0 +1,30 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 5, 2018</date>
+  
+  <entry>
+    <title>How to deliver on Machine Learning projects</title>
+    <quote>In this article, we’ll describe our conception of the “OODA Loop” of ML: the ML Engineering Loop, where ML Engineers iteratively: Analyze, Select an approach,  Implement, Measure</quote>
+    <link>https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0</link>
+  </entry>
+
+  
+  <entry>
+    <title>State of the Art: Reproducibility in Artificial Intelligence</title>
+    <quote>To quantify the state of reproducibility of empirical AI research using six reproducibility metrics measuring three different degrees of reproducibility.</quote>
+    <link>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17248/15864</link>
+  </entry>
+  
+
+  <entry>
+    <title>The web is broken, so its founder is taking another stab at it</title>
+    <quote>Tim Berners-Lee, the British computer scientist credited with inventing the web in 1989, announced a new project today that he hopes will radically change his creation, by giving people full control over their data.</quote>
+    <link>https://qz.com/1407428/tim-berners-lees-solid-and-inrupt-let-people-control-their-own-data/</link>
+  </entry>
+  
+  <entry>
+    <title>Presentation Matters, or How I Learned to Stop Worrying and Love Data Communication</title>
+    <quote>It’s less designing to evoke emotion and more designing to best serve the data — and the audience.</quote>
+    <link>https://medium.com/nemac-blog/presentation-matters-or-how-i-learned-to-stop-worrying-and-love-data-communication-e1483fca1dc5</link>
+  </entry>
+</feed>

@@ -1,0 +1,44 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 7, 2018</date>
+  
+  <entry>
+    <title>Artificial intelligence system designs drugs from scratch</title>
+    <quote>The system is called Reinforcement Learning for Structural Evolution, known as ReLeaSE, and is an algorithm and computer program that comprises two neural networks which can be thought of as a teacher and a student. The teacher knows the syntax and linguistic rules behind the vocabulary of chemical structures for about 1.7 million known biologically active molecules. By working with the teacher, the student learns over time and becomes better at proposing molecules that are likely to be useful as new medicines.
+
+Read more at: https://phys.org/news/2018-07-artificial-intelligence-drugs.html#jCp</quote>
+    <link>https://phys.org/news/2018-07-artificial-intelligence-drugs.html</link>
+  </entry>
+   
+  <entry>
+    <title>We trained an algorithm to detect cancer in just two hours</title>
+    <quote>This project highlights the major differences between humans and modern AI systems. Humans are very efficient at learning, because we use our pre-existing knowledge as a scaffold...However, the AI system has no way to incorporate knowledge; it can't understand "calcified" as a concept. Since the AI has no concept of what calcium looks like, or that calcified nodules are benign, it needs to build that understanding from many examples. In this case, it took over 50,000 images to learn what a human could learn from a description in a book.</quote>
+    <link>https://qz.com/1377825/we-trained-an-algorithm-to-detect-cancer-in-just-two-hours/</link>
+  </entry>
+
+  <entry>
+    <title>Johns Hopkins researchers use deep learning to combat pancreatic cancer</title>
+    <quote>Fishman is helping train deep learning algorithms to spot minute textural changes to tissue of the pancreas and nearby organs. These changes often are the first indication of cancer. Deep learning detection methods could mean earlier diagnosis. Fishman estimates that nearly a third of the cases he sees could have been detected four to 12 months sooner.</quote>
+    <link>https://www.healthcareitnews.com/news/johns-hopkins-researchers-use-deep-learning-combat-pancreatic-cancer</link>
+  </entry>
+  
+  <entry>
+    <title>Lehigh research team to investigate a “Google for research data</title>
+    <quote>Brian and his Lehigh research team envision a "dataset search engine" that can ultimately assist many kinds of scientists in locating data that they can use to perform exploratory analysis and test hypotheses.</quote>
+    <link>https://www.lehigh.edu/engineering/news/faculty/2018/20180820-davison-heflin-jia-dataset-search-engine-nsf-award.html</link>
+  </entry>
+  
+  
+  <entry>
+    <title>Bezos Unbound: Exclusive Interview With The Amazon Founder On What He Plans To Conquer Next</title>
+    <quote>"Let's say a junior executive comes up with a new idea that they want to try. They have to convince their boss, their boss's boss, their boss's boss's boss and so on—any 'no' in that chain can kill the whole idea." That's why nimble startups so easily slaughter hidebound dinosaurs:</quote>
+    <link>https://www.forbes.com/sites/randalllane/2018/08/30/bezos-unbound-exclusive-interview-with-the-amazon-founder-on-what-he-plans-to-conquer-next/</link>
+  </entry>
+  
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

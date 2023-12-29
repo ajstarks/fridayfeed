@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 25, 2018</date>
+  
+  <entry>
+    <title>How gut microbes are joining the fight against cancer</title>
+    <quote>Cancer has some provocative connections as well: inflammation is a contributing factor to some tumours and a few types of cancer have infectious origins. But with the explosive growth of a new class of drug — cancer immunotherapies — scientists have been taking a closer look at how the gut microbiome might interact with treatment and how these interactions might be harnessed.</quote>
+    <link>https://www.nature.com/articles/d41586-018-05208-8</link>
+  </entry>
+  
+  <entry>
+    <title>Production Readiness Checklist</title>
+    <quote>Everything you need to do before you go live -- 
+This checklist is your guide to the best practices for deploying secure, scalable, and highly available infrastructure in AWS. Before you go live, go through each item, and make sure you haven't missed anything important!</quote>
+    <link>https://gruntwork.io/devops-checklist/?ref=prod-readiness-blog-post</link>
+  </entry>
+
+  <entry>
+    <title>Microsoft is creating an oracle for catching biased AI algorithms</title>
+    <quote>Microsoft is building a tool to automatically identify bias in a range of different AI algorithms. It is the boldest effort yet to automate the detection of unfairness that may creep into machine learning—and it could help businesses make use of AI without inadvertently discriminating against certain people.</quote>
+    <link>https://www.technologyreview.com/s/611138/microsoft-is-creating-an-oracle-for-catching-biased-ai-algorithms/</link>
+  </entry>
+  
+  <entry>
+    <title>AI Chatbots Try To Schedule Meetings—Without Enraging Us</title>
+    <quote>Some market researchers predict that by 2025 more than a billion people will have had an encounter with an AI assistant.</quote>
+    <link>https://www.wired.com/story/xai-meeting-ai-chatbot/?mbid=email_onsiteshare</link>
+  </entry>
+  
+  <entry>
+    <title>New York Times: Using AI to host better conversations</title>
+    <quote>The New York Times, however, refuses to let the trolls win. They’ve invested significant resources in community moderation to ensure that their readers have a productive place to discuss all sides of an issue and connect freely over the topics that matter most, without being subjected to abuse.</quote>
+    <link>https://www.blog.google/topics/machine-learning/new-york-times-using-ai-host-better-conversations/</link>
+  </entry>
+</feed>

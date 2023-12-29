@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 29, 2018</date>
+  
+  <entry>
+    <title>Amazon buys PillPack, an online pharmacy, for just under $1B</title>
+    <quote>“PillPack makes it simple for any customer to take the right medication at the right time, and feel healthier,” he said in a statement. “Together with Amazon, we are eager to continue working with partners across the healthcare industry to help people throughout the U.S. who can benefit from a better pharmacy experience.”</quote>
+    <link>https://techcrunch.com/2018/06/28/amazon-buys-pillpack-an-online-pharmacy-that-was-rumored-to-be-talking-to-walmart/</link>
+  </entry>
+  
+  <entry>
+    <title>She discovered a secret to cancer growth that could lead to a new class of drugs</title>
+    <quote>Now Venkatesh is harnessing tumors’ essentially parasitic behavior within their environment to develop drugs that might neutralize the way they exploit neural networks. These therapies could be pushed into clinics faster than some others because prototypes of such drugs already exist—they were developed for other purposes before scientists found out about their potential in cancer treatment.</quote>
+    <link>https://www.technologyreview.com/lists/innovators-under-35/2018/pioneer/humsa-venkatesh/</link>
+  </entry>
+
+  <entry>
+    <title>What Blockchain Can’t Do</title>
+    <quote>At the interface between the offline world and its digital representation, the usefulness of the technology still critically depends on trusted intermediaries to effectively bridge the “last mile” between a digital record and a physical individual, business, device, or event.</quote>
+    <link>https://hbr.org/2018/06/what-blockchain-cant-do</link>
+  </entry>
+  
+  <entry>
+    <title>Bias detectives: the researchers striving to make algorithms fair</title>
+    <quote>Vaithianathan, who is now in the process of extending her child-abuse prediction model to Douglas and Larimer counties in Colorado, sees value in building better algorithms, even if the overarching system they are embedded in is flawed. That said, “algorithms can’t be helicopter-dropped into these complex systems”, she says: they must be implemented with the help of people who understand the wider context</quote>
+    <link>https://www.nature.com/articles/d41586-018-05469-3</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

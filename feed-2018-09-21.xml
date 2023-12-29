@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 21, 2018</date>
+  
+  <entry>
+    <title>Anatomy of an AI System</title>
+    <quote>The Amazon Echo as an anatomical map of human labor, data and planetary resources</quote>
+    <link>https://anatomyof.ai/</link>
+  </entry>
+  
+  <entry>
+    <title>IBM launches cloud tool to detect AI bias and explain automated decisions</title>
+    <quote>IBM  has launched a software service that scans AI systems as they work in order to detect bias and provide explanations for the automated decisions being made — a degree of transparency that may be necessary for compliance purposes not just a company’s own due diligence.</quote>
+    <link>https://techcrunch.com/2018/09/19/ibm-launches-cloud-tool-to-detect-ai-bias-and-explain-automated-decisions/</link>
+  </entry>
+
+  <entry>
+    <title>How to design an open office that employees don't hate</title>
+    <quote>The firm’s design features smart acoustics to keep things quiet, a communal cafe-like kitchen and library, and a total lack of typical office gimmicks that might keep people around after-hours. The result? While the office’s layout is still an open plan, the ethos is decidedly anti-open office.</quote>
+    <link>https://www.fastcompany.com/90238559/this-is-the-ultimate-anti-open-office</link>
+  </entry>
+  
+  <entry>
+    <title>Designing a place for designers</title>
+    <quote>Apple has several products that lead their markets in revenue or profit. What makes Apple Watch different from every other product the company makes, though, is a measure near and dear to the company’s soul by which they cannot claim Apple Watch to be number one: nicest.</quote>
+    <link>https://uxdesign.cc/designing-a-place-for-designers-866948355fe9</link>
+  </entry>
+  
+  <entry>
+    <title>Apple Watch Series 4 (John Gruber Review)</title>
+    <quote>Apple has several products that lead their markets in revenue or profit. What makes Apple Watch different from every other product the company makes, though, is a measure near and dear to the company’s soul by which they cannot claim Apple Watch to be number one: nicest.</quote>
+    <link>https://daringfireball.net/2018/09/apple_watch_series_4</link>
+  </entry>
+  
+  <entry>
+    <title>iOS 12: The MacStories Review</title>
+    <quote>After years of unabated visual and functional changes, iOS 12 is Apple's opportunity to regroup and reassess the foundation before the next big step – with one notable exception.</quote>
+    <link>https://www.macstories.net/stories/ios-12-the-macstories-review/</link>
+  </entry>
+</feed>

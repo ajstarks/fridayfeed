@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 21, 2018</date>
+  
+    <entry>
+    <title>Inside AWS: Technology Choices for Modern Applications</title>
+    <quote>Join Tim Bray, Senior Principal Engineer, to hear about the high-level choices that developers at AWS and our customers have to make. Here are a few: Are microservices always the way to go? Serverless, containers, or serverless containers? Is relational over? Is Java over? The talk is technical and based on our experience in building AWS services and working with customers on their cloud-native apps.</quote>
+    <link>https://youtu.be/IPOvrK3S3gQ</link>
+  </entry>
+  
+  <entry>
+    <title>Serverless Computing: One Step Forward, Two Steps Back</title>
+    <quote>Serverless computing offers the potential to program the cloud in an autoscaling, pay-as-you go manner. In this paper we address critical gaps in first-generation serverless computing, which place its autoscaling potential at odds with dominant trends in modern computing: notably data-centric and distributed computing, but also open source and custom hardware.</quote>
+    <link>https://arxiv.org/pdf/1812.03651.pdf</link>
+  </entry>
+
+  <entry>
+    <title>A Computer of One's Own</title>
+    <quote>Pioneers of the Computing Age</quote>
+    <link>https://medium.com/a-computer-of-ones-own</link>
+  </entry>
+  
+  <entry>
+    <title>Get Smarter with Data Science — Tackling Real Enterprise Challenges</title>
+    <quote>Typically, most of my articles are hands-on oriented, targeted towards people building systems and actually doing data science. However, this guide is aimed at a broader audience including executives, business, architects, analysts, engineers and data scientists. </quote>
+    <link>https://towardsdatascience.com/get-smarter-with-data-science-tackling-real-enterprise-challenges-67ee001f6097</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

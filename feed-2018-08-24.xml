@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 24, 2018</date>
+  
+  <entry>
+    <title>Meet Bot M.D.— Your A.I. Clinical Assistant</title>
+    <quote>Bot M.D. provides doctors with a smarter, simpler way to search for the clinical information they need. He also automatically transcribes patient case notes to reduce the amount of time doctors have to spend writing up case reports.</quote>
+    <link>https://www.botmd.io/en/</link>
+  </entry>
+  
+  <entry>
+    <title>Wet lab automation, from experiments to mass production.</title>
+    <quote>Control and integrate all the devices in your lab. Focus on doing science rather than managing different lab tools.</quote>
+    <link>http://radix.bio/</link>
+  </entry>
+
+  <entry>
+    <title>Beyond Interactive: Notebook Innovation at Netflix</title>
+    <quote>Notebooks have rapidly grown in popularity among data scientists to become the de facto standard for quick prototyping and exploratory analysis. At Netflix, we’re pushing the boundaries even further, reimagining what a notebook can be, who can use it, and what they can do with it. And we’re making big investments to help make this vision a reality.</quote>
+    <link>https://medium.com/netflix-techblog/notebook-innovation-591ee3221233</link>
+  </entry>
+  
+  <entry>
+    <title>Design for People, Use People Language</title>
+    <quote>The second unintended consequence is that using shortcut language can lead us to lose sight of what the real end goal is. You start seeing and responding to company problems rather than people problems.</quote>
+    <link>https://medium.com/@joulee/design-for-people-use-people-language-41efcf5203b1</link>
+  </entry>
+  
+  <entry>
+    <title>What happened when we took a week off of Slack</title>
+    <quote>As an experiment, we decided to spend a week without Slack to see how it feels and to hopefully learn a thing or two.</quote>
+    <link>https://qz.com/work/1363534/what-happened-when-we-took-a-week-off-of-slack/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

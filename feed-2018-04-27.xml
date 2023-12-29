@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 27, 2018</date>
+  
+  <entry>
+    <title>FDA chief moves to promote artificial intelligence in health care</title>
+    <quote>As an example of the new health technology he is seeking to promote, Gottlieb pointed to a new medical device approved by the FDA earlier this month that uses artificial intelligence and a special camera to help diagnose a condition in people with diabetes known as retinopathy that can lead to vision loss.</quote>
+    <link>http://thehill.com/policy/healthcare/385020-fda-chief-moves-to-promote-artificial-intelligence-in-health-care</link>
+  </entry>
+  
+  <entry>
+    <title>Lessons from My First Two Years of AI Research</title>
+    <quote>A friend of mine who is about to start a career in artificial intelligence research recently asked what I wish I had known when I started two years ago. Below are some lessons I have learned so far. They range from general life lessons to relatively specific tricks of the AI trade. I hope others find them useful.</quote>
+    <link>http://web.mit.edu/tslvr/www/lessons_two_years.html</link>
+  </entry>
+  
+  <entry>
+    <title>Gmail’s biggest redesign is now live</title>
+    <quote>The world’s most popular email service is getting a big overhaul today. Google is making official the changes we saw leaked earlier this month, with email snoozing, nudging, and confidential mode making their debut alongside a substantial visual redesign for Gmail on the web. </quote>
+    <link>https://www.theverge.com/2018/4/25/17277360/gmail-redesign-live-features-google-update</link>
+  </entry>
+
+  <entry>
+    <title>Hijack of Amazon’s internet domain service used to reroute web traffic for two hours unnoticed</title>
+    <quote>The attackers used BGP — a key protocol used for routing internet traffic around the world — to reroute traffic to Amazon’s Route 53 service, the largest commercial cloud provider who count major websites such as Twitter.com as customers.</quote>
+    <link>https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f</link>
+  </entry>
+  
+
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

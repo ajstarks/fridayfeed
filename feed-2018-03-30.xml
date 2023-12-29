@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 30, 2018</date>
+  
+ <entry>
+    <title>Patient Voices: Rare Diseases</title>
+    <quote>Living with any disease can be a trial, but patients with rare conditions face a host of uniquely difficult challenges. Simply getting an accurate diagnosis can be an enormous task, and many with poorly understood illnesses struggle with isolation and loneliness. Here six men and women talk about how their lives have been most affected by rare conditions.</quote>
+    <link>https://www.nytimes.com/interactive/2018/03/27/well/patient-voices-rare.html</link>
+  </entry>
+  
+ <entry>
+    <title>Apple’s Health app can now display medical records from 39 health systems</title>
+    <quote>Providing patients with a way to easily see their medical records gives them somewhat better control over their health information, which can stay stuck in the silos of individual health systems. Some healthcare groups — like Kaiser, for example — already offer patients a way to look at their medical records from their mobile devices or desktop. The idea here with Apple is that multiple systems are collected into a single app.</quote>
+    <link>https://www.theverge.com/2018/3/29/17176740/apple-health-records-app-ios-update</link>
+  </entry>
+  
+  <entry>
+    <title>The Real Story Behind Microsoft’s Quietly Brilliant AI Design</title>
+    <quote>Those principles seem obvious enough, when you lay them all out: “Humans are the heroes,” “Balance EQ and IQ,” “Honor societal values,” “Respect the context,” and “Evolve over time.” But behind them lies a unusual origin story–one that tells you a lot about where design is going. The principles didn’t emerge fully formed. Rather, they were the end result of a process started over five years ago, in which Microsoft spent untold millions trying to make a better AI assistant by watching how actual human assistants gain the trust of their clients.</quote>
+    <link>https://www.fastcodesign.com/90165892/the-real-story-behind-microsofts-quietly-brilliant-ai-design</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft reshuffles to bring more AI into products</title>
+    <quote>Over the past year, we have shared our vision for how the intelligent cloud and intelligent edge will shape the next phase of innovation. First, computing is more powerful and ubiquitous from the cloud to the edge. Second, AI capabilities are rapidly advancing across perception and cognition fueled by data and knowledge of the world. Third, physical and virtual worlds are coming together to create richer experiences that understand the context surrounding people, the things they use, the places they go, and their activities and relationships.</quote>
+	<link>https://news.microsoft.com/2018/03/29/satya-nadella-email-to-employees-embracing-our-future-intelligent-cloud-and-intelligent-edge/</link>
+  </entry>
+  
+  <entry>
+    <title>Slack is developing tools to tell if someone's mansplaining</title>
+    <quote>Now, Slack CEO Stewart Butterfield says Slack is pioneering products that will provide individual Slack users with data on whether their digital communication changes when they speak with people of different demographics. He says this data will help promote more equal, inclusive workplace cultures, and make employees more efficient and effective.</quote>
+    <link>https://work.qz.com/1238413/</link>
+  </entry>
+
+  
+
+</feed>

@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 30, 2018</date>
+  
+  <entry>
+    <title>The end of the beginning</title>
+    <quote>Ecommerce is still only a small fraction of retail spending, and many other areas that will be transformed by software and the internet in the next decade or two have barely been touched.</quote>
+    <link>https://www.ben-evans.com/benedictevans/2018/11/16/the-end-of-the-beginning</link>
+  </entry>
+  
+  <entry>
+    <title>ThoughtWorks Technology Radar Vol.19</title>
+    <quote>Sticky Clouds, Lingering Enterprise Anti-Patterns, Enduring Engineering Practices, Pace = Distance / Time</quote>
+    <link>https://www.thoughtworks.com/radar</link>
+  </entry>
+
+  <entry>
+    <title>AWS Launches, Previews, and Pre-Announcements at re:Invent 2018 </title>
+    <quote>A Summary of the blizzard of products announced by Amazon -- notable announcements include support for blockchain, text recognition, time series databases, and data lakes.</quote>
+    <link>https://aws.amazon.com/blogs/aws/aws-previews-and-pre-announcements-at-reinvent-2018-andy-jassy-keynote/</link>
+  </entry>
+  
+  <entry>
+    <title>Design for Everyone: How Universal Design Makes Technology Better for All of Us</title>
+    <quote>Creating technology that can be used one-handed, without visual feedback, without auditory feedback, without touch or without focused attention enables your product to be used more widely, in more circumstances, and under more conditions across the spectrum of humanity. This principle is known as universal design, the idea that products, buildings and environments ought to be created to make them accessible to all people, regardless of age, ability or other individuating features.</quote>
+    <link>https://medium.com/@kellynstandley/design-for-everyone-how-universal-design-makes-technology-better-for-all-of-us-9b5815562b83</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

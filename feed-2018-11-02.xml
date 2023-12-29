@@ -1,0 +1,31 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 2, 2018</date>
+  
+  <entry>
+    <title>In Medical Reporting, the Impact of Patients’ Stories</title>
+    <quote>A highly unusual response to my article on insurance obstacles to acquiring powerful new cholesterol-lowering drugs came from the very top: the leaders of one of the two companies making the drugs.</quote>
+    <link>https://nyti.ms/2zZIbdK</link>
+  </entry>
+  
+  <entry>
+    <title>How to Decide Which Data Science Projects to Pursue</title>
+    <quote> In an excellent strategy, the projects will include automation and efficiency and performance improvements, but they will also include projects and ideas for new revenue generation and entirely new businesses driven by your unique data assets. </quote>
+    <link>https://hbr.org/2018/10/how-to-decide-which-data-science-projects-to-pursue</link>
+  </entry>
+  
+   <entry>
+    <title>UX Ecosystems in Healthcare</title>
+    <quote>A patient with diabetes, for example, will have a minimum of three different physicians on their care team. These physicians may or may not share the same EHR and, thus, may not coordinate care. If that patient is hospitalized, the hospital may have a different care team and use a different EHR as well.</quote>
+    <link>http://uxpamagazine.org/expand-your-view/</link>
+  </entry>
+  
+  <entry>
+    <title>Why Walmart and other F500 companies are using virtual reality to train the next generation of American workers</title>
+    <quote>Several Fortune 500 companies, such as Boeing, UPS and Walmart, are folding VR into worker-education programs on a wide scale. And some have been happily impressed with the results.
+    "Life happens in 360, not 2D video. We test our associates on the content they see. Those associates who [used] VR as part of their training scored higher than those who didn't."</quote>
+    <link>https://www.cnbc.com/2018/10/29/why-f500-companies-use-virtual-reality-to-train-workers-of-the-future.html</link>
+  </entry>
+  
+ 
+</feed>

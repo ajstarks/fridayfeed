@@ -1,0 +1,48 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 22, 2018</date>
+  
+  <entry>
+    <title>The Innovation Stack: How to make innovation programs deliver more than coffee cups</title>
+    <quote>It starts by understanding the “Innovation Stack” – the hierarchy of innovation efforts that have emerged in large organizations. The stack consists of: Individual Innovation, Innovation Tools and Activities, Team-based Innovation and Operational Innovation.</quote>
+    <link>https://steveblank.com/2018/06/05/whats-next-for-getting-stuff-done-in-large-organizations-the-innovation-stack/</link>
+  </entry>
+  
+
+  <entry>
+    <title>Shortcuts: A New Vision for Siri and iOS Automation</title>
+    <quote>In iOS 12, developers can now create their own custom intents based on built-in semantic templates; furthermore, existing SiriKit Intents can break out of the Siri UI and also work as shortcuts in other places such as Spotlight, the Lock screen, and even the Siri watch face. Apple's approach isn't surprising: if iOS apps can have the ability to perform tasks with custom interfaces and responses outside of the main app environment (as is currently possible with SiriKit Intents), why not expand the same functionality to other types of proactive assistance?</quote>
+    <link>https://www.macstories.net/stories/shortcuts-a-new-vision-for-siri-and-ios-automation/</link>
+  </entry>
+  
+  <entry>
+    <title>Designing for Data Visualization</title>
+    <quote>IBM designers share the unique challenges and opportunities of designing for data visualization</quote>
+    <link>https://medium.com/design-ibm/designing-for-data-visualization-c2b18359878c</link>
+  </entry>
+  
+  <entry>
+    <title>Five ideas that might steer Gawande as CEO of Amazon-backed health company</title>
+    <quote>Reducing health care costs, Checklists could be one way to curb medical errors, rethinking how we approach end-of-life care, expanding coverage</quote>
+    <link>https://www.statnews.com/2018/06/20/gawande-five-ideas/</link>
+  </entry>
+  
+  <entry>
+    <title>After 20 years of Salesforce, what Marc Benioff got right and wrong about the cloud</title>
+    <quote>As the pace of technological disruption picks up, the previous generation of SaaS companies is facing a future similar to the legacy software providers they once displaced. From mainframes up through cloud-native (and even serverless) computing, the goal for CIOs has always been to strike the right balance between cost, capabilities, control and flexibility. Cloud-native computing, which encompasses a wide variety of IT facets and often emphasizes open-source software, is poised to deliver on these benefits in a manner that can adapt to new trends as they emerge.</quote>
+    <link>https://techcrunch.com/2018/06/17/after-twenty-years-of-salesforce-what-marc-benioff-got-right-and-wrong-about-the-cloud/</link>
+  </entry>
+
+  
+  <entry>
+    <title>Designing for Data Visualization</title>
+    <quote>IBM designers share the unique challenges and opportunities of designing for data visualization</quote>
+    <link>https://medium.com/design-ibm/designing-for-data-visualization-c2b18359878c</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

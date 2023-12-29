@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 9, 2018</date>
+  
+  <entry>
+    <title>Principles of Technology Leadership</title>
+    <quote>The kind of talk that only Bryan Cantrill of Joyent can give, one which (enthusiastically) explores the importance of leadership principles ranging from the Gettysburg Address to Uber and exhorts the audience to think about how they might consider and apply these lessons to their own</quote>
+    <link>https://www.youtube.com/watch?v=9QMGAtxUlAc</link>
+  </entry>
+  
+  <entry>
+    <title>Minimum Beautiful Product</title>
+    <quote>I think there’s something between MVP and perfected release… the Minimum Beautiful Product perhaps. An MVP that you’ve taken an extra few hours to polish so you make a good first impression to your customers or leads.</quote>
+    <link>https://blog.prototypr.io/minimum-beautiful-product-157825335115</link>
+  </entry>
+  
+  <entry>
+    <title>How we design enterprise software</title>
+    <quote>We work closely with Product Management and Engineering to deliver products and features to our customers that are valuable, usable and feasible. For each project it’s a three-legged stool. For a successful project, each of these product teams need to be represented. Of course they are not the only representatives involved, but at the core of a project these three are essential.</quote>
+    <link>https://blog.usejournal.com/how-we-design-enterprise-software-916124fb73db</link>
+  </entry>
+  
+  <entry>
+    <title>MIT 6.S099: Artificial General Intelligence</title>
+    <quote>This class takes an engineering approach to exploring possible research paths toward building human-level intelligence. The lectures will introduce our current understanding of computational intelligence and ways in which strong AI could possibly be achieved, with insights from deep learning, reinforcement learning, computational neuroscience, robotics, cognitive modeling, psychology, and more.</quote>
+    <link>https://agi.mit.edu</link>
+  </entry>
+  
+  <entry>
+    <title>Quantum algorithms: an overview</title>
+    <quote>Quantum computers are designed to outperform standard computers by running quantum algorithms. Areas in which quantum algorithms can be applied include cryptography, search and optimisation, simulation of quantum systems, and solving large systems of linear equations. Here we briefly survey some known quantum algorithms, with an emphasis on a broad overview of their applications rather than their technical details.</quote>
+    <link>https://arxiv.org/pdf/1511.04206.pdf</link>
+  </entry>
+
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

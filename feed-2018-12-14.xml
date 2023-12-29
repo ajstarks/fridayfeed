@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 14, 2018</date>
+
+  <entry>
+    <title>AI INDEX 2018</title>
+    <quote>The AI Index is an effort to track, collate, distill, and visualize data relating to artificial intelligence. It aspires to be a comprehensive resource of data and analysis for policymakers, researchers, executives, journalists, and the general public to develop intuitions about the complex field of AI.</quote>
+    <link>http://cdn.aiindex.org/2018/AI%20Index%202018%20Annual%20Report.pdf</link>
+  </entry>  
+  
+  <entry>
+    <title>The State of Technology at the End of 2018</title>
+    <quote>This article is a bit of an annual tradition: in mid-December I summarize the state of technology,and appropriately enough, this year’s edition coincides with a tech executive testifying in front of Congress. </quote>
+    <link>https://stratechery.com/2018/the-state-of-technology-at-the-end-of-2018/</link>
+  </entry>
+  
+  <entry>
+    <title>Computing is Everywhere: Bret Victor and Dynamicland</title>
+    <quote>This week Paul Ford and Rich Ziade sit down with Bret Victor to talk to about Dynamicland — a non-profit that’s inventing a new computational medium, where people work together with real objects in the real world. We chat about the tech behind Dynamicland, the importance of creating intentional communities, and how a culture of secrecy at Apple inspired a life-long vision of community computing. </quote>
+    <link>https://postlight.com/trackchanges/podcast/computing-is-everywhere</link>
+  </entry>
+  
+  <entry>
+    <title>Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret</title>
+    <quote>Dozens of companies use smartphone locations to help advertisers and even hedge funds. They say it’s anonymous, but the data shows how personal it is.</quote>
+    <link>https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html</link>
+  </entry>
+  
+ <entry>
+    <title>Evelyn Berezin, 93, Dies; Built the First True Word Processor</title>
+    <quote>Without Ms. Berezin, he added enthusiastically, “there would be no Bill Gates, no Steve Jobs, no internet, no word processors, no spreadsheets; nothing that remotely connects business with the 21st century.”</quote>
+    <link>https://nyti.ms/2GjUypY</link>
+  </entry>
+  
+</feed>

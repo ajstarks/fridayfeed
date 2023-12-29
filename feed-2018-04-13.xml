@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 13, 2018</date>
+  
+  <entry>
+    <title>FDA permits marketing of artificial intelligence-based device to detect certain diabetes-related eye problems</title>
+    <quote>The device, called IDx-DR, is a software program that uses an artificial intelligence algorithm to analyze images of the eye taken with a retinal camera called the Topcon NW400. A doctor uploads the digital images of the patient’s retinas to a cloud server on which IDx-DR software is installed. If the images are of sufficient quality, the software provides the doctor with one of two results: (1) “more than mild diabetic retinopathy detected: refer to an eye care professional” or (2) “negative for more than mild diabetic retinopathy; rescreen in 12 months.” </quote>
+    <link>https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm604357.htm</link>
+  </entry>
+  
+ <entry>
+    <title>I Downloaded the Information That Facebook Has on Me. Yikes.</title>
+    <quote>When I downloaded a copy of my Facebook data last week, I didn’t expect to see much. My profile is sparse, I rarely post anything on the site, and I seldom click on ads. (I’m what some call a Facebook “lurker.”) But when I opened my file, it was like opening Pandora’s box.</quote>
+	<link>https://nyti.ms/2JEqSBM</link>
+  </entry>
+  
+  <entry>
+    <title>What Healthcare can learn from Finance about data sharing</title>
+    <quote>Banks, credit card companies and other financial institutions are able to navigate these barriers to talk to one another, making it easier for customers to coordinate payments and understand their overall financial wellbeing. So why can’t patients, doctors, payers and insurance providers do the same for health data?</quote>
+    <link>https://worldpositive.com/what-healthcare-can-learn-from-finance-about-data-sharing-65d3d728b8f8</link>
+  </entry>
+
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

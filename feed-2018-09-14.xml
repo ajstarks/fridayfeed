@@ -1,0 +1,48 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 14, 2018</date>
+  
+  <entry>
+    <title>A Battle Plan for a War on Rare Diseases</title>
+    <quote>Dr. Matthew Might is developing a strategy for people seeking treatments for little-known ailments.</quote>
+    <link>https://nyti.ms/2O4pGte</link>
+  </entry>
+  
+  <entry>
+    <title>The new Apple Watch is going to have more of your health data than your doctor</title>
+    <quote>The biggest change to the wearable isn’t the bigger screen or thinner design, but the addition of an FDA-approved electrocardiogram (ECG) that’s built into the device. This means owners of the watch can get hospital-grade heart monitoring in 30 seconds, with the ability to track that heart health over time and export the data as a PDF to share with their doctor.</quote>
+    <link>https://qz.com/1387916/the-apple-watch-4-will-have-a-built-in-ecg/</link>
+  </entry>
+  
+  <entry>
+  <title>Why an Apple Watch with EKG matters</title>
+  <quote>EKG is a serious feature and the next step for Apple as a health company. It can be used to more accurately diagnose or monitor heart disease. Heart disease is the most common cause of death around the world, according to the World Health Organization, so of course companies want to work on a problem that could have a huge impact and be a real moneymaker.</quote>
+  <link>https://www.theverge.com/2018/9/12/17850660/apple-watch-series-4-ekg-electrocardiogram-health-2018</link>
+  </entry>
+  
+  <entry>
+    <title>Data Genesis: AI's Primordial Soup</title>
+    <quote>This talk will examine the data that trains and shapes AI systems. Where does it come from? Who makes it? Who gets to say what it "represents", and what kinds of knowledge and experience are beyond the bounds of such representation? We will look at how close readings of such data might help us better understand issues of bias, fairness, and power at a time when AI systems are making increasingly significant decisions across core social and economic domains.</quote>
+    <link>https://vimeo.com/287094149</link>
+  </entry>
+  
+  <entry>
+    <title>If AI is going to be the world’s doctor, it needs better textbooks</title>
+    <quote>“When you actually talk to real doctors and patients, suddenly the things that weren’t apparent to computer scientists working in a basement with data become more evident,”</quote>
+    <link>https://qz.com/1367177/if-ai-is-going-to-be-the-worlds-doctor-it-needs-better-textbooks/</link>
+  </entry>
+  
+  <entry>
+    <title>Library Rules: How to make an open office plan work</title>
+    <quote>Libraries are full of people working, reading, thinking, studying, writing, contemplating, designing, etc. Yet they’re silent. People are heads down doing independent work. In our opinion, this is the model business, the model office. We pattern our way of working around Library Rules.</quote>
+    <link>https://m.signalvnoise.com/library-rules-how-to-make-an-open-office-plan-work-f9f6d69a2d4c</link>
+  </entry>
+
+  <entry>
+    <title>There Are Now 141 Bio Companies Funded by YC</title>
+    <quote>Overall, the breakdown of bio companies at YC is 74% healthcare (34% IT, 28% diagnostics, 24% therapeutics, 14% devices), 16% industrial bio, and 10% food and ag tech.</quote>
+    <link>https://blog.ycombinator.com/there-are-now-141-bio-companies-funded-by-yc/</link>
+  </entry>
+  
+
+</feed>

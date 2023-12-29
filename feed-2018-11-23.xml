@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 23, 2018</date>
+   
+  <entry>
+    <title>Internet-era ways of working</title>
+    <quote>(1) Design for user needs, not organisational convenience (2) Test your riskiest assumptions with actual users (3) The unit of delivery is the empowered, multidisciplinary team (4) Do the hard work to make things simple (5) Staying secure means building for resilience  (6) Recognise the duty of care you have to users, and to the data you hold about them (7) Start small and optimise for iteration. Iterate, increment and repeat (8) Make things open; it makes things better (9) Fund product teams, not projects (10) Display a bias towards small pieces of technology, loosely joined (11) Treat data as infrastructure (12) Digital is not just the online channel</quote>
+    <link>https://public.digital/2018/10/12/internet-era-ways-of-working/</link>
+  </entry>
+  
+  
+   <entry>
+    <title>Why Information Security is Hard – An Economic Perspective</title>
+    <quote>In this note, I put forward a contrary view: infor- mation insecurity is at least as much due to perverse incentives. Many of the problems can be explained more clearly and convincingly using the language of microeconomics: network externalities, asymmetric information, moral hazard, adverse selection, liability dumping and the tragedy of the commons.</quote>
+    <link>https://www.cl.cam.ac.uk/~rja14/Papers/econ.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>How Dieter Rams’ new advice applies to voice</title>
+    <quote>In a new documentary by Gary Hustwit, Rams, Dieter Rams addresses our world that throws away its phones every one or two years for the new release and the world that can’t look away from a screen. He has tweaked his message a bit:
+“Less would be better everywhere.”</quote>
+    <link>https://uxdesign.cc/how-dieter-rams-new-advice-applies-to-voice-69a26731e1b9</link>
+  </entry>
+
+  <entry>
+    <title>How Twitter bots get people to spread fake news</title>
+    <quote>To spread misinformation like wildfire, bots will strike a match on social media but then urge people to fan the flames.</quote>
+    <link>https://www.sciencenews.org/article/twitter-bots-fake-news-2016-election</link>
+  </entry>
+  
+  <entry>
+    <title>Managing risk in machine learning</title>
+    <quote>So, what skills will be needed in a world where ML models are becoming mission critical? As noted above, fairness audits will require a mix of data and domain experts. But you’ll also need to supplement your data and domain experts with with legal and security experts.</quote>
+    <link>https://www.oreilly.com/ideas/managing-risk-in-machine-learning</link>
+  </entry>
+    
+</feed>

@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 15, 2018</date>
+  
+  <entry>
+    <title>Why the Future of Machine Learning is Tiny</title>
+    <quote>Instead I chose to speak about another trend that I am just as certain about, and will have just as much impact, but which isn’t nearly as well known. I’m convinced that machine learning can run on tiny, low-power chips, and that this combination will solve a massive number of problems we have no solutions for right now.</quote>
+    <link>https://petewarden.com/2018/06/11/why-the-future-of-machine-learning-is-tiny/</link>
+  </entry>
+  
+  <entry>
+    <title>Inside Amazon's Painstaking Pursuit To Teach Alexa French</title>
+    <quote>Moving to a new country can be hard. You don’t know the language. Cultural differences create conversational landmines. And you just can’t be sure that everyone will like you. As it turns out, that as true for people as it is for Amazon’s Alexa voice assistant, which officially sets up residence in France today.</quote>
+    <link>https://www.wired.com/story/how-amazon-taught-alexa-to-speak-french/</link>
+  </entry>
+    
+  <entry>
+    <title>Conversational interface for chatbot &amp; voicebot: the French touch</title>
+    <quote>Most of my clients choose these new platforms for business reasons. My goal is to make them realize that without a positive experience it’s hard to guarantee the adoption of a conversational tool.</quote>
+    <link>https://blog.prototypr.io/conversational-interface-for-chatbot-voicebot-the-french-touch-28a1d5522ec3</link>
+  </entry>
+
+  <entry>
+    <title>Power and simplicity—updates to the Office 365 user experience</title>
+    <quote>Office is used by more than a billion people every month, so while we’re excited about these changes, we also recognize how important it is to get things right. To guide our work, we came up with “The Three Cs”—a set of guiding principles that we use as a north star. Because these principles will make this process feel different than any previous user experience update, we thought it would be useful to share them with you.</quote>
+    <link>https://www.microsoft.com/en-us/microsoft-365/blog/2018/06/13/power-and-simplicity-updates-to-the-office-365-user-experience/</link>
+  </entry>
+  
+  <entry>
+    <title>Building the Software 2.0 Stack by Andrej Karpathy from Tesla</title>
+    <quote>1.0 is pipelines and stacks, 2.0 is machine-optimized structure and parameters for code</quote>
+    <link>https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

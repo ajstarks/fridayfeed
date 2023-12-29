@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 2, 2018</date>
+
+  <entry>
+    <title>Amazon Health</title>
+    <quote>After all, if Amazon is facilitating the connection to patients, what is the point of having another intermediary? Moreover, by virtue of being the new middleman, Amazon has the unique ability to consolidate patient data in a way that is not only of massive benefit to patients and doctors but also to the application of machine learning.</quote>
+    <link>https://stratechery.com/2018/amazon-health/</link>
+  </entry>
+
+  <entry>
+    <title>Amazon, Berkshire, JPMorgan to Target Health-Care `Tapeworm'</title>
+    <quote>Amazon.com Inc., Buffett’s Berkshire Hathaway Inc. and JPMorgan Chase &amp; Co. said they plan to collaborate on a way to offer health-care services to their U.S. employees more transparently and at a lower cost. The three companies plan to set up a new independent company “that is free from profit-making incentives and constraints,” </quote>
+    <link>https://www.bloomberg.com/news/articles/2018-01-30/amazon-berkshire-jpmorgan-to-set-up-a-health-company-for-staff</link>
+  </entry>
+  
+ <entry>
+    <title>Dr. Alexa, I’ve Been Sneezing and My Throat Is Sore</title>
+    <quote>Here are some ideas from health care and medical experts about how the world’s largest online retailer, the largest bank in the United States by assets and the billionaire investor Warren E. Buffett’s holding company might reshape an industry.</quote>
+    <link>https://nyti.ms/2FrW04z</link>
+  </entry>
+  
+  <entry>
+    <title>Artificial Intelligence’s ‘Black Box’ Is Nothing to Fear</title>
+    <quote>There’s particular concern about this in health care, where A.I. is used to classify which skin lesions are cancerous, to identify very early-stage cancer from blood, to predict heart disease, to determine what compounds in people and animals could extend healthy life spans and more. But these fears about the implications of black box are misplaced. A.I. is no less transparent than the way in which doctors have always worked — and in many cases it represents an improvement, augmenting what hospitals can do for patients and the entire health care system. </quote>
+    <link>https://nyti.ms/2GiZkQQ</link>
+  </entry>
+
+  <entry>
+    <title>Google is using 46 billion data points to predict the medical outcomes of hospital patients</title>
+    <quote>Some of Google’s top AI researchers are trying to predict your medical outcome as soon as you’re admitted to the hospital.</quote>
+    <link>https://qz.com/1189730/google-is-using-46-billion-data-points-to-predict-the-medical-outcomes-of-hospital-patients/</link>
+  </entry>
+  
+  <entry>
+    <title>Biology, the New (Old) Technical Debt… and What That Means for Healthcare Innovation</title>
+    <quote>None of this compares to the billions of years of ‘technical debt’ in biology. Over the last few billion years, evolution has been creating its own version of an MVP — a minimal viable product that’s shipped year after year, and works in practice, but that also never gets refactored</quote>
+    <link>https://a16z.com/2018/01/07/bio-as-tech-debt/</link>
+  </entry>  
+  
+</feed>

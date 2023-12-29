@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 3, 2018</date>
+  
+  <entry>
+    <title>With Goals, FAST Beats SMART</title>
+    <quote>The conventional wisdom of goal setting is so deeply ingrained that managers rarely stop to ask a fundamental question — does it work? The traditional approach to goals — the annual cycle, privately set and reviewed goals, and a strong linkage to incentives — can actually undermine the alignment, coordination, and agility that’s needed for a company to execute its strategy.
+    Goals should be embedded in frequent discussions; ambitious in scope; measured by specific metrics and milestones; and transparent for everyone in the organization to see.</quote>
+    <link>https://sloanreview.mit.edu/article/with-goals-fast-beats-smart/</link>
+  </entry>
+  
+  <entry>
+    <title>What do machine learning practitioners actually do?</title>
+    <quote>This post is the first in a 3-part series. It will address what it is that machine learning practitioners do, with Part 2 explaining AutoML and neural architecture search (which several high profile figures have suggested will be key to decreasing the need for data scientists) and Part 3 will cover Google’s heavily hyped AutoML product in particular.</quote>
+    <link>http://www.fast.ai/2018/07/12/auto-ml-1/</link>
+  </entry>
+
+  <entry>
+    <title>Hey, data teams - We're working on a tool just for you</title>
+    <quote>Meltano aims to be a complete solution for data teams — the name stands for model, extract, load, transform, analyze, notebook, orchestrate — in other words, the data science lifecycle.</quote>
+    <link>https://about.gitlab.com/2018/08/01/hey-data-teams-we-are-working-on-a-tool-just-for-you/</link>
+  </entry>
+  
+  <entry>
+    <title>Data's day of reckoning</title>
+    <quote>Data science, machine learning, artificial intelligence, and related technologies are now facing a day of reckoning. It is time for us to take responsibility for our creations. What does it mean to take responsibility for building, maintaining, and managing data, technologies, and services? Responsibility is inevitably tangled with the complex incentives that surround the creation of any product. </quote>
+    <link>https://www.oreilly.com/ideas/datas-day-of-reckoning</link>
+  </entry>
+  
+  <entry>
+    <title>Portable Cloud Programming with Go Cloud</title>
+    <quote>Today, the Go team at Google is releasing a new open source project, Go Cloud, a library and tools for developing on the open cloud. With this project, we aim to make Go the language of choice for developers building portable cloud applications.</quote>
+    <link>https://blog.golang.org/go-cloud</link>
+  </entry>
+  
+   <entry>
+    <title>Designing with Data</title>
+    <quote>Interpreting and Analyzing Data as a Designer</quote>
+    <link>https://uxdesign.cc/designing-with-data-ed721ffa008e</link>
+  </entry>
+</feed>

@@ -1,0 +1,44 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 26, 2018</date>
+  
+  <entry>
+    <title>Apple, in Sign of Health Ambitions, Adds Medical Records Feature for iPhone</title>
+    <quote>The feature is to become part of Apple’s popular Health app. It will enable users to transfer clinical data — like cholesterol levels and lists of medications prescribed by their doctors — directly from their medical providers to their iPhones, potentially streamlining how Americans gain access to some health information.</quote>
+    <link>https://nyti.ms/2F7zkX8</link>
+  </entry>
+  
+
+  <entry>
+    <title>Fed Up With Drug Companies, Hospitals Decide to Start Their Own</title>
+    <quote>For years, hospital executives have expressed frustration when essential drugs like heart medicines have become scarce, or when prices have skyrocketed because investors manipulated the market.
+
+Now, some of the country’s largest hospital systems are taking an aggressive step to combat the problem: They plan to go into the drug business themselves, in a move that appears to be the first on this scale.</quote>
+    <link>https://nyti.ms/2Dg6nYy</link>
+  </entry>
+
+
+  <entry>
+    <title>Amazon Go And The Future</title>
+    <quote>The economics of Amazon Go define the tech industry; the strategy, though, is uniquely Amazon’s. Most of all, the implications of Amazon Go explain both the challenges and opportunities faced by society broadly by the rise of tech.</quote>
+    <link>https://stratechery.com/2018/amazons-go-and-the-future/</link>
+  </entry>
+  
+  <entry>
+    <title>The UX of AI</title>
+    <quote>Using Google Clips to understand how a human-centered design process elevates artificial intelligence</quote>
+    <link>https://design.google/library/ux-ai/</link>
+  </entry>
+  
+    <entry>
+    <title>Google’s self-training AI turns coders into machine-learning masters</title>
+    <quote>A new service, called Cloud AutoML, uses several machine-learning tricks to automatically build and train a deep-learning algorithm that can recognize things in images.</quote>
+    <link>https://www.technologyreview.com/s/609996/googles-self-training-ai-turns-coders-into-machine-learning-masters/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

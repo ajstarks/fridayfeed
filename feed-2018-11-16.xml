@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 16, 2018</date>
+  
+   <entry>
+    <title>Johns Hopkins researchers are peering into a familiar place to stop multiple sclerosis</title>
+    <quote>By measuring the optic nerves in patients, researchers can gauge how much overall neurological damage has occurred in people with MS – bringing doctors closer to a significant advance in halting the progressive disease,...After collecting the data from those optic measurements, Johns Hopkins Medicine worked with Microsoft to apply artificial intelligence and machine learning tools to create individualized treatments for each patient.</quote>
+    <link>https://news.microsoft.com/transform/videos/johns-hopkins-researchers-are-peering-into-a-familiar-place-to-stop-multiple-sclerosis</link>
+  </entry>
+  
+  <entry>
+    <title>FDA’s MyStudies Application</title>
+    <quote>The FDA MyStudies App is designed to facilitate the input of real world data directly by patients which can be linked to electronic health data supporting traditional clinical trials, pragmatic trials, observational studies and registries. It was developed by the FDA and private sector partners, but open source code and technical documentation are being released to the public, so the app and patient data storage system can be reconfigured by organizations conducting clinical research.</quote>
+    <link>https://www.fda.gov/Drugs/ScienceResearch/ucm624785.htm</link>
+</entry>
+  
+ <entry>
+    <title>Google is absorbing DeepMind’s health care unit to create an ‘AI assistant for nurses and doctors’</title>
+    <quote>DeepMind’s founders said it was a “major milestone” for the company that would help turn its Streams app — which it developed to help the UK’s National Health Service (NHS)— into “an AI-powered assistant for nurses and doctors” that combines “the best algorithms with intuitive design.</quote>
+    <link>https://www.theverge.com/2018/11/13/18091774/google-deepmind-health-absorbing-streams-team-ai-assistant-nurse-doctor</link>
+  </entry>
+  
+  <entry>
+    <title>The Experience Economy</title>
+    <quote>That business value is very much predicated on SAP’s nearly fifty year history: the real potential of this deal is tying data from consumers about their experience to actual transaction data, whether that be a purchase or a customer service interaction.</quote>
+    <link>https://stratechery.com/2018/the-experience-economy/</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft introduces guidelines for developing responsible conversational AI</title>
+    <quote>In general, the guidelines emphasize the development of conversational AI that is responsible and trustworthy from the very beginning of the design process. They encourage companies and organizations to stop and think about how their bot will be used and take the steps necessary to prevent abuse.</quote>
+    <link>https://blogs.microsoft.com/blog/2018/11/14/microsoft-introduces-guidelines-for-developing-responsible-conversational-ai/</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

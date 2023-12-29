@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 19, 2018</date>
+  
+  <entry>
+    <title>Power to the Patients</title>
+    <quote>So Onno is building the digital product that he believes will entice patients with rare diseases to share their data. Once he’s collected a critical mass, Onno aims to use machine learning to disrupt the narrow, slow old model of medical research for the benefit of patients like him</quote>
+    <link>https://medium.com/neodotlife/onno-faber-part-3-3ba76130eaf8</link>
+  </entry>
+  
+  <entry>
+    <title>Turing Lecture: Data Science for Medicine</title>
+    <quote>In this talk, Mihaela will present her view of the transformation of medicine through the use of machine learning, and some of her own contributions.  This transformation is already being felt in every aspect of medicine: from clinical support for personalized diagnosis and prognosis to the estimation of individualized treatment effects without the need for clinical trials to medical discovery to the entire path of patient care. The heart of this transformation is the intelligent use of existing data.</quote>
+    <link>https://www.youtube.com/watch?v=RfK3D5dJV2Q</link>
+  </entry>
+  
+  <entry>
+    <title>The Google Brain Team — Looking Back on 2017</title>
+    <quote>This first of two posts will highlight some of our work in 2017, including some of our basic research work, as well as updates on open source software, datasets, and new hardware for machine learning. In the second post we’ll dive into the research we do in specific domains where machine learning can have a large impact, such as healthcare, robotics, and some areas of basic science, as well as cover our work on creativity, fairness and inclusion and tell you a bit more about who we are.</quote>
+    <link>https://research.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html</link>
+  </entry>
+  
+  <entry>
+    <title>Q&amp;A With MIMIR CEO Nick Fierro: Blockchain, Challenges, and Opportunity</title>
+    <quote>Looking back to when the questions raised were, ‘what is this technology?’ and now to a place where your taxes can be paid in crypto and soon passports will be on the blockchain, I am filled with pride and joy. I knew the moment this technology was first explained to me that it would change the world, so I left for a different country with no hesitation, never looking back. Now I am paying that all forward with MIMIR. With the help of a brilliant, passionate team, we are bringing blockchain to the masses.</quote>
+    <link>https://hackernoon.com/q-a-with-mimir-ceo-nick-fierro-blockchain-challenges-and-opportunity-996c082edf78</link>
+  </entry>
+    
+  <entry>
+    <title>Office for Mac now shares a codebase with Windows, gets real-time collaboration</title>
+    <quote>Microsoft has released a major Office update for Mac. Update 16.9.0 finally brings long-anticipated real-time collaboration features and automatic cloud saving. Notably, the Mac version of this software is now built from the same codebase as the Windows version, which means that Office shares a codebase across all platforms for the first time in 20 years</quote>
+    <link>https://arstechnica.com/gadgets/2018/01/office-for-mac-finally-has-real-time-collaboration-in-16-9-0-update/</link>
+  </entry>
+  
+ 
+</feed>

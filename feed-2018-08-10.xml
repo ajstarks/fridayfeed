@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 10, 2018</date>
+  
+  
+ <entry>
+    <title>The $250 Biohack That’s Revolutionizing Life With Diabetes</title>
+    <quote>Two exhausting years in, Kate found the beginnings of an alternative in an online forum. A loose confederation of do-it-yourselfers were working on a system that would eventually help link an insulin pump to a glucose monitor and connect both to a smartphone app. The idea was that the wearer—or her parents—could track and adjust her blood sugar, in person or from afar. That would mean fewer pinpricks, and far fewer alarms, because her blood sugar would stay out of the danger zone. Most of the time, the contraption would be able to regulate the wearer’s insulin itself.</quote>
+    <link>https://www.bloomberg.com/news/features/2018-08-08/the-250-biohack-that-s-revolutionizing-life-with-diabetes</link>
+  </entry>
+  
+  <entry>
+    <title>Apple says iOS Health Records has over 75 backers, uses open standards</title>
+    <quote>Apple’s initiative to enable iPhone users to securely access and carry their own medical records has continued to expand, as over 75 different health institutions are now supporting it — up from only 12 earlier this year. The company updated its list of medical partners ahead of a speech today by its Clinical and Health Informatics Lead Ricky Bloomfield, M.D., who offered insights into how the feature works for patients and providers.</quote>
+    <link>https://venturebeat.com/2018/08/08/apple-says-ios-health-records-has-over-75-backers-uses-open-standards/</link>
+  </entry>
+   
+  <entry>
+    <title>AI can spot the pain from a disease some doctors still think is fake</title>
+    <quote>Artificial intelligence, though, has the potential to make a diagnosis in minutes. Last year, researchers used machine learning to distinguish the brain scans of those with fibromyalgia from those without—with 93% accuracy.</quote>
+    <link>https://qz.com/1349854/ai-can-spot-the-pain-from-a-disease-some-doctors-still-think-is-fake/</link>
+  </entry>
+  
+  <entry>
+    <title>Why I design in healthcare UX</title>
+    <quote>Healthcare is a field where information is of the utmost importance. As a result, the systems and interfaces are information-heavy. It’s a lot like Enterprise UX in this respect where there is a plethora of information (and functions) to pack into a given screen. Adding to the complexity, healthcare is a highly interruptive environment where professionals are often conversing with patients while they attempt to complete a complex task (such as ordering a lab test or medication).</quote>
+    <link>https://uxdesign.cc/why-i-design-in-healthcare-ux-eacf251d78ad</link>
+  </entry>
+
+  <entry>
+    <title>CMU Engineers Find Innovative Way to Make a Low-Cost 3D Bioprinter</title>
+    <quote>While 3D printers have already caused quite a buzz in the healthcare field — facilitating difficult surgeries and opening the door to low-cost prosthetics — the concept of bioprinting on a large scale has eluded the industry for the most part. But a recent breakthrough from Carnegie Mellon University’s College of Engineering could change all that.</quote>
+    <link>https://healthtechmagazine.net/article/2018/07/cmu-engineers-find-innovative-way-make-low-cost-3d-bioprinter</link>
+  </entry>
+
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

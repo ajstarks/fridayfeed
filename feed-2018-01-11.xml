@@ -1,0 +1,23 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 11, 2019</date>
+  
+  <entry>
+    <title>2019 UI and UX Design Trends</title>
+    <quote>eep flat, better browsers, 3D...</quote>
+	<link>https://uxplanet.org/2019-ui-and-ux-design-trends-92dfa8323225</link>
+  </entry>
+  
+  <entry>
+    <title>Google Knows You Better Than Your Doctor Ever Could</title>
+    <quote>It's not intended as a substitute for medical professionals, but it has become one — free, convenient and crowdsourced.</quote>
+    <link>https://www.bloomberg.com/opinion/articles/2019-01-09/google-for-health-care-it-knows-you-better-than-your-doctor-does</link>
+  </entry>
+
+  <entry>
+    <title>Computer History Museum: Yesterday’s Computer of Tomorrow: The Xerox Alto</title>
+    <quote>How did personal computing start? Many credit Apple and IBM for this radical shift, but in 1973, years before the Apple II and IBM PC, Xerox built the Alto, a computer its makers thought could become the “computer of tomorrow.” </quote>
+    <link>https://youtu.be/4m_GhapEBLQ</link>
+  </entry>
+  
+</feed>

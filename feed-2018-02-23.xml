@@ -1,0 +1,40 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 23, 2018</date>
+  
+  <entry>
+    <title>Assessing Cardiovascular Risk Factors with Computer Vision</title>
+    <quote>Recently, we’ve seen many examples [1–4] of how deep learning techniques can help to increase the accuracy of diagnoses for medical imaging, especially for diabetic eye disease. In “Prediction of Cardiovascular Risk Factors from Retinal Fundus Photographs via Deep Learning,” published in Nature Biomedical Engineering, we show that in addition to detecting eye disease, images of the eye can very accurately predict other indicators of CV health. </quote>
+    <link>https://research.googleblog.com/2018/02/assessing-cardiovascular-risk-factors.html</link>
+  </entry>
+  
+ <entry>
+    <title>Review of The Tyranny of Metrics by Jerry Muller</title>
+    <quote>Muller summarises his argument thus: “measurement is not an alternative to judgement: measurement demands judgement: judgement about whether to measure, what to measure, how to evaluate the significance of what’s been measured, whether rewards and penalties will be attached to the results, and to whom to make the measurements available”</quote>
+    <link>http://timharford.com/2018/02/review-of-the-tyranny-of-metrics-by-jerry-muller/</link>
+  </entry>
+  
+  <entry>
+    <title>10 Breakthrough Technologies for 2018</title>
+    <quote>(1) 3-D Metal Printing (2) Artificial Embryos (3) Sensing City (4) Ai for Everybody (5) Dueling Neural Networks (6) Babel-Fish Earbuds (7) Zero-Carbon Natural Gas (8) Perfect Online Privacy (9) Genetic Fortune-Telling (10) Materials’ Quantum Leap </quote>
+    <link>https://www.technologyreview.com/lists/technologies/2018/</link>
+  </entry>
+
+  <entry>
+    <title>The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation</title>
+    <quote>This report surveys the landscape of potential security threats from malicious uses of artificial intelligence technologies, and proposes ways to better forecast, prevent, and mitigate these threats.</quote>
+<link>https://www.eff.org/files/2018/02/20/malicious_ai_report_final.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Is “Murder by Machine Learning” the New “Death by PowerPoint”?</title>
+    <quote>Digital empowerment all too frequently leads to organizational mismanagement and abuse. The enterprise history of personal productivity tools offers plenty of unhappy litanies of unintended consequences. For too many managers, the technology’s costs often rival its benefits.</quote>
+    <link>https://hbr.org/2018/01/is-murder-by-machine-learning-the-new-death-by-powerpoint</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>

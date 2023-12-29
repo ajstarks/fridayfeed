@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 6, 2018</date>
+  
+  <entry>
+    <title>Want to Create Better Products? Ban Presentations. Make Everyone Draw</title>
+    <quote>Instead of relying on PowerPoints, word documents, and other common presentational tools to guide meetings, team members would be required to sketch their ideas.</quote>
+    <link>https://magenta.as/want-to-create-better-products-ban-presentations-make-everyone-draw-af4a52035680</link>
+  </entry>
+  
+  <entry>
+    <title>Metacat: Making Big Data Discoverable and Meaningful at Netflix</title>
+    <quote>Given the diverse set of data sources, and to make sure our data platform can interoperate across these data sets as one “single” data warehouse, we built Metacat. In this blog, we will discuss our motivations in building Metacat, a metadata service to make data easy to discover, process and manage.</quote>
+    <link>https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520</link>
+  </entry>
+
+  <entry>
+    <title>Reaching Peak Meeting Efficiency</title>
+    <quote>I’ve endured a lot of bad meetings in my time. I’ve led bad meetings and attended bad meetings. I’ve tried to fix meetings. I’ve broken meetings. This post is about why meetings really are important to getting things done, even with incredibly divergent views on that fact, and why meetings so often go sideways or worse.
+</quote>
+    <link>https://medium.learningbyshipping.com/reaching-peak-meeting-efficiency-f8e47c93317a</link>
+  </entry>
+  
+  
+  <entry>
+    <title>Manual Work is a Bug</title>
+    <quote>This culture can be summarized in two sentences: (1) Every manual action must have a dual purpose of completing a task and improving the system. (2) Manual work should not be tolerated unless it generates an artifact or improves an existing one.</quote>
+    <link>https://queue.acm.org/detail.cfm?id=3197520</link>
+  </entry>
+  
+  <entry>
+    <title>The iPad as a fast, precise tool for creativity</title>
+    <quote>The Ink &amp; Switch research team set out to explore this question. Our preliminary findings are that a tablet can be a powerful tool for creative tasks — but only by challenging some of the design orthodoxies of mobile app development.</quote>
+    <link>https://uxdesign.cc/the-ipad-as-a-fast-precise-tool-for-creativity-21384ea18659</link>
+  </entry>
+</feed>

@@ -1,0 +1,38 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 8, 2018</date>
+  
+  <entry>
+    <title>The Cost of Developers</title>
+    <quote>Developers can be quite expensive indeed!</quote>
+    <link>https://stratechery.com/2018/the-cost-of-developers/</link>
+  </entry>
+
+  <entry>
+    <title>The 6 biggest highlights from Apple WWDC 2018</title>
+    <quote>(1) iOS 12 Gets In On Time Well Spent, 
+(2) More Visual Fun On iOS 12, Siri Gets An Update... But Not Quite The One You’re Looking For, 
+(3) MacOS Mojave Announced
+(4) watchOS 5 Takes On Fitbit,
+(5) Dolby Atmos Arrives On Apple TV 4K, </quote>
+    <link>https://www.theverge.com/2018/6/4/17410820/apple-wwdc-summary-updates-highlights-news-2018</link>
+  </entry>
+  
+  <entry>
+    <title>Infrastructure for Usable Machine Learning: The Stanford DAWN Project</title>
+    <quote>Despite incredible recent advances in machine learning, building machine learning applications remains prohibitively time-consuming and expensive for all but the best-trained, best-funded engineering organizations. This expense comes not from a need for new and improved statistical models but instead from a lack of systems and tools for supporting end-to-end machine learning application development, from data preparation and labeling to productionization and monitoring. In this document, we outline opportunities for infrastructure supporting usable, end-to-end machine learning applications in the context of the nascent DAWN (Data Analytics for What’s Next) project at Stanford.</quote>
+    <link>https://arxiv.org/pdf/1705.07538.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>AI at Google: our principles</title>
+    <quote>We recognize that such powerful technology raises equally powerful questions about its use. How AI is developed and used will have a significant impact on society for many years to come. As a leader in AI, we feel a deep responsibility to get this right. So today, we’re announcing seven principles to guide our work going forward. These are not theoretical concepts; they are concrete standards that will actively govern our research and product development and will impact our business decisions.</quote>
+    <link>https://blog.google/topics/ai/ai-principles/</link>
+  </entry>
+  
+  <entry>
+    <title>Apple's Plans To Bring Artificial Intelligence To Your Phone</title>
+    <quote>At Apple’s Worldwide Developer Conference on Monday, Federighi revealed the next phase of his plan to enliven the app store with AI. It’s a tool called Create ML that’s something like a set of training wheels for building machine learning models in the first place. In a demo, training an image-recognition algorithm to distinguish different flavors of ice cream was as easy as dragging and dropping a folder containing a few dozen images and waiting a few seconds.</quote>
+    <link>https://www.wired.com/story/apples-plans-to-bring-artificial-intelligence-to-your-phone/?mbid=email_onsiteshare</link>
+  </entry>
+</feed>

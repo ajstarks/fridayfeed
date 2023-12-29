@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 28, 2018</date>
+  
+ <entry>
+    <title>The Apple Watch – Tipping Point Time for Healthcare</title>
+    <quote>Sooner than people think, virtually all home and outpatient diagnostics will be performed by consumer devices such as the Apple Watch, mobile phones, fitness trackers, etc. that have either become FDA cleared as medical devices or have apps that have received FDA clearance. Consumer devices will morph into medical grade devices, with some painful and well publicized mistakes along the way.</quote>
+    <link>https://steveblank.com/2018/09/26/the-apple-watch-tipping-point-time-for-healthcare/</link>
+  </entry>
+
+  <entry>
+    <title>Where Big Tech Is Placing Bets In Healthcare</title>
+    <quote>The healthcare landscape is increasingly shifting from fee-for-service to value-based care. Healthcare startups have reached unicorn status in areas such as health insurance, electronic medical records, telemedicine, and biotechnology. Over the last few years, large tech companies have entered the healthcare sector, increasing internal R&amp;D and private market activity in the space.</quote>
+    <link>https://www.cbinsights.com/research/top-tech-companies-healthcare-investments-acquisitions/</link>
+  </entry>
+
+  <entry>
+  	<title>Machine Learning Confronts the Elephant in the Room</title>
+  	<quote>“The human visual system says, ‘I don’t have right answer yet, so I have to go backwards to see where I might have made an error,’” ... Most neural networks lack this ability to go backward. It’s a hard trait to engineer.</quote>
+  	<link>https://www.quantamagazine.org/machine-learning-confronts-the-elephant-in-the-room-20180920/</link>
+  </entry>
+  
+ 
+  <entry>
+    <title>New Microsoft Search, Ideas tap AI to add smart features to Microsoft's Office 365</title>
+    <quote>Essentially auto-generating a PowerPoint presentation using the Ideas tool seems like a powerful addition to your workflow.</quote>
+    <link>https://www.pcworld.com/article/3308161/microsoft-office/new-microsoft-search-ideas-tap-ai-to-add-smart-features-to-microsofts-office-365.html</link>
+  </entry>
+  
+  
+  <entry>
+    <title>Google at 20: how two 'obnoxious' students changed the internet</title>
+    <quote>https://www.theguardian.com/technology/2018/sep/24/google-at-20-larry-page-sergey-brin-internet</quote>
+    <link>It is two decades since Larry Page and Sergey Brin moved their fledgling startup out of their dorms. With threats to its power growing, how long can the company dominate?</link>
+  </entry>
+</feed>

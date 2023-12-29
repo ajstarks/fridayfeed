@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 16, 2018</date>
+  
+ <entry>
+    <title>Blockchain Expert Explains One Concept in 5 Levels of Difficulty</title>
+    <quote>Blockchain, the key technology behind Bitcoin, is a new network that helps decentralize trade, and allows for more peer-to-peer transactions. WIRED challenged political scientist and blockchain researcher Bettina Warburg to explain blockchain technology to 5 different people; a child, a teen, a college student, a grad student, and an expert.  
+</quote>
+    <link>https://www.youtube.com/watch?v=hYip_Vuv8J0</link>
+  </entry>
+  
+  <entry>
+    <title>How Amazon’s Bottomless Appetite Became Corporate America’s Nightmare</title>
+    <quote>Amazon became a verb because of the damage it can inflict on other companies. To be Amazoned means to have your business crushed because the company got into your industry. And fear of being Amazoned has become such a defining feature of commerce, it’s easy to forget the phenomenon has arisen mostly in about three years.</quote>
+    <link>https://www.bloomberg.com/graphics/2018-amazon-industry-displacement/</link>
+  </entry>
+
+  <entry>
+    <title>Health On The Web</title>
+    <quote>Interesting research papers on health care and the web to be presented at the Web Conference in Lyon</quote>
+    <link>https://www2018.thewebconf.org/program/health-on-the-web/</link>
+  </entry>
+  
+  <entry>
+    <title>Alexa is coming to the office</title>
+    <quote>Amazon is announcing today it's bringing its voice assistant into a range of business settings, big and small, like hotels and co-working spaces.</quote>
+    <link>https://www.axios.com/scoop-amazon-is-introduc-1520787349-254bffea-bf44-4cc2-8f2b-8aa046338e68.html</link>
+  </entry>
+  
+  <entry>
+    <title>Design in Tech Report</title>
+    <quote>Design trends revolutionizing the entrepreneurial and corporate ecosystems in tech. Related M&amp;A activity, new patterns in creativity × business, and the rise of computational design.</quote>
+    <link>https://designintech.report/wp-content/uploads/2018/03/designintechreport2018interactivev1.html#2</link>
+    <link>https://designintech.report</link>
+  </entry>
+  
+  <entry>
+    <title>Enterprise Design Thinking</title>
+    <quote>Design thinking is a proven way of coming to better solutions in less time. IBM has re-envisioned design thinking, creating a framework for the speed and scale of the modern enterprise.</quote>
+    <link>https://www.ibm.com/design/thinking/</link>
+  </entry>
+</feed>

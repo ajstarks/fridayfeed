@@ -1,0 +1,47 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 20, 2018</date>
+  
+  <entry>
+    <title>Semantic Experiences</title>
+    <quote>How does a computer understand you when you talk to it using everyday language?</quote>
+    <link>https://research.google.com/semanticexperiences/</link>
+  </entry>
+  
+  <entry>
+    <title>NORMAN World's first psychopath AI.</title>
+    <quote>We present you Norman, world's first psychopath AI. Norman is born from the fact that the data that is used to teach a machine learning algorithm can significantly influence its behavior. So when people talk about AI algorithms being biased and unfair, the culprit is often not the algorithm itself, but the biased data that was fed to it</quote>
+    <link>http://norman-ai.mit.edu/#inkblot</link>
+  </entry>
+
+  <entry>
+    <title>Apple’s 2019 Mac Pro will be shaped by workflows</title>
+    <quote>To do that, Ternus says, they want their architects sitting with real customers to understand their actual flow and to see what they’re doing in real time. The challenge with that, unfortunately, is that though customers are typically very responsive when Apple comes calling, it’s not always easy to get what they want because they may be using proprietary content. John Powell, for instance, is a long-time logic user and he’s doing the new Star Wars Han Solo standalone flick. As you can imagine, taking those unreleased and highly secret compositions to Apple to play with on their machines can be a sticking point</quote>
+    <link>https://techcrunch.com/2018/04/05/apples-2019-imac-pro-will-be-shaped-by-workflows/</link>
+  </entry>
+  
+  <entry>
+    <title>Darwin: a genomics co-processor provides up to 15,000x acceleration on long read assembly</title>
+    <quote>This paper
+describes “Darwin” — a co-processor for genomic sequence
+alignment that, without sacrificing sensitivity, provides
+up to 15, 000× speedup over the state-of-the-art software
+for reference-guided assembly of third-generation reads.
+Darwin achieves this speedup through hardware/algorithm
+co-design, trading more easily accelerated alignment
+for less memory-intensive filtering</quote>
+    <link>https://stanford.edu/~yatisht/pubs/darwin.pdf</link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+  
+  <entry>
+    <title></title>
+    <quote></quote>
+    <link></link>
+  </entry>
+</feed>
