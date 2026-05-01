@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>April 24, 2026</date>
+
+	<entry>
+		<title>The handmade beauty of Machine Age data visualizations</title>
+		<quote>How William James, W.E.B. Du Bois, and Francis Galton thought with diagrams</quote>
+		<link>https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age</link>
+	</entry>
+
+	<entry>
+		<title>Google says 75% of the company's new code is AI-generated</title>
+		<quote>"Recently, a particularly complex code migration done by agents and engineers working together was completed six times faster than was possible a year ago with engineers alone," Pichai said.</quote>
+		<link>https://www.businessinsider.com/google-ai-generated-code-75-gemini-agents-software-2026-4</link>
+	</entry>
+
+	<entry>
+		<title>What Have We Dumped On The Moon?</title>
+		<quote>You might wonder why so much stuff was left, but if you think about it, it makes sense. The rockets can only bring back so much stuff.</quote>
+		<link>https://hackaday.com/2026/04/22/what-have-we-dumped-on-the-moon/</link>
+	</entry>
+
+	<entry>
+		<title>Don’t Use A.I. to Do This</title>
+		<quote>Studies show that overreliance on these digital tools causes cognitive decline, but if current events are any indication, nobody’s making much of a contribution anyway. Go ahead and use A.I. however you like. Except art. If you use it for your art, you’re a freakin’ hack.</quote>
+		<link>https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html?unlocked_article_code=1.c1A.L3Pm.fNy3jarG5n-T</link>
+	</entry>
+
+	<entry>
+		<title>I am building a cloud</title>
+		<quote>I like computers... So it is no small thing for me when I admit: I do not like the cloud today.</quote>
+		<link>https://crawshaw.io/blog/building-a-cloud</link>
+	</entry>
+
+</feed>

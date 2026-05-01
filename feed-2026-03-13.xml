@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>March 13, 2026</date>
+
+	<entry>
+		<title>A college student's perspective on using AI in class</title>
+		<quote>AI may automate entry-level jobs, which makes it all the more crucial that we are taught how to work alongside these systems. We cannot control what kind of job market we join, but we can demand that our education prepares us to wield this technology, not hopelessly endure it.</quote>
+		<link>https://www.npr.org/2026/03/06/nx-s1-5732793/college-student-perspective-using-ai-in-class</link>
+	</entry>
+
+	<entry>
+		<title>AI error jails innocent grandmother for months in North Dakota fraud case</title>
+		<quote>It was July 14, the day a team of U.S. Marshals arrested Lipps at her home in Tennessee. She said she was taken away at gunpoint while babysitting four young children. She was booked into her county jail in Tennessee as a fugitive from justice from North Dakota. "I've never been to North Dakota,</quote>
+		<link>https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case</link>
+	</entry>
+
+	<entry>
+		<title>printf-tac-toe</title>
+		<quote>A c implementation of tic-tac-toe in a single call to printf. Written for IOCCC 2020.</quote>
+		<link>https://github.com/carlini/printf-tac-toe</link>
+	</entry>
+
+	<entry>
+		<title>HyperCard Changed Everything</title>
+		<quote>Before the web, there was HyperCard. It gave ordinary people the power to create, to explore – and even led to the best-selling computer game of all time. So, what happened to it?</quote>
+		<link>https://youtu.be/hxHkNToXga8</link>
+	</entry>
+
+	<entry>
+		<title>Celebrating Flickr technology</title>
+		<quote>There was a period on the web, before the walled gardens rose up, where the focus was more towards the interoperability of content. Flickr at its prime was a powerhouse of innovative and experimental features that put this ideal at the forefront.</quote>
+		<link>https://medium.com/@brightcarvings/celebrating-flickr-technology-3c93c8ddecc2</link>
+	</entry>
+
+</feed>

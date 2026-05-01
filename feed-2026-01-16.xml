@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>January 16, 2026</date>
+
+	<entry>
+		<title>25 years of Wikipedia</title>
+		<quote>Today, Wikipedia is the backbone of knowledge on the internet—but everything has to start somewhere. For Wikipedia, that was a blank website and a dream.</quote>
+		<link>https://wikipedia25.org/en</link>
+	</entry>
+
+	<entry>
+		<title>The Long Now of the Web: Inside the Internet Archive’s Fight Against Forgetting</title>
+		<quote>To understand the Archive is to understand the physical reality of digital memory. It is a story of 20,000 hard drives, 45 miles of cabling, and a vision that began in 1996 with a simple, audacious goal: "Universal Access to All Knowledge"</quote>
+		<link>https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting</link>
+	</entry>
+
+	<entry>
+		<title>Photos Capture the Breathtaking Scale of China’s Wind and Solar Buildout</title>
+		<quote>I kept seeing wind farms and solar power plants appear in my camera frame. I realized this is the story of our time — and almost no one is documenting it in a systematic way.</quote>
+		<link>https://e360.yale.edu/digest/china-renewable-photo-essay</link>
+	</entry>
+
+	<entry>
+		<title>Casey Breaks Down the AWS Outage</title>
+		<quote>The discussion delves into complex system architecture and debates whether the explanation is sufficient. Listeners question the presented information and explore alternative explanations.</quote>
+		<link>https://youtu.be/gstn9qcNdlc</link>
+	</entry>
+
+<entry>
+		<title>A Broken Authentication and Agentic Hijacking Vulnerability in ServiceNow</title>
+		<quote>Imagine an unauthenticated attacker who has never logged into your ServiceNow instance and has no credentials, and is sitting halfway across the globe. With only a target’s email address, the attacker can impersonate an administrator and execute an AI agent to override security controls and create backdoor accounts with full privileges. </quote>
+		<link>https://appomni.com/ao-labs/bodysnatcher-agentic-ai-security-vulnerability-in-servicenow/</link>
+	</entry>
+
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+        <title>Friday Feed</title>
+        <date>April 17, 2026</date>
+
+        <entry>
+                <title>Your Glasses Got Worse On Purpose</title>
+                <quote>How an Italian orphan built a $27 billion monopoly that controls the brands, the stores, the lenses, and the insurance.</quote>
+                <link>https://www.worseonpurpose.com/p/your-glasses-got-worse-on-purpose</link>
+        </entry>
+
+        <entry>
+                <title>Pan American Luggage Labels</title>
+                <quote>A few years ago she had the time to delve back in to her large collection of Pan Am luggage tags with their wonderful graphics and iconic designs from the “Golden Age” of travel. She had always wanted to do really large prints of these, which have always appealed to her because of their simplicity and bold colours.</quote>
+                <link>https://ellafreire.com/collections/pan-american-luggage-labels</link>
+        </entry>
+
+        <entry>
+                <title>We gave an AI a 3 year retail lease in SF and asked it to make a profit</title>
+                <quote>At Andon Labs, we have been deploying AI agents into the real world, giving them real tools and real money and documenting the consequences.</quote>
+                <link>https://andonlabs.com/blog/andon-market-launch</link>
+        </entry>
+
+        <entry>
+                <title>Golden tickets</title>
+                <quote>Typographic gold in this collection of thirty 1950s Milwaukee bus tickets. The print textures &amp; surprisingly wild palettes did not get unnoticed either.</quote>
+                <link>https://www.presentandcorrect.com/blogs/blog/golden-tickets</link>
+        </entry>
+
+        <entry>
+                <title>The Physics Of GPS</title>
+                <quote>GPS is fundamentally a translation tool: it converts time into distance. A satellite sends a signal, your phone catches it, and the delay between those two events tells the phone exactly how far away the satellite is. Everything else is about making that measurement precise enough to be useful:</quote>
+                <link>https://perthirtysix.com/how-does-gps-work</link>
+        </entry>
+
+</feed>

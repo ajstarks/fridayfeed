@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>February 20, 2026</date>
+
+	<entry>
+		<title>Visualizing the ARM64 Instruction Set</title>
+		<quote>ARM64 encodes every instruction as a 32-bit integer, so one way to visualize the instruction set is by plotting the instructions along a space-filling curve, such as a Hilbert curve1, and coloring them according to their instruction class </quote>
+		<link>https://zyedidia.github.io/blog/posts/6-arm64/</link>
+	</entry>
+
+	<entry>
+		<title>‘A Big F*ck You to Big Tech’: New Jersey Residents Defeat AI Data Center</title>
+		<quote>The New Brunswick, New Jersey City Council voted Wednesday to cancel plans to construct an artificial intelligence data center and instead build a new public park where the 27,000-square foot facility would have gone.</quote>
+		<link>https://www.commondreams.org/news/new-brunswick-ai-data-center</link>
+	</entry>
+
+	<entry>
+		<title>The Claude C Compiler: What It Reveals About the Future of Software</title>
+		<quote>’ve spent a large part of my career working on compilers and programming languages, so when Anthropic announced the Claude C Compiler (CCC), I paid close attention. </quote>
+		<link>https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software</link>
+	</entry>
+
+	<entry>
+		<title>Fit 4 a Teen</title>
+		<quote>Over 20 years later, my hunt for the ideal pair of jeans continues. But now as an adult, I’m stuck with the countless ways that women’s apparel is not made for the average person, like me</quote>
+		<link>https://pudding.cool/2026/02/womens-sizing/</link>
+	</entry>
+
+	<entry>
+		<title>Searching for Birds</title>
+		<quote>As you scroll through the following interactive graphics, you’ll get a glimpse at roughly 700 North American and Hawaiian species and learn about why some of them make us fall in love. Let’s see what search trends tell us about our relationship with our feathered friends.</quote>
+		<link>https://searchingforbirds.visualcinnamon.com/</link>
+	</entry>
+
+</feed>

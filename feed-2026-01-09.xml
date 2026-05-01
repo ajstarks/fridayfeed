@@ -1,0 +1,38 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>January 9, 2026</date>
+
+
+	<entry>
+		<title>How Markdown took over the world</title>
+		<quote>But it’s worth understanding how these simple little text files were born, not just because I get to brag about how generous and clever my friends are, but also because it reminds us of how the Internet really works: smart people think of good things that are crazy enough that they just might work, and then they give them away, over and over, until they slowly take over the world and make things better for everyone.</quote>
+		<link>https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/</link>
+	</entry>
+
+	<entry>
+		<title>Dell's CES 2026 chat was the most pleasingly un-AI briefing I've had in maybe 5 years</title>
+		<quote>So thank you, Dell, for making your CES 2026 pre-briefing so blessedly free of effusive AI chat that I just had to mention it.</quote>
+		<link>https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/</link>
+	</entry>
+
+	<entry>
+		<title>The Verge Awards at CES 2026</title>
+		<quote>Rollable laptops, twice-folding phones, and a ‘longevity station.’ This is the CES tech we come back for.</quote>
+		<link>https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable</link>
+	</entry>
+
+	<entry>
+		<title>A4 Paper Stories</title>
+		<quote>I sometimes resort to a rather common measuring technique that is neither fast, nor accurate, nor recommended by any standards body and yet it hasn't failed me whenever I have had to use it. </quote>
+		<link>https://susam.net/a4-paper-stories.html</link>
+	</entry>
+
+	<entry>
+		<title>Everyone hates OneDrive, Microsoft's cloud app that steals then deletes all your files</title>
+		<quote>As Pargin points out, it's indistinguishable from a ransomware attack. And then you hit the other dark pattern: you can redownload your files, but if you then tell Microsoft to delete their copies of your files, it will delete them again from your computer. At this point, it's all gone; you're screwed.</quote>
+		<link>https://boingboing.net/2026/01/05/everyone-hates-onedrive-microsofts-cloud-app-that-steals-then-deletes-all-your-files.html</link>
+	</entry>
+
+	
+
+</feed>

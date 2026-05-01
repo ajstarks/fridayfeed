@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>March 20, 2026</date>
+
+	<entry>
+		<title>Thousands have swooned over this MAGA dream girl. She’s made with AI.</title>
+		<quote>The slew of photos and videos depicting the patriotic life of the MAGA dream girl have led her Instagram account to explode, gaining more than a million followers since she began posting four months ago. But Foster is an illusion — a fake woman who experts say was probably created by an artificial intelligence image generator. </quote>
+		<link>https://www.washingtonpost.com/technology/2026/03/20/jessica-foster-maga-dream-girl-ai-fake/</link>
+	</entry>
+
+	<entry>
+		<title>Nobody Gets Promoted for Simplicity</title>
+		<quote>Complexity looks smart. Not because it is, but because our systems are set up to reward it. And the incentive problem doesn’t start at promotion time. It starts before you even get the job.</quote>
+		<link>https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/</link>
+	</entry>
+
+	<entry>
+		<title>ENIAC, the First General-Purpose Digital Computer, Turns 80</title>
+		<quote>ENIAC’s purely electronic design and programmability were breakthroughs in computing at the time. ENIAC made high-speed, general-purpose computing practicable and laid the foundation for today’s machines.</quote>
+		<link>https://spectrum.ieee.org/eniac-80-ieee-milestone</link>
+	</entry>
+
+	<entry>
+		<title>Your Frustration Is the Product</title>
+		<quote>It’s like going to a restaurant, ordering a cheeseburger, and they send a marching band to your table to play trumpets right in your ear and squirt you with a water pistol while trying to sell you towels.</quote>
+		<link>https://daringfireball.net/2026/03/your_frustration_is_the_product</link>
+	</entry>
+
+	<entry>
+		<title>This is Microsoft’s plan to fix Windows 11</title>
+		<quote>Beyond these initial fixes, Microsoft has even bigger plans to improve Windows 11 quality this year, by focusing on performance, reliability, and “well-crafted experiences.” Davuluri’s fix list, which you can read in full below, focuses on core stuff like how fast Windows 11 starts and responds, how stable it is, and how consistent it is to use.</quote>
+		<link>https://www.theverge.com/news/897834/microsoft-windows-11-quality-performance-commitments-changes</link>
+	</entry>
+
+</feed>

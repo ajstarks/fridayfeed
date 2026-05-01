@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>April 3, 2026</date>
+
+	<entry>
+		<title>Comprehensive Analysis of Claude Code Source Leak!</title>
+		<quote>I’m gonna focus on what the code reveals: how Claude Code actually works under the hood, what Anthropic was building in secret, and important security notes.</quote>
+		<link>https://www.sabrina.dev/p/claude-code-source-leak-analysis</link>
+	</entry>
+
+	<entry>
+		<title>United States Code as a Git Repository</title>
+		<quote>The entire United States Code — every title, chapter, and section — stored as Markdown in a Git repository.</quote>
+		<link>https://github.com/nickvido/us-code</link>
+	</entry>
+
+	<entry>
+		<title>The Day I Discovered Type Design</title>
+		<quote>I discovered a copy of U&amp;lc magazine in the graphics classroom. U&amp;lc was published by ITC, the International Typeface Corporation, a typeface publisher, and the designer and editor was the legendary Herb Lubalin. I’d never seen such beautiful typography and design. It was a motherlode for an aspiring typophile like me.</quote>
+		<link>https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/</link>
+	</entry>
+
+	<entry>
+		<title>A Few Good Magazines from the 70s and 80s</title>
+		<quote>This is a personal remembrance of periodicals I knew and loved. Not all of them are explicitly "tech" magazines, but each of them expressed an optimism for technology and the future.</quote>
+		<link>https://www.bi6.us/CO/MG.HTML</link>
+	</entry>
+
+	<entry>
+		<title>Why Doesn’t Anybody Realize We’re Going Back to the Moon?</title>
+		<quote>The Artemis II mission has seemingly come out of nowhere. In January, a few weeks before an earlier launch attempt, I’d started asking friends if they were looking forward to it. Few of them had any idea it was happening. “We’re going back to the moon?”</quote>
+		<link>https://www.theatlantic.com/science/2026/04/artemis-moon-launch-trump/686661/?gift=j9r7avb6p-KY8zdjhsiSZ0fNOSfoCs5Ae2CU41BTIqk</link>
+	</entry>
+
+</feed>

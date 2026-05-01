@@ -1,0 +1,36 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>April 10, 2026</date>
+
+	<entry>
+		<title>Sam Altman May Control Our Future—Can He Be Trusted?</title>
+		<quote>New interviews and closely guarded documents shed light on the persistent doubts about the head of OpenAI.</quote>
+		<link>https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted</link>
+	</entry>
+
+	<entry>
+		<title>Artemis II Lunar Flyby</title>
+		<quote>The first flyby images of the Moon captured by NASA’s Artemis II astronauts during their historic test flight reveal regions no human has ever seen before—including a rare in-space solar eclipse. Released Tuesday, April 7, 2026, the photos were taken on April 6 during the crew’s seven‑hour pass over the lunar far side, marking humanity’s return to the Moon’s vicinity.</quote>
+		<link>https://www.nasa.gov/gallery/lunar-flyby/</link>
+	</entry>
+
+
+	<entry>
+		<title>Project Glasswing</title>
+		<quote>We formed Project Glasswing because of capabilities we’ve observed in a new frontier model trained by Anthropic that we believe could reshape cybersecurity. Claude Mythos2 Preview is a general-purpose, unreleased frontier model that reveals a stark fact: AI models have reached a level of coding capability where they can surpass all but the most skilled humans at finding and exploiting software vulnerabilities.</quote>
+		<link>https://www.anthropic.com/glasswing</link>
+	</entry>
+
+	<entry>
+		<title>The Image Boards of Hayao Miyazaki</title>
+		<quote>“An image board is something drawn to prepare for a work,” Miyazaki once explained. They aren’t storyboards — they’re for loose ideas, not strict continuity.</quote>
+		<link>https://animationobsessive.substack.com/p/the-image-boards-of-hayao-miyazaki</link>
+	</entry>
+
+	<entry>
+		<title>Working with agents doesn't feel like flow</title>
+		<quote>When I work with agents, I'm usually doing some version of this: set direction, trigger action, watch what happens, evaluate, intervene, adjust, try again. That reads lke a game loop rather than a single uninterrupted act of thought. There's an ongoing cycle of action, feedback, and response. That feeling then is much closer, for me, to sports, or to video and board games</quote>
+		<link>https://dehora.net/journal/2026/working-with-agents-doesnt-feel-like-flow</link>
+	</entry>
+
+</feed>

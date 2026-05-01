@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>February 13, 2026</date>
+
+	<entry>
+		<title>Beautiful maps</title>
+		<quote>Abstract Maps of cities, highlighting roads, rivers, borders</quote>
+		<link>https://bsky.app/profile/beautifulmaps.bsky.social</link>
+	</entry>
+
+	<entry>
+		<title>Three polar diagrams from the Spanish Civil War</title>
+		<quote>The Government of Catalonia's report of its wartime financial politics from 1936.</quote>
+		<link>https://attilabatorfy.substack.com/p/three-polar-diagrams-from-the-spanish</link>
+	</entry>
+
+	<entry>
+		<title>Revealed: How Substack makes money from hosting Nazi newsletters</title>
+		<quote>“We believe that supporting individual rights and civil liberties while subjecting ideas to open discourse is the best way to strip bad ideas of their power. We are committed to upholding and protecting freedom of expression, even when it hurts.”</quote>
+		<link>https://www.theguardian.com/media/2026/feb/07/revealed-how-substack-makes-money-from-hosting-nazi-newsletters</link>
+	</entry>
+
+	<entry>
+		<title>The Origins of One of the Most Beloved Video Games of All Time</title>
+		<quote> wonder if Shigeru Miyamoto had any inkling that his early doodles of a mustachioed guy in a cap and overalls would become one of the most recognizable characters in the world. </quote>
+		<link>https://lithub.com/the-origins-of-one-of-the-most-beloved-video-games-of-all-time/</link>
+	</entry>
+
+	<entry>
+		<title>Sol LeWitt in your browser</title>
+		<quote>A generative tribute to Sol LeWitt's instruction-based wall drawings. Each piece is rendered algorithmically from LeWitt's original instructions, producing unique variations with every reload.</quote>
+		<link>https://intervolz.com/sollewitt/</link>
+	</entry>
+
+</feed>
