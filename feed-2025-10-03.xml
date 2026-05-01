@@ -1,0 +1,35 @@
+<feed>
+        <title>Friday Feed</title>
+        <date>October 3, 2025</date>
+
+        <entry>
+                <title>Why I gave the world wide web away for free</title>
+                <quote>But for the web to have everything on it, everyone had to be able to use it, and want to do so. This was already asking a lot. I couldn’t also ask that they pay for each search or upload they made. In order to succeed, therefore, it would have to be free. That’s why, in 1993, I convinced my Cern managers to donate the intellectual property of the world wide web, putting it into the public domain. We gave the web away to everyone.</quote>
+                <link>https://www.theguardian.com/technology/2025/sep/28/why-i-gave-the-world-wide-web-away-for-free</link>
+        </entry>
+
+        <entry>
+                <title>Tim Berners-Lee Invented the World Wide Web. Now He Wants to Save It</title>
+                <quote>In 1989, Sir Tim revolutionized the online world. Today, in the era of misinformation, addictive algorithms, and extractive monopolies, he thinks he can do it again</quote>
+                <link>https://www.newyorker.com/magazine/2025/10/06/tim-berners-lee-invented-the-world-wide-web-now-he-wants-to-save-it</link>
+        </entry>
+
+        <entry>
+                <title>Selling Lemons: The hidden costs of the meta game</title>
+                <quote>The idea is called “a market for lemons.” The phrase comes from a 1970 paper by George Akerlof that explains how information asymmetry between buyers and sellers can undermine a marketplace. </quote>
+                <link>https://frankchimero.com/blog/2025/selling-lemons/</link>
+        </entry>
+
+        <entry>
+                <title>The Age of Enshittification</title>
+                <quote>In a new book, the technology critic Cory Doctorow expands on a coinage that has become bleakly relevant, in Silicon Valley and beyond.</quote>
+                <link>https://www.newyorker.com/culture/infinite-scroll/the-age-of-enshittification</link>
+        </entry>
+
+        <entry>
+                <title>Color Engineering</title>
+                <quote>Color can be engineered in a repeatable way that clarifies messy choices.</quote>
+                <link>https://www.chartography.net/p/color-engineering</link>
+        </entry>
+
+</feed>

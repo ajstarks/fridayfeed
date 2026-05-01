@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 12, 2024</date>
+  
+  <entry>
+    <title>Generative AI Has a Visual Plagiarism Problem</title>
+    <quote>In the course of two weeks’ investigation we found hundreds of examples of recognizable characters from films and games</quote>
+    <link>https://spectrum.ieee.org/midjourney-copyright</link>
+  </entry>
+  
+  <entry>
+    <title>The Rabbit R1 is an AI-powered gadget that can use your apps for you
+</title>
+    <quote>Powered by a ‘Large Action Model,’ the $199 R1 isn’t just a chatbot — it’s a device for doing almost anything. Potentially.</quote>
+    <link>https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date</link>
+  </entry>
+
+  <entry>
+    <title>DeepMind’s latest AlphaFold model is more useful for drug discovery</title>
+    <quote>With the latest AlphaFold, however, there’s no need to use a reference protein structure or suggested position. The model can predict proteins that haven’t been “structurally characterized” before, while at the same time simulating how proteins and nucleic acids interact with other molecules — a level of modeling that DeepMind says isn’t possible with today’s docking methods.</quote>
+    <link>https://techcrunch.com/2023/10/31/deepminds-latest-alphafold-model-is-more-useful-for-drug-discovery/</link>
+    <link>https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/a-glimpse-of-the-next-generation-of-alphafold/alphafold_latest_oct2023.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>Plagiarism Detection Tools Offer a False Sense of Accuracy</title>
+    <quote>The tools that likely brought down Harvard president Claudine Gay are improperly used on students all the time</quote>
+    <link>https://themarkup.org/machine-learning/2024/01/10/plagiarism-detection-tools-offer-a-false-sense-of-accuracy</link>
+  </entry>
+
+  <entry>
+    <title>Learn SVG by drawing an arrow</title>
+    <quote>To draw an arrowhead as a path, we need four things: the coordinates of the starting point P, and those of the corner points Q, R, and S. </quote>
+    <link>https://blog.shalvah.me/posts/learn-svg-by-drawing-an-arrow</link>
+  </entry>
+  
+</feed>

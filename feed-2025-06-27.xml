@@ -1,0 +1,34 @@
+<feed>
+	<title>Friday Feed</title>
+    <date>June 27, 2025</date>
+
+    <entry>
+        <title>The Man Who Beat IBM</title>
+		<quote>When IBM tried to reclaim control of the PC market with proprietary technology, Compaq CEO Rod Canion decided to create an open standard and share it with competitors—effectively giving away "the company jewels" to preserve innovation.</quote>
+		<link>https://every.to/the-crazy-ones/the-man-who-beat-ibm</link>
+	</entry>
+
+    <entry>
+        <title>xAI faces legal threat over alleged Colossus data center pollution in Memphis</title>
+		<quote>NAACP demands a meeting to discuss xAI's alleged pollution in Memphis.</quote>
+		<link>https://arstechnica.com/tech-policy/2025/06/xai-faces-legal-threat-over-alleged-colossus-data-center-pollution-in-memphis/</link>
+	</entry>
+
+    <entry>
+        <title>AlphaGenome: AI for better understanding the genome</title>
+		<quote>Our AlphaGenome model takes a long DNA sequence as input — up to 1 million letters, also known as base-pairs — and predicts thousands of molecular properties characterising its regulatory activity. It can also score the effects of genetic variants or mutations by comparing predictions of mutated sequences with unmutated ones.</quote>
+		<link>https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/</link>
+	</entry>
+
+	<entry>
+        <title>Modeling the World in 280 Characters</title>
+		<quote>An exploration of the mindset, methods, and motivations behind crafting tiny, expressive shaders that combine code, art, and constraint.</quote>
+		<link>https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/</link>
+	</entry>
+
+	<entry>
+        <title>Bill Atkinson: Polaroids showing the Evolution of the Lisa GUI</title>
+		<quote>Bill Atkinson shows and explains his binder of Polaroid photos which he took during the development of the Lisa, documenting the evolution of its graphical user interface.</quote>
+		<link>https://www.youtube.com/watch?v=Qg0mHFcB510</link>
+	</entry>
+</feed>

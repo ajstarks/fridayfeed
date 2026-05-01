@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 18, 2024</date>
+
+  <entry>
+    <title>Terence Tao, mathematician: ‘It’s not good for something as important as AI to be a monopoly held by one or two companies’</title>
+    <quote>One of the reasons why human mathematicians become good at their job is because they make a lot of mistakes and learn what doesn’t work. AIs don’t have this data</quote>
+    <link>https://english.elpais.com/science-tech/2024-10-12/terence-tao-mathematician-its-not-good-for-something-as-important-as-ai-to-be-a-monopoly-held-by-one-or-two-companies.html</link>
+  </entry>
+
+  <entry>
+    <title>The Optimus robots at Tesla’s Cybercab event were humans in disguise</title>
+    <quote>But if you were hoping to have any sense of how far along Tesla truly is in its humanoid robotics work, the “We, Robot” event wasn’t the place to look.</quote>
+    <link>https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event</link>
+  </entry>
+
+  <entry>
+    <title>Ink traps and pals</title>
+    <quote>The general idea of ink trap is enhanced edges of inside corners of printed graphics. You might see them in typefaces, as well as logos intended for printing. It is a solution to suboptimal printing conditions in which a larger area of graphics (e.g. line intersections) could result in ink smudge.</quote>
+    <link>https://tosche.net/blog/ink-traps-and-pals</link>
+  </entry>
+
+  <entry>
+    <title>Why Google Search is Falling Apart.</title>
+    <quote>(1) Results Page, (2) SEO, (3) AI enshittification</quote>
+    <link>https://www.youtube.com/watch?v=uSGVk2KVokQ</link>
+  </entry>
+
+  <entry>
+    <title>You Can Now See the Code That Helped End Apartheid</title>
+    <quote>John Graham-Cumming, who happens to be Cloudflare's CTO, cracked a 30-year-old encrypted file that had a role in rewriting South Africa’s history.</quote>
+    <link>https://archive.is/yK8Jb</link>
+  </entry>
+
+</feed>

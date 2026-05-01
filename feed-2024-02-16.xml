@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 16, 2024</date>
+
+ <entry>
+    <title>Creating video from text</title>
+    <quote>Sora is an AI model that can create realistic and imaginative scenes from text instructions.</quote>
+    <link>https://openai.com/sora</link>
+  </entry>
+
+  <entry>
+    <title>Nvidia Is Now More Valuable Than Amazon And Google</title>
+    <quote>Nvidia is by far the most prominent producer of the semiconductor chip technology powering generative AI. Investors have been impressed not just by the potential for Nvidia to capitalize on the growing interest and corporate spending in AI, but also by its already exploding results.</quote>
+    <link>https://www.forbes.com/sites/dereksaul/2024/02/12/nvidia-is-now-more-valuable-than-amazon-and-google/?sh=49a8bf1a4554</link>
+  </entry>
+
+  <entry>
+    <title>How Slack brought the group chat to work</title>
+    <quote>A decade later, it’s clear that Slack changed work culture, even at companies that don’t use it.</quote>
+    <link>https://www.theverge.com/24070725/slack-ten-year-anniversary-retrospective-groupchat-workplace</link>
+  </entry>
+
+  <entry>
+    <title>Repurposing the need for skeuomorphic design in the age of Spatial Computing</title>
+    <quote>In spatial computing, people interact with digital environments that are seamlessly integrated into their physical surroundings. Here, skeuomorphic design serves as a familiar guide, offering intuitive visual cues that ease the transition from traditional 2D interfaces to immersive 3D spaces.</quote>
+    <link>https://skeuomorphic.design/p/repurposing-the-need-for-skeuomorphic</link>
+  </entry>
+
+  <entry>
+    <title>100 Years Ago, IBM Was Born</title>
+    <quote> “Data processing” was coined over a century ago, while “office appliance” was in use in the 1880s. From the 19th century, through the 20th, and into the 21st, IBM was there, making HP, Microsoft, and Apple appear more like children or grandchildren of the IT world; Facebook, Google, and Twitter/X more like great-grandchildren. </quote>
+    <link>https://spectrum.ieee.org/ibm-history</link>
+  </entry>
+
+ 
+
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>October 17, 2025</date>
+
+	<entry>
+		<title>The State of the AI Industry is Freaking Me Out</title>
+		<quote>How NVidia and OpenAI Fuel the AI Money Machine</quote>
+		<link>https://youtu.be/Q0TpWitfxPk</link>
+	</entry>
+	
+	<entry>
+		<title>Does the news reflect what we die from?</title>
+		<quote>What do Americans die from, and what do the New York Times, Washington Post, and Fox News report on?</quote>
+		<link>https://ourworldindata.org/does-the-news-reflect-what-we-die-from</link>
+	</entry>
+
+	<entry>
+		<title>Silver Snoopy Award</title>
+		<quote>The Silver Snoopy best symbolizes the intent and spirit of Space Flight Awareness. An astronaut always presents the Silver Snoopy because it is the astronauts’ own award for outstanding performance, contributing to flight safety and mission success. </quote>
+		<link>https://www.nasa.gov/space-flight-awareness/silver-snoopy-award/</link>
+	</entry>
+
+	<entry>
+		<title>Silicon Valley's capture of our political institutions is all but complete</title>
+		<quote>The tech lobby kills off two key California AI bills, and why it matters. Plus: How Sam Altman played Hollywood with Sora 2, organized mass social media deletions, and more.</quote>
+		<link>https://www.bloodinthemachine.com/p/silicon-valleys-capture-of-our-political</link>
+	</entry>
+
+	<entry>
+		<title>Things I’ve learned in my 7 Years implementing AI</title>
+		<quote>I wasn’t the “PhD scientist,” working on models. I was the guy who worked on productionizing their proof-of-concept code and turning it into something people could actually use.</quote>
+		<link>https://www.jampa.dev/p/llms-and-the-lessons-we-still-havent</link>
+	</entry>
+
+</feed>

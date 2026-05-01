@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 11, 2025</date>
+
+   <entry>
+    <title>What If We Made Advertising Illegal?</title>
+    <quote>Ad companies are never going to regulate themselves—it's like hoping for heroin dealers to write drug laws. No one is entitled to yell at you “GET 20% OFF THIS UNDERWEAR YOU GLANCED AT YESTERDAY” with a dopamine megaphone in your bedroom. And to track 90% of your life to know when and how to say it. That's not free speech, that's harassment. </quote>
+    <link>https://simone.org/advertising/</link>
+  </entry>
+
+  <entry>
+    <title>
+    The 2025 AI Index Report</title>
+    <quote>The AI Index offers one of the most comprehensive, data-driven views of artificial intelligence. Recognized as a trusted resource by global media, governments, and leading companies, the AI Index equips policymakers, business leaders, and the public with rigorous, objective insights into AI’s technical progress, economic influence, and societal impact.</quote>
+    <link>https://hai.stanford.edu/ai-index/2025-ai-index-report</link>
+  </entry>
+
+  <entry>
+    <title>Copyright-ignoring AI scraper bots laugh at robots.txt so the IETF is trying to improve it</title>
+    <quote>Recently formed AI Preferences Working Group has August deadline to develop ideas on how to tell crawlers to go away, or come for a feast</quote>
+    <link>https://www.theregister.com/2025/04/09/ietf_ai_preferences_working_group/</link>
+  </entry>
+
+  <entry>
+    <title>So, I Wrote a Book</title>
+    <quote>The Story Behind 100 Go Mistakes and How to Avoid Them</quote>
+    <link>https://www.thecoder.cafe/p/100-go-mistakes</link>
+  </entry>
+
+  <entry>
+    <title>Visualizing a Million Time Series with the Density Line Chart</title>
+    <link>https://arxiv.org/pdf/1808.06019</link>
+    <quote>In this paper, we introduce the DenseLines technique to calculate a discrete density representation of time series. DenseLines normalizes time series by the arc length to compute accurate densities. The derived density visualization allows users both to see the aggregate trends of multiple series and to identify anomalous extrema.</quote>
+  </entry>
+</feed>

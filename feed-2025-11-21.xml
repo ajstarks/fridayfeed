@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>November 21, 2025</date>
+
+	<entry>
+		<title>Command Lines</title>
+		<quote>The compilers that followed abstracted away machine code, letting programmers focus on higher-level logic instead of lower-level hardware details. Today, AI coding assistants2 are enabling a similar change, letting software engineers focus on higher-order work by generating code from natural language prompts</quote>
+		<link>https://www.wreflection.com/p/command-lines-ai-coding</link>
+	</entry>
+
+	<entry>
+		<title>Cloudflare outage on November 18, 2025</title>
+		<quote>The issue was not caused, directly or indirectly, by a cyber attack or malicious activity of any kind. Instead, it was triggered by a change to one of our database systems' permissions which caused the database to output multiple entries into a “feature file” used by our Bot Management system.</quote>
+		<link>https://blog.cloudflare.com/18-november-2025-outage/</link>
+	</entry>
+	
+	<entry>
+		<title>Breakthrough Diabetes Treatment May Deliver Insulin Through a Skin Cream</title>
+		<quote>Nevertheless, the results could mean that frequent insulin injections may one day be a thing of the past. And the system may even work with other drugs.</quote>
+		<link>https://www.sciencealert.com/breakthrough-diabetes-treatment-may-deliver-insulin-through-a-skin-cream</link>
+	</entry>
+
+	<entry>
+		<title>BitBlt's 50th anniversary</title>
+		<quote>I declare that today, Nov. 19, 2025 is the 50th anniversary of BitBLT, a routine so fundamental to computer graphics that we don't even think about it having an origin.  A working (later optimized) implementation was devised on the Xerox Alto by members of the Smalltalk team. </quote>
+		<link>https://mastodon.sdf.org/@fvzappa/115574872559813280</link>
+	</entry>
+
+	<entry>
+		<title>I converted a rotary phone into a meeting handset</title>
+		<quote>One of my coworkers laughed and said “I bet if this were a phone call, you’d slam the phone down right now”, and a dread spread over me. Why didn’t I have a phone handset I could slam down? Had I really become a corporate husk of my former, carefree self, puppeteered by the vicissitudes of capitalism?</quote>
+		<link>https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/</link>
+	</entry>
+
+</feed>

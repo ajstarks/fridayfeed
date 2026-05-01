@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 31, 2025</date>
+
+  <entry>
+    <title>DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</title>
+    <quote>We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrates remarkable reasoning capabilities...DeepSeekR1 achieves performance comparable to OpenAI-o1-1217 on reasoning tasks. To support the research community, we open-source DeepSeek-R1-Zero, DeepSeek-R1, and six dense models</quote>
+    <link>https://arxiv.org/pdf/2501.12948</link>
+  </entry>
+
+  <entry>
+    <title>The Illustrated DeepSeek-R1</title>
+    <quote>A recipe for reasoning LLMs</quote>
+    <link>https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1</link>
+  </entry>
+
+  <entry>
+    <title>Older Adults Disproportionately Hindered by Touch Screen Interfaces in Driving Tasks</title>
+    <quote>The general assumption is that older adults struggle with touch screen devices because they are unfamiliar with the technology and that with practice, they will become proficient. This study provides evidential support of a probable physiological barrier contributing to some older adults’ touch screen difficulties. In our study, participants (7 older adults, 10 younger adults) had to press a touch screen button to get information while driving. Older adults disproportionately failed attempts to hit this button.</quote>
+    <link>https://journals.sagepub.com/doi/10.1177/21695067231193656</link>
+  </entry>
+
+  <entry>
+    <title>It’s official: Research has found that libraries make everything better.</title>
+    <quote>The researchers’ analysis (which used positive psychology’s PERMA model, if that means anything to you) discovered that libraries are good for people, their well-being, and their communities. </quote>
+    <link>https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/</link>
+  </entry>
+
+  <entry>
+    <title>How one YouTuber is trying to poison the AI bots stealing her content</title>
+    <quote>Specialized garbage-filled captions are invisible to humans, confounding to AI.</quote>
+    <link>https://arstechnica.com/ai/2025/01/how-one-youtuber-is-trying-to-poison-the-ai-bots-stealing-her-content/</link>
+  </entry>
+
+</feed>

@@ -1,0 +1,35 @@
++<feed>
+  <title>Friday Feed</title>
+  <date>May 10, 2024</date>
+
+  <entry>
+    <title>Remnants of a Legendary Typeface Have Been Rescued From the River Thames</title>
+    <quote>Doves Type was thrown into the water a century ago, following a dispute between its creators.</quote>
+    <link>https://news.artnet.com/art-world/doves-typeface-2454807</link>
+  </entry>
+
+  <entry>
+    <title>The Computers of Voyager</title>
+    <quote>Getting the computers right was absolutely essential to delivering on that promise, a task made all the more challenging by the conditions under which they’d be required to operate, the complexity of the spacecraft they’d be running, and the torrent of data streaming through them. Forty-six years later, it’s safe to say that the designers nailed it, and it’s worth taking a look at how they pulled it off.</quote>
+    <link>https://hackaday.com/2024/05/06/the-computers-of-voyager/</link>
+  </entry>
+
+  <entry>
+    <title>Generative AI will be designing new drugs all on its own in the near future</title>
+    <quote>The scientists were expected to point out everything wrong with the AI-generated designs, but what they offered in response was a surprise to Lilly executives: ”‘It’s interesting; we hadn’t thought about designing a molecule that way,’”</quote>
+    <link>https://www.cnbc.com/2024/05/05/within-a-few-years-generative-ai-will-design-new-drugs-on-its-own.html</link>
+  </entry>
+
+  <entry>
+    <title>AlphaFold 3 predicts the structure and interactions of all of life’s molecules</title>
+    <quote>Introducing AlphaFold 3, a new AI model developed by Google DeepMind and Isomorphic Labs. By accurately predicting the structure of proteins, DNA, RNA, ligands and more, and how they interact, we hope it will transform our understanding of the biological world and drug discovery.</quote>
+    <link>https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/</link>
+  </entry>
+
+  <entry>
+    <title>6 incredible images of the human brain built with the help of Google's AI</title>
+    <quote>A team of researchers and neuroscientists have collaborated to unravel the brain’s intricacies.</quote>
+    <link>https://blog.google/technology/research/google-ai-research-new-images-human-brain/t667</link>
+  </entry>
+
+</feed>

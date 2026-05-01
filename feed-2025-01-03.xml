@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 3, 2025</date>
+
+  <entry>
+    <title>Casual Viewing</title>
+    <quote>Why Netflix looks like that</quote>
+    <link>https://www.nplusonemag.com/issue-49/essays/casual-viewing/</link>
+  </entry>
+
+  <entry>
+    <title>Intel’s Fall from Grace</title>
+    <quote>Tracing the trajectories of several semiconductor manufacturers.</quote>
+    <link>https://cacm.acm.org/opinion/intels-fall-from-grace/</link>
+  </entry>
+
+  <entry>
+    <title>Things we learned about LLMs in 2024</title>
+    <quote>A lot has happened in the world of Large Language Models over the course of 2024. Here’s a review of things we figured out about the field in the past twelve months, plus my attempt at identifying key themes and pivotal moments.</quote>
+    <link>https://simonwillison.net/2024/Dec/31/llms-in-2024/</link>
+  </entry>
+
+  <entry>
+    <title>YouTuber won DMCA fight with fake Nintendo lawyer by detecting spoofed email</title>
+    <quote>A brave YouTuber has managed to defeat a fake Nintendo lawyer improperly targeting his channel with copyright takedowns that could have seen his entire channel removed if YouTube issued one more strike.</quote>
+    <link>https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/</link>
+  </entry>
+
+  <entry>
+    <title>Welcome to the Public Domain in 2025</title>
+    <quote>Singing in the Ran, All Quiet on the Western Front, A Farewell to Arms, Mickey Mouse shorts</quote>
+    <link>https://blog.archive.org/2025/01/01/welcome-to-the-public-domain-in-2025/</link>
+  </entry>
+
+</feed>

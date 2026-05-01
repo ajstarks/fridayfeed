@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 7, 2025</date>
+  
+  <entry>
+    <title>Out of Ideas</title>
+    <quote>they made a machine that charges you over and over again for a number of input and output tokens that they control (since they have control over how many tokens the model produces) for a duration of time that they also control. Since the models are non-deterministic by nature and hard to explain, they’ve effectively written themselves a blank check to charge you however much they want</quote>
+    <link>https://wq6e.com/posts/2025-02-02_out-of-ideas/</link>
+  </entry>
+  
+  <entry>
+    <title>Learn Shader Programming with Rick and Morty</title>
+    <quote>This animation of Rick was made with 240 lines of code. No libraries, no images. I’m going to show you how to use GPU shaders and signed distance fields to make animations like it for videos, video games, or just for fun! I even built a live coding editor into the page so you can see the examples running and tinker with them. It's Pixel Rick!</quote>
+    <link>https://danielchasehooper.com/posts/code-animated-rick/</link>
+  </entry>
+
+  <entry>
+    <title>Announcing the Data.gov Archive</title>
+    <quote>We’ve built this project on our long-standing commitment to preserving government records and making public information available to everyone. Libraries play an essential role in safeguarding the integrity of digital information. By preserving detailed metadata and establishing digital signatures for authenticity and provenance, we make it easier for researchers and the public to cite and access the information they need over time.</quote>
+    <link>https://lil.law.harvard.edu/blog/2025/02/06/announcing-data-gov-archive/</link>
+  </entry>
+  
+  <entry>
+    <title>Introducing a Hexagonal-tiled Cartogram for U.S. Counties</title>
+    <quote>Mapping data isn’t just about geography - it’s about telling stories hidden in numbers. Recently, I created a cartogram that tiles all U.S. counties into a uniform grid of hexagons. This approach transforms our traditional view of the nation, offering fresh insights into population, density, and other socio-economic variables that are often obscured on conventional maps. </quote>
+    <link>https://www.jordanroga.com/blog/introducing-a-hexagonal-tiled-cartogram-for-u-s-counties</link>
+  </entry>
+
+  <entry>
+    <title>As Internet enshittification marches on, here are some of the worst offenders</title>
+    <quote>Doctorow believes there are four basic forces that might constrain companies from getting worse: competition, regulation, self-help, and tech workers. One by one, he says, these constraints have been eroded as large corporations squeeze the Internet and its denizens for dollars.</quote>
+    <link>https://arstechnica.com/gadgets/2025/02/as-internet-enshittification-marches-on-here-are-some-of-the-worst-offenders/</link>
+  </entry>
+  
+</feed>

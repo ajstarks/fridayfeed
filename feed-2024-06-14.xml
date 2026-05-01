@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 14, 2024</date>
+  
+  <entry>
+    <title>Apple's AI Strategy in a Nutshell</title>
+    <quote>Apple clearly knows its stuff when comes to AI - contrary to what many doubters proclaimed. They just announced the best on-device model in the market, as well as its own data center - that Apple built from ground up - that can run Apple scale inference with its own chips. Apple is already a vertically integrated AI company, and deserve a higher valuation.</quote>
+    <link>https://nextword.substack.com/p/apples-ai-strategy-in-a-nutshell</link>
+  </entry>
+
+  <entry>
+    <title>Iceberger</title>
+    <quote>Draw an iceberg and see how it will float.</quote>
+    <link>https://joshdata.me/iceberger.html</link>
+  </entry>
+
+  <entry>
+    <title>Spreadsheet Superstars</title>
+    <quote>An elite handful of analysts, actuaries, and accountants have mastered Excel, arguably the most important software in the business world. So what do they do in Vegas? They open a spreadsheet.</quote>
+    <link>https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship</link>
+  </entry>
+  
+  <entry>
+    <title>Microsoft to delay release of Recall AI feature on security concerns</title>
+    <quote>The decision is "rooted in our commitment to providing a trusted, secure and robust experience for all customers and to seek additional feedback prior to making the feature available to all Copilot+ PC users," the Redmond, Washington-based company said.</quote>
+    <link>https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/</link>
+  </entry>
+
+  <entry>
+    <title>Voyager 1 Returning Science Data From All Four Instruments</title>
+    <quote>On May 19, the mission team executed the second step of that repair process and beamed a command to the spacecraft to begin returning science data.</quote>
+    <link>https://blogs.nasa.gov/voyager/2024/06/13/voyager-1-returning-science-data-from-all-four-instruments/</link>
+  </entry>
+  
+</feed>

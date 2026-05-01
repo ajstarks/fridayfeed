@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 21, 2024</date>
+
+  <entry>
+    <title>Fast Crimes at Lambda School</title>
+    <quote>Lambda School was set to become the next unicorn. There was just one problem: the program didn't work. Lambda School targeted single mothers, the disabled, reformed convicts, and people struggling with serious medical problems. They lost tens of thousands of dollars, some lost years of their lives, on a broken, predatory program.</quote>
+    <link>https://www.sandofsky.com/lambda-school/</link>
+  </entry>
+  
+  <entry>
+    <title>Chaos in the Medium: Watercolour Plotting</title>
+    <quote>I’m mostly thinking about ways I can make the most of the combination of the exactitude of the robotic method with the chaos of the physical medium. </quote>
+    <link>https://www.amygoodchild.com/blog/watercolour-plots</link>
+  </entry>
+  
+  <entry>
+    <title>Nvidia overtakes Microsoft as the world’s most valuable company </title>
+    <quote>Nvidia is now number one on the list, worth $3.335 trillion.</quote>
+    <link>https://www.theverge.com/2024/6/18/24181393/nvidia-most-valuable-company-microsoft-apple-google</link>
+  </entry>
+
+  <entry>
+    <title>How to Fix “AI’s Original Sin”</title>
+    <quote>What institutions and business models are needed to allocate the value that is created by the “generative AI supply chain” in proportion to the role that various parties play in creating it?</quote>
+    <link>https://www.oreilly.com/radar/how-to-fix-ais-original-sin/</link>
+  </entry>
+
+  <entry>
+    <title>FTC Takes Action Against Adobe and Executives for Hiding Fees, Preventing Consumers from Easily Cancelling Software Subscriptions</title>
+    <quote>“Adobe trapped customers into year-long subscriptions through hidden early termination fees and numerous cancellation hurdles,” said Samuel Levine, Director of the FTC’s Bureau of Consumer Protection.</quote>
+    <link>https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling</link>
+  </entry>
+  
+</feed>

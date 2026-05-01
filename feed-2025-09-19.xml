@@ -1,0 +1,37 @@
+<feed>
+        <title>Friday Feed</title>
+        <date>September 19, 2025</date>
+
+        <entry>
+                <title>tinycolor Supply Chain Attack Post-mortem</title>
+                <quote>A malicious GitHub Actions workflow was pushed to a shared repo and exfiltrated a npm token with broad publish rights. The attacker then used that token to publish malicious versions of 20 packages, including @ctrl/tinycolor</quote>
+                <link>https://sigh.dev/posts/ctrl-tinycolor-post-mortem/</link>
+        </entry>
+
+        <entry>
+                <title>Apple used AI to uncover new blood pressure notification feature in Watch</title>
+                <quote>Apple Watch Series 11 models that go on sale on Friday can notify users that they may have high blood pressure, in a feature the company has powered using artificial intelligence rather than a blood pressure monitor.</quote>
+                <link>https://www.reuters.com/business/healthcare-pharmaceuticals/apple-used-ai-uncover-new-blood-pressure-notification-feature-watch-2025-09-19/</link>
+        </entry>
+
+        <entry>
+                <title>60 years after Gemini, newly processed images reveal incredible details</title>
+                <quote>"It's that level of risk that they were taking. I think that's what really hit home."
+
+</quote>
+                <link>https://arstechnica.com/space/2025/09/60-years-after-gemini-newly-processed-images-reveal-incredible-details/</link>
+        </entry>
+
+        <entry>
+                <title>No CSS, No Javascript. Longevity on the web.</title>
+                <quote>I've switched operating systems, hardware architectures, desktops, laptops, and phones. Somehow, through all of that, a website written 20 years ago still works today. Other than retro-nostalgic emulation, is that true for anything else?</quote>
+                <link>https://jch.github.io/posts/2025-09-18-no-css-no-js.html</link>
+        </entry>
+
+        <entry>
+                <title>TIC-80 tiny computer</title>
+                <quote>TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games.</quote>
+                <link>https://tic80.com/</link>
+        </entry>
+
+</feed>

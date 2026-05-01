@@ -1,0 +1,39 @@
+
+<feed>
+  <title>Friday Feed</title>
+  <date>February 2, 2024</date>
+  
+  <entry>
+    <title>The Apple Vision Pro’s Missing Apps</title>
+    <quote>Netflix Inc. isn’t planning to launch an app for Apple Inc.’s upcoming Vision Pro headset, marking a high-profile snub of the new technology by the world’s biggest video subscription service. Rather than designing a Vision Pro app — or even just supporting its existing iPad app on the platform — Netflix is essentially taking a pass.</quote>
+    <link>https://stratechery.com/2024/the-apple-vision-pros-missing-apps/</link>
+  </entry>
+  
+  <entry>
+    <title>Apple Vision Pro review: magic, until it’s not</title>
+    <quote>The Apple Vision Pro is the best consumer headset anyone’s ever made — and that’s the problem.</quote>
+    <link>https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price</link>
+  </entry>
+
+
+  <entry>
+    <title>Spatial Computing</title>
+    <quote>Where Vision Pro may stumble is in its interface to the deep, spatial world it provides. We all know how to reach out and “directly manipulate” objects in the real world, but that’s not what Vision Pro asks us to do. Instead, Vision Pro requires us to first look at the thing we want to manipulate, and then perform an “indirect” gesture with our hands to operate on it.</quote>
+    <link>https://hypercritical.co/2024/01/30/spatial-computing</link>
+  </entry>
+
+  <entry>
+    <title>CEOs Are Using Return To Office Mandates To Mask Poor Management</title>
+    <quote>According to a recent research paper published by University of Pittsburgh, compelling evidence suggests that organizations are leveraging Return-To-Office mandates not to enhance firm value, but rather to reassert control and shift blame for poor performance onto employees. Contrary to the belief that RTO boosts company value, the analysis revealed that RTO mandates are more likely in firms with poor recent stock performance and have had no significant impacts on firm profitability or stock-returns. </quote>
+    <link>https://www.forbes.com/sites/qhamirani/2024/01/26/ceos-are-using-return-to-office-mandates-to-mask-poor-management/</link>
+  </entry>
+  
+  <entry>
+    <title>Arc Search combines browser, search engine, and AI into something new and different</title>
+    <quote>Basically, instead of returning a bunch of search queries about the Chiefs game, Arc Search built me a webpage about it. And somewhere in there is The Browser Company’s big idea about the future of web browsers — that a browser, a search engine, an AI chatbot, and a website aren’t different things. They’re all just parts of an internet information finder, and they might as well exist inside the same app.</quote>
+    <link>https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios</link>
+  </entry>
+
+
+  
+</feed>

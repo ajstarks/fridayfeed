@@ -1,0 +1,34 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>November 29, 2024</date>
+
+	<entry>
+		<title>Silent Poems - Visual expression of unspoken thoughts</title>
+		<quote>An interactive digital art project that turns typed text into flowing, abstract animated symbols. The symbols connect fluidly, much like handwriting, but in an entirely abstract way. Each letter has its own design, and then each instance of the letter has a different seed such that you have slight differences - the same as with handwriting.</quote>
+		<link>https://silentpoems.net/</link>
+	</entry>
+
+	<entry>
+		<title>Send someone you appreciate an official ‘Continue and Persist’ Letter</title>
+		<quote>That’s why we created: The Continue and Persist Letter. A official-looking legal letter that encourages and uplifts people, one that tells people to keep doing what they’re doing! Surprise someone you appreciate by sending them a Continue and Persist Letter.</quote>
+		<link>https://continueandpersist.org/</link>
+	</entry>
+
+	<entry>
+		<title>Building LLMs is probably not going be a brilliant business</title>
+		<quote>If you were to believe LinkedIn you would think a great business is made with efficiency, hard work, innovation or some other intrinsic reason to do with how hardworking, or clever, the people in the business are. That simply is not the case. What makes a good business is industry structure.</quote>
+		<link>https://calpaterson.com/porter.html</link>
+	</entry>
+
+	<entry>
+		<title>AI Won't Fix the Fundamental Flaw of Programming</title>
+		<quote>AI won't fix the software crisis, by which I mean that we just don't expect software to work reliably any more.</quote>
+		<link>https://www.youtube.com/watch?v=82JpGhctWpU</link>
+	</entry>
+
+	<entry>
+		<title>How We Got the Lithium-ion Battery</title>
+		<quote>the lithium-ion battery took a long, winding road. It took decades of research, performed around the world, before a practical lithium-ion battery was possible. </quote>
+		<link>https://www.construction-physics.com/p/how-we-got-the-lithium-ion-battery</link>
+	</entry>
+</feed>

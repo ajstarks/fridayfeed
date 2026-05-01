@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>December 5, 2025</date>
+
+	<entry>
+		<title>Why We Can't Quit Excel</title>
+		<quote>Microsoft’s spreadsheet software is expensive, derivative and depressing. It might also be the most killer app of all time.</quote>
+		<link>https://archive.is/84dmE</link>
+	</entry>
+
+	<entry>
+		<title>A vector workstation from the 70s</title>
+		<quote>All in all, a pretty capable machine, especially in 1975. BASIC computers where getting common, but graphics was pretty new. According to Tektronix the 4051 was ideal for researches, analysts and physicians, and this could be yours for the low low price of 6 grand, or around $36.000 in 2025. </quote>
+		<link>https://justanotherelectronicsblog.com/?p=1429</link>
+	</entry>
+
+	<entry>
+		<title>In 1995, a Netscape employee wrote a hack in 10 days that now runs the Internet</title>
+		<quote>Thirty years later, JavaScript is the glue that holds the interactive web together, warts and all.</quote>
+		<link>https://arstechnica.com/gadgets/2025/12/in-1995-a-netscape-employee-wrote-a-hack-in-10-days-that-now-runs-the-internet/</link>
+	</entry>
+
+	<entry>
+		<title>Stacking Dependencies</title>
+		<quote>What happens when you take an XKCD joke too literally</quote>
+		<link>https://stacktower.io/</link>
+	</entry>
+
+	<entry>
+		<title>An Abominable Creature</title>
+		<quote>Follow the money and you might get lost. That’s why I made a diagram for the entire US healthcare system’s financial flows - covering an incomprehensible $5 Trillion in healthcare spending.</quote>
+		<link>https://healthisotherpeople.substack.com/p/an-abominable-creature</link>
+	</entry>
+
+</feed>

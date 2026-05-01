@@ -1,0 +1,34 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>March 14, 2025</date>
+
+	<entry>
+		<title>Internet shutdowns at record high in Africa as access ‘weaponised’</title>
+		<quote>More governments seeking to keep millions of people offline amid conflicts, protests and political instability</quote>
+		<link>https://www.theguardian.com/technology/2025/mar/09/internet-shutdowns-record-high-africa-2024-access-weaponised</link>
+	</entry>
+
+	<entry>
+		<title>The Einstein AI model</title>
+		<quote>What we'll actually get, in my opinion, is “a country of yes-men on servers” (if we just continue on current trends) but let me explain the difference with a small part of my personal story.</quote>
+		<link>https://thomwolf.io/blog/scientific-ai.html</link>
+	</entry>
+
+	<entry>
+		<title>Microsoft is reportedly plotting a future without OpenAI</title>
+		<quote>If Microsoft pulls this off, the benefits are obvious: cheaper, faster AI services and a chance to stake out its own ground in a competitive market. But between contractual obligations, technical dependencies, and OpenAI’s ongoing innovation, Suleyman’s mission is more of a long grind than a quick win. His team is making moves—one model swap at a time. </quote>
+		<link>https://techstartups.com/2025/03/07/microsoft-is-plotting-a-future-without-openai/</link>
+	</entry>
+
+	<entry>
+		<title>Step Into the Real-Life Lumon Industries, the Breakout Star of ‘Severance’</title>
+		<quote>Bell Works, the setting of the hit serial for Apple TV+, is now a tourist attraction, drawing fans to the architectural wonder.</quote>
+		<link>https://www.nytimes.com/2025/03/07/realestate/severance-lumon-industries-building-bell-labs.html?unlocked_article_code=1.2U4.9nGx.iMzMqZbSep6U&amp;smid=em-share</link>
+	</entry>
+
+	<entry>
+		<title>What Would It Take to Recreate Bell Labs?</title>
+		<quote>Bell Labs is most famous for being the birthplace of the transistor, but that’s just one of dozens of major inventions and discoveries that originated there. Bell Labs also spawned: the silicon solar PV cell, the first active and passive communications satellites, the first videophone, the first cellular telephone system, the first fiber optic telephone cable, the quartz clock, Information Theory, Statistical Process Control, the UNIX computer operating system, and the discovery of Cosmic Microwave Background radiation</quote>
+		<link>https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell</link>
+	</entry>
+</feed>

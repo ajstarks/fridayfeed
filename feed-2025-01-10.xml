@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 10, 2025</date>
+  
+  <entry>
+    <title>33 Things We’d Love to Redesign in 2025</title>
+    <quote>From crossing signals to patient portals and oh-so-much more.</quote>
+    <link>https://www.ideo.com/journal/the-things-wed-love-to-redesign</link>
+  </entry>
+  
+  <entry>
+    <title>Nvidia unveils $3,000 desktop AI computer for home researchers</title>
+    <quote>At CES on Monday, Nvidia CEO Jensen Huang described the new system as "a cloud computing platform that sits on your desk." The company also designed Project DIGITS as a bridge between desktop development and cloud deployment. Developers can create and test AI applications locally on Project DIGITS, then move them to cloud services or data centers that use similar Nvidia hardware.</quote>
+    <link>https://arstechnica.com/ai/2025/01/nvidias-first-desktop-pc-can-run-local-ai-models-for-3000/</link>
+  </entry>
+
+  <entry>
+    <title>Apple and the AI divide</title>
+    <quote>Apple seems to be pressured to play catch-up on AI technology, and I feel like this is being driven by activist shareholders instead of people who are focused on products. Apple has previously been a company to take their time and do things right. Their current AI strategy seems to be announce everything way too early and release some things before they’re ready.</quote>
+    <link>https://anderegg.ca/2025/01/07/apple-and-the-ai-divide</link>
+  </entry>
+  
+  <entry>
+    <title>The Atlas of Space</title>
+    <quote>As a long-time space nerd, I realized recently that I didn't have a good intuition on the scale, speed, and relative orientation of the celestial bodies around us. So over the break I built out a kind of spatial Wikipedia to click around and learn about planets, moons, asteroids, and other bodies orbiting the Sun.</quote>
+    <link>https://atlasof.space/</link>
+  </entry>
+
+  <entry>
+    <title>Microsoft disguises Bing as Google to fool inattentive searchers</title>
+    <quote>If you can't beat Google, trick your users into thinking that they're using Google.</quote>
+    <link>https://www.pcworld.com/article/2568916/microsoft-disguises-bing-as-google-to-fool-inattentive-searchers.html</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,33 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 29, 2024</date>
+  <entry>
+    <title>Antitrust suit could force Apple to reveal its secrets</title>
+    <quote>Win or lose, the Justice Department's antitrust suit against Apple could force the company to do something it hates: It will have to share detailed info about its inner workings.</quote>
+    <link>https://www.axios.com/2024/03/24/apple-secrets-antitrust-suit</link>
+  </entry>
+
+  <entry>
+    <title>The Descent of Elon Musk</title>
+    <quote>Musk doesn't just seem incapable of dealing with criticism — he seems incapable of cogent, in-depth responses, leaning on a brittle, surface-level understanding of almost everything he talks about</quote>
+    <link>https://www.wheresyoured.at/the/</link>
+  </entry>
+  
+  <entry>
+    <title>Federation is the future of social media, says Bluesky CEO Jay Graber</title>
+    <quote>But the idea behind AT Protocol and Bluesky is devolving control, so Bluesky users can pick their own moderation systems and recommendation algorithms — a grand experiment that I wanted to know much more about.</quote>
+    <link>https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview</link>
+  </entry>
+
+  <entry>
+    <title>Explorative Programming</title>
+    <quote>In my case the only real way I can tackle a problem is to start writing code and playing with the problem and its data. I can talk about how I approach the process at another time, but I need to explore the problem space to find its limits, its edge cases, what areas are well lit and which are in shadows. I cannot think of this in the abstract.</quote>
+    <link>https://blog.dziban.net/essays/explorative-programming/</link>
+  </entry>
+  
+  <entry>
+    <title>Building a Text Editor in the Times of AI</title>
+    <quote>I wanted to know how each of the founder's found their way to using AI, how they use it today, and how they would like to use it. We also talked about the nitty-gritty of the current implementation of AI features in Zed and what this year will bring for Zed in regards to AI. I also had to ask: is building an editor in times of AI not ignoring the sign of the times?</quote>
+    <link>https://zed.dev/blog/building-a-text-editor-in-times-of-ai</link>
+  </entry>
+</feed>

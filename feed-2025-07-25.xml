@@ -1,0 +1,34 @@
+<feed>
+	<title>Friday Feed</title>
+    <date>July 25, 2025</date>
+
+    <entry>
+        <title>Nearly 4,000 NASA employees opt to leave agency through deferred resignation program</title>
+		<quote>On Monday, more than 300 current and former NASA employees signed and sent a letter known as the "Voyager Declaration" to interim NASA administrator Sean Duffy, criticizing "rapid and wasteful changes" at the agency that they say include cuts to programs and research.</quote>
+		<link>https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304</link>
+	</entry>
+
+    <entry>
+        <title>Google Spoofed Via DKIM Replay Attack: A Technical Breakdown</title>
+		<quote>What followed was a deep dive into the message to determine whether it was a genuine communication or a cleverly crafted phishing attempt. The email was convincing enough to create real concern, and that’s what makes this story worth sharing.</quote>
+		<link>https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/</link>
+	</entry>
+
+    <entry>
+        <title>Mammalian Cell Evolution Machine May Bring New Vaccines </title>
+		<quote>“The general method of directed evolution is cyclic, where we generate diversity in a gene of interest, select for fitness against a challenge, and amplify successful genetic variants to repeat the process. This is all done with the goal of directing a gene towards a desired outcome,”</quote>
+		<link>https://spectrum.ieee.org/proteus-mammalian-ai</link>
+	</entry>
+
+	<entry>
+        <title>What to know about ToolShell, the SharePoint threat under mass exploitation</title>
+		<quote>The vulnerability, which is formally tracked as CVE-2025-53770, enables unauthenticated remote code execution on servers running SharePoint. The ease of exploitation, the damage it causes, and the ongoing targeting of it in the wild have earned it a severity rating of 9.8 out of a possible 10.</quote>
+		<link>https://arstechnica.com/security/2025/07/what-to-know-about-toolshell-the-sharepoint-threat-under-mass-exploitation/</link>
+	</entry>
+
+	<entry>
+        <title>Revisiting Moneyball</title>
+		<quote>Whether the 2002 A’s succeeded primarily through analytics or traditional talent is less important than the broader principle they demonstrated: analytics can reveal value that conventional wisdom misses. They also showed the power of intelligence, creativity, and sheer persistence in overcoming financial disadvantage.</quote>
+		<link>https://djpardis.medium.com/revisiting-moneyball-074fc2435b07</link>
+	</entry>
+</feed>

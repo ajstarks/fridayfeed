@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 27, 2024</date>
+  
+  <entry>
+    <title>An Interactive Timeline of the Most Iconic Infographics</title>
+    <quote>An interactive dataviz timeline</quote>
+    <link>https://history.infowetrust.com/</link>
+  </entry>
+  
+  <entry>
+    <title>More than 140 Kenya Facebook moderators diagnosed with severe PTSD</title>
+    <quote>‘The work damaged me’: ex-Facebook moderators describe effect of horrific content</quote>
+    <link>https://www.theguardian.com/media/2024/dec/18/kenya-facebook-moderators-sue-after-diagnoses-of-severe-ptsd</link>
+  </entry>
+
+  <entry>
+    <title>The Business MRI: A Smarter Way to Track Performance and Collaborate</title>
+    <quote>Think of it as an MRI of your business, a tool that provides clear real-time disability into performance, allowing your team to focus on collaboration and decision-making, not Data Prep.</quote>
+    <link>https://nightingaledvs.com/the-business-mri/</link>
+  </entry>
+  
+  <entry>
+    <title>I Saved an Electron Microscope from the Trash</title>
+    <quote>In this video I show off the newest (and oldest!) piece of equipment in my lab: A Scanning Electron Microscope! This is a JEOL JSM-5200 from the late 80s/early 90s. The lab that previously owned the microscope was not able to repair it, and so they gave it to me for free! After months of effort, I managed to repair it. This video is an overview of how a scanning electron microscope works, how I acquired and repaired my own, and some examples of how to use it, and what it can do! </quote>
+    <link>https://www.youtube.com/watch?v=Kqx9blbYDB0</link>
+  </entry>
+
+  <entry>
+    <title>The death of Glitch, the birth of Slack</title>
+    <quote>This post is about the day that Glitch failed, and how that failure created the opportunity to make Slack. We're sharing it here (out of chronological order) to mark 12 years since the famous pivot</quote>
+    <link>https://buildingslack.com/the-death-of-glitch-the-birth-of-slack/</link>
+  </entry>
+  
+</feed>

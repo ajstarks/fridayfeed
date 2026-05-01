@@ -1,0 +1,34 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>November 22, 2024</date>
+
+	<entry>
+		<title>Playdate Podcast: True Crime Edition</title>
+		<quote>Earlier this year, our Financial Controller, Jen, realized our Playdate inventory was 2,000 units short. How did that eventually lead us to a Circle K in North Las Vegas, and just how much should you tip for a roofing consultation, anyway? Buckle up, because we are going for a ride—in Magnum P.I.'s cool car.</quote>
+		<link>https://podcast.play.date/episodes/s01e31/</link>
+	</entry>
+
+	<entry>
+		<title>AI Eats the World</title>
+		<quote>Intelligence is whatever machines have not done yet.</quote>
+		<link>https://www.ben-evans.com/presentations</link>
+	</entry>
+
+	<entry>
+		<title>OpenAI accidentally erases potential evidence in training data lawsuit </title>
+		<quote>In a stunning misstep, OpenAI engineers accidentally erased critical evidence gathered by The New York Times and other major newspapers in their lawsuit over AI training data, according to a court filing Wednesday.</quote>
+		<link>https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit</link>
+	</entry>
+
+	<entry>
+		<title>YC is wrong about LLMs for chip design</title>
+		<quote>If Gary Tan and YC believe that LLMs will be able to design chips 100x better than humans currently can, they’re significantly underestimating the difficulty of chip design, and the expertise of chip designers.</quote>
+		<link>https://www.zach.be/p/yc-is-wrong-about-llms-for-chip-design</link>
+	</entry>
+
+	<entry>
+		<title>Mathematical Thinking Isn’t What You Think It Is</title>
+		<quote>The mathematician David Bessis claims that everyone is capable of, and can benefit greatly from, mathematical thinking.</quote>
+		<link>https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/</link>
+	</entry>
+</feed>

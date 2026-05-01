@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 3, 2024</date>
+
+  <entry>
+    <title>Bill Gates never left</title>
+    <quote>"What you read is not what's happening in reality," another Microsoft executive said. "Satya and the entire senior leadership team lean on Gates very significantly. His opinion is sought every time we make a major change."</quote>
+    <link>https://www.businessinsider.com/bill-gates-still-pulling-strings-microsoft-ai-copilot-chatgpt-2024-4</link>
+  </entry>
+
+  <entry>
+    <title>Evolving the Go Standard Library with math/rand/v2</title>
+    <quote>This blog post is about Go 1.22’s new math/rand/v2 package, the first “v2” in the standard library. It brings needed improvements to the math/rand API, but more importantly it sets an example for how we can revise other standard library packages as the need arises.</quote>
+    <link>https://go.dev/blog/randv2</link>
+  </entry>
+
+  <entry>
+    <title>Recreating Historical Dataviz: Three Tricks I Learned In The Du Bois Data Visualization Challenge</title>
+    <quote>I was intrigued to take part in the challenge because I wanted to learn more about Du Bois’ work. I didn’t know anything about it and as a person from outside the US, knew only fragments of the African American perspective after the American Civil War. But also as a data visualization developer, I wanted to train my coding skills with clear time and scope constraints. </quote>
+    <link>https://nightingaledvs.com/recreating-historical-dataviz-three-tricks-i-learned-in-the-du-bois-data-visualization-challenge/</link>
+  </entry>
+
+  <entry>
+    <title>Rabbit R1 review: nothing to see here</title>
+    <quote>I was excited about the R1. It’s cheaper, more whimsical, and less ambitious. After using the R1, I feel like Humane at least deserves credit for trying. The R1 is underwhelming, underpowered, and undercooked. It can’t do much of anything. It doesn’t even know what a taco looks like.</quote>
+    <link>https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget</link>
+  </entry>
+
+
+  <entry>
+    <title>Microsoft bans US police departments from using enterprise AI tool for facial recognition</title>
+    <quote>Language added Wednesday to the terms of service for Azure OpenAI Service more obviously prohibits integrations with Azure OpenAI Service from being used “by or for” police departments for facial recognition in the U.S.,</quote>
+    <link>https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-azure-openai-facial-recognition/</link>
+  </entry>
+
+
+</feed>

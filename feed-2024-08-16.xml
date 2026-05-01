@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 16, 2024</date>
+
+  <entry>
+    <title>If YouTube had actual channels</title>
+    <quote>Click-click</quote>
+    <link>https://ytch.xyz/</link>
+  </entry>
+
+  <entry>
+    <title>From NUL to DEL: Why 7 Bit ASCII IS Actually Really Clever</title>
+    <quote>For the vast majority of folks working in tech these days, ASCII is just part of the fabric of technology: the idea that anybody actually designed it might come as a bit of a shock. But they did, and I think they actually did a really good job. Let's take a wander through the 7-bit ASCII character set and meet some of my favourite bits.</quote>
+    <link>https://www.youtube.com/watch?v=9rJO3vptblU</link>
+  </entry>
+
+  <entry>
+    <title>Colossal Chronography: Frances Harriet Lightfoot’s 1831 Marvel</title>
+    <quote>One reason to envy long-past information designers is the big canvases they got to play with. Consider this 1831 timeline next to my iPhone—it’s big, isn’t it?</quote>
+    <link>https://nightingaledvs.com/colossal-chronography-frances-harriet-lightfoots-1831-marvel/</link>
+  </entry>
+
+  <entry>
+    <title>Google is a monopoly. The fix isn't obvious</title>
+    <quote>A business breakup may be coming – but what comes after may not be better</quote>
+    <link>https://www.theregister.com/2024/08/15/google_monopoly_fix/</link>
+  </entry>
+
+  <entry>
+    <title>Process Zero: The Anti-Intelligent Camera</title>
+    <quote>Introducing a process that uses zero AI and zero computational photography to produce beautiful, film-like natural photos. Meet Halide 2.15, with Process Zero.</quote>
+    <link>https://www.lux.camera/introducing-process-zero-for-iphone/</link>
+  </entry>
+
+</feed>

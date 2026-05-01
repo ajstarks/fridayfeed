@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 22, 2024</date>
+
+  <entry>
+    <title>David Blackwell</title>
+    <quote>NVIDIA recently annonced a new AI chip named after him</quote>
+    <link>https://en.wikipedia.org/wiki/David_Blackwell</link>
+  </entry>
+
+
+  <entry>
+    <title>Robert Garner</title>
+    <quote>Robert Garner joins for a fascinating tour of the last 50 years of computing, told through his experiences working alongside pioneers of the industry on projects like the optical mouse, the Xerox STAR workstation, Sun Microsystems’ SPARC instruction set architecture, and many more.</quote>
+    <link>https://microarch.club/episodes/11/</link>
+  </entry>
+  
+  <entry>
+    <title>Building Your Color Palette</title>
+    <quote>This calculated and scientific approach to picking the perfect color scheme is extremely seductive, but not very useful.</quote>
+    <link>https://www.refactoringui.com/previews/building-your-color-palette</link>
+  </entry>
+
+  <entry>
+    <title>Intel 8080 emulator. 19th IOCCC. Best of Show.</title>
+    <quote>After winning the IOCCC for the first time, I had the idea of writing an emulator of the 8080 processor in 2000 characters of C, after patterning experimentally the more than 200 instructions and doing measures of byte count, I realized that it was possible and I made it. </quote>
+    <link>https://nanochess.org/emulator.html</link>
+  </entry>
+  
+   <entry>
+    <title>Vision Pro is an over-engineered “devkit” // Hardware bleeds genius &amp; audacity but software story is disheartening // What we got wrong at Oculus that Apple got right // Why Meta could finally have its Android moment</title>
+    <link>https://hugo.blog/2024/03/11/vision-pro/</link>
+    <quote>Friends and colleagues have been asking me to share my perspective on the Apple Vision Pro as a product. Inspired by my dear friend Matt Mullenweg’s 40th post, I decided to put pen to paper.</quote>
+  </entry>
+
+
+</feed>

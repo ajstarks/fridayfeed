@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 14, 2025</date>
+  
+  <entry>
+    <title>Modern-Day Oracles Or Bullshit Machines?</title>
+    <quote>How to thrive in a ChatGPT world</quote>
+    <link>https://thebullshitmachines.com/</link>
+  </entry>
+  
+  <entry>
+    <title>reCAPTCHA: 819 million hours of wasted human time and billions of dollars in Google profits</title>
+    <quote>By 2025, reCAPTCHA is easily defeated by bots. Yet Google continues to offer it because reCAPTCHA has evolved into a tracking tool that collects user data and generates billions in revenue for Google, according to Chuppl. "Re-captcha takes a pixel by pixel fingerprint of your browser, a realtime map of everything you do on the internet."</quote>
+    <link>https://boingboing.net/2025/02/07/recaptcha-819-million-hours-of-wasted-human-time-and-billions-of-dollars-google-profit.html</link>
+  </entry>
+
+  <entry>
+    <title>We are destroying software</title>
+    <quote>We are destroying software, and what will be left will no longer give us the joy of hacking.</quote>
+    <link>https://antirez.com/news/145</link>
+  </entry>
+  
+  <entry>
+    <title>The Tiny Book of Great Joys</title>
+    <quote>If you are interested in how I over-engineered the process of making a tiny book for my wife, using AI, a pen plotter, a 3D printer, and a lot of time, you are in the right place. The book is titled The Tiny Book of Great Joys </quote>
+    <link>https://muffinman.io/blog/the-tiny-book-of-great-joys/</link>
+  </entry>
+
+  <entry>
+    <title>Visualizing Data Is An Art - We Should Treat It Like One</title>
+    <quote>I've been thinking about how we communicate information and specifically the role data visualization plays. It's a surprisingly young field that uniquely sits at the intersection of art and science. Much of the lexicon is actively being written and, perhaps counterintuitively, I'm going to advocate for a bit less science and a bit more art.</quote>
+    <link>https://perthirtysix.com/visualizing-data-is-an-art</link>
+  </entry>
+  
+</feed>

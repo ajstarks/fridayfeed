@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 5, 2024</date>
+
+  <entry>
+    <title>Design: the ultimate developer hack (Saron Yitbarek, Founder, BCM/Disco)</title>
+    <quote>In this session, Saron walks through how design can help us work out our ideas in a fraction of the time that it costs to actually build it, and how, with the help of libraries and Figma plugins, any developer can learn just enough design to save themselves tons of time.</quote>
+    <link>https://www.youtube.com/watch?v=8gHWjWAt9Fc</link>
+  </entry>
+
+  <entry>
+    <title>JR West to start using robot for railway maintenance</title>
+    <quote>West Japan Railway says it will start using a truck-mounted robot for maintenance and inspection work from this month. The move comes as train operators tap new technologies to counter labor shortages and improve safety.</quote>
+    <link>https://www3.nhk.or.jp/nhkworld/en/news/20240702_14/</link>
+  </entry>
+
+  <entry>
+    <title>384,000 sites pull code from sketchy code library recently bought by Chinese firm</title>
+    <quote>More than 384,000 websites are linking to a site that was caught last week performing a supply-chain attack that redirected visitors to malicious sites, researchers said.</quote>
+    <link>https://arstechnica.com/security/2024/07/384000-sites-link-to-code-library-caught-performing-supply-chain-attack/</link>
+  </entry>
+
+  <entry>
+    <title>Apple’s Vision Pro: five months later</title>
+    <quote>On this episode of The Vergecast, we talk about the past, present, and future of the Vision Pro. We chat with The Verge’s Wes Davis and Victoria Song about their experiences with the device, along with what they’ve liked and what they’d like to change. It seems pretty clear that the first version of the device wasn’t a groundbreaking, market-moving hit, so what next?</quote>
+    <link>https://www.theverge.com/2024/7/2/24190641/apple-vision-pro-headset-future-cheaper</link>
+  </entry>
+
+  <entry>
+    <title>A mathematician's introduction to transformers and large language models</title>
+    <quote>A language model forms the back bone of these applications. A language model is just a probability distribution. Given a sequence of words w1:(t−1)=(w1,…,wt−1), a language model gives the probability of all the words in your vocabulary V...</quote>
+    <link>https://x-dev.pages.jsc.fz-juelich.de//2022/07/13/transformers-matmul.html</link>
+  </entry>
+
+</feed>

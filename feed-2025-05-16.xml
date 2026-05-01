@@ -1,0 +1,40 @@
+<feed>
+	<title>Friday Feed</title>
+    <date>May 16, 2025</date>
+
+    <entry>
+        <title>Tixy</title>
+		<quote>A simple 16x16 dot animation from simple math rules</quote>
+		<link>https://tixy.land/</link>
+	</entry>
+
+    <entry>
+        <title>Ink &amp; Algorithms</title>
+		<quote>A weekly deep dive into the craft of pen plotting—covering techniques, tools, and the artists pushing the boundaries.</quote>
+		<link>https://penplotter.art/</link>
+	</entry>
+
+	<entry>
+		<title>NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix</title>
+		<quote>"These thrusters were considered dead. And that was a legitimate conclusion," Voyager mission propulsion leader Todd Barber said in JPL's report. "It's just that one of our engineers had this insight that maybe there was this other possible cause and it was fixable. It was yet another miracle save for Voyager."</quote>
+		<link>https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/</link>
+	</entry>
+
+    <entry>
+        <title>A conversation about AI for science with Jason Pruet, Director of the Laboratory’s National Security AI Office.</title>
+		<quote>He no longer views the technology as just a tool, but as a fundamental shift in how scientists approach problems and make discoveries. The global race humanity is now in is about how to harness the technology’s potential while mitigating its harms.</quote>
+		<link>https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet</link>
+	</entry>
+
+	<entry>
+        <title>Baby Is Healed With World’s First Personalized Gene-Editing Treatment</title>
+		<quote>The technique used on a 9½-month-old boy with a rare condition has the potential to help people with thousands of other uncommon genetic diseases.</quote>
+		<link>https://www.nature.com/articles/d41586-025-01496-z</link>
+	</entry>
+
+	<entry>
+        <title>After months of coding with LLMs, I'm going back to using my brain</title>
+		<quote>LLMs are okay at coding, but at scale they build jumbled messes. I’ve scaled back my use of AI when coding and gone back to using my brain and pen and paper.</quote>
+		<link>https://albertofortin.com/writing/coding-with-ai</link>
+	</entry>
+</feed>

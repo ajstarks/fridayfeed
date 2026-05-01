@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 17, 2024</date>
+
+  <entry>
+    <title>	A forged Apple employee badge</title>
+    <quote>So, my sincere apologies to whoever out there just spent $946.00 on a total (but interesting!) work of fiction.</quote>
+    <link>https://cabel.com/2024/05/16/the-forged-apple-employee-badge/</link>
+  </entry>
+
+  <entry>
+    <title>We have to stop ignoring AI’s hallucination problem</title>
+    <quote>AI might be cool, but it’s also a big fat liar, and we should probably be talking about that more.</quote>
+    <link>https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong</link>
+  </entry>
+
+  <entry>
+    <title>Google is redesigning its search engine — and it’s AI all the way down</title>
+    <quote>Google is starting to roll out “AI Overviews,” previously known as the Search Generative Experience, or SGE, to users in the US and soon around the world. Pretty soon, billions of Google users will see an AI-generated summary at the top of many of their search results. And that’s only the beginning of how AI is changing search.</quote>
+    <link>https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview</link>
+  </entry>
+
+  <entry>
+    <title>Archie, the Internet’s first search engine, is rescued and running</title>
+    <quote>It's amazing, and a little sad, to think that something created in 1989 that changed how people used and viewed the then-nascent Internet had nearly vanished by 2024.</quote>
+    <link>https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/</link>
+  </entry>
+
+  <entry>
+    <title>Looking for AI use-cases</title>
+    <quote>We’ve had ChatGPT for 18 months, but what’s it for? What are the use-cases? </quote>
+    <link>https://www.ben-evans.com/benedictevans/2024/4/19/looking-for-ai-use-cases</link>
+  </entry>
+
+</feed>

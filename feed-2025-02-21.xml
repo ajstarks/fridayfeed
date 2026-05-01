@@ -1,0 +1,42 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 21, 2025</date>
+
+  <entry>
+    <title>DOGE Has ‘God Mode’ Access to Government Data</title>
+    <quote>The president’s special commission now has an unprecedented ability to view and manipulate information at many federal agencies.</quote>
+    <link>https://archive.ph/Oa42l</link>
+  </entry>
+
+  <entry>
+    <title>AI Killed The Tech Interview. Now What?</title>
+    <quote>AI also significantly reduces the effectiveness of comp sci fundamentals and the coding interview as they are today. The problems are too simple, and an LLM can quickly answer them in most cases.</quote>
+    <link>https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/</link>
+  </entry>
+
+  <entry>
+    <title>Humane</title>
+    <quote>Humane existed for six years, which is quite a long time, but it collapsed quicker than any other company I have seen before. I hope that in the future, people can see red flags more clearly and that journalists identify them much earlier, without giving companies the benefit of the doubt.</quote>
+    <link>https://lmnt.me/blog/humane.html</link>
+  </entry>
+
+  <entry>
+    <title>Poking the Robot</title>
+    <quote>How would you explain this chart to somebody who can't see it?</quote>
+    <link>https://www.chartography.net/p/poking-the-robot</link>
+  </entry>
+
+  <entry>
+    <title>Microsoft’s Majorana 1 chip carves new path for quantum computing</title>
+    <quote>Microsoft today introduced Majorana 1, the world’s first quantum chip powered by a new Topological Core architecture that it expects will realize quantum computers capable of solving meaningful, industrial-scale problems in years, not decades.</quote>
+    <link>https://news.microsoft.com/source/features/innovation/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/</link>
+  </entry>
+
+  <entry>
+  	<title>The hardest working font in Manhattan</title>
+  	<quote>One day, I saw what felt like Gorton on a ferry traversing the waters Bay Area. A few weeks later, I spotted it on a sign in a national park. Then on an intercom. On a street lighting access cover. In an elevator. At my dentist’s office. In an alley.</quote>
+  	<link>https://aresluna.org/the-hardest-working-font-in-manhattan/</link>
+
+  </entry>
+
+</feed>

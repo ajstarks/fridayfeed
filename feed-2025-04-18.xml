@@ -1,0 +1,40 @@
+<feed>
+    <title>Friday Feed</title>
+    <date>April 18, 2024</date>
+
+    <entry>
+        <title>10,000 Times Faster, 10,000 Times Simpler: Why Today’s Solutions Don’t Need Internet-Scale Complexity</title>
+        <quote>Instead of taking advantage of hardware advancements to simplify solutions, we’re often overengineering, creating unnecessarily complex distributed systems that mimic the architectures of tech giants like Google. But here's the secret: Most businesses don’t need Google-scale infrastructure to succeed. In fact, overengineering might be the very thing holding them back.</quote>
+        <link>https://tailscale.com/blog/10000-times-faster</link>
+    </entry>
+
+    <entry>
+        <title>The Problem with “Vibe Coding”</title>
+        <quote>If you’re writing software that you’re planning to ship; to distribute to other people, perhaps even sell it to paying customers? Well, now that’s a whole different ball game.Probably the single most important lesson I’ve learned in my career, the thing that I would argue is the hallmark of “experience”, is understanding just how much work it takes to turn a working program into a viable product. </quote>
+        <link>https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html</link>
+    </entry>
+
+    <entry>
+        <title>Introducing Kermit: A typeface for kids</title>
+        <quote>Kermit is a friendly and approachable font that encourages children of all skill levels to read, even if they are anxious about their abilities.</quote>
+        <link>https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/</link>
+    </entry>
+
+    <entry>
+        <title>In Two Moves, AlphaGo and Lee Sedol Redefined the Future</title>
+        <quote>Although machines are now capable of moments of genius, humans have hardly lost the ability to generate their own.</quote>
+        <link>https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/</link>
+    </entry>
+
+    <entry>
+        <title>CURE ID App Lets Clinicians Report Novel Uses of Existing Drugs</title>
+        <quote>The platform enables the crowdsourcing of medical information from health care providers to facilitate the development of new treatments for neglected diseases. </quote>
+        <link>https://www.fda.gov/drugs/science-and-research-drugs/cure-id-app-lets-clinicians-report-novel-uses-existing-drugs</link>
+    </entry>
+
+    <entry>
+        <title>Typographic Portrait of Jean Sibelius Composed Entirely of Brass Rule</title>
+        <quote>When our renowned master composer Jean Sibelius turned 70 in 1935, [...] I was struck with a strange dream of trying to replicate his image using impractical typographic methods. I had previously seen pictures "set" with Monotype fonts and decorations in foreign graphic design trade journals, particularly "The Inland Printer", so I decided to try, but not with type and ornament, but with rule.[1]</quote>
+        <link>https://blog.glyphdrawing.club/typographic-pictures-composed-entirely-of-brass-rule/</link>
+    </entry>
+</feed>

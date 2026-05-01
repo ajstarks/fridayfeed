@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 28, 2025</date>
+  
+  <entry>
+    <title>I Recreated Shazam's Algorithm from Scratch because no one is hiring jnr devs</title>
+    <quote>I recreated Shazam's algorithm out of curiosity but mostly out of desperation. In this video, I explain how Shazam works and how I implemented the algorithm in Golang.</quote>
+    <link>https://youtu.be/a0CVCcb0RJM</link>
+  </entry>
+  
+  <entry>
+    <title>The Hollow Men of Silicon Valley</title>
+    <quote>The cold logic of AI doesn't recognize the value of a human life beyond its productive capacity. It doesn't understand the power of a protest song, the unifying force of shared grief, or the motivating fire of righteous anger. It can't compute the value of human dignity or the importance of self-determination.</quote>
+    <link>https://www.notesfromthecircus.com/p/the-hollow-men-of-silicon-valley</link>
+  </entry>
+
+  <entry>
+    <title>Nigerians are building affordable alternatives to AWS and Google Cloud</title>
+    <quote>Local cloud startups offer data sovereignty at a time when the debate about who has access to a country’s data is heating up.</quote>
+    <link>https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/</link>
+  </entry>
+  
+  <entry>
+    <title>Meet the journalists training AI models for Meta and OpenAI</title>
+    <quote>The gig work platform Outlier is one of several companies courting journalists to train large language models (LLMs).</quote>
+    <link>https://www.niemanlab.org/2025/02/meet-the-journalists-training-ai-models-for-meta-and-openai/</link>
+  </entry>
+
+  <entry>
+    <title>Was Harvey Weinstein thanked more often than God at the Oscars?</title>
+    <quote>I analysed almost 2,000 Oscar speeches to discover if the claim that Harvey Weinstein was thanked more often than God is true. Plus, we'll find out which Hollywood icon is bigger than both of them.</quote>
+    <link>https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god</link>
+  </entry>
+  
+</feed>

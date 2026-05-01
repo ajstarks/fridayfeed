@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 1, 2024</date>
+
+  <entry>
+    <title>Math and Puzzle Fans Find Magic in Martin Gardner’s Legacy</title>
+    <quote>Martin Gardner’s Mathematical Games column in Scientific American fascinated and mystified readers for decades—and his legacy continues to bring mathematicians, artists and puzzlers together.</quote>
+    <link>https://www.scientificamerican.com/article/math-and-puzzle-fans-find-magic-in-martin-gardners-legacy/</link>
+  </entry>
+
+  <entry>
+    <title>Voting machine companies are fighting the next disinformation war</title>
+    <quote>For this election, Smartmatic and Dominion both maintain pages on their websites fact-checking false claims about their technologies and explaining how their companies work.</quote>
+    <link>https://www.theverge.com/2024/11/1/24284887/smartmatic-dominion-voting-machine-companies-trust-disinformation</link>
+  </entry>
+
+  <entry>
+    <title>Nvidia to join Dow Jones Industrial Average, replacing rival chipmaker Intel</title>
+    <quote>Nvidia shares have climbed over 170% so far in 2024 after jumping roughly 240% last year, as investors have rushed to get a piece of the AI chipmaker. Nvidia’s market cap has swelled to $3.3 trillion, second only to Apple
+ among publicly traded companies.</quote>
+    <link>https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html</link>
+  </entry>
+
+  <entry>
+    <title>Low-cost, portable device can detect colorectal and prostate cancer in an hour</title>
+    <quote>The device uses an innovative "paper-in-polymer-pond" structure, in which patient blood samples are introduced into tiny wells and onto a special kind of paper. The paper captures cancer protein biomarkers within the blood samples in just a few minutes. The paper subsequently changes color, and the intensity of the color indicates what type of cancer is detected and how far it has progressed.</quote>
+    <link>https://medicalxpress.com/news/2024-10-portable-device-colorectal-prostate-cancer.html</link>
+  </entry>
+
+  <entry>
+    <title>Python has overtaken JavaScript on GitHub</title>
+    <quote>Python has overtaken JavaScript as the most popular language on GitHub, while the use of Jupyter Notebooks also has skyrocketed on the site. The rise of both underscore the surge in data science, artificial intelligence, and machine learning on the code-sharing platform,</quote>
+    <link>https://www.infoworld.com/article/3594587/python-has-overtaken-javascript-on-github.html</link>
+  </entry>
+
+</feed>

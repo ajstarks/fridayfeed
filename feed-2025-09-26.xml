@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>September 26, 2025</date>
+
+	<entry>
+		<title>Huntington's disease successfully treated for first time</title>
+		<quote>The data showed that three years after surgery there was an average 75% slowing of the disease based on a measure which combines cognition, motor function and the ability to manage in daily life.</quote>
+		<link>https://www.bbc.com/news/articles/cevz13xkxpro</link>
+	</entry>
+
+	<entry>
+		<title>The great sameness: a comic on how AI makes us more alike</title>
+		<quote>o improve our working relationship with AI, we must first understand how sameness happens. The comic below, created by Jordan Bolton, explores this topic through a single character who, under the weight of everyday pressures, comes face to face with the threat of a great homogenisation</quote>
+		<link>https://www.itsnicethat.com/features/the-great-sameness-light-and-shade-digital-220925</link>
+	</entry>
+
+	<entry>
+		<title>How Amgen Lost The PCSK9 Patent War</title>
+		<quote>In 2014, Amgen sued Sanofi and Regeneron to claim ownership of an entire class of cholesterol drugs. Nine years later, the Supreme Court ruled against them - but they won where it mattered most.</quote>
+		<link>https://www.alexkesin.com/p/how-amgen-lost-the-pcsk9-patent-war</link>
+	</entry>
+
+	<entry>
+		<title>Microsoft blocks the Israeli military from some cloud and AI services</title>
+		<quote>The Guardian revealed last month that Microsoft’s services were being used for mass surveillance of Palestinians.</quote>
+		<link>https://www.theverge.com/news/785733/microsoft-block-israeli-military-cloud-ai-services-palestine-protests</link>
+	</entry>
+
+	<entry>
+		<title>Why Apple Has a Big AI Problem</title>
+		<quote>More recently, rivals like Google, Microsoft and OpenAI have been pouring billions of dollars into scaling up artificial intelligence services while Apple has remained more cautious. The gap was clear at the iPhone 17 event, where Apple made only modest AI announcements. Now the company is betting on the reinvention of its Siri voice assistant to carry it into the generative AI age, and maybe gain ground on the competition. </quote>
+		<link>https://youtu.be/xZD8_imniuo</link>
+	</entry>
+
+</feed>

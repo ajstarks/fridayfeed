@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 25, 2024</date>
+
+  <entry>
+    <title>The Human Cost Of Our AI-Driven Future</title>
+    <quote>Ranta found herself losing faith in humanity. “I saw things that I never thought possible,” she told me. “How can human beings claim to be the intelligent species after what I’ve seen?”</quote>
+    <link>https://www.noemamag.com/the-human-cost-of-our-ai-driven-future/</link>
+  </entry>
+
+  <entry>
+    <title>X changed its terms of service to let its AI train on everyone’s posts. Now users are up in arms</title>
+    <quote>While such broad licensing with few limitations is not uncommon for a social media platform, Alex Fink, CEO and founder of Otherweb, an AI-based news reading platform that targets misinformation, told CNN that what makes X unique is that its new terms “remove any ambiguity” in contrast to other platforms that don’t spell out their intentions.</quote>
+    <link>https://www.cnn.com/2024/10/21/tech/x-twitter-terms-of-service/index.html</link>
+  </entry>
+
+  <entry>
+    <title>The 3 AI Use Cases: Gods, Interns, and Cogs.</title>
+    <quote>Drew also considers Toys as a subcategory of Interns: things like image generators, “defined by their usage by non-experts. Toys have a high tolerance for errors because they’re not being relied on for much beyond entertainment.”</quote>
+    <link>https://simonwillison.net/2024/Oct/20/gods-interns-and-cogs/</link>
+  </entry>
+
+  <entry>
+    <title>A New Artificial Intelligence Tool for Cancer</title>
+    <quote>Current AI systems are typically trained to perform specific tasks — such as detecting cancer presence or predicting a tumor’s genetic profile — and they tend to work only in a handful of cancer types. By contrast, the new model can perform a wide array of tasks and was tested on 19 cancer types, giving it a flexibility similar to that of large language models such as ChatGPT.</quote>
+    <link>https://hms.harvard.edu/news/new-artificial-intelligence-tool-cancer</link>
+  </entry>
+
+  <entry>
+    <title>Runnin' Down a Dream: How to Succeed and Thrive in a Career You Love </title>
+    <quote>In September of 2018, I had the opportunity to share my thoughts on how people should think about their career journey. This is something I had been thinking about for some time, and I am quite thankful to the McCombs School at the University of Texas for giving me the opportunity to share this presentation.</quote>
+    <link>https://www.youtube.com/watch?v=xmYekD6-PZ8</link>
+  </entry>
+
+</feed>

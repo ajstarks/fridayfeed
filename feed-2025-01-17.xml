@@ -1,0 +1,47 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 17, 2024</date>
+
+
+ <entry>
+    <title>AI voice scams are on the rise. Here's how to protect yourself.</title>
+    <quote>Artificial intelligence-enabled voice cloning tools have made it easier for criminals to mimic strangers' voices and dupe victims into handing over large sums of money. or example, a scammer might target a victim posing as their grandchild and claiming they require cash — fast. </quote>
+    <link></link>
+  </entry>
+
+
+   <entry>
+  	<title>Supreme Court upholds TikTok ban law</title>
+  	<quote>“There is no doubt that, for more than 170 million Americans, TikTok offers a distinctive and expansive outlet for expression, means of engagement, and source of community,” “But Congress has determined that divestiture is necessary to address its well-supported national security concerns regarding TikTok’s data collection practices and relationship with a foreign adversary.”</quote>
+  	<link>https://www.theverge.com/2025/1/17/24340235/supreme-court-tiktok-divest-ban-first-amendment</link>
+  </entry>
+
+
+  <entry>
+    <title>The 2025 AI Engineer Reading List</title>
+    <quote>We picked 50 paper/models/blogs across 10 fields in AI Eng: LLMs, Benchmarks, Prompting, RAG, Agents, CodeGen, Vision, Voice, Diffusion, Finetuning. If you're starting from scratch, start here.</quote>
+    <link>https://www.latent.space/p/2025-papers</link>
+  </entry>
+
+  <entry>
+    <title>The Best Product Engineering Org in the World</title>
+    <quote>“How are you measuring productivity?”</quote>
+    <link>https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world</link>
+  </entry>
+
+  <entry>
+    <title>Apple is pulling its AI-generated notifications for news after generating fake headlines</title>
+    <quote>Apple is temporarily pulling its newly introduced artificial intelligence feature that summarizes news notifications after it repeatedly sent users error-filled headlines, sparking backlash from a news organization and press freedom groups.</quote>
+    <link>https://www.cnn.com/2025/01/16/media/apple-ai-news-fake-headlines/index.html</link>
+  </entry>
+
+  <entry>
+    <title>Apple will soon receive ‘made in America’ chips from TSMC's Arizona fab — company in final stages of quality verification News</title>
+    <quote>The entry of locally produced chips in the American market is a big win for the United States’ push for silicon independence, especially as it massively relies on Taiwan for the majority of its most advanced chips. </quote>
+    <link>https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification</link>
+  </entry>
+
+ 
+
+
+</feed>

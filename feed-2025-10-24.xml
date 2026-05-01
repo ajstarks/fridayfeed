@@ -1,0 +1,36 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>October 24, 2025</date>
+
+	<entry>
+		<title>Today is when the Amazon brain drain finally sent AWS down the spout</title>
+		<quote>When your best engineers log off for good, don’t be surprised when the cloud forgets how DNS works</quote>
+		<link>https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/</link>
+	</entry>
+
+	<entry>
+		<title>Beyond the Machine Creative agency in the AI landscape</title>
+		<quote>I am so tired of hearing about AI. Unfortunately, this is a talk about AI.</quote>
+		<link>https://frankchimero.com/blog/2025/beyond-the-machine/</link>
+	</entry>
+
+	<entry>
+		<title>Where’s the AI design renaissance?</title>
+		<quote>This post attempts to answer two questions: Will AI take design jobs? If so, which ones?
+In light of that, what should designers focus on?</quote>
+		<link>https://www.learnui.design/blog/wheres-the-ai-design-renaissance.html</link>
+	</entry>
+
+	<entry>
+		<title>Armed police swarm student after AI mistakes bag of Doritos for a weapon</title>
+		<quote>Allen was handcuffed at gunpoint. Police later showed him the AI-captured image that triggered the alert. The crumpled Doritos bag in his pocket had been mistaken for a gun.</quote>
+		<link>https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/</link>
+	</entry>
+
+	<entry>
+		<title>Foreign hackers breached a US nuclear weapons plant via SharePoint flaws</title>
+		<quote>A foreign threat actor infiltrated the Kansas City National Security Campus (KCNSC), a key manufacturing site within the National Nuclear Security Administration (NNSA), exploiting unpatched Microsoft SharePoint vulnerabilities, according to a source involved in an August incident response at the facility.</quote>
+		<link>https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html</link>
+	</entry>
+
+</feed>

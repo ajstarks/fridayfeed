@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 15, 2024</date>
+  
+  <entry>
+    <title>Autogenerating a Book Series From Three Years of iMessages</title>
+    <quote>I’d really like to be able to “flip through” my messages and stop at a random place for a view into that moment in time. Apple doesn’t provide a way to do that, so, I thought, why not enable it myself? I though it’d be great to enable this “flipping through messages” in the most literal way possible: by creating a physical book of my biggest conversation.</quote>
+    <link>https://benkettle.xyz/posts/message-book/</link>
+  </entry>
+  
+  <entry>
+    <title>AI vs Artists - The Biggest Art Heist in History</title>
+    <quote>Generative AI can be called many things depending on your point of view: machine, thief, tool, medium, collaborator, muse and even artist. In this video I will try to find answers for a lot of complex things and I will attempt to judge this technology with an open mind. In the last couple of weeks I spoke to many amazing artists and scientists about my mixed feelings of generative AI. </quote>
+    <link>https://www.youtube.com/watch?v=ZJ59g4PV1AE</link>
+  </entry>
+
+  <entry>
+    <title>Notes on AI Bias</title>
+    <quote>“Raw data is both an oxymoron and a bad idea; to the contrary, data should be cooked, with care.”</quote>
+    <link>https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias</link>
+  </entry>
+  
+  <entry>
+    <title>FCC quadruples requirements for basic broadband service — 100Mbps download and 20Mbps upload are now the base standard</title>
+    <quote>The Federal Communications Commission (FCC) today announced that it has updated what it considers to be the benchmark for broadband speeds. The update sees 100 Mbps download and 20 Mbps upload as the new standard. This is a four-fold increase compared to a 2015, which set the benchmark to 25 Mbps download and 3 Mbps upload.</quote>
+    <link>https://www.tomshardware.com/service-providers/network-providers/fcc-quadruples-requirements-for-basic-broadband-service-100mbps-download-and-20mbps-upload-are-now-the-base-standard</link>
+  </entry>
+
+  <entry>
+    <title>Small Scale Pen Plotting</title>
+    <quote>After creating pen plotted art for just over a year now, I decided to explore a new format for my work by altering the scale of the artworks. </quote>
+    <link>https://adamfuhrer.com/small-scale-pen-plotting</link>
+  </entry>
+  
+</feed>

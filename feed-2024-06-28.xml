@@ -1,0 +1,37 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>June 28, 2024</date>
+
+  <entry>
+    <title>Perplexity’s grand theft AI </title>
+    <quote>Perplexity’s scraping of Forbes’ work wasn’t an exception. In fact, Perplexity has been ignoring the robots.txt code that explicitly asks web crawlers not to scrape the page.</quote>
+    <link>https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism</link>
+  </entry>
+
+  <entry>
+    <title>Larry Finger made Linux wireless work and brought others along to learn</title>
+    <quote>Remembering Finger, 84, who learned as he went and left his mark on many.</quote>
+    <link>https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/</link>
+  </entry>
+
+  <entry>
+    <title>How AI Revolutionized Protein Science, but Didn’t End It</title>
+    <quote>Three years ago, Google’s AlphaFold pulled off the biggest artificial intelligence breakthrough in science to date, accelerating molecular research and kindling deep questions about why we do science.</quote>
+    <link>https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/</link>
+  </entry>
+
+  <entry>
+    <title>Deneb-Showcase</title>
+    <quote>This is a collection of advanced dataviz examples using Vega, Vega-Lite, Deneb and Power BI. </quote>
+    <link>https://github.com/PBI-David/Deneb-Showcase</link>
+  </entry>
+
+  <entry>
+    <title>Epsilon Love</title>
+    <quote> So I guess the lesson is that if you’re not Ken Thompson, you’re going to have trouble understanding what he did until you’ve tried and failed yourself?
+
+</quote>
+    <link>https://www.tbray.org/ongoing/When/202x/2024/06/17/Epsilon-Love</link>
+  </entry>
+
+</feed>

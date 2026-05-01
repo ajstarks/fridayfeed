@@ -1,0 +1,34 @@
+<feed>
+        <title>Friday Feed</title>
+        <date>August 29, 2025</date>
+
+        <entry>
+                <title>Python: The Documentary | An origin story</title>
+                <quote>This is the story of the world's most beloved programming language: Python. What began as a side project in Amsterdam during the 1990s became the software powering artificial intelligence, data science and some of the world’s biggest companies. But Python's future wasn't certain; at one point it almost disappeared.</quote>
+                <link>https://www.youtube.com/watch?v=GfH4QL4VqJ0</link>
+        </entry>
+
+        <entry>
+                <title>A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.</title>
+                <quote>More people are turning to general-purpose chatbots for emotional support. At first, Adam Raine, 16, used ChatGPT for schoolwork, but then he started discussing plans to end his life.</quote>
+                <link>https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html?unlocked_article_code=1.hE8.T-3v.bPoDlWD8z5vo&amp;smid=url-share</link>
+        </entry>
+
+        <entry>
+                <title>AI adoption linked to 13% decline in jobs for young U.S. workers, Stanford study reveals</title>
+                <quote>The study revealed that workers between the ages of 22 and 25 have experienced a 13% relative decline in employment since 2022, in occupations most exposed to AI.</quote>
+                <link>https://www.cnbc.com/2025/08/28/generative-ai-reshapes-us-job-market-stanford-study-shows-entry-level-young-workers.html</link>
+        </entry>
+
+        <entry>
+                <title>Death by PowerPoint: the slide that killed seven people</title>
+                <quote>We’ve all sat in those presentations.  A speaker with a stream of slides full of text, monotonously reading them off as we read along.  We’re so used to it we expect it.  We accept it.  We even consider it ‘learning’. As an educator I push against ‘death by PowerPoint’ and I'm fascinated with how we can improve the way we present and teach.  The fact is we know that PowerPoint kills.  Most often the only victims are our audience’s inspiration and interest.  This, however, is the story of a PowerPoint slide that actually helped kill seven people.</quote>
+                <link>https://mcdreeamiemusings.com/blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx</link>
+        </entry>
+
+        <entry>
+                <title>You no longer need JavaScript</title>
+                <quote>It’s actually pretty incredible what HTML and CSS alone can achieve.</quote>
+                <link>https://lyra.horse/blog/2025/08/you-dont-need-js/</link>
+        </entry>
+</feed>

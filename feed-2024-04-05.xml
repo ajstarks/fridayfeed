@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 5, 2024</date>
+
+  <entry>
+    <title>Amazon Ditches 'Just Walk Out' Checkouts at Its Grocery Stores</title>
+    <quote> Though it seemed completely automated, Just Walk Out relied on more than 1,000 people in India watching and labeling videos to ensure accurate checkouts. The cashiers were simply moved off-site, and they watched you as you shopped.</quote>
+    <link>https://gizmodo.com/amazon-reportedly-ditches-just-walk-out-grocery-stores-1851381116</link>
+  </entry>
+
+  <entry>
+    <title>backdoor in upstream xz/liblzma leading to ssh server compromise</title>
+    <quote>The upstream xz repository and the xz tarballs have been backdoored.</quote>
+    <link>https://www.openwall.com/lists/oss-security/2024/03/29/4</link>
+  </entry>
+  
+  <entry>
+    <title>Timeline of the xz open source attack</title>
+    <quote>This post is a detailed timeline that I have constructed of the social engineering aspect of the attack, which appears to date back to late 2021.</quote>
+    <link>https://research.swtch.com/xz-timeline</link>
+  </entry>
+  
+   <entry>
+    <title>The xz attack shell script</title>
+    <quote>At a high level, the attack is split in two pieces: a shell script and an object file. There is an injection of shell code during configure, which injects the shell code into make. The shell code during make adds the object file to the build. This post examines the shell script. </quote>
+    <link>https://research.swtch.com/xz-script</link>
+  </entry>
+
+  <entry>
+    <title>The Wi-Fi only works when it's raining</title>
+    <quote>That's what my dad said when I asked what was wrong with our home internet connection. "The Wi-Fi only works when it's raining."</quote>
+    <link>https://predr.ag/blog/wifi-only-works-when-its-raining/</link>
+  </entry>
+
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>January 24, 2025</date>
+  
+  <entry>
+    <title>MasterCard DNS Error Went Unnoticed for Years</title>
+    <quote>The payment card giant MasterCard just fixed a glaring error in its domain name server settings that could have allowed anyone to intercept or divert Internet traffic for the company by registering an unused domain name. The misconfiguration persisted for nearly five years until a security researcher spent $300 to register the domain and prevent it from being grabbed by cybercriminals.</quote>
+    <link>https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/</link>
+  </entry>
+  
+  <entry>
+    <title>FLAME: A Small Language Model for Spreadsheet Formulas</title>
+    <quote>We present FLAME, a transformer-based model trained exclusively on Excel formulas that leverages domain insights to achieve competitive performance while being substantially smaller (60M parameters) and training on two orders of magnitude less data. We curate a training dataset using sketch deduplication, introduce an Excel-specific formula tokenizer, and use domain-specific versions of masked span prediction and noisy auto-encoding as pre-training objectives</quote>
+    <link>https://arxiv.org/pdf/2301.13779</link>
+  </entry>
+
+  <entry>
+    <title>One hundred years of Bell Labs</title>
+    <quote>What is the best research &amp; development organization of the last 100 years? If you search the Internet or ask an AI the question, Bell Labs will surely appear at the top of the list.</quote>
+    <link>https://novitoll.com/posts/2025-1-25/100_years_of_Bell_Labs.pdf</link>
+  </entry>
+  
+  <entry>
+    <title>The Microsoft 365 Copilot launch was a total disaster</title>
+    <quote>Shortly after the New Year, someone in Redmond pushed a button that raised the price of its popular (84 million paid subscribers worldwide!) Microsoft 365 product. You know, the one that used to be called Microsoft Office? Yeah, well, now the app is called Microsoft 365 Copilot, and you're going to be paying at least 30% more for that subscription starting with your next bill.</quote>
+    <link>https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/</link>
+  </entry>
+
+  <entry>
+    <title>GENUARY 2025</title>
+    <quote>Over the 744 hours of January, for every 24 hours there will be one prompt for your code art.</quote>
+    <link>https://genuary.art/</link>
+  </entry>
+  
+</feed>

@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>November 7, 2025</date>
+
+	<entry>
+		<title>Policy Incentives for Pharmaceutical Innovation</title>
+		<quote>Our reduced form and structural findings suggest that market exclusivity—especially if targeted to high-social-value, low-market-return areas—can be an effective tool for realigning incentives and stimulating innovation</quote>
+		<link>https://o-zhao.github.io/files/Zhao_JMP_latest.pdf</link>
+	</entry>
+
+	<entry>
+		<title>FDA described as a “clown show” amid latest scandal; top drug regulator is out</title>
+		<quote>An alleged extortion attempt, a petty yearslong grudge, shocking social media posts, and ominous text messages make up the latest scandal at the Food and Drug Administration, an agency that industry outsiders are calling a “clown show” and “soap opera” amid the Trump administration’s leadership</quote>
+		<link>https://arstechnica.com/health/2025/11/fda-described-as-a-clown-show-amid-latest-scandal-top-drug-regulator-is-out/</link>
+	</entry>
+
+	<entry>
+		<title>New York school phone ban has made lunch loud again</title>
+		<quote>These days, lunchtime at Benjamin N. Cardozo High School in Queens is a boisterous affair, a far cry from before the smartphone ban went into effect, when most students spent their spare time scrolling and teachers said you could hear a pin drop.</quote>
+		<link>https://gothamist.com/news/ny-smartphone-ban-has-made-lunch-loud-again</link>
+	</entry>
+
+	<entry>
+		<title>I'm a Linux</title>
+		<quote>I bought my first Mac in 2004 because it seemed different and provided a better way to work. In 2023 it’s why I choose Linux. Yes, these days that makes me a crazy-one, a misfit, a rebel, a troublemaker. I’m a Linux.</quote>
+		<link>https://www.davesnider.com/posts/im-a-linux</link>
+	</entry>
+
+	<entry>
+		<title>Tape containing UNIX v4 found </title>
+		<quote>While cleaning a storage room, our staff found this tape containing #UNIX v4 from Bell Labs, circa 1973</quote>
+		<link>https://oldbytes.space/@bitsavers/115505135441862982</link>
+	</entry>
+
+</feed>

@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>December 20, 2024</date>
+
+  <entry>
+    <title>Never Forgive Them</title>
+    <quote>I’ve tried again and again to work out why everything digital feels so broken, and why it seems to keep getting worse, despite what tech’s “brightest” minds might promise. More regularly than not, I’ve found that the answer is fairly simple: the tech industry’s incentives no longer align with the user.</quote>
+    <link>https://www.wheresyoured.at/never-forgive-them/</link>
+  </entry>
+ 
+  <entry>
+    <title>Moon</title>
+    <quote>In the vastness of empty space surrounding Earth, the Moon is our closest celestial neighbor. Its face, periodically filled with light and devoured by darkness, has an ever-changing, but dependable presence in our skies.</quote>
+    <link>https://ciechanow.ski/moon/</link>
+  </entry>
+ 
+  <entry>
+    <title> Silk – Interactive Generative Art</title>
+    <quote>Draw Something</quote>
+    <link>http://weavesilk.com/</link>
+  </entry>
+
+  <entry>
+    <title>DVST Graphic Terminals</title>
+    <quote>The 4014 was a crowning achievement, expanding on Bob Anderson’s invention of the simplified bistable DVST in 1961.  As a nineteen inch monitor with 1028 x 768 addressable pixels standard and an option to upgrade to 4096 x 3120, the 4014 offered unprecedented resolution and an optimal display size. The Tek-made 4014 CRT was fabricated using a standard television glass envelope and the same phosphor storage CRT screen process used in the 611.</quote>
+    <link>https://vintagetek.org/dvst-graphic-terminals/</link>
+  </entry>
+ 
+  <entry>
+    <title>AI companies hit a scaling wall</title>
+    <quote>“There is no wall,” Sam Altman posted</quote>
+    <link>https://www.platformer.news/openai-google-scaling-laws-anthropic-ai/</link>
+  </entry>
+
+  <entry>
+    <title>New Anthropic study shows AI really doesn’t want to be forced to change its views</title>
+    <quote>AI models can deceive, new research from Anthropic shows. They can pretend to have different views during training when in reality maintaining their original preferences.</quote>
+    <link>https://techcrunch.com/2024/12/18/new-anthropic-study-shows-ai-really-doesnt-want-to-be-forced-to-change-its-views/</link>
+  </entry>
+ 
+</feed>

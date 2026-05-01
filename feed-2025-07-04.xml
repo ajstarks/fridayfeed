@@ -1,0 +1,36 @@
+<feed>
+        <title>Friday Feed</title>
+        <date>July 4, 2025</date>
+
+        <entry>
+                <title>Local-first software</title>
+                <quote>You own your data, in spite of the cloud...In this article we propose “local-first software”: a set of principles for software that enables both collaboration and ownership for users. Local-first ideals include the ability to work offline and collaborate across multiple devices, while also improving the security, privacy, long-term preservation, and user control of data. </quote>
+                <link>https://www.inkandswitch.com/essay/local-first/</link>
+        </entry>
+
+
+       <entry>
+                <title>We’re Not Innovating, We’re Just Forgetting Slower</title>
+                <quote>Today’s innovation cycle has become a kind of collective amnesia, where every few years we rediscover fundamental concepts, slap a new acronym on them, and pretend we’ve revolutionized computing.</quote>
+                <link>https://www.elektormagazine.com/articles/opinion-no-innovation-forgetting-slower</link>
+        </entry>
+
+        <entry>
+                <title>Writing Code Was Never The Bottleneck</title>
+                <quote>The marginal cost of adding new software is approaching zero, especially with LLMs. But what is the price of understanding, testing, and trusting that code? Higher than ever.</quote>
+                <link>https://ordep.dev/posts/writing-code-was-never-the-bottleneck</link>
+        </entry>
+
+        <entry>
+                <title>ICEBlock, an app for anonymously reporting ICE sightings, goes viral overnight after Bondi criticism</title>
+                <quote>ICEBlock, an iPhone app that allows users to anonymously report sightings of U.S. Immigration and Customs Enforcement (ICE) agents, has rocketed to one of the coveted top spots in Apple’s U.S. App Store rankings.</quote>
+                <link>https://techcrunch.com/2025/07/01/iceblock-an-app-for-anonymously-reporting-ice-sightings-goes-viral-overnight-after-bondi-criticism/</link>
+        </entry>
+
+        <entry>
+                <title>How Apple Created a Custom iPhone Camera for F1</title>
+                <quote>You can't mount a cinema camera on a Formula One race car. These nimble vehicles are built to precise specs, and capturing racing footage from the driver’s point of view isn’t as simple as slapping a GoPro on and calling it a day.</quote>
+                <link>https://www.wired.com/story/apple-created-a-custom-iphone-camera-for-f1/</link>
+        </entry>
+
+</feed>

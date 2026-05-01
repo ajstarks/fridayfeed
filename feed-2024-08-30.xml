@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 30, 2024</date>
+
+  <entry>
+    <title>A new smart mask analyzes your breath to monitor your health</title>
+    <quote>Researchers out of Caltech have created masks that are able to analyze biomarkers in your breath to monitor health conditions like asthma and COPD.</quote>
+    <link>https://www.technologyreview.com/2024/08/29/1103330/a-new-smart-mask-analyzes-your-breath-to-monitor-your-health/</link>
+  </entry>
+
+  <entry>
+    <title>The staggering death toll of scientific lies</title>
+    <quote>You probably haven’t heard of cardiologist Don Poldermans, but experts who study scientific misconduct believe that thousands of people may be dead because of him.</quote>
+    <link>https://www.vox.com/future-perfect/368350/scientific-research-fraud-crime-jail-time</link>
+  </entry>
+
+  <entry>
+    <title>Experience the Apollo 11 Lunar Landing</title>
+    <quote>n 1969, the entire world watched as three men explored the unknown. Watch, listen, and relive the excitement of the Apollo 11 lunar landing as experienced minute-by-minute by the courageous crew of Apollo 11 and Mission Control.</quote>
+    <link>https://www.firstmenonthemoon.com/</link>
+  </entry>
+
+  <entry>
+    <title>The secret inside One Million Checkboxes</title>
+    <quote>A few days into making One Million Checkboxes I thought I’d been hacked. What was that doing in my database? A few hours later I was tearing up, proud of some brilliant teens.</quote>
+    <link>https://eieio.games/essays/the-secret-in-one-million-checkboxes/</link>
+  </entry>
+
+  <entry>
+    <title>Judge Rules $400 Million Algorithmic System Illegally Denied Thousands of People’s Medicaid Benefits</title>
+    <quote>The TennCare Connect system—built by Deloitte and other contractors for more than $400 million—is supposed to analyze income and health information to automatically determine eligibility for benefits program applicants. But in practice, the system often doesn’t load the appropriate data, assigns beneficiaries to the wrong households, and makes incorrect eligibility determinations, according to the decision from Middle District of Tennessee Judge Waverly Crenshaw Jr.</quote>
+    <link>https://gizmodo.com/judge-rules-400-million-algorithmic-system-illegally-denied-thousands-of-peoples-medicaid-benefits-2000492529</link>
+  </entry>
+
+</feed>

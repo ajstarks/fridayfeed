@@ -1,0 +1,41 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>December 12, 2025</date>
+
+	<entry>
+		<title>Size of Life</title>
+		<quote>From DNA to Pando Clone</quote>
+		<link>https://neal.fun/size-of-life/</link>
+	</entry>
+
+	<entry>
+		<title>Your intellectual fly is open</title>
+		<quote>So please, if not for the sanity of all of us than just to give your own message the credit it deserves: have some confidence in your own voice—and write your own content.</quote>
+		<link>https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/</link>
+	</entry>
+	
+	<entry>
+		<title>Microsoft Scales Back AI Goals Because Almost Nobody Is Using Copilot</title>
+		<quote>Microsoft has cut its sales targets for its agentic AI software after struggling to find buyers interested in using it. In some cases, targets have been slashed by up to 50%, suggesting Microsoft overestimated the potential of its new AI tools.</quote>
+		<link>https://www.extremetech.com/computing/microsoft-scales-back-ai-goals-because-almost-nobody-is-using-copilot</link>
+	</entry>
+
+	<entry>
+		<title>Mermaid to Motion</title>
+		<quote>Live Mermaid render with cinematic flow</quote>
+		<link>https://fanfa.dev/</link>
+	</entry>
+
+	<entry>
+		<title>SVG is all you need</title>
+		<quote>SVGs are pretty cool - vector graphics in a simple XML format. They are supported on just about every device and platform, are crisp on every display, and can have embedded scripts in to make them interactive. They're way more capable than many people realise, and I think we can capitalise on some of that unrealised potential.</quote>
+		<link>https://jon.recoil.org/blog/2025/12/an-svg-is-all-you-need.html</link>
+	</entry>
+	
+	<entry>
+		<title>The kids who ran away to 1960s San Francisco</title>
+		<quote>I followed my curiosity and ended up at the library reading hundreds of letters of runaway teenagers who came to hippie San Francisco</quote>
+		<link>https://www.fieldnotes.nautilus.quest/p/the-kids-who-ran-away-to-1960s-san</link>
+	</entry>
+
+</feed>

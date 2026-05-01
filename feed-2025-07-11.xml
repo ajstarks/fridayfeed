@@ -1,0 +1,36 @@
+<feed>
+	<title>Friday Feed</title>
+    <date>July 11, 2025</date>
+
+    <entry>
+        <title>The Real GenAI Issue</title>
+		<quote>The business leaders pumping all this money of course don’t understand the technology. They’re doing this for exactly one reason: They think they can discard armies of employees and replace them with LLM services, at the cost of shipping shittier products.</quote>
+		<link>https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto</link>
+	</entry>
+
+
+    <entry>
+        <title>macOS Icon History</title>
+		<quote>Documenting the evolution of macOS system icons over the past several decades.</quote>
+		<link>https://basicappleguy.com/basicappleblog/macos-icon-history</link>
+	</entry>
+
+    <entry>
+        <title>How Uber Eats Scaled Search to Handle Billions of Daily Queries</title>
+		<quote>Uber Eats scaled search by revamping indexing, geo-sharding &amp; ranking, supporting billions of queries daily without compromising latency.</quote>
+		<link>https://hw.glich.co/p/how-uber-eats-scaled-search-to-handle-billions-of-daily-queries</link>
+	</entry>
+
+    
+	<entry>
+        <title>When Figma Starts Designing Us</title>
+		<quote>The subtle ways in which design tools shape how we think and what we make</quote>
+		<link>https://designsystems.international/ideas/when-figma-starts-designing-us/</link>
+	</entry>
+
+	<entry>
+        <title>What Every Programmer Should Know about How CPUs Work • Matt Godbolt </title>
+		<quote>In this talk, Matt will describe some of the performance features of modern CPUs and explain how your code is already benefiting from them. We’ll look at real-world server performance, the tooling available to measure their impact, and how compilers are often already doing the right thing for us.</quote>
+		<link>https://youtu.be/-HNpim5x-IE</link>
+	</entry>
+</feed>

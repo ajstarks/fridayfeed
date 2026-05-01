@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 31, 2024</date>
+
+  <entry>
+    <title>Unpacking Google’s massive search documentation leak</title>
+    <quote>This breakdown unveils potential Google Search ranking factors, including details on PageRank variations, site authority metrics and more.</quote>
+    <link>https://searchengineland.com/unpacking-googles-massive-search-documentation-leak-442716</link>
+  </entry>
+
+  <entry>
+    <title>TikTok is reportedly splitting its source code to create a US-only algorithm </title>
+    <quote>TikTok denied a Reuters report that engineers are cloning the recommendation algorithm to let it work full independently of its Chinese parent company, ByteDance.</quote>
+    <link>https://www.theverge.com/2024/5/30/24168353/tiktok-douyin-algorithm-code-splitting-bytedance-rumor</link>
+  </entry>
+
+  <entry>
+    <title>Training is not the same as chatting: ChatGPT and other LLMs don’t remember everything you say</title>
+    <quote>Every time you start a new chat conversation, you clear the slate. Each conversation is an entirely new sequence, carried out entirely independently of previous conversations from both yourself and other users.</quote>
+    <link>https://simonwillison.net/2024/May/29/training-not-chatting/</link>
+  </entry>
+
+  <entry>
+    <title>Did you hear the story about how $400k worth of Playdates?</title>
+    <quote>Well, guess what got hastily dumped at a random restaurant this morning?</quote>
+    <link>https://x.com/playdate/status/1796277575901401404</link>
+  </entry>
+
+  <entry>
+  	<title>Find websites similar to yours</title>
+  	<quote>Discover websites using similar color palettes.</quote>
+  	<link>https://themefinder.io/#ff0000</link>
+  </entry>
+
+</feed>

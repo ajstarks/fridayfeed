@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>August 2, 2024</date>
+
+  <entry>
+    <title>Why CSV is still king</title>
+    <quote>In the world of data, CSV is the cockroach of file formats. It's simple, resilient, and seemingly impossible to kill off.</quote>
+    <link>https://konbert.com/blog/why-csv-is-still-king</link>
+  </entry>
+
+  <entry>
+    <title>How I Computer in 2024</title>
+    <quote>I’m always fascinated to see how people use their computers - which applications they choose, how they set up their desktop environments and even how their screens are laid out on their desk. I’ve learned some great tricks from friends and colleagues over the years, so I thought I’d write up how I use my machines in 2024.</quote>
+    <link></link>
+  </entry>
+
+  <entry>
+    <title>Fully-automatic robot dentist performs world's first human procedure</title>
+    <quote>At this point, the (human) dentist and patient can discuss what needs doing – but once those decisions are made, the robotic dental surgeon takes over. It plans out the operation, then jolly well goes ahead and does it.</quote>
+    <link>https://newatlas.com/health-wellbeing/robot-dentist-world-first/</link>
+  </entry>
+
+  <entry>
+    <title>Why Western Designs Fail in Developing Countries</title>
+    <quote>Why is it so hard for talented designers to create great products for developing countries? To get closer to an answer, I spoke with experts in international development, designers from diverse cultures, and conducted extensive secondary research. </quote>
+    <link>https://www.youtube.com/watch?v=CGRtyxEpoGg</link>
+  </entry>
+
+
+  <entry>
+    <title>How Does OpenAI Survive?</title>
+    <quote>I ultimately believe that OpenAI in its current form is untenable. There is no path to profitability, the burn rate is too high, and generative AI as a technology requires too much energy for the power grid to sustain it, and training these models is equally untenable, both as a result of ongoing legal issues (as a result of theft) and the amount of training data necessary to develop them.</quote>
+    <link>https://www.wheresyoured.at/to-serve-altman/</link>
+  </entry>
+</feed>

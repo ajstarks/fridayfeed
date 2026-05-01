@@ -1,0 +1,34 @@
+<feed>
+    <title>Friday Feed</title>
+    <date>June 20, 2025</date>
+
+        <entry>
+        <title>Now might be the best time to learn software development</title>
+        <quote>Devs are gonna develop- and now with far greater reach and speed than ever before. So my advice to any exec thinking about layoffs: you can be sure that other institutions are reorganizing their AI-powered devs to conquer new territory, why aren't you doing the same with yours?</quote>
+        <link>https://substack.com/home/post/p-165655726</link>
+        </entry>
+
+        <entry>
+        <title>Cray versus Raspberry Pi</title>
+        <quote>The RPi5 is much smaller and lighter than the Cray 1, by many orders of magnitude. In fact we're talking just 50g versus 10 tonnes. The RPi5 uses far less power at around 12W versus the 115KW of the Cray. But what about performance? Can this tiny single-board computer match the awesome power of what was once the fastest computer on the planet? Well, as I mentioned earlier, the Cray had about 160MFLOPS of raw processing power; the Pi has... up to 30GFLOPS. Yes... that's *giga*FLOPS. This makes it almost 200 times faster than the Cray.</quote>
+        <link>https://www.aardvark.co.nz/daily/2025/0611.shtml</link>
+        </entry>
+
+        <entry>
+        <title>Inside the Apollo "8-Ball" FDAI (Flight Director / Attitude Indicator)</title>
+        <quote>During the Apollo flights to the Moon, the astronauts observed the spacecraft's orientation on a special instrument called the FDAI (Flight Director / Attitude Indicator). This instrument showed the spacecraft's attitude—its orientation—by rotating a ball.</quote>
+        <link>https://www.righto.com/2025/06/inside-apollo-fdai.html</link>
+        </entry>
+
+        <entry>
+        <title>Real Risk to Youth Mental Health Is ‘Addictive Use,’ Not Screen Time Alone, Study Finds</title>
+        <quote>Researchers found children with highly addictive use of phones, video games or social media were two to three times as likely to have thoughts of suicide or to harm themselves.</quote>
+        <link>https://archive.is/jHp7u#selection-4395.0-4395.176</link>
+        </entry>
+
+        <entry>
+        <title>Menstrual tracking app data is a ‘gold mine’ for advertisers that risks women’s safety – report</title>
+        <quote>The report’s authors caution that cycle tracking app (CTA) data in the wrong hands could result in risks to job prospects, workplace monitoring, health insurance discrimination and cyberstalking – and limit access to abortion.</quote>
+        <link>https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report</link>
+        </entry>
+</feed>

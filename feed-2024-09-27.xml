@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>September 27, 2024</date>
+
+  <entry>
+    <title>XKCD 1425 (Tasks) turns ten years old today</title>
+    <quote>Understanding the difference between easy and hard challenges in software development continues to require an enormous depth of experience.</quote>
+    <link>https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/</link>
+  </entry>
+
+  <entry>
+    <title>Nvidia Launches AI Reference Workflow for Drug Discoverers</title>
+    <quote>NVIDIA NIM™ Agent Blueprints are reference workflows designed to help drug discoverers and other customers build and deploy generative AI applications for uses that include virtual screening, information retrieval, and even customer service avatars.</quote>
+    <link>https://www.genengnews.com/topics/artificial-intelligence/nvidia-launches-ai-reference-workflow-for-drug-discoverers/</link>
+  </entry>
+
+  <entry>
+    <title>Meta’s big tease</title>
+    <quote>Orion is an impressive demo of AR glasses, but can Mark Zuckerberg beat everyone else to the next big platform?
+</quote>
+    <link>https://www.theverge.com/24253908/meta-orion-ar-glasses-demo-mark-zuckerberg-interview</link>
+  </entry>
+
+  <entry>
+    <title>Enterprise Philosophy and The First Wave of AI</title>
+    <quote>My core contention here, however, is that AI truly is a new way of computing, and that means the better analogies are to computing itself. Transformers are the transistor, and mainframes are today’s models. The GUI is, arguably, still TBD.</quote>
+    <link>https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai/ </link>
+  </entry>
+
+  <entry>
+    <title>OpenAI as we knew it is dead</title>
+    <quote>OpenAI, the company that brought you ChatGPT, just sold you out.</quote>
+    <link>https://www.vox.com/future-perfect/374275/openai-just-sold-you-out</link>
+  </entry>
+
+</feed>

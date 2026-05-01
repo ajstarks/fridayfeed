@@ -1,0 +1,34 @@
+<feed>
+	<title>Friday Feed</title>
+    <date>August 22, 2025</date>
+
+    <entry>
+        <title>How to draw a Space Invader</title>
+		<quote>I recently made the Space Invader Generator for Creative Coding Amsterdam code challenge. I made it for fun of course... and galactic domination too! You can see how it looks below and in this post I'll show you how it works using an interactive animation.</quote>
+		<link>https://muffinman.io/blog/invaders/</link>
+	</entry>
+
+    <entry>
+        <title>What the hell is going on right now?</title>
+		<quote>Instead of their comments being taken to heart, reflected on, and used as learning opportunities, hapless young coders are instead using feedback as simply the next prompt in their “AI” masterpiece. </quote>
+		<link>https://catskull.net/what-the-hell-is-going-on-right-now.html</link>
+	</entry>
+
+	<entry>
+        <title>An Interactive Guide to SVG Paths</title>
+		<quote>In this blog post, we’ll cover all of the basic commands, including the infamous arc command. I’ll help you build an intuition for how they work, and show you some cool stuff you can do with them!</quote>
+		<link>https://www.joshwcomeau.com/svg/interactive-guide-to-paths/</link>
+	</entry>
+
+	<entry>
+        <title>AWS CEO says using AI to replace junior staff is 'Dumbest thing I've ever heard'</title>
+		<quote>They're cheap and grew up with AI … so you're firing them why?ß</quote>
+		<link>https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/</link>
+	</entry>
+
+	<entry>
+        <title>Moving Objects in 3D space</title>
+		<quote>Visualizing Moving Objects in 3D space</quote>
+		<link>https://visualrambling.space/moving-objects-in-3d/</link>
+	</entry>
+</feed>

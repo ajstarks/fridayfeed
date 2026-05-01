@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 7, 2025</date>
+  
+  <entry>
+    <title>Stone Soup AI</title>
+    <quote>“We have a magic algorithm that will make artificial general intelligence from just gradient descent, next-token prediction, and transformers.” “Really,” said the users, “that does sound magical.” “Of course, it will be even better and more intelligent if we add more data — especially text and images,” said the execs.</quote>
+    <link>https://simons.berkeley.edu/news/stone-soup-ai</link>
+  </entry>
+  
+  <entry>
+    <title>Hallucinations in code are the least dangerous form of LLM mistakes</title>
+    <quote>The way to avoid those problems is the same as how you avoid problems in code by other humans that you are reviewing, or code that you’ve written yourself: you need to actively exercise that code. You need to have great manual QA skills.</quote>
+    <link>https://simonwillison.net/2025/Mar/2/hallucinations-in-code/</link>
+  </entry>
+
+  <entry>
+    <title>How He Made a Masterpiece on His Laptop</title>
+    <quote>Discussing the Academy Award Winner "Flow"</quote>
+    <link>https://youtu.be/KiF3UUzgCws</link>
+  </entry>
+  
+
+  <entry>
+    <title>Work at the Mill</title>
+    <quote>Or, the Story of Digital Equipment Corporation</quote>
+    <link>https://www.abortretry.fail/p/work-at-the-mill</link>
+  </entry>
+
+  <entry>
+    <title>Scientists crack how aspirin might stop cancers from spreading</title>
+    <quote>Aspirin disrupts the platelets and removes their influence over the T-cells so they can hunt out the cancer.</quote>
+    <link>https://www.bbc.com/news/articles/c1d4n119xr7o</link>
+  </entry>
+  
+</feed>

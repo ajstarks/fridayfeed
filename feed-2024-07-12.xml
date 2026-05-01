@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 12, 2024</date>
+
+  <entry>
+    <title>Behind the Scenes: crafting the motion graphics of the Super Bowl with Emonee LaRussa</title>
+    <quote>Join us for an exclusive peek behind the curtain with Emonee LaRussa, the creative mastermind behind the motion graphics of the last Super Bowl. Learn about her creative process, the challenges she faced, and the innovative techniques she used to bring the biggest sporting event of the year to life in stunning visual displays.</quote>
+    <link>https://www.youtube.com/watch?v=AwfW7lue6O4</link>
+  </entry>
+
+  <entry>
+    <title>The Typography of Wall-E</title>
+    <quote>From a trash-filled Earth to the futuristic Axiom and back again, WALL·E is a finely crafted balance between consumerist dystopia and sixties space-race optimism. Please join me, then, for a detailed dive into the uniquely robotic future of a remarkably human film, as seen through the eyes of its eponymous hero, WALL·E.</quote>
+    <link>https://typesetinthefuture.com/2018/12/04/walle/</link>
+  </entry>
+
+  <entry>
+    <title>DVDs are dying right as streaming has made them appealing again</title>
+    <quote>The end of Redbox marks another death knell for the DVD industry at a time when volatile streaming services are making physical media appealing again.</quote>
+    <link>https://arstechnica.com/gadgets/2024/07/dvds-are-dying-right-as-streaming-has-made-them-appealing-again/</link>
+  </entry>
+
+  <entry>
+    <title>What is Circos?</title>
+    <quote>Circos is a software package for visualizing data and information. It visualizes data in a circular layout — this makes Circos ideal for exploring relationships between objects or positions. Circos is ideal for creating publication-quality infographics and illustrations with a high data-to-ink ratio, richly layered data and pleasant symmetries. You have fine control each element in the figure to tailor its focus points and detail to your audience.</quote>
+    <link>https://circos.ca/</link>
+  </entry>
+
+  <entry>
+    <title>Early Apple tech bloggers are shocked to find their name and work have been AI-zombified</title>
+    <quote>“I thought the worst thing that could happen would be like with MTV News where the archives just go away, but I was faced with this paradox where what’s worse than not having any archive at all is this bastardized version, this weird zombie corpse of a thing that looks like what it was but isn’t,” </quote>
+    <link>https://www.theverge.com/2024/7/10/24195858/tuaw-unofficial-apple-tech-blog-ai-web-orange-khan</link>
+  </entry>
+
+</feed>

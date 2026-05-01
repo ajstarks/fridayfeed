@@ -1,0 +1,41 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 28, 2025</date>
+
+  <entry>
+    <title>AI models miss disease in Black and female patients</title>
+    <quote>A new study, published today in Science Advances, adds to this work by testing one of the most cited AI models used to scan chest x-rays for diseases—and finding the model doesn’t accurately detect potentially life-threatening diseases in marginalized groups, including women and Black people.</quote>
+    <link>https://www.science.org/content/article/ai-models-miss-disease-black-female-patients</link>
+  </entry>
+
+  <entry>
+    <title>Trapping misbehaving bots in an AI Labyrinth</title>
+   <quote>When we detect unauthorized crawling, rather than blocking the request, we will link to a series of AI-generated pages that are convincing enough to entice a crawler to traverse them. But while real looking, this content is not actually the content of the site we are protecting, so the crawler wastes time and resources. </quote>
+   <link>https://blog.cloudflare.com/ai-labyrinth/</link>
+ </entry>
+
+  <entry>
+    <title>They lied to you. Building software is really hard.</title>
+   <quote>The reality is that if your goal is to become a software developer, relying on these tools early on often ends up slowing you down. You get the illusion of progress early on, but the flat learning curve just means that it will take much longer to learn all the things you need.</quote>
+   <link>https://toddle.dev/blog/they-lied-to-you-building-software-is-really-hard</link>
+ </entry>
+
+ <entry>
+    <title>I was wrong about AI Coding</title>
+   <quote>'m mostly anti-AI person since the AI hype started years ago. However with time I realized that I misjudged AI Coding — Here’s Why.</quote>
+   <link>https://arslan.io/2025/03/26/i-was-wrong-about-ai-coding/?ref=fatih-arslan-newsletter</link>
+ </entry>
+
+  <entry>
+    <title>Pi Pico Rx - A crystal radio for the digital age?</title>
+   <quote>My first step into the world of electronics was with a crystal radio, just like this one.</quote>
+   <link>https://101-things.readthedocs.io/en/latest/radio_receiver.html</link>
+ </entry>
+
+  <entry>
+    <title>A USB interface to the "Mother of All Demos" keyset</title>
+    <quote>In the early 1960s, Douglas Engelbart started investigating how computers could augment human intelligence: "If, in your office, you as an intellectual worker were supplied with a computer display backed up by a computer that was alive for you all day and was instantly responsive to every action you had, how much value could you derive from that?"</quote>
+    <link>https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html</link>
+  </entry>
+
+</feed>

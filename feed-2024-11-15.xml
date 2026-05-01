@@ -1,0 +1,38 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>November 15, 2024</date>
+  
+  <entry>
+    <title>MomBoard: E-ink display for a parent with amnesia</title>
+    <quote>Today marks two years since I first set up an e-ink display in my mom’s apartment to help her live on her own with amnesia. The display has worked extremely well during those two years, so I’m sharing the basic set-up in case others find it useful for similar situations.
+
+</quote>
+    <link>https://jan.miksovsky.com/posts/2024/11-12-momboard</link>
+  </entry>
+  
+  <entry>
+    <title>A Mathematician in a School of Art: an interview with Edmund Harriss
+</title>
+    <quote>In my own work I do not see a strong distinction between the mathematics and the art; they very much work hand in hand.  The artistic thinking feeds the mathematical enquiry, and the mathematical ideas support the artistic investigation. The goal of the position is to highlight those connections at an institutional level.</quote>
+    <link>https://www.mathvalues.org/masterblog/a-mathematician-in-a-school-of-art-an-interview-with-edmund-harriss</link>
+  </entry>
+
+  <entry>
+    <title>The Onion just bought Infowars</title>
+    <quote>A relentless barrage of humor for good.</quote>
+    <link>https://www.theverge.com/2024/11/14/24296375/the-onion-infowars-acquisition-alex-jones</link>
+  </entry>
+  
+  <entry>
+    <title>How I Fell Back in Love with iPhone Photography</title>
+    <quote>Eschewing the uncanny perfection that marks so much iPhone photography, Process Zero has made me enjoy taking photos with my phone again, because I don’t feel like I’m constantly fighting against algorithmic editing that I can’t control or predict.</quote>
+    <link>https://www.newyorker.com/culture/infinite-scroll/how-i-fell-back-in-love-with-iphone-photography</link>
+  </entry>
+
+  <entry>
+    <title>The Internet Gopher from Minnesota</title>
+    <quote>For many students at universities around the world, they could now easily access an abundance of information on VT100-compatible terminals connected over serial to their campus’s UNIX machines; glowing CRTs acting as gateways to a world of interconnected computers giving out information for free. From Gopher, a surfer of the Internet could access FTP, WAIS, Usenet, and other resources easily and in a very uniform way. For those lucky enough to have a Macintosh at the time, there was TurboGopher, but clients proliferated quickly on all major platforms.</quote>
+    <link>https://www.abortretry.fail/p/the-internet-gopher-from-minnesota</link>
+  </entry>
+  
+</feed>

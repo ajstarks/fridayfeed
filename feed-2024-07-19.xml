@@ -1,0 +1,38 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>July 19, 2024</date>  
+  
+  <entry>
+    <title>CrowdStrike outage Blue Screen of Death photos from around the world</title>
+    <quote>Photos of a world seeing blue due to the massive outage affecting Microsoft Windows systems</quote>
+    <link>https://www.theverge.com/24202037/microsoft-crowdstrike-outage-blue-screen-error-photos</link>
+  </entry>
+
+   <entry>
+    <title>Hash-Based Bisect Debugging in Compilers and Runtimes</title>
+    <quote>What if I told you that a magic wand exists that can pinpoint the relevant line of code or call stack in that unfamiliar code base? It exists. It is a real tool, and I’m going to show it to you.</quote>
+    <link>https://research.swtch.com/bisect</link>
+  </entry>
+
+
+  <entry>
+    <title>Want to spot a deepfake? Look for the stars in their eyes</title>
+    <quote>AI-generated fakes can be spotted by analysing human eyes in the same way that astronomers study pictures of galaxies. The crux of the work, by University of Hull MSc student Adejumoke Owolabi, is all about the reflection in a person's eyeballs.</quote>
+    <link>https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes</link>
+  </entry>
+  
+  <entry>
+    <title>Little Languages</title>
+    <quote>A language is any mechanism to express intent, and the input to many programs can be viewed profitably as statements in a language.</quote>
+    <link>https://staff.um.edu.mt/afra1/seminar/little-languages.pdf</link>
+  </entry>
+
+  <entry>
+    <title>Visualizing the UK Election</title>
+    <quote>WHO DID IT BEST? I chose 4 example constituency maps from the UK General Election from The Times, FT, BBC and Sky. </quote>
+    <link>https://www.linkedin.com/posts/acotgreave_4-example-constituency-maps-from-the-uk-general-activity-7216027382808223744-G1zp</link>
+  </entry>
+
+ 
+  
+</feed>

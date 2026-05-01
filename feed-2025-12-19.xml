@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>December 19, 2025</date>
+
+	<entry>
+		<title>1.5 TB of VRAM on Mac Studio - RDMA over Thunderbolt 5</title>
+		<quote>I'm not sure if its by accident or Apple's playing the long game, but the M3 Ultra Mac Studio hit a sweet spot for running local AI models. And with RDMA support lowering memory access latency from 300μs down to less than 50μs, clustering now adds to the performance, especially running huge models.</quote>
+		<link>https://www.jeffgeerling.com/blog/2025/15-tb-vram-on-mac-studio-rdma-over-thunderbolt-5</link>
+	</entry>
+
+	<entry>
+		<title>AI's Unpaid Debt: How LLM Scrapers Destroy the Social Contract of Open Source</title>
+		<quote>The big tech AI company LLMs have gobbled up all of our data, but the damage they have done to open source and free culture communities are particularly insidious. By taking advantage of those who share freely, they destroy the bargain that made free software spread like wildfire.</quote>
+		<link>https://www.quippd.com/writing/2025/12/17/AIs-unpaid-debt-how-llm-scrapers-destroy-the-social-contract-of-open-source.html</link>
+	</entry>
+
+	<entry>
+		<title>TikTok Deal Done And It’s Somehow The Shittiest Possible Outcome, Making Everything Worse</title>
+		<quote>This was never about addressing privacy, propaganda, or national security. It was always about the U.S. stealing ownership of one of the most popular and successful short form video apps in history because companies like Facebook were too innovatively incompetent to dethrone them in the open market.</quote>
+		<link>https://www.techdirt.com/2025/12/19/tiktok-deal-done-and-its-somehow-the-shittiest-possible-outcome-making-everything-worse/</link>
+	</entry>
+
+	<entry>
+		<title>Fuzzy Canary</title>
+		<quote>AI companies are scraping everyone's sites for training data. If you're self-hosting your blog, there's not much you can do about it, except maybe make them think your site contains content they won't want. Fuzzy Canary plants invisible links (to porn websites...) in your HTML that trigger scrapers' content safeguards.</quote>
+		<link>https://github.com/vivienhenz24/fuzzy-canary</link>
+	</entry>
+
+	<entry>
+		<title>On the Immortality of Microsoft Word</title>
+		<quote>Microsoft Word can never be replaced. OpenAI could build superintelligence surpassing human cognition in every conceivable dimension, rendering all human labor obsolete, and Microsoft Word will survive. Future contracts defining the land rights to distant galaxies will undoubtedly be drafted in Microsoft Word.</quote>
+		<link>https://theredline.versionstory.com/p/on-the-immortality-of-microsoft-word</link>
+	</entry>
+
+</feed>

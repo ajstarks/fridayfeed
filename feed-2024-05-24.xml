@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>May 24, 2024</date>
+
+  <entry>
+  	<title>The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From ‘Modern Day Slavery’</title>
+    <link>https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/</link>
+    <quote>A typical workday for African tech contractors, the letter says, involves “watching murder and beheadings, child abuse and rape, pornography and bestiality, often for more than 8 hours a day.” </quote>
+  </entry>
+
+  <entry>
+    <title>Faking William Morris, Generative Forgery, and the Erosion of Art History</title>
+    <quote>And all the while the model-makers continue to scrape data from the web, train new generations of neural networks on it, and pump the results back out into our information ecosystem. Where shady, short-sighted entrepreneurs and capital-seeking opportunists sit waiting to leverage it in culturally irresponsible ways. Regurgitating history in an endless loop.</quote>
+    <link>https://maggieappleton.com/generative-forgery</link>
+  </entry>
+
+  <entry>
+    <title>Sam Altman Is Showing Us Who He Really Is</title>
+    <quote>Yet OpenAI’s reportedly aggressive actions in courting ScarJo’s voice and then pressing ahead without her consent have invited a new level of public opprobrium against the otherwise popular app-maker.</quote>
+    <link>https://slate.com/technology/2024/05/scarlett-johansson-ai-voice-sam-altman-openai.html</link>
+  </entry>
+
+  <entry>
+    <title>Windows Recall sounds like a privacy nightmare – here's why I'm worried</title>
+    <quote>Screenshotting everything you do and feeding it into an AI model could be a recipe for disaster</quote>
+    <link>https://www.techradar.com/computing/computing-security/windows-recall-sounds-like-a-privacy-nightmare-heres-why-im-worried</link>
+  </entry>
+
+  <entry>
+    <title>Google promised a better search experience — now it’s telling us to put glue on our pizza </title>
+    <quote>Imagine this: you’ve carved out an evening to unwind and decide to make a homemade pizza. You assemble your pie, throw it in the oven, and are excited to start eating. But once you get ready to take a bite of your oily creation, you run into a problem — the cheese falls right off. Frustrated, you turn to Google for a solution. “Add some glue,” Google answers. “Mix about 1/8 cup of Elmer’s glue in with the sauce. Non-toxic glue will work.”</quote>
+    <link>https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza</link>
+  </entry>
+
+</feed>

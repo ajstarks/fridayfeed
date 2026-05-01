@@ -1,0 +1,36 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>October 31, 2025</date>
+
+	<entry>
+		<title>ChatGPT's Atlas: The Browser That's Anti-Web</title>
+		<quote>he problems fall into three main categories: Atlas substitutes its own AI-generated content for the web, but it looks like it's showing you the web. The user experience makes you guess what commands to type instead of clicking on links. You're the agent for the browser, it's not being an agent for you
+</quote>
+		<link>https://www.anildash.com/2025/10/22/atlas-anti-web-browser/</link>
+	</entry>
+
+	<entry>
+		<title>Who needs Graphviz when you can build it yourself?</title>
+		<quote>We recently overhauled our internal tools for visualizing the compilation of JavaScript and WebAssembly. When SpiderMonkey’s optimizing compiler, Ion, is active, we can now produce interactive graphs showing exactly how functions are processed and optimized.</quote>
+		<link>https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html</link>
+	</entry>
+
+	<entry>
+		<title>Some People Can’t See Mental Images. The Consequences Are Profound</title>
+		<quote>Recent research has linked mental imagery to traits as different as vulnerability to trauma and a propensity to hold grudges.</quote>
+		<link>https://www.newyorker.com/magazine/2025/11/03/some-people-cant-see-mental-images-the-consequences-are-profound</link>
+	</entry>
+
+	<entry>
+		<title>How We Saved $500,000 Per Year by Rolling Our Own “S3”</title>
+		<quote>We built N3, a Rust-based in-memory landing zone that eliminates both issues, using S3 only as an overflow buffer. Result: meaningful cost reduction (~$0.5M/year)</quote>
+		<link>https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143</link>
+	</entry>
+
+	<entry>
+		<title></title>
+		<quote></quote>
+		<link></link>
+	</entry>
+
+</feed>

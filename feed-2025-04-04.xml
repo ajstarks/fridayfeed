@@ -1,0 +1,35 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>April 4, 2025</date>
+  
+  <entry>
+    <title>Making of the New York and Erie Railroad organizational diagram</title>
+    <quote>Drawn in 1855 and only rediscovered in recent decades, this diagram captured my attention and I finally took the time to recreate it from scratch as a fun technical exercise. What was unexpected was the depths I ended up going to in order to learn about its fascinating history.</quote>
+    <link>https://www.c82.net/blog/?id=98</link>
+  </entry>
+  
+  <entry>
+    <title>The Mediocrity of Modern Google</title>
+    <quote>The company that once represented the pinnacle of innovation has devolved into a symbol of corporate indifference.</quote>
+    <link>https://om.co/2025/03/29/the-mediocrity-of-modern-google/</link>
+  </entry>
+
+  <entry>
+    <title>Celebrate 50 years of Microsoft with the company's original source code</title>
+    <quote>That code remains to coolest code I've ever written to this day</quote>
+    <link>https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code</link>
+  </entry>
+  
+  <entry>
+    <title>AI bots strain Wikimedia as bandwidth surges 50%</title>
+    <quote>Automated AI bots seeking training data threaten Wikipedia project stability, foundation says.</quote>
+    <link>https://arstechnica.com/information-technology/2025/04/ai-bots-strain-wikimedia-as-bandwidth-surges-50/</link>
+  </entry>
+
+  <entry>
+    <title>Porting Tailscale to Plan 9</title>
+    <quote>As the quip goes, “We chose to port Tailscale to Plan 9 not because it was easy, but because we thought it would be easy.”</quote>
+    <link>https://tailscale.com/blog/plan9-port</link>
+  </entry>
+  
+</feed>

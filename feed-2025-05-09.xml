@@ -1,0 +1,38 @@
+<feed>
+	<title>Friday Feed</title>
+    <date>May 9, 2025</date>
+
+    <entry>
+        <title>The enshittification of tech jobs</title>
+		<quote>Amazon is famous for spying on its warehouse workers and drivers – and now its tech staff report getting popups warning them that their keystrokes are being monitored and analyzed, and their screens are being recorded.</quote>
+		<link>https://pluralistic.net/2025/04/27/some-animals/#are-more-equal-than-others</link>
+	</entry>
+
+	<entry>
+        <title>How much information is in DNA?</title>
+		<quote>We still have no idea what (if anything) lots of DNA is doing, and we’re a long way from fully understanding how much it can be reduced. P</quote>
+		<link>https://dynomight.net/dna/</link>
+	</entry>
+
+	<entry>
+        <title>Castle Kellmore rendering</title>
+		<quote>Since Castle Kellmore released on Playdate, I have had a lot of interest in the technical aspects of its rendering system. So I thought I would give a brief insight into how I made it look as good as possible, while (mostly) keeping to 50 frames per second.</quote>
+		<link>https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering</link>
+	</entry>
+
+    <entry>
+        <title>I Put Sheet Music Into Smart Glasses!</title>
+		<quote>The story of how I fulfilled my dream of putting sheet music into glasses, and why it's just the beginning.</quote>
+		<link>https://youtu.be/j36u2i7PKKE</link>
+	</entry>
+
+    <entry>
+        <title>Stop treating ‘AGI’ as the north-star goal of AI research</title>
+		<quote>In this position paper, we argue that focusing on the highly contested topic of ‘artificial general intelligence’ (‘AGI’) undermines our ability to choose effective goals.</quote>
+		<link>https://arxiv.org/pdf/2502.03689</link>
+	</entry>
+
+	
+
+	
+</feed>

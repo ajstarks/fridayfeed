@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>February 9, 2024</date>
+
+  <entry>
+    <title>The Rise Of Techno-Authoritarianism</title>
+    <quote>They tend to hold eccentric beliefs: that technological progress of any kind is unreservedly and inherently good; that you should always build it, simply because you can; that frictionless information flow is the highest value regardless of the information’s quality; that privacy is an archaic concept; that we should welcome the day when machine intelligence surpasses our own. And above all, that their power should be unconstrained. </quote>
+    <link>https://archive.md/TcXKA</link>
+  </entry>
+
+  <entry>
+    <title>AI-generated Biden robocall linked to Texas companies, officials say</title>
+    <quote>New Hampshire households began receiving the robocalls on Jan. 21, two days before the primary. The calls included an artificial voice recording of Biden that told voters to stay home and save their vote for the November presidential election.</quote>
+    <link>https://www.politico.com/news/2024/02/06/robocalls-fcc-new-hampshire-texas-00139864</link>
+  </entry>
+
+
+  <entry>
+    <title>SQL for the Weary</title>
+    <quote>Teaching SQL with 100 examples</quote>
+    <link>https://gvwilson.github.io/sql-tutorial/</link>
+  </entry>
+
+  <entry>
+    <title>My experiment in phonelessness was a failure. It also changed my life</title>
+    <quote>I can feel the effect in my body. I sometimes leave my phone at home. It’s a mental reset to feel the air, to not be somewhere else. And I’m much happier than I was.</quote>
+    <link>https://www.theguardian.com/lifeandstyle/2024/feb/05/phone-screentime-detox-reflection</link>
+  </entry>
+
+  <entry>
+    <title>AI cannot be used to deny health care coverage, feds clarify to insurers</title>
+    <quote>In all, the CMS finds that AI tools can be used by insurers when evaluating coverage—but really only as a check to make sure the insurer is following the rules. An "algorithm or software tool should only be used to ensure fidelity" with coverage criteria,</quote>
+    <link>https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/</link>
+  </entry>
+
+</feed>

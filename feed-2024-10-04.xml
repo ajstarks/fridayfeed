@@ -1,0 +1,43 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>October 4, 2024</date>
+
+  <entry>
+    <title>College students used Meta’s smart glasses to dox people in real time </title>
+    <quote>Two Harvard students have created an eerie demo of how smart glasses can use facial recognition tech to instantly dox people’s identities, phone numbers, and addresses. The most unsettling part is the demo uses current, widely available technology like the Ray-Ban Meta smart glasses and public databases.</quote>
+    <link>https://www.theverge.com/2024/10/2/24260262/ray-ban-meta-smart-glasses-doxxing-privacy</link>
+  </entry>
+
+  <entry>
+    <title>Did Apple Just Kill Social Apps?</title>
+    <quote>Some app makers worry that a subtle change to the iPhone’s contact-sharing permissions could make it hard for them to get the fast growth they need to compete.</quote>
+    <link>https://archive.ph/bzyTn#selection-625.0-625.32</link>
+  </entry>
+
+  <entry>
+    <title>Navigating the Moon: The Insanely Amazing Apollo Missions</title>
+    <quote>Perhaps you’d like to join me on a journey some 380,000 kilometers from Earth: a journey to the Moon</quote>
+    <link>https://maphappenings.com/2024/10/03/moon/</link>
+  </entry>
+
+  <entry>
+    <title>Kashikishi</title>
+    <quote>Kasikishi is a text editor that allows you to edit text in three-dimensional space. In this age of AR/VR, we cannot continue to assume that one-dimensional byte sequences, known as character strings, will be laid out in two-dimensional space as in the paper era, and that they will be expressed with poor interaction.
+    Text should be freely and smoothly laid out in three-dimensional space. (</quote>
+    <link>https://github.com/mitoma/kashiki2/blob/main/README.md</link>
+  </entry>
+
+  <entry>
+    <title>We hacked a robot vacuum — and could watch live through its camera</title>
+    <quote>Without even entering the building, we were able to silently take photos of the (consenting) owner of a device made by Chinese giant Ecovacs. And then things got even creepier.</quote>
+    <link>https://www.abc.net.au/news/2024-10-04/robot-vacuum-hacked-photos-camera-audio/104414020</link>
+  </entry>
+
+  <entry>
+    <title>Cobol Has Been "Dead" For So Long, My Grandpa Wrote About It</title>
+    <quote>These days, I avoid the term “dead” for programming languages at all. If they ever had a large installed base, then they never die. They have long tails where they trail off into obscurity with no junior programmers learning it.</quote>
+    <link>https://wumpus-cave.net/post/2024/10/2024-10-01-death-of-cobol/index.html</link>
+  </entry>
+
+
+</feed>

@@ -1,0 +1,34 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 8, 2024</date>
+
+  <entry>
+    <title>The Terrifying A.I. Scam That Uses Your Loved One’s Voice</title>
+    <quote>A Brooklyn couple got a call from relatives who were being held ransom. Their voices—like many others these days—had been cloned.</quote>
+    <link>https://www.newyorker.com/science/annals-of-artificial-intelligence/the-terrifying-ai-scam-that-uses-your-loved-ones-voice</link>
+  </entry>
+
+  <entry>
+    <title>“AI will cure cancer” misunderstands both AI and medicine</title>
+    <quote>The enthusiasm about AI in medicine is failing to grapple with realities of the system.</quote>
+    <link>https://rachel.fast.ai/posts/2024-02-20-ai-medicine/</link>
+  </entry>
+
+  <entry>
+    <title>NIST 800-207A: Implementing Zero Trust Architecture</title>
+    <quote>Zack Butcher discusses the forthcoming Special Publication 800-207A on a Zero Trust Architecture (ZTA) model for access control in cloud native applications in multi-location environments.</quote>
+    <link>https://www.infoq.com/presentations/nist-800-207a/</link>
+  </entry>
+  
+  <entry>
+    <title>The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions</title>
+    <quote>I saw the One Billion Row Challenge a couple of weeks ago, and it thoroughly nerd-sniped me, so I went to Go solve it. This article describes the nine solutions I wrote in Go, each faster than the previous. The first, a simple and idiomatic solution, runs in 1 minute 45 seconds on my machine, while the last one runs in about 4 seconds. As I go, I’ll show how I used Go’s profiler to see where the time was being spent.</quote>
+    <link>https://benhoyt.com/writings/go-1brc/</link>
+  </entry>
+  
+  <entry>
+    <title>The Mathematician Who Finds the Poetry in Math and the Math in Poetry</title>
+    <quote>The links between math, music and art have been explored for thousands of years. Sarah Hart is now turning a mathematical eye to literature.</quote>
+    <link>https://www.quantamagazine.org/the-theorist-who-sees-math-in-art-music-and-writing-20240112/</link>
+  </entry>  
+</feed>

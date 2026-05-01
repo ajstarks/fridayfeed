@@ -1,0 +1,40 @@
+<feed>
+	<title>Friday Feed</title>
+    <date>April 25, 2025</date>
+
+    <entry>
+        <title>How We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15 Billion Miles Away</title>
+		<quote>Fixing the Flight Data Subsystem on a decades-old spacecraft that is 15 billion miles from Earth.</quote>
+		<link>https://youtu.be/YcUycQoz0zg</link>
+	</entry>
+
+    <entry>
+        <title>Mark Zuckerberg Says Social Media Is Over</title>
+		<quote>During testimony at Meta’s antitrust trial, the Facebook founder’s argument was, in so many words, that platforms like his are not what they used to be.</quote>
+		<link>https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over</link>
+	</entry>
+
+    <entry>
+        <title>DOGE Worker’s Code Supports NLRB Whistleblower</title>
+		<quote>Berulis said the new DOGE accounts had unrestricted permission to read, copy, and alter information contained in NLRB databases. The new accounts also could restrict log visibility, delay retention, route logs elsewhere, or even remove them entirely — top-tier user privileges that neither Berulis nor his boss possessed.</quote>
+		<link>https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/</link>
+	</entry>
+
+	<entry>
+        <title>The Effect Of Deactivating Facebook And Instagram On Users’ Emotional State</title>
+		<quote>We estimate the effect of social media deactivation on users’ emotional state in two large
+randomized experiments before the 2020 U.S. election. People who deactivated Facebook for the
+six weeks before the election reported a 0.060 standard deviation improvement in an index of
+happiness, depression, and anxiety, relative to controls who deactivated for just the first of those six
+weeks. People who deactivated Instagram for those six weeks reported a 0.041 standard deviation
+improvement relative to controls. Exploratory analysis suggests the Facebook effect is driven by
+people over 35, while the Instagram effect is driven by women under 25.</quote>
+		<link>https://www.nber.org/system/files/working_papers/w33697/w33697.pdf</link>
+	</entry>
+
+	<entry>
+        <title>Doubling Up: How ‘Sinners’ and Other Movies Multiply One Actor</title>
+		<quote>From camera tricks to digital facial replacement, a history of duplicating effects.</quote>
+		<link>https://www.nytimes.com/2025/04/25/movies/sinners-twins-visual-effects.html</link>
+	</entry>
+</feed>

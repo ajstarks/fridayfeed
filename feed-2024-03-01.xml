@@ -1,0 +1,36 @@
+<feed>
+  <title>Friday Feed</title>
+  <date>March 1, 2024</date>
+
+
+  <entry>
+    <title>EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions</title>
+    <quote>Watch Mona Lisa recite Shakespeare, or see Leonardo DiCaprio rap like Eminem</quote>
+    <link>https://humanaigc.github.io/emote-portrait-alive/</link>
+  </entry>
+
+  <entry>
+    <title>What a bunch of A-list celebs taught me about how to use my phone</title>
+    <quote>Read and watch enough celebrity interviews, and the lesson becomes obvious: that the most powerful and connected device in your life shouldn’t be within arm’s reach at all times. All that does is invite distraction and makes it too easy to disengage from your life every time you get bored or sad or curious even for a second. Anything you can do to move that stuff a little farther away and make it a little harder to get to is a small victory over the always-on allure of your devices.</quote>
+    <link>https://www.theverge.com/24084772/celebrities-no-phone-bieber-sheeran-cruise-cera-ipad</link>
+  </entry>
+
+  <entry>
+    <title>A poster’s guide to who’s selling your data to train AI</title>
+    <quote>Those Tumblr, Reddit, and WordPress posts you never thought would see the light of day? Yep, them too.</quote>
+    <link>https://www.vox.com/technology/24086039/reddit-tumblr-wordpress-whos-selling-your-data-to-train-ai</link>
+  </entry>
+
+  <entry>
+    <title>Your business wants a spreadsheet. Give it to them.</title>
+    <quote>My Excel usage was plagued by slow performance, poor cloud integration, and no first-class Python support. I loved the richness and responsiveness of Excel, but I had to give up too much power to get it. This felt like a false choice, so 3 years ago I started working on it. Today we're launching Row Zero. Row Zero looks and feels like Excel and Google Sheets, but 100-1000x faster.</quote>
+    <link>https://rowzero.io/</link>
+  </entry>
+
+  <entry>
+    <title>Self-pay gas station pumps break across NZ as software can’t handle Leap Day</title>
+    <quote>New Zealand is one of the first countries to experience February 29 quadrennially because of its location. The gas pump breakdown sent stakeholders into a frenzy as they tried to resolve the problem caused by software being unequipped to process the bonus day.</quote>
+    <link>https://arstechnica.com/gadgets/2024/02/leap-year-glitch-broke-self-pay-pumps-across-new-zealand-for-over-10-hours/</link>
+  </entry>
+
+</feed>

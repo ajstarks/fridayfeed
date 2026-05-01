@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>September 5, 2025</date>
+
+	<entry>
+		<title>50 keyboards from my collection</title>
+		<quote>To celebrate the Kickstarter for Shift Happens going well, I thought I would show you 50 keyboards from my collection of really strange/esoteric/meaningful keyboards that I gathered over the years. (It might be the world’s strangest keyboard collection!)</quote>
+		<link>https://aresluna.org/50-keyboards-from-my-collection/</link>
+	</entry>
+
+	<entry>
+		<title>AI web crawlers are destroying websites in their never-ending hunger for any and all content</title>
+		<quote>Fastly warns that they're causing "performance degradation, service disruption, and increased operational costs." Why? Because they're hammering websites with traffic spikes that can reach up to ten or even twenty times normal levels within minutes. </quote>
+		<link>https://www.theregister.com/2025/08/29/ai_web_crawlers_are_destroying/</link>
+	</entry>
+
+	<entry>
+		<title>Physically based rendering from first principles</title>
+		<quote>In this interactive article, we will explore the physical phenomena that create light and the fundamental laws governing its interaction with matter. We will learn how our human eyes capture light and how our brains interpret it as visual information. </quote>
+		<link>https://imadr.me/pbr/</link>
+	</entry>
+
+	<entry>
+		<title>The Hand-Drawn Hits That Hollywood Isn't Making</title>
+		<quote>Folks who follow the animation news have already heard. Right now, hand-drawn features are taking over.</quote>
+		<link>https://animationobsessive.substack.com/p/the-hand-drawn-hits-that-hollywood</link>
+	</entry>
+
+	<entry>
+		<title>The Bitter Lesson is Misunderstood</title>
+		<quote>Double your GPUs? You need 40% more data or you're just lighting cash on fire.</quote>
+		<link>https://obviouslywrong.substack.com/p/the-bitter-lesson-is-misunderstood</link>
+	</entry>
+
+</feed>
