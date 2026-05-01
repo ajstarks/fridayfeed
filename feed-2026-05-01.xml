@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>May 1, 2026</date>
+
+	<entry>
+		<title>How LLMs Actually Work</title>
+		<quote>A complete walkthrough of how large language models like ChatGPT are built — from raw internet text to a conversational assistant. Based on Andrej Karpathy's technical deep dive.</quote>
+		<link>https://ynarwal.github.io/how-llms-work/</link>
+	</entry>
+
+	<entry>
+		<title>Simulacrum of Knowledge Work</title>
+		<quote>How do you know the output is good without redoing the work yourself?</quote>
+		<link>https://blog.happyfellow.dev/simulacrum-of-knowledge-work/</link>
+	</entry>
+
+	<entry>
+		<title>Explore the Sun and Moon using NASA data</title>
+		<quote>Lumara makes anonymous, unauthenticated HTTPS requests to public NASA endpoints to load real-time solar imagery, moon phase imagery, and space weather data</quote>
+		<link>https://www.lumara-space.app/</link>
+	</entry>
+
+	<entry>
+		<title>HVD Bodedo</title>
+		<quote>Is it possible to carve a Bodoni out of Potatoes? We tried it…</quote>
+		<link>https://www.hvdfonts.com/fonts/hvd-bodedo</link>
+	</entry>
+
+	<entry>
+		<title>Ghostty Is Leaving GitHub</title>
+		<quote>Lately, I've been very publicly critical of GitHub. I've been mean about it. I've been angry about it. I've hurt people's feelings. I've been lashing out. Because GitHub is failing me, every single day, and it is personal.</quote>
+		<link>https://mitchellh.com/writing/ghostty-leaving-git</link>
+	</entry>
+
+</feed>
