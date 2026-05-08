@@ -1,0 +1,34 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>May 8, 2026</date>
+	<entry>
+		<title>Earth eclipses the Sun as seen by Artemis II on Orion</title>
+		<quote>Satellites showing off as usual...</quote>
+		<link>https://bsky.app/profile/theseaning.bsky.social/post/3ml7vni47a22g</link>
+	</entry>
+
+	<entry>
+		<title>‘Microshifting’ puts a new spin on 9-to-5 schedules</title>
+		<quote>And so goes the rhythm of her day: working in targeted chunks for a few hours, breaking for an hour or two to tend to family and personal needs, and repeating the pattern until she finishes her work late at night.</quote>
+		<link>https://apnews.com/article/microshifting-work-time-flexible-schedule-balance-97a98519916b447cd60c73261ffc0b4e</link>
+	</entry>
+
+	<entry>
+		<title>Just Fucking Use Go</title>
+		<quote>The boring choice is the right choice. It always was.</quote>
+		<link>https://blainsmith.com/articles/just-fucking-use-go/</link>
+	</entry>
+
+	<entry>
+		<title>How Cloudflare responded to the “Copy Fail” Linux vulnerability</title>
+		<quote>The "Copy Fail" vulnerability presented a unique challenge for us. Despite our practice of deploying Linux patch updates every two weeks, we remained vulnerable because a month-old mainline fix had yet to be backported to our primary kernel line. Despite that, we were still able to roll out patched kernels within hours of the backport's release. </quote>
+		<link>https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/</link>
+	</entry>
+
+	<entry>
+		<title>Serving a Website on a Raspberry Pi Zero Running Entirely in RAM</title>
+		<quote>This is even more impressive considering the Pi Zero only has 512MB of total memory, ~40MB of which is tied up running Alpine Linux. But since RAM is so abundant and cheap these days that we can… Oh, right. Anyway, what a time to be alive! If you’re interested in running your own website off a Pi Zero, follow along!</quote>
+		<link>https://btxx.org/posts/memory/</link>
+	</entry>
+
+</feed>
