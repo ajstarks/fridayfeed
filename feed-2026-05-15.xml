@@ -1,0 +1,42 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>May 15, 2025</date>
+
+	<entry>
+		<title>taken</title>
+		<quote>You opened this page. It already knows the following: where you are, when you arived, what you brought with you>, What renders your world, battery status, What you speak, fonts, what your browser accepts, and where you were before.  It identified your device with enough specificity to distinguish it from most others on the internet.</quote>
+		<link>https://sinceyouarrived.world/taken</link>
+	</entry>
+
+	<entry>
+		<title>People Who Don’t Like People Are Making All of Our Decisions</title>
+		<quote>“I cannot imagine having gone through figuring out how to raise a newborn without ChatGPT,” Sam Altman, the CEO of OpenAI, said recently. Artisan, an AI start-up, advertises its services with the explicit slogan “Stop Hiring Humans.” We are living in the ultimate revenge of the nerds, driven by a crew of socially awkward tech bros who won’t stop until the society that they never quite fit into is obliterated.</quote>
+		<link>https://www.theatlantic.com/ideas/2026/05/waymo-self-driving-cars/687119/?gift=j9r7avb6p-KY8zdjhsiSZ8rJUwcqGqpb8gH3Ret1KbM</link>
+	</entry>
+
+	<entry>
+		<title>What I Learned Letting AI Into All Parts of My Life</title>
+		<quote>For her new book—I AM NOT A ROBOT: MY YEAR USING AI TO DO (ALMOST) EVERYTHING—Joanna Stern spent a year letting artificial intelligence into nearly every part of her life, including her bra and her heart.</quote>
+		<link>https://www.youtube.com/watch?v=e8IPrAKtDe0</link>
+	</entry>
+
+	<entry>
+		<title>Screenshots of vintage operating systems</title>
+		<quote>From the retrotechnology research lab</quote>
+		<link>http://www.typewritten.org/Media/</link>
+	</entry>
+
+	<entry>
+		<title>On Rendering the Sky, Sunsets, and Planets</title>
+		<quote>There’s this photo that’s been sitting on my inspiration board for a while, of the space shuttle Endeavour, suspended in space in low Earth orbit at sunset. It shows Earth’s upper atmosphere as a backdrop, featuring beautiful, colorful layers ranging from dark orange to blue before fading away into the deep black of space. </quote>
+		<link>https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/</link>
+	</entry>
+
+	<entry>
+		<title>How NASA Built Artemis II’s Fault-Tolerant Computer</title>
+		<quote>To take humans back to the Moon, NASA has engineered a "fail-silent" architecture that handles everything from cosmic-ray bit flips to total processor divergence.</quote>
+		<link>https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/</link>
+	</entry>
+
+	
+</feed>

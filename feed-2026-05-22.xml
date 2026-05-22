@@ -1,0 +1,35 @@
+<feed>
+        <title>Friday Feed</title>
+        <date>May 22, 2026</date>
+
+        <entry>
+                <title>ArtButMakeItSports</title>
+                <quote>I turn Art into Sports (and vice versa)</quote>
+                <link>https://bsky.app/profile/artbutmakeitsports.bsky.social</link>
+        </entry>
+
+        <entry>
+                <title>Gen-Z Hates Ai</title>
+                <quote>The mention of 'AI' in a positive light was booed at several commencement speeches, and AI use even led to a major mishap at another graduation ceremony. This while a recent Gallup poll shows Gen-Z feelings towards AI is becoming more negative.</quote>
+                <link>https://www.youtube.com/watch?v=-i4hgyJ01ZQ</link>
+        </entry>
+
+        <entry>
+                <title>Apple cofounder Steve Wozniak got cheers, not boos, after telling students they 'all have AI — actual intelligence'</title>
+                <quote>During his speech, Wozniak offered reassurance to new graduates who are entering the workforce at the height of the AI revolution</quote>
+                <link>https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5</link>
+        </entry>
+
+
+        <entry>
+                <title>Sam Altman Won in Court Against Elon Musk. But, Really, We All Lost</title>
+                <quote>The cases of Elizabeth Holmes and Sam Bankman-Fried at least offered a pleasant sense of comeuppance. But in Musk v. Altman, to root against Tweedledum was effectively to root for Tweedledee.</quote>
+                <link>https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost</link>
+        </entry>
+
+        <entry>
+                <title>The Letter S (Donald Knuth, 1980)</title>
+                <quote>The purpose of this paper is to explain what I now consider to be the 'right' mathematics underlying printed S's, and also to give an example of the METAFONT language I have recently been developing. </quote>
+                <link>https://gwern.net/doc/design/typography/1980-knuth.pdf</link>
+        </entry>
+</feed>
