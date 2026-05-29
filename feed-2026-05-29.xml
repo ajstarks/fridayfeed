@@ -1,0 +1,34 @@
+<feed>
+        <title>Friday Feed</title>
+        <date>May 29, 2026</date>
+        <entry>
+                <title>My “writerdeck” is a typewriter</title>
+                <quote>The Olivetti Lettera 22, an Italian made machine, I absolutely love the font. It is quite portable and comes with a nice carrying case. I keep a set of folders inside the case along with the typewriter, color coded for the type of writing I’m doing</quote>
+                <link>https://kamranjon.com/writings/my-writerdeck-is-a-typewriter.html</link>
+        </entry>
+
+        <entry>
+                <title>Sam Altman and Dario Amodei are both walking back their AI jobs apocalypse prophecies as they eye blockbuster IPOs</title>
+                <quote>Two of the most influential CEOs in tech spent the last year warning that AI would gut white-collar employment. Now they’re admitting they were wrong, joining other leaders like Goldman Sachs CEO David Solomon in casting doubt on an AI job apocalypse. </quote>
+                <link>https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/</link>
+        </entry>
+
+        <entry>
+                <title>Websites have a new way to spy on visitors: Analyzing their SSD activity</title>
+                <quote>The technique, laid out in a research paper, exploits a side channel, a form of leak resulting from physical manifestations such as electromagnetic emanations, data caches, or the time required to complete a task. By measuring the manifestations, attackers can decrypt encrypted traffic and infer other confidential data.</quote>
+                <link>https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/</link>
+        </entry>
+
+        <entry>
+                <title>The Fonts of the U.S. Federal Courts</title>
+                <quote>The Fifth Circuit was long typographically superior to its peers, using Century Schoolbook — a highly legible font with great tradition and the right vibe. But in 2020, the Fifth Circuit upgraded, switching to Equity, Matthew Butterick’s excellent type family (which, of course, is used throughout Butterick’s own web book, Typography for Lawyers). </quote>
+                <link>https://daringfireball.net/2026/05/the_fonts_of_the_us_federal_courts</link>
+        </entry>
+
+        <entry>
+                <title>Geography is four-dimensional</title>
+                <quote>When someone speaks of a place, you have to ask, “When?” Geography is four-dimensional. You can’t know a place - only a place as it was at a time. Where is bound to when.</quote>
+                <link>https://sive.rs/4d</link>
+        </entry>
+
+</feed>
