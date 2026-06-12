@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>June 12, 2026</date>
+
+	<entry>
+		<title>The world’s first trillionaire is a killer</title>
+		<quote>Elon Musk’s SpaceX IPO will probably make him the richest person to ever walk the planet. And while his mountain of horrible personal conduct could fill multiple books, one fact in particular stands out: A year ago, Musk’s actions directly led to the deaths of hundreds of thousands of people. He did it knowingly. And, worse — gleefully.</quote>
+		<link>https://www.theverge.com/tech/949259/the-worlds-first-trillionaire-is-a-killer?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkxmaVhKNXV0aWYiLCJwIjoiL3RlY2gvOTQ5MjU5L3RoZS13b3JsZHMtZmlyc3QtdHJpbGxpb25haXJlLWlzLWEta2lsbGVyIiwiZXhwIjoxNzgxNzI1MTcyLCJpYXQiOjE3ODEyOTMxNzJ9.QKdkI7sm577M_o0Lh8yizdeLX2CStMTzaTyOugkakZA</link>
+	</entry>
+
+	<entry>
+		<title>An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt</title>
+		<quote>Classical Arabic typography, by which I mean the manuscript tradition that the early printers of Istanbul and Bulaq spent their careers chasing, justifies a line of text without stretching the spaces between words at all. </quote>
+		<link>https://lr0.org/blog/p/arabic/</link>
+	</entry>
+
+	<entry>
+		<title>‘They take you out of life, out of time’: a journey into Spain’s astonishing cave paintings</title>
+		<quote></quote>
+		<link>https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira</link>
+	</entry>
+
+	<entry>
+		<title>CrankGPT is a fully offline and off-the-grid AI box.</title>
+		<quote>This article walks through how we built it: the hardware, the local voice agent stack, and the engineering required to make a conversation feel real on a device this small.</quote>
+		<link>https://squeezlabs.github.io/handcrank/</link>
+	</entry>
+
+	<entry>
+		<title>Adaptive PDFs</title>
+		<quote>I wanted to make a PDF where humans see the formatted document but machines extract clean markdown. Same file with no new extension. Just a .pdf.</quote>
+		<link>https://sgaud.com/texts/pdf</link>
+	</entry>
+
+</feed>
