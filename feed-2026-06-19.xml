@@ -1,0 +1,42 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>June 19, 2026</date>
+
+
+	<entry>
+		<title>Extinction-level capitalism: a citizen’s thoughts on AI risk</title>
+			<quote>AI is inherently political technology.</quote>
+			<link>https://matthewbutterick.com/extinction-level-capitalism.html</link>
+	</entry>
+
+	<entry>
+		<title>The Once And Future Fable #2</title>
+		<quote>On Friday evening the United States Government has forced Anthropic to take down all access to Fable and Mythos</quote>
+		<link>https://thezvi.substack.com/p/the-once-and-future-fable-2</link>
+	</entry>
+
+	<entry>
+		<title>‘Anthropic’s Safety Superpower’</title>
+		<quote>Anthropic is best seen as a religious organization. Their employees are true believers in a cause, and on a mission.</quote>
+		<link>https://daringfireball.net/linked/2026/06/15/anthropic-safety-superpower</link>
+	</entry>
+
+	<entry>
+		<title>A brief tour of the PDP-11, the most influential minicomputer of all time</title>
+		<quote>It helped popularize the interactive computing paradigm we take for granted today.</quote>
+		<link>https://arstechnica.com/gadgets/2022/03/a-brief-tour-of-the-pdp-11-the-most-influential-minicomputer-of-all-time/</link>
+	</entry>
+
+	<entry>
+		<title>Banned Book Library using a WiFi Light bulb</title>
+		<quote>A long while back I had an idea to hack a WiFi smart light bulb to do something more useful to me. Actually, I had a few different ideas of things to do with them. One of these ideas was to modify the device to have an open WiFi access point and a web server hosting banned books.</quote>
+		<link>https://www.richardosgood.com/posts/banned-book-library/</link>
+	</entry>
+
+	<entry>
+		<title>Garden of Flowers</title>
+		<quote>Heikki's Garden of Flowers aims to be a comprehensive catalogue of historical and contemporary pictorial letterpress works.</quote>
+		<link>https://garden-of-flowers.heikkilotvonen.com/</link>
+	</entry>
+
+</feed>
