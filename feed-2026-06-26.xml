@@ -1,0 +1,36 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>June 26, 2026</date>
+	<entry>
+                <title>‘The Worst It’s Ever Been’: Why Meta’s Massive AI Reorg Backfired Spectacularly</title>
+                <quote>But among the biggest issues appears to be overly large teams and a lack of personal attention from managers. </quote>
+                <link>https://www.inc.com/jessica-stillman/the-worst-its-ever-been-why-metas-massive-ai-reorg-backfired-spectacularly/91363370</link>
+        </entry>
+
+        <entry>
+                <title>Machines, Learning, and Machine Learning - Dylan Beattie - NDC Copenhagen 2026</title>
+                <quote>Whether you're looking for your first tech job or your next consulting contract, it's tough out there, and naturally, people are asking "what should I be learning next?" What if that's the wrong question? What if the real question isn't what you learn, but how you learn it - and how to get started? Let's talk about motivation. Let's talk about all the wonderful tools and systems out there that make it easier than it's ever been to start exploring new languages and platforms, from Copilot and ChatGPT, to cloud IDEs and IOT microcontrollers. Let's talk about the all-important difference between programs and products;</quote>
+                <link>https://youtu.be/xunx7VvlOgs</link>
+        </entry>
+
+        <entry>
+                <title>Mixing visual and textual code</title>
+                <quote>What is needed are hybrid languages that allow developers to create visual syntactic
+                constructs so that they can express their ideas with a mix of textual and visual syntax tailored to an
+                application domain. </quote>
+                <link>https://arxiv.org/pdf/2603.15855</link>
+        </entry>
+
+        <entry>
+                <title>Oxide computer 3D rack guided tour</title>
+                <quote></quote>
+                <link>https://explorer.oxide.computer/</link>
+        </entry>
+
+        <entry>
+                <title>Medical students are using a popular research tool to pump out misleading studies</title>
+                <quote>Critics say TriNetX’s easy analyses of electronic medical records fuel quick-and-dirty publications from inexperienced authors</quote>
+                <link>https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies</link>
+        </entry>
+
+</feed>
