@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>July 24, 2026</date>
+
+	<entry>
+		<title>Who's Afraid of Chinese Models?</title>
+		<quote>The long and short of it is this: marginal costs are back in a big way, both in terms of short-term implications of state-of-the-art free models, and in terms of the long-term structure of the industry.</quote>
+		<link>https://stratechery.com/2026/whos-afraid-of-chinese-models/</link>
+	</entry>
+
+	<entry>
+		<title>Claude Is Not a Compiler</title>
+		<quote>I’m now pretty sure the answer is “no, that’s a category error, it’s better than a compiler.”</quote>
+		<link>https://blog.exe.dev/claude-is-not-a-compiler</link>
+	</entry>
+
+	<entry>
+		<title>The Voice of Google</title>
+		<quote>I rose at Google by amplifying the company’s lofty rhetoric of humane innovation. Then I used my marketing skills as a tool for internal dissent.</quote>
+		<link>https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google</link>
+	</entry>
+
+	<entry>
+		<title>Wall of Birds</title>
+		<quote>Evolution and Diversity</quote>
+		<link>https://academy.allaboutbirds.org/features/wallofbirds/?_hsmi=428996456</link>
+	</entry>
+
+	<entry>
+		<title>businesses with ugly AI menu redesigns!!!</title>
+		<quote>As a Filipino-American I always get curious about Filipino restaurants because a lot of our dishes are family-style/comfort food ... To our disappointment ... the restaurant revamped their menu with AI. NO!</quote>
+		<link>https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/</link>
+	</entry>
+
+</feed>
