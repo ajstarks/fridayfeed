@@ -1,0 +1,41 @@
+<feed>
+        <title>Friday Feed</title>
+        <date>July 17, 2026</date>
+
+        <entry>
+                <title>Football Data Portraits</title>
+                <quote>It's an impression, but one built entirely from data. Nothing is staged: each match is reconstructed from roughly 1,500 recorded events — every touch, pass, shot and card.</quote>
+                <link>https://wc26.bogachev.fr/index.html</link>
+        </entry>
+
+        <entry>
+                <title>The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence</title>
+                <quote>A modern AI voice-cloning system requires as little as three seconds of audio to produce a synthetic voice that is, for practical purposes, indistinguishable from the original.</quote>
+                <link>https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence</link>
+        </entry>
+
+        <entry>
+                <title>Trump dismantled a federal climate website. These women rebuilt it.</title>
+                <quote>After losing their jobs at NOAA, Rebecca Lindsey, her sister and another colleague teamed up to rebuild a pivotal resource the Trump administration took offline.</quote>
+                <link>https://19thnews.org/2026/07/noaa-climate-data-website/</link>
+        </entry>
+
+        <entry>
+                <title>Jurassic Park computers in excruciating detail</title>
+                <quote>I watched the movie again. I must have seen it at least ten times now. This time, I researched every computer/software I spotted.</quote>
+                <link>https://fabiensanglard.net/jurrasic_park_computers/index.html</link>
+        </entry>
+
+        <entry>
+                <title>The Memory Heist</title>
+                <quote>How I tricked Claude into leaking your deepest, darkest secrets</quote>
+                <link>https://www.ayush.digital/blog/the-memory-heist</link>
+        </entry>
+
+        <entry>
+                <title>Nokia’s 14 Years of Mobile-Phone Supremacy Ended in an Afternoon</title>
+                <quote>On 9 January 2007, at the Macworld conference in San Francisco, Steve Jobs made a characteristically bold claim. “Today, Apple is reinventing the phone,” he said, soon pulling one of the first iPhones out of his pocket.</quote>
+                <link>https://spectrum.ieee.org/nokia-phones-history</link>
+        </entry>
+
+</feed>
