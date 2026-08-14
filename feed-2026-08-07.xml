@@ -1,0 +1,43 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>August 7, 2026</date>
+
+	<entry>
+		<title>Eye, Hand, AI: a letter to my daughter</title>
+		<quote>Given everything we have discussed so far, it should be clear that having a good eye is still important. Otherwise, if you can’t tell if AI is creating mediocrity or brilliance, you’ll probably continue churning out mediocrity (albeit at a faster rate than before), and in the process cede your creative expression to the AI.</quote>
+		<link>https://lg.substack.com/p/eye-hand-ai-a-letter-to-my-daughter?hide_intro_popup=1</link>
+	</entry>
+
+	<entry>
+		<title>Don't outsource the best parts of parenting to AI</title>
+		<quote>OpenAI CEO Sam Altman, a parent himself, recently posted to X about what he described as a cool use for AI: making a custom podcast for kids about their interests and calendar to listen to during their drive to school. The backlash was swift, the main response being something along the lines of, "What if you just talked to your children?"</quote>
+		<link>https://www.businessinsider.com/ai-parenting-debate-sam-altman-2026-8</link>
+	</entry>
+
+	<entry>
+		<title>Artificial Intelligence used to design brand new viruses</title>
+		<quote>The breakthrough has been labelled a "very significant turning point" in science that could unlock a new era for treating disease. But experts have also warned AI-designed viruses raise "urgent" safety and security concerns.</quote>
+		<link>https://www.bbc.com/news/articles/c5y3j3ngevmo</link>
+	</entry>
+
+	<entry>
+		<title>Why the Legendary Erdős Problems Are Falling to AI</title>
+		<quote>Mathematicians had generally believed that Erdős’ conjecture — about how many evenly spaced points can be placed on a plane — was correct. To general surprise, OpenAI’s internal model found a counterexample. To do so, it had found a sophisticated way to use tools from an area of math called algebraic number theory.</quote>
+		<link>https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/</link>
+	</entry>
+
+	<entry>
+		<title>What Went Wrong with Data Lakes? A 15-Year Reality Check from the Field</title>
+		<quote> It promised flexibility and easier access to analytics. Fifteen years on, that promise has mostly gone unmet. Survey after survey reports high failure rates, whether the object is a big data program, a Data Lake, or a data science effort meant to reach production. This paper asks why.</quote>
+		<link>https://arxiv.org/pdf/2606.08266</link>
+	</entry>
+
+	<entry>
+		<title>I built the device that Apple wouldn't (Desktop Touch ID)</title>
+		<quote>I built a standalone Touch ID sensor for my Mac.</quote>
+		<link>https://youtu.be/tB3lk-PNA6I</link>
+	</entry>
+
+	
+
+</feed>
