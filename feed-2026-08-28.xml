@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>August 28, 2026</date>
+
+	<entry>
+		<title>Moon</title>
+		<quote>In this article, we’ll learn about the Moon and its path around our planet, but to experience that journey first-hand, we have to enter the cosmos itself.</quote>
+		<link>https://ciechanow.ski/moon/</link>
+	</entry>
+
+	<entry>
+		<title>Meat proxy</title>
+		<quote>Please summarize what Claude found instead of making me review a wall of text from a meat proxy.</quote>
+		<link>https://sfisms.org/meat-proxy</link>
+	</entry>
+
+	<entry>
+		<title>The turbulent AI era is here. The choices we make now are critical.</title>
+		<quote>We need a plan to ensure that the good outweighs the bad. -- Bill Gates</quote>
+		<link>https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make</link>
+	</entry>
+
+	<entry>
+		<title>Casey Muratori – The Root of The Root of All Evil – BSC 2026</title>
+		<quote>Casey Muratori's talk at BSC 2026, delving into root of the root of all evil, premature optimization.</quote>
+		<link>https://youtu.be/hpj6r6CjJf8</link>
+	</entry>
+
+	<entry>
+		<title>How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache</title>
+		<quote>Five successive changes to how cache entries are stored in memory cut the per-entry footprint by over 50%. Across our fleet, these changes freed up roughly 100 terabytes of memory, equivalent to the amount of RAM in 130 of our Gen 13 servers.</quote>
+		<link>https://blog.cloudflare.com/dns-cache-memory-optimization-1111/</link>
+	</entry>
+
+</feed>

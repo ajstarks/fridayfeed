@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>September 4, 2026</date>
+
+	<entry>
+		<title>Mayor Mamdani and Chancellor Samuels Put Students First with Nation’s Broadest Generative AI Moratorium in Schools</title>
+		<quote>Mayor Zohran Kwame Mamdani and Schools Chancellor Kamar H. Samuels today announced a moratorium on student-facing generative Artificial Intelligence (AI) use in schools, alongside a new screen time policy, a decision that will impact nearly 600,000 public school students,</quote>
+		<link>https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat</link>
+	</entry>
+
+	<entry>
+		<title>Industry Standard Tools</title>
+		<quote>Every trade has a small number of items so entrenched that they've become the de facto tool that nearly everyone in that trade uses.</quote>
+		<link>https://industrystandard.tools/</link>
+	</entry>
+
+	<entry>
+		<title>My local model setup on an M4 Pro Mac mini</title>
+		<quote>I run a local LLM server on my M4 Pro Mac mini with 48 GB of RAM. It handles everything from my Hermes agent backend to quick chat queries on my phone. The whole thing takes about 30 minutes to set up.</quote>
+		<link>https://lws.io/blog/my-local-model-setup/</link>
+	</entry>
+
+	<entry>
+		<title>'Uber rapture' leaves passengers and drivers behind in Nigeria and Uganda</title>
+		<quote>Far from drivers and their cars ascending to some surge-priced afterlife, users reported the service shutting down while rides were still underway.</quote>
+		<link>https://www.theregister.com/offbeat/2026/09/03/uber-rapture-leaves-passengers-and-drivers-behind-in-nigeria-and-uganda/5294152</link>
+	</entry>
+
+	<entry>
+		<title>The joy of making stuff with a 3D printer</title>
+		<quote>When I wasn’t printing whistles and fidgets, the thing I came to love printing the most is household stuff—all the gadgets and containers and tools and doodads that make our lives easier, nicer, and more organized.</quote>
+		<link>https://notetoself.studio/post/the-joy-of-3d-printing/</link>
+	</entry>
+
+</feed>
