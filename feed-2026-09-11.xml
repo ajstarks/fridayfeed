@@ -1,0 +1,41 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>September 11, 2026</date>
+
+	<entry>
+		<title>I resigned from Anthropic today.</title>
+		<quote>They are racing straight to self-improving superintelligence and gambling with our lives.</quote>
+		<link>https://x.com/hilbertspaess/status/2097476196791709843</link>
+	</entry>
+
+	<entry>
+		<title>Design for iPhone Duo</title>
+		<quote>iPhone Duo is the first folding iPhone and comes with a reimagined iOS. Get to know the design principles behind the updated software, explore how controls move between different poses, and learn where your layout needs to adapt and why.</quote>
+		<link>https://developer.apple.com/videos/play/tech-talks/111466/</link>
+	</entry>
+
+	<entry>
+		<title>The revolt of the reader</title>
+		<quote>But I am writing this now because - speaking as a reader—we are exasperated: too many people—people we otherwise like and respect!—are writing (or otherwise putting their name to) pieces that are clearly LLM-authored.</quote>
+		<link>https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/</link>
+	</entry>
+
+	<entry>
+		<title>The Beautiful Brilliance of Boredom with creative polymath Elle Cordova</title>
+		<quote>Elle Cordova knows the power of that pause. When the pandemic hit pause on her life as a touring musician, she stumbled into new creative territory—making offbeat comedy videos about delightfully nerdy topics like particle physics, grammar, and fonts. Those sketches went viral, and suddenly she was thriving as a social media creator with a devoted following. </quote>
+		<link>https://youtu.be/KffuNf-pAQE</link>
+	</entry>
+
+	<entry>
+		<title>All The Names: Algorithmic Design and the 9/11 Memorial</title>
+		<quote>To solve this problem and to produce a layout that would give the Memorial Designers a structure to base their final arrangement of the names upon, we built a software tool in two parts: First, an arrangement algorithm that optimized this adjacency problem to find the best possible solution.</quote>
+		<link>https://blprnt.medium.com/all-the-names-algorithmic-design-and-the-9-11-memorial-9fdcd753057c</link>
+	</entry>
+
+	<entry>
+		<title>Flock Wants a Closely Surveilled World with No Exit</title>
+		<quote>The company, which has a hundred and thirty thousand cameras monitoring the streets of the U.S., frames privacy as a worthwhile trade-off for safety and security, echoing the language of the post-9/11 surveillance boom.</quote>
+		<link>https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit</link>
+	</entry>
+
+</feed>

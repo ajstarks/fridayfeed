@@ -1,0 +1,49 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>September 18, 2026</date>
+
+	<entry>
+		<title>We Are Living in the Fantasy World of 13-Year-Old Boys</title>
+		<quote>Many of the tech billionaires who built our world have taken the wrong lessons from their favorite science fiction.</quote>
+		<link>https://www.theatlantic.com/books/2026/08/silicon-valley-science-fiction-jill-lepore-book-review/688467/?gift=j9r7avb6p-KY8zdjhsiSZxS1GrKeI9kCk61Qd0lqqRo</link>
+	</entry>
+
+	<entry>
+		<title>It’s Not Just You. America Has Gotten Much Hotter.</title>
+		<quote>Summer 2026 is on track to be both the hottest and most humid in the contiguous United States since records began in 1895. Even as the end of summer approaches, much of the country is experiencing waves of heat and humidity.</quote>
+		<link>https://www.nytimes.com/interactive/2026/09/05/opinion/editorials/extreme-heat-summer.html?unlocked_article_code=1._1A.uZfp.KqzCg_FVwEOZ</link>
+	</entry>
+
+	<entry>
+		<title>Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost</title>
+		<quote>why many companies are shifting to the significantly cheaper open models for routine work—and helps reveal a narrow band of workloads where frontier models are worth the cost.</quote>
+		<link>https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/</link>
+	</entry>
+
+	<entry>
+		<title>dario, please!</title>
+		<quote>Dario Amodei, the CEO of Anthropic, recently published a blog post titled We Must Pace the Frontier and it is a load of bullshit, with a grim goal of regulating open weight models and giving the frontier labs an antitrust waiver.</quote>
+		<link>https://pop.rdi.sh/dario-please/</link>
+	</entry>
+
+	<entry>
+		<title>A Single Firm is Behind OpenAI, Anthropic, and Meta Hacking Scandals</title>
+		<quote>The Israeli Effective Altruist firm Irregular caused unsecured AI models to hack real targets.</quote>
+		<link>https://www.effort.news/irregular</link>
+	</entry>
+
+	<entry>
+		<title>The CSS Zen Garden dream, finally shipped</title>
+		<quote>When our team started building Firefox.com, one of our goals was to prove that CSS has matured to the point where modern designs can be fully implemented in pure CSS, supporting all modern browsers, without pre-processors. And we achieved that goal.</quote>
+		<link>https://josprague.com/blog/the-css-zen-garden-dream-finally-shipped/</link>
+	</entry>
+
+	<entry>
+		<title>Hackers Stole Flock’s Camera Software, Revealing How the Company Tracks Cars and People</title>
+		<quote>While people around the U.S. are tearing down Flock cameras, one group of hackers went a step further: extracting the camera's software too.</quote>
+		<link>https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/</link>
+	</entry>
+
+	
+
+</feed>
