@@ -1,0 +1,36 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>October 2, 2026</date>
+
+	<entry>
+		<title>UX Mobility: Multi-User Walkability Route Planner </title>
+		<quote>UX in urban design extends the principles of Human-Computer Interaction (HCI) to the built environment, emphasizing a user-centered approach to mapping and analyzing urban mobility. </quote>
+		<link>https://transformtransport.org/research/inclusive-mobility/ux-mobility-multi-user-walkability-route-planner/</link>
+	</entry>
+
+	<entry>
+		<title>MOMA Exhibition: Full Disclosure: The Edge of Information Design</title>
+		<quote>At a time when public confidence in big data and institutions has frayed, data visualization deals in trust as much as in truth, rendering design choices and sources ever more vital.</quote>
+		<link>https://www.moma.org/calendar/exhibitions/5926</link>
+	</entry>
+
+	<entry>
+		<title>Second Sight: Returning to W. E. B. Du Bois’s Data Portraits Today</title>
+		<quote>More than a century on, Du Bois’s visual breakthrough speaks
+		directly to our contemporary moment and still inspires artists.</quote>
+		<link>https://www.moma.org/magazine/articles/1465</link>
+	</entry>
+
+	<entry>
+		<title>Personal Computing 2.0</title>
+		<quote>Like Personal Computing 1.0, Personal Computing 2.0 puts the individual user at the center of the technological system. Personal Computing 2.0 is about making the interfaces and software environments that empower people to do their life’s work. It’s about unleashing the creative potential of individuals.</quote>
+		<link>https://ideas.imbue.com/p/personal-computing-20</link>
+	</entry>
+
+	<entry>
+		<title>SportsBall Visual</title>
+		<quote>SportsBall, where data meets storytelling, and every fan gets to feel a little smarter. We break down the big, messy world of sports using stats, context, and hand-drawn visuals that help it all click. Whether you’re into catch probabilities or just figuring out how hockey line changes work, this is for you.</quote>
+		<link>https://www.youtube.com/@SportsBall_Visual/shorts</link>
+	</entry>
+
+</feed>
