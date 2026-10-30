@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>October 23, 2026</date>
+
+	<entry>
+		<title>What is Gridifcation</title>
+		<quote>A 50-year comparison of Billboard’s top songs shows how recorded music became machine-perfect.</quote>
+		<link>https://musicalform.substack.com/p/what-is-gridifcation</link>
+	</entry>
+
+	<entry>
+		<title>There's little that's "inevitable" about AI</title>
+		<quote>So what is meant by inevitable when AI boosters say it? And how does AI measure up by their implicit standards?</quote>
+		<link>https://deadsimpletech.com/blog/llms-arent-inevitable</link>
+	</entry>
+
+	<entry>
+		<title>You’re burnt out and broke, but don’t worry, your AI agent just made you a dinner reservation</title>
+		<quote>Silicon Valley’s idea of what we need from AI is so at odds with everyday life I often feel like reality is glitching</quote>
+		<link>https://thefuturehunter.substack.com/p/ai-agents-reality-gap</link>
+	</entry>
+
+	<entry>
+		<title>The Library Is Closed. Feel Free to Come In.</title>
+		<quote>In communities where workspaces are scarce, libraries are welcoming visitors outside of staffed hours. All they need is a library card.</quote>
+		<link>https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in</link>
+	</entry>
+
+	<entry>
+		<title>Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds</title>
+		<quote>One of eMudhra's certificate authority private keys is the number 4.</quote>
+		<link>https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</link>
+	</entry>
+
+</feed>

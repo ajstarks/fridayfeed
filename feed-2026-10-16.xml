@@ -1,0 +1,35 @@
+<feed>
+	<title>Friday Feed</title>
+	<date>October 16, 2026</date>
+
+	<entry>
+		<title>The people holding up the internet</title>
+		<quote>Billions of phones run on code looked after by a handful of people. We counted them from the code itself.</quote>
+		<link>https://sheets.works/data-viz/holding-up-the-internet/read</link>
+	</entry>
+
+	<entry>
+		<title>A 900-Page Pre-Pantone Guide to Color from 1692: A Complete High-Resolution Digital Scan</title>
+		<quote>Medieval historian Erik Kwakkel found the book in a French database, “and it turns out to be quite special,” he writes, “because it provides an unusual peek into the workshop of 17th-century painters and illustrators.</quote>
+		<link>https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html</link>
+	</entry>
+
+	<entry>
+		<title>Recreational Programming</title>
+		<quote>Programming for the joy of programming itself - not for work, not for money, not for external requirements.</quote>
+		<link>https://www.cphiri.dev/presentations/recreational-programming</link>
+	</entry>
+
+	<entry>
+		<title>Mark Zuckerberg's new toy is a parasite. Please don't fall into his latest trap.</title>
+		<quote>In order for Muse to accomplish these tasks, it basically wants back door access to your entire life. In addition to storing logins and passwords and linking your bank account information, it wants to see your messages, personal calendar and contacts, requesting more sensitive information than virtually any other AI app</quote>
+		<link>https://www.sfgate.com/bayarea/article/mark-zuckerberg-muse-parasite-22468893.php</link>
+	</entry>
+
+	<entry>
+		<title>MIT class project turns into an FDA-cleared treatment for tremors</title>
+		<quote>“When this device is turned on, I feel like I used to feel when I didn’t have Parkinson’s disease,” Michael told the crowd. “It’s an amazing, amazing feeling.”</quote>
+		<link>https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002</link>
+	</entry>
+
+</feed>
